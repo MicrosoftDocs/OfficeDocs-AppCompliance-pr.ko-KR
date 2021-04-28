@@ -1,0 +1,512 @@
+- name: Microsoft 365 앱 준수 프로그램
+  items:
+    - name: 개요
+      expanded: true
+      items:
+        - name: 개요
+          href: overview.md
+        - name: 게시자 확인이란?
+          href: 'https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview'
+        - name: 게시자 Attestation이란?
+          href: docs/enterprise-app-attestation-guide.md
+        - name: Microsoft 365 인증이란?
+          href: docs/enterprise-app-certification-guide.md
+    - name: 개발자용
+      expanded: true
+      items:
+        - name: 게시자 확인 완료
+          href: 'https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified'
+        - name: 게시자 Attestation 완료
+          href: docs/attestation.md
+        - name: Microsoft 365 인증 완료
+          href: docs/certification.md
+        - name: Microsoft 365 인증 제출 가이드
+          href: docs/certification-submission-guide.md
+    - name: Microsoft Teams용 앱
+      href: teams/teams-apps.md
+      items:
+        - name: 365Projects
+          href: teams/365apps-365projects.md
+        - name: Adobe Sign
+          href: teams/adobe-systems-inc-sign.md
+        - name: Agile 작업 보드
+          href: teams/agile-is-task-board.md
+        - name: Alvao Service Desk
+          href: teams/alvao-sro-service-desk.md
+        - name: ApproveSimple
+          href: teams/capriza-inc-approvesimple.md
+        - name: 아사나
+          href: teams/asana.md
+        - name: askR.ai
+          href: teams/askrai.md
+        - name: AtBot
+          href: teams/h3-solutions-inc-atbot.md
+        - name: atSpoke
+          href: teams/townsend-street-labs-inc-atspoke.md
+        - name: AttendanceBot
+          href: teams/anaek-attendancebot.md
+        - name: AVA
+          href: teams/avepoint-inc-ava.md
+        - name: Beesy
+          href: teams/beesapps-beesy.md
+        - name: 보드 연결
+          href: teams/engage-squared-board-connect.md
+        - name: 보너스
+          href: teams/bonusly.md
+        - name: Breakthru
+          href: teams/breakthru.md
+        - name: 일정 BOT
+          href: teams/approved-contact-calendar-bot.md
+        - name: CatchEm
+          href: teams/chimu-software-catchem.md
+        - name: Centrical
+          href: teams/biz-effective-centrical.md
+        - name: Cisco Webex 모임
+          href: teams/cisco-webex-meetings.md
+        - name: Clever Ads
+          href: teams/clever-ads.md
+        - name: Cloverpop
+          href: teams/cloverpop.md
+        - name: COCO
+          href: teams/hexaware-technologies-ltd-coco.md
+        - name: 회의 i/o
+          href: teams/conferences-io.md
+        - name: 연락처 센터
+          href: teams/landis-technologies-llc-contact-center.md
+        - name: DBit
+          href: teams/diamondsoft-solutions-llc-dbit.md
+        - name: DisasterTech DICE
+          href: teams/disastertech-dice.md
+        - name: Droplr
+          href: teams/droplr.md
+        - name: 동적 신호
+          href: teams/dynamic-signal.md
+        - name: ecBooking
+          href: teams/expert-systems-ivrasia-coltd-ecbooking.md
+        - name: EdMill
+          href: teams/my-serious-game-edmill.md
+        - name: elmah.io
+          href: teams/elmahio.md
+        - name: TeamMate에게 메일 보내기
+          href: teams/harmonie-email-teammate.md
+        - name: EngageWith
+          href: teams/springrole-engagewith.md
+        - name: Evernote
+          href: teams/evernote.md
+        - name: Evocom
+          href: teams/evocom-informationssysteme-gmbh.md
+        - name: ezTeam
+          href: teams/enterprizid-inc-ezteam.md
+        - name: FormMachines
+          href: teams/enterprise-digital-machines-formmachines.md
+        - name: Freshdesk
+          href: teams/freshworks-inc-freshdesk.md
+        - name: Fusion Remote
+          href: teams/jujo-inc-fusion-remote.md
+        - name: Go1
+          href: teams/go1.md
+        - name: Goodera
+          href: teams/goodera.md
+        - name: Google Analytics Insights
+          href: teams/freevolut-ltd-google-analytics-insights.md
+        - name: Guru
+          href: teams/guru-technologies.md
+        - name: HeyTaco!
+          href: teams/heytaco!.md
+        - name: Hi5
+          href: teams/hi5technologies-hi5.md
+        - name: Hibob
+          href: teams/hibob-inc.md
+        - name: Hoylu
+          href: teams/hoylu.md
+        - name: HunchBuzz
+          href: teams/hunchbuzz.md
+        - name: IndustryIntel
+          href: teams/industry-intelligence-team-industryintel.md
+        - name: InStation
+          href: teams/developers-invillia-instation.md
+        - name: Jetdocs
+          href: teams/jetdocs.md
+        - name: 지라 클라우드
+          href: teams/atlassian-jira-cloud.md
+        - name: Jive Communications
+          href: teams/jive-by-logmein-inc-communications.md
+        - name: Karma
+          href: teams/sliday-ltd-karma.md
+        - name: Klaxoon
+          href: teams/klaxoon.md
+        - name: 크로노스
+          href: teams/kronos-inc.md
+        - name: Kudozza
+          href: teams/survivef5-gmbh-kudozza.md
+        - name: LawToolBox
+          href: teams/lawtoolboxcom-inc-lawtoolbox.md
+        - name: 학습
+          href: teams/witivio-learn.md
+        - name: LTAPP로 요청 남기기
+          href: teams/ltapps-software-coltd-leave-request-by.md
+        - name: Listy
+          href: teams/information-age-technologies-listy.md
+        - name: Live Chat
+          href: teams/social-intents-live-chat.md
+        - name: LMS365
+          href: teams/elearningforce-international-lms365.md
+        - name: Lucidchart
+          href: teams/lucid-software-lucidchart.md
+        - name: LuckyDraw
+          href: teams/tony-xia-luckydraw.md
+        - name: MailClark
+          href: teams/mailclark.md
+        - name: Medxnote MT
+          href: teams/medxnote-mt.md
+        - name: MeisterTask
+          href: teams/meisterlabs-gmbh-meistertask.md
+        - name: MindMeister
+          href: teams/meisterlabs-gmbh-mindmeister.md
+        - name: MindMup
+          href: teams/sauf-pompiers-ltd-mindmup.md
+        - name: MIPA - 개인 도우미
+          href: teams/iglobe-mipa-your-personal-assistant.md
+        - name: monday.com
+          href: teams/mondaycom.md
+        - name: MURAL
+          href: teams/mural.md
+        - name: Mybys
+          href: teams/facilis-mybys.md
+        - name: MyHub
+          href: teams/avepoint-inc-myhub.md
+        - name: MyWorkDrive
+          href: teams/myworkdrive.md
+        - name: 나보
+          href: teams/regroove-solutions-navo.md
+        - name: netDocShare
+          href: teams/kl-software-technologies-netdocshare.md
+        - name: 이제 가상 에이전트
+          href: teams/servicenow-now-virtual-agent.md
+        - name: Nugget
+          href: teams/panviva-nugget.md
+        - name: Nulia Works
+          href: teams/nulia-works.md
+        - name: OfficeSpace
+          href: teams/officespace-software.md
+        - name: Officevibe
+          href: teams/officevibe.md
+        - name: OpenAgora
+          href: teams/open-agora-openagora.md
+        - name: Org@Work
+          href: teams/lundano-org@work.md
+        - name: Perfony
+          href: teams/perfony.md
+        - name: Piazza
+          href: teams/piazza.md
+        - name: Polly
+          href: teams/polly.md
+        - name: 프레지 비디오
+          href: teams/prezi-video.md
+        - name: 우선 순위 행렬
+          href: teams/appfluence-inc-priority-matrix.md
+        - name: Prodoscore ProdBot
+          href: teams/prodoscore-prodbot.md
+        - name: Q
+          href: teams/moduleq-q.md
+        - name: qbo
+          href: teams/unscrambl-qbo.md
+        - name: Qubie
+          href: teams/qubie.md
+        - name: 빠른 링크
+          href: teams/chitchattr-quicklinks.md
+        - name: Reach
+          href: teams/livetiles-reach.md
+        - name: RememberThis
+          href: teams/tom-morgan-rememberthis.md
+        - name: 미리 알림
+          href: teams/88-ventures-limited-remind.md
+        - name: Reminderz
+          href: teams/chitchattr-reminderz.md
+        - name: 소수
+          href: teams/baltic-amadeus-retro.md
+        - name: RSpace
+          href: teams/researchspace-rspace.md
+        - name: Saberr
+          href: teams/saberr.md
+        - name: SalesTim
+          href: teams/salestim.md
+        - name: ScanBuddy.ai
+          href: teams/moblizeit-llc-scanbuddyai.md
+        - name: ScrumGenius
+          href: teams/scrumgenius.md
+        - name: 강민수
+          href: teams/mysecretary-secretarybot.md
+        - name: Sensei 랩 도우미
+          href: teams/sensei-labs-inc-conductor.md
+        - name: Sentry
+          href: teams/sentry.md
+        - name: ServiceDesk Plus 클라우드
+          href: teams/zoho-corporation-private-limited-servicedesk-plus-cloud.md
+        - name: 시트고
+          href: teams/sheetgo-europe-sl.md
+        - name: 짧은 연결
+          href: teams/chitchattr-shortlinks.md
+        - name: SIGNL4
+          href: teams/derdack-signl4.md
+        - name: 단순 인출/아웃
+          href: teams/simply-made-apps-inc-simple-inout.md
+        - name: Site24x7
+          href: teams/zoho-corporation-private-limited-site24x7.md
+        - name: 숙련도
+          href: teams/skillate-laboratories-pvt-ltd.md
+        - name: Pipe9의 기술
+          href: teams/pipe9com-skills-by-pipe9.md
+        - name: SkyPoint 클라우드
+          href: teams/skypoint-cloud-inc.md
+        - name: Slido
+          href: teams/slido.md
+        - name: Jira용 Smart Connect
+          href: teams/yasoon-gmbh-smart-connect-for-jira.md
+        - name: Smartnotation
+          href: teams/smartnotation-bv.md
+        - name: 스마트시트
+          href: teams/smartsheet.md
+        - name: SmartWork
+          href: teams/smartwork-of-intumit.md
+        - name: Soapbox
+          href: teams/soapbox.md
+        - name: Spinify
+          href: teams/spinify.md
+        - name: Teams에 대한 스택 오버플로
+          href: teams/stack-overflow-for-teams.md
+        - name: Standup Alice
+          href: teams/bao-le-duc-standup-alice.md
+        - name: StarLeaf
+          href: teams/starleaf.md
+        - name: Streem
+          href: teams/streem.md
+        - name: Studi.ly
+          href: teams/inlogic-office-store-studily.md
+        - name: SurveyMonkey
+          href: teams/surveymonkey.md
+        - name: Sympli
+          href: teams/sympli-llc.md
+        - name: TackleBox
+          href: teams/insiten-tacklebox.md
+        - name: 탈라
+          href: teams/talla-inc.md
+        - name: Talview 인터뷰
+          href: teams/talview-inc-interviews.md
+        - name: TaskList
+          href: teams/limestat-inc-tasklist.md
+        - name: ChitChattr의 TeamMate
+          href: teams/chitchattr-teammate-by.md
+        - name: TeamMood
+          href: teams/power-up-conseil-teammood.md
+        - name: Teams 관리자
+          href: teams/solutions2share-gmbh-teams-manager.md
+        - name: TeamsChamp
+          href: teams/teamschamp.md
+        - name: Communitio의 TeamSticker
+          href: teams/communitio-corporation-teamsticker-by.md
+        - name: 템플릿 선택
+          href: teams/officeatwork-template-chooser.md
+        - name: 텍스트
+          href: teams/approved-contact-text.md
+        - name: Tikit
+          href: teams/cireson-tikit.md
+        - name: timeghost
+          href: teams/kollisch-gmbh-timeghost.md
+        - name: TINYpulse
+          href: teams/tinypulse.md
+        - name: 삼각형
+          href: teams/springworks-hr-tech-trivia.md
+        - name: Tryane Analytics
+          href: teams/tryane-analytics.md
+        - name: 휴가 추적기
+          href: teams/vacation-tracker.md
+        - name: Viima
+          href: teams/viima-solutions-oy.md
+        - name: VisualSP
+          href: teams/visualsp.md
+        - name: Webex 통화
+          href: teams/cisco-webex-call.md
+        - name: 넓은 아이디어
+          href: teams/wide-ideas.md
+        - name: Woobot
+          href: teams/woobot.md
+        - name: Workday
+          href: teams/workday.md
+        - name: Wrike
+          href: teams/wrike-inc.md
+        - name: Wunder365
+          href: teams/jiji-technologies-pvt-ltd-wunder365.md
+        - name: Yeeflow
+          href: teams/akmii-yeeflow.md
+        - name: Zoho CRM
+          href: teams/zoho-corporation-pvt-ltd-crm.md
+        - name: Zoho Desk
+          href: teams/zoho-corporation-private-limited-desk.md
+        - name: 조호 전자 필기장
+          href: teams/zoho-corporation-private-limited-notebook.md
+        - name: 조호 프로젝트
+          href: teams/zoho-corporation-private-limited-projects.md
+        - name: Zoho Sign
+          href: teams/zoho-corporation-private-limited-sign.md
+        - name: 조호 스프린트
+          href: teams/zoho-corporation-private-limited-sprints.md
+        - name: Zoom.ai 모임 도우미
+          href: teams/zoomai-inc-meeting-assistant.md
+    - name: Microsoft Outlook용 앱
+      href: outlook/outlook-apps.md
+      items:
+        - name: Outlook용 Adobe Add-In 서명
+          href: outlook/adobe-inc-sign-add-in-for-outlook.md
+        - name: Altru Videos
+          href: outlook/altru-videos.md
+        - name: 승인된 연락처 일정
+          href: outlook/approved-contact-calendars.md
+        - name: Outlook용 아사나
+          href: outlook/asana-for-outlook.md
+        - name: harmon.ie Outlook용
+          href: outlook/harmonie-corporation-for-outlook.md
+        - name: 송장 및 시간 추적 - Zoho 송장
+          href: outlook/zoho-corporation-private-limited-invoice-and-time-tracking.md
+        - name: iPlanner Office 365 Planner Outlook용 추가 기능
+          href: outlook/iglobe-iplanner-office-365-planner-add-in-for-outlook.md
+        - name: iPlanner Pro Office 365
+          href: outlook/iglobe-iplanner-pro-office-365.md
+        - name: Outlook용 지라 클라우드(공식)
+          href: outlook/atlassiancom-jira-cloud-for-outlook-official.md
+        - name: MIPA - 사용자만의 개인 도우미
+          href: outlook/iglobe-mipa-your-own-personal-assistant.md
+        - name: ngDesk
+          href: outlook/all-blue-solutions-ngdesk.md
+        - name: Outlook용 Office2SharePoint
+          href: outlook/iglobe-office2sharepoint-for-outlook.md
+        - name: officeatwork | Outlook용 콘텐츠 선택기
+          href: outlook/officeatwork-officeatworkcontent-chooser-for-outlook.md
+        - name: Outlook용 OnePlaceMail
+          href: outlook/oneplace-solutions-oneplacemail-for-outlook.md
+        - name: 우선 순위 매트릭스 - 전자 메일을 작업으로 전환
+          href: outlook/appfluence-inc-priority-matrix-turn-emails-into-tasks.md
+        - name: Salesforce
+          href: outlook/salesforcecom-salesforce.md
+        - name: ServiceDesk Plus for Email
+          href: outlook/zoho-corporation-private-limited-servicedesk-plus-for-email.md
+        - name: Outlook용 StarLeaf 추가 기능
+          href: outlook/starleaf-add-in-for-outlook.md
+        - name: Outlook용 Wrike
+          href: outlook/wrike-inc-for-outlook.md
+        - name: Wunder365
+          href: outlook/jiji-technologies-private-limited-wunder365.md
+        - name: 마케팅 자동화를 위한 Zoho 캠페인 도구
+          href: outlook/zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md
+        - name: 전자 메일용 Zoho CRM
+          href: outlook/zoho-corporation-private-limited-crm-for-email.md
+    - name: Microsoft Word용 앱
+      href: word/word-apps.md
+      items:
+        - name: Word 및 PowerPoint용 Adobe Sign
+          href: word/adobe-inc-sign-for-word-and-powerpoint.md
+        - name: Excel-Word 문서 자동화
+          href: word/analysisplace-excel-to-word-document-automation.md
+        - name: harmon.ie Office용
+          href: word/harmonie-corporation-for-office.md
+        - name: Word용 Lucidchart 다이어그램
+          href: word/lucid-software-inc-lucidchart-diagrams-for-word.md
+        - name: Office2SharePoint for Office
+          href: word/iglobe-office2sharepoint-for-office.md
+        - name: officeatwork | Office용 콘텐츠 선택기
+          href: word/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | Office용 디자이너
+          href: word/officeatwork-officeatworkdesigner-for-office.md
+        - name: officeatwork | Office용 서식 파일 선택기
+          href: word/officeatwork-officeatworktemplate-chooser-for-office.md
+        - name: officeatwork | Office용 업로더
+          href: word/officeatwork-officeatworkuploader-for-office.md
+        - name: officeatwork | Office 검증자
+          href: word/officeatwork-officeatworkverifier-for-office.md
+        - name: officeatwork | Office 마법사
+          href: word/officeatwork-officeatworkwizard-for-office.md
+        - name: Office 문서용 Wrike
+          href: word/wrike-inc-for-office-documents.md
+        - name: Wunder365 for Office
+          href: word/jiji-technologies-private-limited-wunder365-for-office.md
+        - name: xLaw - 지식 관리 시스템
+          href: word/evertn-xlaw-knowledge-management-system.md
+    - name: Microsoft PowerPoint용 앱
+      href: powerpoint/powerpoint-apps.md
+      items:
+        - name: Word 및 PowerPoint용 Adobe Sign
+          href: powerpoint/adobe-inc-sign-for-word-and-powerpoint.md
+        - name: Excel-Word 문서 자동화
+          href: powerpoint/analysisplace-excel-to-word-document-automation.md
+        - name: harmon.ie Office용
+          href: powerpoint/harmonie-corporation-for-office.md
+        - name: PowerPoint용 Lucidchart 다이어그램
+          href: powerpoint/lucid-software-inc-lucidchart-diagrams-for-powerpoint.md
+        - name: Office2SharePoint for Office
+          href: powerpoint/iglobe-office2sharepoint-for-office.md
+        - name: officeatwork | Office용 콘텐츠 선택기
+          href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | Office용 서식 파일 선택기
+          href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
+        - name: Office 문서용 Wrike
+          href: powerpoint/wrike-inc-for-office-documents.md
+    - name: Microsoft SharePoint용 앱
+      href: sharepoint/sharepoint-apps.md
+      items:
+        - name: SharePoint Online용 Agile 작업 보드
+          href: sharepoint/agile-is-task-board-for-sharepoint-online.md
+        - name: SharePoint용 FormMachines
+          href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-for-sharepoint.md
+        - name: SharePoint용 Gaggle
+          href: sharepoint/gagglenet-inc-gaggle-for-sharepoint.md
+        - name: iGlobe CRM 추가 기능
+          href: sharepoint/iglobe-crm-add-ons.md
+        - name: iGlobe CRM Office 365 for Microsoft Office 365
+          href: sharepoint/iglobe-crm-office-365-for-microsoft.md
+        - name: Konnect eMail Parser
+          href: sharepoint/konnect-email-parser.md
+        - name: officeatwork | SharePoint용 서식 파일 선택기
+          href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
+    - name: Microsoft Excel용 앱
+      href: excel/excel-apps.md
+      items:
+        - name: Excel-Word 문서 자동화
+          href: excel/analysisplace-excel-to-word-document-automation.md
+        - name: harmon.ie Office용
+          href: excel/harmonie-corporation-for-office.md
+        - name: Office 365 Planner용 iPlanner 보고 도구
+          href: excel/iglobe-iplanner-reporting-tool-for-office-365-planner.md
+        - name: Excel용 지라 클라우드
+          href: excel/atlassiancom-jira-cloud-for-excel.md
+        - name: Excel용 Lucidchart 다이어그램
+          href: excel/lucid-software-inc-lucidchart-diagrams-for-excel.md
+        - name: MeaningCloud Text Analytics for Excel
+          href: excel/meaningcloud-text-analytics-for-excel.md
+        - name: Office2SharePoint for Office
+          href: excel/iglobe-office2sharepoint-for-office.md
+        - name: officeatwork | Office용 콘텐츠 선택기
+          href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | Office용 서식 파일 선택기
+          href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
+        - name: QuickCells Graphs
+          href: excel/cc-1c-quickcells-graphs.md
+        - name: QuickCells Solvers
+          href: excel/cc-1c-quickcells-solvers.md
+        - name: 시트고
+          href: excel/sheetgo-europe-sl.md
+        - name: Office 문서용 Wrike
+          href: excel/wrike-inc-for-office-documents.md
+        - name: Wunder365 for Office
+          href: excel/jiji-technologies-private-limited-wunder365-for-office.md
+    - name: Microsoft OneNote용 앱
+      href: onenote/onenote-apps.md
+      items:
+        - name: officeatwork | Office용 콘텐츠 선택기
+          href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: Wunder365 for Office
+          href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
+    - name: Microsoft Project용 앱
+      href: project/project-apps.md
+      items:
+        - name: officeatwork | Office용 서식 파일 선택기
+          href: project/officeatwork-officeatworktemplate-chooser-for-office.md
