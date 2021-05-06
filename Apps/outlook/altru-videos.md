@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/27/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Altru Videos에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: eebe435ad078846db0b7a5178646def298e11af4
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: dff51c348e625c76e6a6f41aca8db47539f8fd5a
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52096003"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251787"
 ---
 # <a name="altru-videos"></a>Altru Videos
 

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Sensei 랩 수행자, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e0e5e336e1aa94e5e0b6dcab7065cc93480b58fb
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: ffd6ee1cb07085f88e191bbf3e7eb14a2ed9b0fa
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094345"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252318"
 ---
 # <a name="sensei-labs-conductor"></a>Sensei Labs Conductor
 
@@ -37,7 +38,7 @@ Sensei Labs Inc.에서 Microsoft에 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Sensei Labs Inc. |
 | 파트너 웹 사이트의 URL | [https://www.senseilabs.com/conductor/?utm_campaign=msftteam...](https://www.senseilabs.com/conductor/?utm_campaign=msftteamslaunch&amp;utm_source=teamsappsource&amp;utm_medium=createdby&amp;utm_content=conductorlink) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [N/A](N/A) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [해당 없음](N/A) |
 | 개인 정보 취급 방침의 URL | [https://www.senseilabs.com/conductor/conductor-privacy-poli...](https://www.senseilabs.com/conductor/conductor-privacy-policy/) |
 | 사용 약관 URL | [https://www.senseilabs.com/conductor/msft-teams-terms-condi...](https://www.senseilabs.com/conductor/msft-teams-terms-conditions/) |
 
@@ -132,11 +133,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
 | 앱에 기밀 클라이언트가 있나요? | 예 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
-| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,
-<br />
-- OAuth2 암시적 Flow SPA에 필요하지 않은 경우
-<br />
-- 리소스 소유자 암호 자격 증명(ROPC) 흐름 | | 앱에서 웹 API를 노출하나요? | 예 | | 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 | | 앱에서 미리 보기 API를 사용하나요? | No | | 앱에서 사용되지 않는 API를 사용하나요? | No |
+| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
+| 앱에서 웹 API를 노출하나요? | 예 |
+| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

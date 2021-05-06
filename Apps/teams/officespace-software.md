@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/04/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: CSA STAR 레지스트리의 OfficeSpace, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 06cea605b05cd52783ff4098b1b28a19504591dc
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 590058147d899b670f36c1eff74166616c2024b0
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094422"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250596"
 ---
 # <a name="officespace"></a>OfficeSpace
 
@@ -37,7 +38,7 @@ OfficeSpace 소프트웨어에서 Microsoft에 제공한 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | OfficeSpace Software |
 | 파트너 웹 사이트의 URL | [https://www.officespacesoftware.com/](https://www.officespacesoftware.com/) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [N/A](N/A) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [해당 없음](N/A) |
 | 개인 정보 취급 방침의 URL | [https://www.officespacesoftware.com/oss-customer-privacy-po...](https://www.officespacesoftware.com/oss-customer-privacy-policy-25052018) |
 | 사용 약관 URL | [https://www.officespacesoftware.com/oss-teams-app-terms-of-...](https://www.officespacesoftware.com/oss-teams-app-terms-of-use) |
 

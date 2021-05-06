@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 06/23/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: CSA STAR 레지스트리의 Zoho 전자 필기장, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 59a0c4e50b08fb7dd8d30bfd65cba99e1b48d9d1
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 25595f52e8b2e07859abf3f0192954458c012810
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094918"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251637"
 ---
 # <a name="zoho-notebook"></a>Zoho Notebook
 

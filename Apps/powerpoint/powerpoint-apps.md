@@ -2,17 +2,17 @@
 title: Microsoft PowerPoint 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/15/2021
+ms.date: 05/04/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft 앱 앱에 대해 사용 가능한 모든 보안 PowerPoint 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: daa788d2ef29d136dc1e3015dccc507ed5647285
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 6c76385a15c6a03ef581d634050a0effdb405cdd
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071751"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251707"
 ---
 # <a name="microsoft-powerpoint-app-security-and-compliance"></a>Microsoft PowerPoint 보안 및 규정 준수
 
@@ -24,6 +24,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Excel 문서 자동화](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  | 예 | 예 |
 | [harmon.ie 대한 Office](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  | 예 | 예 |
 | [PowerPoint](./lucid-software-inc-lucidchart-diagrams-for-powerpoint.md) | Lucid Software Inc | **✓** |  | 예 | 예 |
+| [NoMore](./nomorehours-nomore.md) | nomorehours | **✓** |  | 예 | 예 |
 | [Office2SharePoint for Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 예 | 예 |
 | [officeatwork | Office 콘텐츠 선택](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 예 | 예 |
 | [officeatwork | 템플릿 선택에서 Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 예 | 예 |

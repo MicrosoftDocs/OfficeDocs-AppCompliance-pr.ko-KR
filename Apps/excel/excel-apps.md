@@ -2,17 +2,17 @@
 title: Microsoft Excel 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/15/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Excel 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 67928dae457119f6bb28d02e83017e573ad8c517
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: d8b83937131fe2e155103ffd7a2786fbadeca099
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071730"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251507"
 ---
 # <a name="microsoft-excel-app-security-and-compliance"></a>Microsoft Excel 앱 보안 및 규정 준수
 
@@ -20,6 +20,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 
 | **앱** | **파트너** | **게시자 증명** | **인증** | **데이터 처리 정보** | **Cloud App Security 정보** |
 |:--------|:------------|:----------------------:|:-----------------------------:|:----------------------------------:|
+| [NetSuite용 CloudExtend Analytics](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  | 예 | 예 |
 | [Excel 문서 자동화](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  | 예 | 예 |
 | [harmon.ie 대한 Office](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  | 예 | 예 |
 | [Planner용 iPlanner 보고 Office 365](./iglobe-iplanner-reporting-tool-for-office-365-planner.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 예 | 예 |

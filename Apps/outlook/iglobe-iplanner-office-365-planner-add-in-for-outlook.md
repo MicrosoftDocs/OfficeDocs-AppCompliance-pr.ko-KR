@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/17/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: cSA STAR 레지스트리의 Office 365, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대한 iPlan Outlook ner Office 365 Planner 추가 기능에서 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a62f773ba3b172035429af8dc612131a1d777ee3
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 511b5f00bba5851f4f5a87ea65c39d3946a0313e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095940"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251757"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>iPlanner Office 365 Planner 추가 Outlook
 
@@ -31,11 +32,11 @@ iGlobe에서 Microsoft에 제공한 정보:
 |:----------------|:-------------|
 | 앱 이름 | iPlanner Office 365 Planner 추가 Outlook |
 | ID | WA104380147 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상을 Windows Outlook 웹에서 |
+| Office 365 클라이언트 지원 | Outlook 2013 이상을 Windows, Outlook 2016 Mac 이상, Outlook 웹용 |
 | 파트너 회사 이름 | iGlobe |
 | 파트너 웹 사이트의 URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
 | 개인 정보 취급 방침의 URL | [https://iglobecrm.com/content/legal-information](https://iglobecrm.com/content/legal-information) |
-| 사용 약관 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 사용 약관 URL | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

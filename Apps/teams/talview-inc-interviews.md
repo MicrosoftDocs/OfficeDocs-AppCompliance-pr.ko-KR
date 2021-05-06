@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 02/12/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: CSA STAR 레지스트리의 Talview 인터뷰, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5b8d68b8239d86be808cdd78d844b96b64712278
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 242ffe3ceb5dc7c88186b2740d48af42a6997b8e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094262"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52248126"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 

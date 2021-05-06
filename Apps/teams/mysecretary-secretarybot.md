@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: 에 대한 모든 보안 및 규정 준수 정보로, 이 정보의 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 확인할 수 있습니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1812f2735687c6c0683df0597c5803fbbbaaea6b
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: db8975661eeca1c5b473e98e5d6990da6bbb2264
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094758"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52250616"
 ---
 # <a name="secretarybot"></a>SecretaryBot
 

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/08/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR 레지스트리의 Office, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 위한 템플릿 선택기입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8aed041549438d81d9b84214bc4fd828f0c98f63
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: b2b0d788ff3ac7688345ced0cbde6e167c916c81
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094593"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251427"
 ---
 # <a name="officeatwork--template-chooser-for-office"></a>officeatwork | 사용자용 템플릿 Office
 
@@ -140,11 +141,10 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
 | 앱에 기밀 클라이언트가 있나요? | 예 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
-| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,
-<br />
-- OAuth2 암시적 Flow SPA에 필요하지 않은 경우
-<br />
-- 리소스 소유자 암호 자격 증명(ROPC) 흐름 | | 앱에서 웹 API를 노출하나요? | No | | 앱에서 미리 보기 API를 사용하나요? | No | | 앱에서 사용되지 않는 API를 사용하나요? | No |
+| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

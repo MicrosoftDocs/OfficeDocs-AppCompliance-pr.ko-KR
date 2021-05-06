@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/31/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: SmartWork에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3fa673b3b6488cbca428f4583fe60021734525cf
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: ac3365dd3b37fcc89ac63db89fc3f233a68ae045
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094305"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52249896"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -33,7 +34,7 @@ Microsoft에 Intumit의 SmartWork에서 제공하는 정보:
 |:----------------|:-------------|
 | 앱 이름 | SmartWork |
 | ID | WA200001149 |
-| 기능 | 봇 |
+| 기능 | 봇, 탭 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | SmartWork of Intumit |
 | 파트너 웹 사이트의 URL | [https://www.intumit.com](https://www.intumit.com) |
