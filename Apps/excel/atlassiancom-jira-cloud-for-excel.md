@@ -1,20 +1,21 @@
 ---
-title: Jira Cloud for Excel 응용 프로그램 Atlassian.com
+title: Excel용 Jira 클라우드에 대한 응용 프로그램 Atlassian.com
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
-description: CSA STAR 레지스트리의 Excel, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
+certification_type: attested
+description: Excel용 Jira Cloud, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 72555dda5beb73261e7377a357c06440cf0c186a
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: a05866a1d77be09e30f960cd258aad1d0d851bd7
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094761"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251857"
 ---
-# <a name="jira-cloud-for-excel"></a>Jira Cloud for Excel
+# <a name="jira-cloud-for-excel"></a>Excel용 지라 클라우드
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -30,9 +31,9 @@ Microsoft에 Atlassian.com 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Jira Cloud for Excel |
+| 앱 이름 | Excel용 지라 클라우드 |
 | ID | WA200000556 |
-| Office 365 클라이언트 지원 | Excel 2016 Mac, Excel 2016 이상, Windows 웹용 Excel |
+| Office 365 클라이언트 지원 | Mac의 Excel 2016 이상, Windows의 Excel 2016 이상, 웹의 Excel |
 | 파트너 회사 이름 | Atlassian.com |
 | 파트너 웹 사이트의 URL | [https://www.atlassian.com/](https://www.atlassian.com/) |
 | 개인 정보 취급 방침의 URL | [https://www.atlassian.com/legal/privacy-policy](https://www.atlassian.com/legal/privacy-policy) |
@@ -48,18 +49,18 @@ Microsoft에 Atlassian.com 정보:
 
 이 정보는 이 Atlassian.com 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph를 사용한 데이터 액세스
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [필요한 Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 권한을 나열합니다.
 
->이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
+>이 응용 프로그램은 Microsoft Graph를 사용하지 않습니다.
 
 
-#### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
+#### <a name="non-microsoft-services-used"></a>사용되는 Microsoft가 아닌 서비스
 
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
->비영구 Microsoft 서비스 사용되지 않습니다.
+>Microsoft가 아닌 서비스는 사용되지 않습니다.
 
 
 
@@ -113,7 +114,7 @@ Do Not Track 신호 보내기: 일부 브라우저에는 방문하는 웹 사이
 
 ::: zone pivot="mcas"
 
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
+[Microsoft Cloud App Security 카탈로그의 정보가](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 아래에 표시됩니다.
 
 <iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20596' frameborder='no' style='width: 100%;'></iframe>
 

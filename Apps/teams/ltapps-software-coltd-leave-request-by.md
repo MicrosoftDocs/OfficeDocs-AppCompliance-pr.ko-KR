@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 11/03/2020
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: CSA STAR 레지스트리에서 LTAPP의 나가기 요청, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cabfdc7cfc73ad75cedd7846adb82f8aba1e6a6d
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: d53010c013fdab2dd7a0791005a916d98340d96e
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52094521"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252448"
 ---
 # <a name="leave-request-by-ltapps"></a>Leave Request by LTAPPs
 

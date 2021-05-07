@@ -2,17 +2,17 @@
 title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/19/2021
+ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: 31d085e5a2f8d01e8899f7c3fe911184c2cff879
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 6bc983288ea2acb783fd99a80c6c4dbcfbf83fae
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071302"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52251047"
 ---
 # <a name="microsoft-teams-app-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -21,6 +21,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | **앱** | **파트너** | **게시자 증명** | **인증** | **데이터 처리 정보** | **Cloud App Security 정보**  | **앱 기능** |
 |:--------|:------------|:----------------------:|:-------------:|:-----------------------------:|:----------------------------------:|:---------------------|
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  | 예 | 예 | 탭, 커넥터 |
+| [ADI](./akari-solutions-limited-adi.md) | Akari Solutions Limited | **✓** |  | 예 | 예 | 봇 |
 | [Adobe Sign](./adobe-systems-inc-sign.md) | Adobe Systems Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 예 | 예 | 봇, 탭 |
 | [Agile Task Board](./agile-is-task-board.md) | Agile-IS | **✓** |  | 예 | 예 | 탭 |
 | [Alvao Service Desk](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  | 예 | 예 | 봇, 메시징 익스텐션 |
@@ -31,10 +32,14 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [atSpoke](./townsend-street-labs-inc-atspoke.md) | Townsend Street Labs, Inc. | **✓** |  | 예 | 예 | 봇 |
 | [AttendanceBot](./anaek-attendancebot.md) | Anaek | **✓** |  | 예 | 예 | 봇 |
 | [AVA](./avepoint-inc-ava.md) | AvePoint, Inc. | **✓** |  | 예 | 예 | 봇, 탭 |
+| [Beekast](./beekast.md) | Beekast | **✓** |  | 예 | 예 | 탭 |
 | [Beesy](./beesapps-beesy.md) | BeesApps | **✓** |  | 예 | 예 | 봇, 탭 |
 | [Board Connect](./engage-squared-board-connect.md) | Engage Squared | **✓** |  | 예 | 예 | 탭 |
 | [Bonusly](./bonusly.md) | Bonusly | **✓** |  | 예 | 예 | 봇 |
+| [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  | 예 | 예 | 봇 |
 | [Breakthru](./breakthru.md) | Breakthru | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
+| [Brightidea](./brightidea.md) | Brightidea | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
+| [C.AI Adoption Bot](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** |  | 예 | 예 | 봇, 탭 |
 | [Calendar BOT](./approved-contact-calendar-bot.md) | Approved Contact | **✓** |  | 예 | 예 | 봇, 탭 |
 | [CatchEm](./chimu-software-catchem.md) | Chimu Software | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
 | [Centrical](./biz-effective-centrical.md) | Biz-Effective | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
@@ -48,15 +53,18 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [DisasterTech DICE](./disastertech-dice.md) | DisasterTech | **✓** |  | 예 | 예 | 탭 |
 | [Droplr](./droplr.md) | Droplr | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
 | [Dynamic Signal](./dynamic-signal.md) | Dynamic Signal | **✓** |  | 예 | 예 | 봇, 탭 |
+| [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  | 예 | 예 | 봇, 메시징 익스텐션 |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  | 예 | 예 | 탭 |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  | 예 | 예 | 탭 |
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  | 예 | 예 | 커넥터 |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  | 예 | 예 | 봇, 메시징 익스텐션 |
+| [Empuls](./empuls.md) | Empuls | **✓** |  | 예 | 예 | 봇, 메시징 익스텐션 |
 | [EngageWith](./springrole-engagewith.md) | SpringRole | **✓** |  | 예 | 예 | 봇 |
 | [Evernote](./evernote.md) | Evernote | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
 | [Evocom](./evocom-informationssysteme-gmbh.md) | Evocom Informationssysteme GmbH | **✓** |  | 예 | 예 | 탭 |
 | [ezTeam](./enterprizid-inc-ezteam.md) | EnterprizID Inc | **✓** |  | 예 | 예 | 봇, 탭 |
 | [FormMachines](./enterprise-digital-machines-formmachines.md) | Enterprise Digital Machines | **✓** |  | 예 | 예 | 탭, 커넥터 |
+| [Freehand by InVision](./invision-app-freehand-by.md) | InVision 앱 | **✓** |  | 예 | 예 | 탭 |
 | [Freshdesk](./freshworks-inc-freshdesk.md) | Freshworks INC | **✓** |  | 예 | 예 | 봇 |
 | [Fusion Remote](./jujo-inc-fusion-remote.md) | Jujo Inc. | **✓** |  | 예 | 예 | 봇 |
 | [Go1](./go1.md) | Go1 | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
@@ -66,8 +74,10 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [HeyTaco!](./heytaco!.md) | HeyTaco! | **✓** |  | 예 | 예 | 봇, 탭 |
 | [Hi5](./hi5technologies-hi5.md) | Hi5Technologies | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
 | [Hibob](./hibob-inc.md) | Hibob Inc. | **✓** |  | 예 | 예 | 봇 |
+| [HighSide](./highside-inc.md) | HighSide, Inc | **✓** |  | 예 | 예 | 봇, 메시징 익스텐션 |
 | [Hoylu](./hoylu.md) | Hoylu | **✓** |  | 예 | 예 | 탭 |
 | [HunchBuzz](./hunchbuzz.md) | HunchBuzz | **✓** |  | 예 | 예 | 탭, 커넥터 |
+| [Hyperproof](./hyperproof.md) | Hyperproof | **✓** |  | 예 | 예 | 봇 |
 | [IndustryIntel](./industry-intelligence-team-industryintel.md) | Industry Intelligence Team | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
 | [InStation](./developers-invillia-instation.md) | Developers Invillia | **✓** |  | 예 | 예 | 탭 |
 | [Jetdocs](./jetdocs.md) | Jetdocs | **✓** |  | 예 | 예 | 봇, 탭 |
@@ -103,10 +113,13 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Nulia Works](./nulia-works.md) | Nulia | **✓** |  | 예 | 예 | 탭, 커넥터 |
 | [OfficeSpace](./officespace-software.md) | OfficeSpace Software | **✓** |  | 예 | 예 | 봇 |
 | [Officevibe](./officevibe.md) | Officevibe | **✓** |  | 예 | 예 | 봇 |
+| [Onsight Connect](./librestream-onsight-connect.md) | Librestream | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
 | [OpenAgora](./open-agora-openagora.md) | Open Agora | **✓** |  | 예 | 예 | 봇, 탭 |
 | [Org@Work](./lundano-org@work.md) | Lundano | **✓** |  | 예 | 예 | 봇, 탭 |
+| [Package Notifier](./qburst-technologies-pvt-ltd-package-notifier.md) | QBURST TECHNOLOGIES PVT LTD | **✓** |  | 예 | 예 | 커넥터 |
 | [Perfony](./perfony.md) | Perfony | **✓** |  | 예 | 예 | 탭 |
 | [Piazza](./piazza.md) | Piazza | **✓** |  | 예 | 예 | 탭 |
+| [Planyway 팀 캘린더](./rubius-planyway-team-calendar.md) | Rubius | **✓** |  | 예 | 예 | 탭 |
 | [Polly](./polly.md) | Polly | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
 | [Prezi Video](./prezi-video.md) | Prezi | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | 예 | 예 | 봇, 탭, 메시징 익스텐션, 커넥터 |
@@ -139,22 +152,27 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [SkyPoint Cloud](./skypoint-cloud-inc.md) | SkyPoint Cloud Inc. | **✓** |  | 예 | 예 | 봇 |
 | [Slido](./slido.md) | Slido | **✓** |  | 예 | 예 | 봇, 탭 |
 | [Smart Connect for Jira](./yasoon-gmbh-smart-connect-for-jira.md) | yasoon GmbH | **✓** |  | 예 | 예 | 봇, 메시징 익스텐션 |
+| [SMART Learning Suite](./smart-technologies-ulc-learning-suite.md) | SMART Technologies ULC | **✓** |  | 예 | 예 | 탭 |
 | [Smartnotation](./smartnotation-bv.md) | Smartnotation B.V. | **✓** |  | 예 | 예 | 탭, 커넥터 |
 | [Smartsheet](./smartsheet.md) | Smartsheet | **✓** |  | 예 | 예 | 봇, 탭 |
-| [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  | 예 | 예 | 봇 |
+| [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  | 예 | 예 | 봇, 탭 |
+| [SmileBack](./smileback.md) | SmileBack | **✓** |  | 예 | 예 | 커넥터 |
 | [Soapbox](./soapbox.md) | Soapbox | **✓** |  | 예 | 예 | 봇, 탭 |
 | [Spinify](./spinify.md) | Spinify | **✓** |  | 예 | 예 | 봇, 탭 |
 | [Stack Overflow for Teams](./stack-overflow-for-teams.md) | Stack Overflow | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션 |
 | [Standup Alice](./bao-le-duc-standup-alice.md) | Bao Le Duc | **✓** |  | 예 | 예 | 봇 |
 | [StarLeaf](./starleaf.md) | StarLeaf | **✓** |  | 예 | 예 | 봇, 메시징 익스텐션 |
+| [StealthMail](./stealthmail-software-ltd.md) | Stealthmail Software Ltd | **✓** |  | 예 | 예 | 탭 |
 | [Streem](./streem.md) | Streem | **✓** |  | 예 | 예 | 봇 |
 | [Studi.ly](./inlogic-office-store-studily.md) | inLogic-Office Store | **✓** |  | 예 | 예 | 탭 |
 | [SurveyMonkey](./surveymonkey.md) | SurveyMonkey | **✓** |  | 예 | 예 | 봇, 탭, 메시징 익스텐션, 커넥터 |
+| [SurveySparrow](./admin@surveysparrowcom-surveysparrow.md) | admin@surveysparrow.com | **✓** |  | 예 | 예 | 봇 |
 | [Sympli](./sympli-llc.md) | Sympli, LLC | **✓** |  | 예 | 예 | 봇, 메시징 익스텐션 |
 | [TackleBox](./insiten-tacklebox.md) | Insiten | **✓** |  | 예 | 예 | 탭, 커넥터 |
 | [Talla](./talla-inc.md) | Talla Inc. | **✓** |  | 예 | 예 | 봇, 탭 |
 | [Talview Interviews](./talview-inc-interviews.md) | Talview Inc | **✓** |  | 예 | 예 | 탭 |
 | [TaskList](./limestat-inc-tasklist.md) | LimeStat, Inc | **✓** |  | 예 | 예 | 봇 |
+| [Teamhood](./eylean-uab-teamhood.md) | Eylean, UAB | **✓** |  | 예 | 예 | 봇, 메시징 익스텐션 |
 | [TeamMate by ChitChattr](./chitchattr-teammate-by.md) | ChitChattr | **✓** |  | 예 | 예 | 봇, 탭 |
 | [TeamMood](./power-up-conseil-teammood.md) | Power Up Conseil | **✓** |  | 예 | 예 | 봇 |
 | [Teams Manager](./solutions2share-gmbh-teams-manager.md) | Solutions2Share GmbH | **✓** |  | 예 | 예 | 봇, 탭 |
@@ -165,7 +183,9 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  | 예 | 예 | 봇, 메시징 익스텐션 |
 | [timeghost](./kollisch-gmbh-timeghost.md) | K&#246;llisch GmbH | **✓** |  | 예 | 예 | 탭 |
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  | 예 | 예 | 봇, 커넥터 |
+| [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  | 예 | 예 | 탭 |
 | [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  | 예 | 예 | 봇, 탭 |
+| [Trivie](./trivie-inc.md) | Trivie, Inc. | **✓** |  | 예 | 예 | 탭 |
 | [Tryane Analytics](./tryane-analytics.md) | Tryane | **✓** |  | 예 | 예 | 탭 |
 | [Vacation Tracker](./vacation-tracker.md) | Vacation Tracker | **✓** |  | 예 | 예 | 봇, 탭 |
 | [Viima](./viima-solutions-oy.md) | Viima Solutions Oy | **✓** |  | 예 | 예 | 탭 |
