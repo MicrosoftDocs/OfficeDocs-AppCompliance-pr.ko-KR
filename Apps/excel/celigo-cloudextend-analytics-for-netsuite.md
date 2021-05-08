@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: NetSuite용 CloudExtend Analytics, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9c9735999a0d9c329399e9db38af9986e67dd8c4
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 073e27fbf0e2ad9f0fcde35051b2109e5c068952
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252203"
+ms.locfileid: "52259015"
 ---
 # <a name="cloudextend-analytics-for-netsuite"></a>NetSuite용 CloudExtend Analytics
 
@@ -122,7 +122,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | false |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |

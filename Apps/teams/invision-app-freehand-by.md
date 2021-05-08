@@ -2,26 +2,26 @@
 title: InVision 앱의 InVision에서 무료로 사용할 수 있는 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/16/2021
+ms.date: 05/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: InVision에서 무료로 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+description: InVision에서 무료로 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8ff5737df8fbc08c1030365bebba67d3ce32b38a
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: fa9a02b63eff4001789f5a7c854fd9ee554d6e84
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52252186"
+ms.locfileid: "52258775"
 ---
-# <a name="freehand-by-invision"></a>InVision에서 무료로 사용
+# <a name="freehand-by-invision"></a>Freehand by InVision
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 3월 16일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 5월 6일</p>
 
-* <a href="https://teams.microsoft.com/l/app/67cf2c5a-db0e-4256-a423-14010cbeafdd" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://teams.microsoft.com/l/app/67cf2c5a-db0e-4256-a423-14010cbeafdd" target="_blank">Teams 스토어의 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381362" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
@@ -32,13 +32,13 @@ InVision 앱에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | InVision에서 무료로 사용 |
+| 앱 이름 | Freehand by InVision |
 | ID | WA104381362 |
 | 기능 | 탭 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | InVision 앱 |
 | 파트너 웹 사이트의 URL | [https://www.invisionapp.com/](https://www.invisionapp.com/) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.invisionapp.com/freehand](https://www.invisionapp.com/freehand) |
+| Teams 응용 프로그램 정보 페이지의 URL | [https://www.invisionapp.com/freehand](https://www.invisionapp.com/freehand) |
 | 개인 정보 취급 방침의 URL | [https://www.invisionapp.com/privacy](https://www.invisionapp.com/privacy) |
 | 사용 약관 URL | [https://www.invisionapp.com/terms](https://www.invisionapp.com/terms) |
 
@@ -52,14 +52,14 @@ InVision 앱에서 Microsoft에 제공하는 정보:
 
 이 정보는 InVision 앱에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph를 사용한 데이터 액세스
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [필요한 Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 권한을 나열합니다.
 
->이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
+>이 응용 프로그램은 Microsoft Graph를 사용하지 않습니다.
 
 
-#### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
+#### <a name="non-microsoft-services-used"></a>사용되는 Microsoft가 아닌 서비스
 
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
@@ -99,7 +99,7 @@ InVision 앱에서 Microsoft에 제공하는 정보:
 
 ::: zone pivot="mcas"
 
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
+[Microsoft Cloud App Security 카탈로그의 정보가](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 아래에 표시됩니다.
 
 <iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/20788' frameborder='no' style='width: 100%;'></iframe>
 
@@ -118,7 +118,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | **정보** | **응답** |
 |:----------------|:-------------|
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 아니요 |
+| Microsoft ID 플랫폼 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 검토하고 준수하나요?  | 아니요 |
 | 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 아니요 |

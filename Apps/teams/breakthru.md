@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 01/16/2021
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: Breakthru, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 306a819de1b83a4d2fae178b34fd37529201a609
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: fff1b1bb443be6866570035f16897a71e7458455
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095482"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52253149"
 ---
 # <a name="breakthru"></a>Breakthru
 

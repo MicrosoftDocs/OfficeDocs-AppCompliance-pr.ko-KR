@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 03/23/2020
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: CSA STAR 레지스트리의 Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 Wrike에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a06f290b62aeede22eb213e6b869a02fa5a49a2c
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: ebfdaa0748ab8c97ba7661cd0cc3f68354632c88
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095875"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252919"
 ---
 # <a name="wrike-for-outlook"></a>Wrike for Outlook
 

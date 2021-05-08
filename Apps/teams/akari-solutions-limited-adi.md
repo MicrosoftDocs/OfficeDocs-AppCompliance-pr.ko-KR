@@ -1,46 +1,46 @@
 ---
-title: Tribute Co.의 Tribute에 대한 응용 프로그램 정보
+title: Akari Solutions Limited의 ADI에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 04/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Tribute, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: ADI에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3fead70ef460ec81d89144420850ce47e3aee3e4
-ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
+ms.openlocfilehash: 435ede7d8821a4f93e930996f7159b794b5b8a22
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52258785"
+ms.locfileid: "52253116"
 ---
-# <a name="tribute"></a>Tribute
+# <a name="adi"></a>ADI
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 4월 16일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 4월 28일</p>
 
-* <a href="https://teams.microsoft.com/l/app/cfb46a87-a75b-4045-9f22-a0ae0614fd60" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002589" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/de5717a1-6884-4b96-8b1e-ee17b5d778f3" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002615" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-Tribute Co. 에서 Microsoft에 제공한 정보:
+Microsoft로 제한되는 Akari 솔루션에서 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Tribute |
-| ID | WA200002589 |
-| 기능 | 탭 |
+| 앱 이름 | ADI |
+| ID | WA200002615 |
+| 기능 | 봇 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | Tribute Co. |
-| 파트너 웹 사이트의 URL | [https://www.tributementorship.com](https://www.tributementorship.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.tributementorship.com/how-it-works](https://www.tributementorship.com/how-it-works) |
-| 개인 정보 취급 방침의 URL | [https://www.tributementorship.com/privacy](https://www.tributementorship.com/privacy) |
-| 사용 약관 URL | [https://www.tributementorship.com/terms](https://www.tributementorship.com/terms) |
+| 파트너 회사 이름 | Akari Solutions Limited |
+| 파트너 웹 사이트의 URL | [https://akari.io/adi/](https://akari.io/adi/) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://akari.io/adi](https://akari.io/adi) |
+| 개인 정보 취급 방침의 URL | [https://akari.io/adi-privacy-policy/](https://akari.io/adi-privacy-policy/) |
+| 사용 약관 URL | [https://akari.io/adi-terms-and-conditions/](https://akari.io/adi-terms-and-conditions/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,7 +50,7 @@ Tribute Co. 에서 Microsoft에 제공한 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 Tribute Co.에서 제공했습니다. 이 앱이 조직 데이터를 수집하고 저장하는 방법과 조직이 수집하는 데이터를 통해 조직이 제어할 수 있는 컨트롤에 대해 제공합니다.
+이 정보는 Akari Solutions Limited에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 가지는 컨트롤에 대해 제공됩니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
@@ -83,7 +83,7 @@ Tribute Co. 에서 Microsoft에 제공한 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->컨트롤러가 아니라 데이터 프로세서입니다. 
+>소수의 관리자가 PIM MFA를 통해 응용 프로그램 플랫폼 구성 요소에 &amp; 액세스할 수 있습니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -99,9 +99,9 @@ Tribute Co. 에서 Microsoft에 제공한 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37587' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37870" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37587" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,19 +111,20 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 Tribute Co. 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 기준을 처리하는 방법에 대해 제공합니다.
+이 정보는 Akari Solutions Limited에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | false |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
-| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 아니요 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 예 |
+| 앱에 기밀 클라이언트가 있나요? | 아니요 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
+| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | ,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/> |
 | 앱에서 웹 API를 노출하나요? | 아니요 |
 | 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |

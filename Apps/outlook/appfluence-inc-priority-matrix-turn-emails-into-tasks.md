@@ -2,22 +2,23 @@
 title: 우선 순위 매트릭스에 대한 응용 프로그램 정보 - Appfluence Inc를 통해 전자 메일을 작업으로 전환
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 04/16/2021
 ms.topic: article
 ms.service: attestation
+certification_type: certified
 description: 우선 순위 매트릭스에 사용할 수 있는 모든 보안 및 규정 준수 정보 - CSA STAR 레지스트리에서 전자 메일을 작업, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보로 전환합니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f92f29796daf072b24233bdcc9459d7db82d40bc
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 3f4ba1a7f888c576ae7a87286488d7b5f06037a2
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095995"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52258995"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>우선 순위 매트릭스 - 전자 메일을 작업으로 전환
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>개발자가 마지막으로 업데이트한 날짜: 2020년 11월 17일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 4월 16일</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381735" target="_blank">AppSource의 보기</a>
 
@@ -31,7 +32,7 @@ Appfluence Inc에서 Microsoft에 제공한 정보:
 |:----------------|:-------------|
 | 앱 이름 | 우선 순위 매트릭스 - 전자 메일을 작업으로 전환 |
 | ID | WA104381735 |
-| Office 365 클라이언트 지원 | Outlook 2016, Windows, Outlook 2016 이상, iOS, Outlook iOS, Outlook Android, 웹 Outlook 이상 |
+| Office 365 클라이언트 지원 | Outlook 2016 이상 on Windows, Outlook 2016 or later on Mac, Outlook on iOS, Outlook on Android, Outlook on the web |
 | 파트너 회사 이름 | Appfluence Inc |
 | 파트너 웹 사이트의 URL | [https://appfluence.com/](https://appfluence.com/) |
 | 개인 정보 취급 방침의 URL | [https://appfluence.com/privacy](https://appfluence.com/privacy) |
@@ -47,28 +48,28 @@ Appfluence Inc에서 Microsoft에 제공한 정보:
 
 이 정보는 Appfluence Inc에서 이 앱이 조직 데이터를 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph를 사용한 데이터 액세스
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [필요한 Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 권한을 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.Read | 위임 | 새 사용자가 계정에 추가될 때만 전자 메일을 저장합니다. | 새 계정을 만들 때 이 계정을 사용하여 다른 팀 구성원을 제안합니다. | 5be2b320-a5b7-4221-893c-dee506e4e365 |
 >| User.ReadBasic.All | 위임 | 새 사용자가 계정에 추가될 때만 전자 메일을 저장합니다. | 새 계정을 만들 때 이 계정을 사용하여 다른 팀 구성원을 제안합니다. | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| offline_access | 위임 | 사용자를 대신하여 요청을 수행하기 위해 로그인 토큰을 저장합니다. | 사용자를 유인하지 않고 토큰을 새로 고침합니다. (우선 순위 매트릭스(Teams) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| Files.Read.All | 위임 | 사용자가 명시적으로 원래 파일에 연결되는 우선 순위 매트릭스 항목을 명시적으로 만들지 않는 한 어떤 파일 정보도 저장하지 않습니다. | 웹앱 및 Outlook/Teams 추가 기능을 통해 사용할 수 있는 일대일 기능에서는 이 기능을 사용하여 모임 및 전반적인 공동 작업을 용이하게 하기 위해 시스템에서 두 사용자 간에 공유되는 SharePoint/OneDrive 파일을 강조합니다. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
+>| offline_access | 위임 | 사용자를 대신하여 요청을 수행하기 위해 로그인 토큰을 저장합니다. | 사용자를 유인하지 않고 토큰을 새로 고침합니다. (Teams 우선 순위 매트릭스) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
+>| Files.Read.All | 위임 | 사용자가 명시적으로 원래 파일에 연결되는 우선 순위 매트릭스 항목을 명시적으로 만들지 않는 한 어떤 파일 정보도 저장하지 않습니다. | 웹앱 및 Outlook/Teams 추가 기능을 통해 사용할 수 있는 일대일 기능에서는 이 기능을 사용하여 시스템의 두 사용자 간에 공유되는 SharePoint/OneDrive 파일을 강조 표시하여 모임 및 전체적인 공동 작업을 용이하게 할 수 있습니다. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| User.Read | 위임 | 기본 사용자 프로필 정보(표시 이름, 이름, 성, 전자 메일, 아바타)는 저희가 저장합니다. | 사용자 이름, 전자 메일, 아바타를 사용하여 계정을 개인 설정하세요. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| openid | 위임 | 사용자의 로그인 모드를 나타내기 위해 SSO 연결을 저장합니다. | Single Sign-On을 통해 사용자를 로그인하기 위해 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| Calendars.Read | 위임 | 소수의 일정 이벤트가 시스템에 저장된 작업으로 설정됩니다. | 1:1 보기에 표시될 수 있도록 일정 이벤트를 읽습니다. 또한 새 계정을 초기화합니다.  | d76f016f-52c7-41b5-835b-900361d7040c |
->| Mail.Read | 위임 | 시스템에서 만든 작업을 원본 메시지에 대한 링크와 함께 저장합니다. | 이 Outlook 추가 기능에서 전자 메일을 작업으로 전환하고 공유 작업을 1:1 보기로 표시하는 데 사용됩니다. | d76f016f-52c7-41b5-835b-900361d7040c |
->| Tasks.Read | 위임 | 일부 Outlook/Planner 작업은 새 사용자를 지원하기 위해 시스템에 복제됩니다. | 새 사용자 계정을 해당 사용자 계정으로 부트스트스트 Graph 작업을 수행합니다. | d76f016f-52c7-41b5-835b-900361d7040c |
+>| Mail.Read | 위임 | 시스템에서 만든 작업을 원본 메시지에 대한 링크와 함께 저장합니다. | Outlook 추가 기능에서 전자 메일을 작업으로 전환하고 공유 작업을 1:1 보기로 표시하는 데 사용됩니다. | d76f016f-52c7-41b5-835b-900361d7040c |
+>| Tasks.Read | 위임 | 일부 Outlook/Planner 작업은 새 사용자를 지원하기 위해 시스템에 복제됩니다. | Graph 작업을 사용하여 새 사용자 계정을 부트스트래프합니다. | d76f016f-52c7-41b5-835b-900361d7040c |
 
 
-#### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
+#### <a name="non-microsoft-services-used"></a>사용되는 Microsoft가 아닌 서비스
 
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
->비영구 Microsoft 서비스 사용되지 않습니다.
+>Microsoft가 아닌 서비스는 사용되지 않습니다.
 
 
 
@@ -132,11 +133,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
 | 앱에 기밀 클라이언트가 있나요? | 예 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
-| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,
-<br />
-
-<br />
-- 리소스 소유자 암호 자격 증명(ROPC) 흐름 | | 앱에서 웹 API를 노출하나요? | 예 | | 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 | | 앱에서 미리 보기 API를 사용하나요? | No | | 앱에서 사용되지 않는 API를 사용하나요? | No |
+| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/><br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
+| 앱에서 웹 API를 노출하나요? | 예 |
+| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

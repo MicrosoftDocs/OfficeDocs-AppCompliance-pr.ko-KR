@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: ServiceDesk Plus for Email, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bf8ed2f9b56cdb5afc32d86c608603849da585ad
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: dbbafef5141b91c850c916c780cfb2cd89504f52
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095859"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252888"
 ---
 # <a name="servicedesk-plus-for-email"></a>ServiceDesk Plus for Email
 

@@ -5,14 +5,15 @@ author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
+certification_type: attested
 description: 전자 메일용 Zoho CRM, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1758a1b5d082b42b68a1385e73007b5ab2beb18a
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 730750ad7dddfcccaa9f940e88e34793d4e35869
+ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52095867"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52252898"
 ---
 # <a name="zoho-crm-for-email"></a>전자 메일용 Zoho CRM
 

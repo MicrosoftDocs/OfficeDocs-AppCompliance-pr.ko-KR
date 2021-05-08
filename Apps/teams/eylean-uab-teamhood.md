@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 팀의 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 98e035959e10ce9bbae80c2501e8ff37db5b3ccb
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 45367d70e46d9431a4cec2c9667009831e302821
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52250966"
+ms.locfileid: "52258845"
 ---
-# <a name="teamhood"></a>팀
+# <a name="teamhood"></a>Teamhood
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Eylean, UAB에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 팀 |
+| 앱 이름 | Teamhood |
 | ID | WA200002568 |
 | 기능 | 봇, 메시징 익스텐션 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
@@ -117,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | false |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |

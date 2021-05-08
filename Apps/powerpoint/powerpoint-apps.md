@@ -2,17 +2,17 @@
 title: Microsoft PowerPoint 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/04/2021
+ms.date: 05/06/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft 앱 앱에 대해 사용 가능한 모든 보안 PowerPoint 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 6c76385a15c6a03ef581d634050a0effdb405cdd
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 86222e80a182880468d47c462d2c4ae443ebab34
+ms.sourcegitcommit: 84c041bf4c0e79f1f3a14c4885ca5acd8709b129
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251707"
+ms.locfileid: "52259025"
 ---
 # <a name="microsoft-powerpoint-app-security-and-compliance"></a>Microsoft PowerPoint 보안 및 규정 준수
 
