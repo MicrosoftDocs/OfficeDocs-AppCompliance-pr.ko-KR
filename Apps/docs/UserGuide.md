@@ -6,12 +6,12 @@ description: 앱 준수 프로그램에 Microsoft 365 ISV 사용자 가이드
 keywords: 앱 준수 프로그램에 Microsoft 365 ISV 사용자 가이드
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1338edfc5ad4447d9167eea66388cd8d7a65a883
-ms.sourcegitcommit: 47fdc4f6dcfbc1b4c74f7e1e49343b9b1ce6ef9c
+ms.openlocfilehash: a6b0abb55359a16d4651722d776dfb16282edc87
+ms.sourcegitcommit: bb6c1353781d7b6f8b171bf6853b85e42fda656e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/11/2021
-ms.locfileid: "52313301"
+ms.locfileid: "52324087"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>앱 준수 프로그램에 대한 Microsoft 365 사용자 가이드
 
@@ -150,17 +150,17 @@ ms.locfileid: "52313301"
 
 ![검토 중의 의회](../media/existing%20isv%203.png)
 
-## <a name="6---microsoft-365-re-certification-workflow"></a>6. Microsoft 365 Re-Certification 워크플로:
-
-**Microsoft 365Publisher 증명 및 인증 갱신 워크플로:** 
+## <a name="6---microsoft-365-publisher-attestation-and-certification-renewal-workflow"></a>6. Microsoft 365 Publisher 증명 및 인증 갱신 워크플로:
 
 Microsoft 365 이제 앱 준수 프로그램은 연간 갱신 프로세스를 제공합니다. 이 프로세스 동안 앱 개발자는 기존 Publisher 증명 설문지 및 인증에 필요한 문서를 Microsoft 365 있습니다. 
 
 **이점:**
 
-- 앱을 다른 사용자와 차별화하기 위해 AppSource에서 인증 배지를 유지 관리합니다. 
+- 앱을 다른 앱과 차별화하기 위해 AppSource 및 팀 스토어에서 인증 배지를 유지 관리합니다. 
 - 인증된 앱을 사용할 때 고객의 신뢰를 높이기 
 - IT 관리자가 업데이트된 인증 정보를 통해 정보를 통해 의사 결정을 내리는 데 도움을 줄 수 있습니다. 
+
+새로운 갱신 프로세스는 원활한 [환경을](https://partner.microsoft.com/en-us/dashboard/home) 제공하기 위해 파트너 센터에서 사용할 수 있습니다. 갱신 미리 알림은 만료 날짜 90일 전부터 파트너 센터에 표시됩니다. 만료 90일, 60일 및 30일 전에 전자 메일을 통해 주기적인 미리 알림도 전송됩니다.
 
 **계층 1: Publisher 갱신:** 
 
