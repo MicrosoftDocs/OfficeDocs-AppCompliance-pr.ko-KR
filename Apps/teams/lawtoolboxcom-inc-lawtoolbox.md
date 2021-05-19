@@ -1,46 +1,45 @@
 ---
-title: Application Information for LawToolBox by LawToolBox.com Inc.
+title: LawToolBox.com 주식회사에 의해 법률 도구 상자에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: LawToolBox에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+description: LawToolBox에 대한 사용 가능한 모든 보안 및 규정 준수 정보 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0bf192e58d66e43bfe64d237dffe4a8f2c33c8ce
-ms.sourcegitcommit: 50bd8e07d9355ae65935767a34aca39c46ade8f4
+ms.openlocfilehash: 2e97d65822a5baeb0cd78101660084e4142e98ea
+ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52251297"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52553009"
 ---
 # <a name="lawtoolbox"></a>LawToolBox
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2019년 12월 16일</p>
+<p>최종 업데이트: 2019년 12월 16일</p>
 
-* <a href="https://teams.microsoft.com/l/app/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381656" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d" target="_blank">Teams 스토어에서 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381656" target="_blank">앱소스에서 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-Microsoft에 LawToolBox.com 제공한 정보:
+LawToolBox.com 에서 마이크로 소프트에 제공 된 정보 :
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 이름 | LawToolBox |
 | ID | WA104381656 |
-| 기능 | 봇, 탭, 메시징 익스텐션 |
-| Office 365 클라이언트 지원 | Microsoft Teams |
+| 지원되는 Office 365 클라이언트 | Microsoft Teams |
 | 파트너 회사 이름 | LawToolBox.com Inc. |
-| 파트너 웹 사이트의 URL | [https://www.lawtoolbox.com](https://www.lawtoolbox.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.lawtoolbox.com/Ads/Adchk.cfm?eaid=718](https://www.lawtoolbox.com/Ads/Adchk.cfm?eaid=718) |
-| 개인 정보 취급 방침의 URL | [https://www.lawtoolbox.com/privacy-policy/](https://www.lawtoolbox.com/privacy-policy/) |
-| 사용 약관 URL | [https://www.lawtoolbox.com/Ads/Adchk.cfm?eaid=661](https://www.lawtoolbox.com/Ads/Adchk.cfm?eaid=661) |
+| 파트너 웹사이트의 URL | [https://www.lawtoolbox.com](https://www.lawtoolbox.com) |
+| Teams 응용 프로그램 정보 페이지의 URL | [https://www.lawtoolbox.com/Ads/Adchk.cfm?eaid=718](https://www.lawtoolbox.com/Ads/Adchk.cfm?eaid=718) |
+| 개인정보 처리방침의 URL | [https://www.lawtoolbox.com/privacy-policy/](https://www.lawtoolbox.com/privacy-policy/) |
+| 이용 약관의 URL | [https://www.lawtoolbox.com/Ads/Adchk.cfm?eaid=661](https://www.lawtoolbox.com/Ads/Adchk.cfm?eaid=661) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,65 +49,64 @@ Microsoft에 LawToolBox.com 제공한 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 LawToolBox.com Inc.에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터에 대해 조직에서 제공하는 컨트롤에 대해 제공합니다.
+이 정보는 이 앱이 조직 데이터를 수집하고 저장하는 방법과 앱이 수집하는 데이터에 대한 조직이 가질 수 있는 제어에 대해 LawToolBox.com Inc.에서 제공되었습니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph 을 사용하여 데이터 액세스
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 [앱에서 필요한 Microsoft Graph 권한을 나열합니다.](https://docs.microsoft.com/graph/permissions-reference)
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>| **사용 권한**  | **권한 유형(위임/응용 프로그램)** | **데이터가 수집되고 있습니까? 그것을 수집하기위한 정당화?** | **데이터가 저장되어 있습니까? 그것을 저장하는 정당화?** | **Azure AD 앱 ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 위임 |  | [선택 사항] 사용자의 일정을 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Calendars.ReadWrite | 위임 |  | 사용자의 일정에 일정 초대를 만들 수 있습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Calendars.ReadWrite.Shared | 위임 |  | 공유 일정에 일정 초대를 만들 수 있습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Contacts.ReadWrite | 위임 |  | [선택 사항]- 사용자 연락처를 읽고 연락처 목록에서 그룹으로 사용자를 연결합니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Contacts.ReadWrite.Shared | 위임 |  | [선택 사항]- 사례와 관련된 연락처 목록을 지원할 사용자 공유 연락처를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| Calendars.Read | 위임 |  | [선택 사항] 사용자의 캘린더를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| 캘린더.읽기 쓰기 | 위임 |  | 캘린더 를 만들려면 사용자의 캘린더에 초대합니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| 캘린더.ReadWrite.공유 | 위임 |  | 공유 캘린더에 캘린더 초대를 만들려면 | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| 연락처.읽기 쓰기 | 위임 |  | [선택 사항]- 사용자 연락처를 읽고 연락처 목록에서 그룹으로 사용자를 연결합니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| 연락처.읽기 쓰기.공유 | 위임 |  | [선택 사항]- 서비스 케이스와 관련된 연락처 목록을 제공하기 위해 사용자가 연락처를 공유하도록 읽을 수 있습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
 >| Directory.AccessAsUser.All | 위임 |  | [선택 사항] 사용자로 그룹 및 사용자 정보를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
 >| Directory.ReadWrite.All | 위임 |  | [선택 사항] 사용자로 그룹 및 사용자 정보를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.Read | 위임 |  | [선택 사항] 사용자의 사용자 OneDrive. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.Read.All | 위임 |  | [선택 사항]-사용자의 사용자 OneDrive. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.ReadWrite | 위임 |  | [선택 사항]-사용자 계정의 파일을 읽고 OneDrive. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.ReadWrite.All | 위임 |  | [선택 사항] 문제와 관련된 읽기/OneDrive 사용자의 파일입니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Group.ReadWrite.All | 위임 | GroupID, GroupName, GroupEmail | 시스템에서 만든 각 사안에 대한 그룹을 만들 수 있습니다. 이렇게 하면 사용자가 중요한 관련 정보를 그룹에 저장하면 해당 데이터가 자신의 테넌트에 저장됩니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.Read | 위임 |  | [선택 사항] [InProgress] 중요에 대한 사용자의 전자 메일을 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.ReadWrite | 위임 |  | [선택 사항] [InProgress] 사용자에 대한 읽기/쓰기 전자 메일입니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.ReadWrite.Shared | 위임 |  | [선택 사항] [InProgress] 사용자에 대한 읽기/쓰기 전자 메일입니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.Send | 위임 |  | [선택 사항] [InProgress] 사용자로 전자 메일에 기한 보내기. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Tasks.ReadWrite.Shared | 위임 |  | [Optional]-[InProgress] Read Write Deadlines as Task for users. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.Read | 위임 |  | 사용자의 정보를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.ReadWrite | 위임 |  | 읽기/쓰기가 필요한 사용자의 정보입니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.ReadWrite.All | 위임 |  | 읽기/쓰기가 필요한 사용자의 정보입니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| 전자 메일 | 위임 | Email, Office365 UserID, ObjectID, TenantID. | 사용자의 전자 메일 주소를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| profile | 위임 |  | 사용자 프로필 정보를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| Files.Read | 위임 |  | [선택 사항] 사용자의 OneDrive 읽어보십시오. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| Files.Read.All | 위임 |  | [선택 사항]-사용자의 OneDrive. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| Files.ReadWrite | 위임 |  | [선택 사항]-사용자의 OneDrive 파일을 읽고 수정합니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| Files.ReadWrite.All | 위임 |  | [선택 사항] 문제와 관련된 사용자의 OneDrive 파일을 읽고 작성합니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| Group.ReadWrite.All | 위임 | 그룹ID, 그룹 이름, 그룹 이메일 | 시스템에서 생성된 각 문제에 대해 그룹을 만듭니다. 이렇게 하면 사용자가 문제 관련 정보를 그룹에 저장하여 데이터를 자신의 테넌트에 저장합니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| Mail.Read | 위임 |  | [선택 사항] [진행 중] 문제에 대한 사용자의 이메일을 읽어보십시오. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| 메일.읽기 쓰기 | 위임 |  | [선택 사항] [진행 중] 사용자를 위해 전자 메일을 읽고 작성합니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| 메일.읽기 쓰기.공유 | 위임 |  | [선택 사항] [진행 중] 사용자를 위해 전자 메일을 읽고 작성합니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| 메일.보내기 | 위임 |  | [선택 사항] [진행 중] 이메일로 마감일을 사용자로 보냅니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| 작업.읽기 쓰기.공유 | 위임 |  | [선택 사항]-[진행 중] 사용자를 위한 작업으로 마감일 쓰기 를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| User.Read | 위임 |  | 사용자의 정보를 읽어보십시오. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| User.ReadWrite | 위임 |  | 사용자의 정보를 읽고 작성합니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| User.ReadWrite.All | 위임 |  | 사용자의 정보를 읽고 작성합니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| 전자 메일 | 위임 | 이메일, Office365 사용자 ID, ObjectID, 테넌티드. | 사용자의 이메일 주소를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| 윤곽 | 위임 |  | 사용자 프로필 정보를 읽어보십시오. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
 
 
-#### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
+#### <a name="non-microsoft-services-used"></a>사용되지 Microsoft 서비스
 
-앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
+앱이 Microsoft 가 아닌 서비스와 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 명분을 포함합니다.
 
->비영구 Microsoft 서비스 사용되지 않습니다.
+>비Microsoft 서비스 사용되지 않습니다.
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
 
-이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
+이 앱에 봇 또는 메시징 확장 프로그램이 포함된 경우 최종 사용자 식별 정보(EUII): 팀의 모든 팀 구성원의 명단(이름, 성, 표시 이름, 이메일 주소)에 액세스하거나 추가된 채팅을 할 수 있습니다. 이 응용 프로그램은이 기능을 사용합니까?
 
->| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
+>| **EUII에 액세스할 수 있는 정당성?**  | **EUII는 데이터베이스에 저장되어 있습니까?** | **EUII를 저장하는 정당화?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| 팀에 새로 추가된 사용자를 식별하고 잠재적인 잠재 사용자를 확인 | Email, UserId |  |
-
+>| 팀에 새로 추가된 사용자를 식별하고 잠재 고객 확인 | 이메일, 사용자 Id |  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
 
-이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
+조직 식별 정보(OII) 또는 최종 사용자 식별 정보(EUII)가 이 응용 프로그램의 원격 분석 또는 로그에 표시됩니까? 그렇다면 저장되는 데이터와 보존 및 제거 정책은 무엇입니까?
 
->사용자 전자 메일,UserID, AccessToken, 디버그 로그의 그룹 정보
+>사용자 이메일, 사용자 ID, 액세스토큰, 디버그 로그에 정보 그룹
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 
-조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
+조직의 관리자가 파트너 시스템에서 자신의 정보를 제어하는 방법을 설명해 보세요. 예를 들어 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->데이터 삭제 요청을 받지 않는 한 사례 레코드를 보존합니다.
+>당사는 데이터 삭제 요청을 받지 않는 한 사례 레코드를 보관합니다.
 
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -117,7 +115,7 @@ Microsoft에 LawToolBox.com 제공한 정보:
 
 ::: zone pivot="mcas"
 
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
+[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 카탈로그의 정보는 아래에 나타납니다.
 
 <iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35680' frameborder='no' style='width: 100%;'></iframe>
 

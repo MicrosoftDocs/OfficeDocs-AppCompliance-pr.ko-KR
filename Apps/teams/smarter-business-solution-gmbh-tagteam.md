@@ -1,45 +1,45 @@
 ---
-title: TINYpulse에 의한 TINYpulse용 애플리케이션 정보
+title: 스마트 한 비즈니스 솔루션 GmbH에 의해 태그 팀에 대 한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/10/2021
+ms.date: 04/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: TINYpulse, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 대한 사용 가능한 모든 보안 및 규정 준수 정보.
+description: 태그팀, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보, CSA STAR 레지스트리의 보안/규정 준수 정보에 대한 사용 가능한 모든 보안 및 규정 준수 정보.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1083132af81b1a547eb2664b81e6048e7be4314d
+ms.openlocfilehash: 5c4976272cd5ee2f280544bf1bb6fb674ca5297d
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551348"
+ms.locfileid: "52553344"
 ---
-# <a name="tinypulse"></a>TINYpulse
+# <a name="tagteam"></a>태그팀
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>최종 업데이트: 2021년 3월 10일</p>
+<p>최종 업데이트: 2021년 4월 21일</p>
 
-* <a href="https://teams.microsoft.com/l/app/1950b3dc-66fc-4c5f-bbbe-e411ad91a49f" target="_blank">Teams 스토어에서 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381729" target="_blank">앱소스에서 보기</a>
+* <a href="https://teams.microsoft.com/l/app/6d7f01cb-cfa5-48d9-beed-363d381ae32b" target="_blank">Teams 스토어에서 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002829" target="_blank">앱소스에서 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-TINYpulse에서 Microsoft에 제공한 정보:
+스마트 비즈니스 솔루션 GmbH에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | TINYpulse |
-| ID | WA104381729 |
+| 앱 이름 | 태그팀 |
+| ID | WA200002829 |
 | 지원되는 Office 365 클라이언트 | Microsoft Teams |
-| 파트너 회사 이름 | TINYpulse |
-| 파트너 웹사이트의 URL | [https://www.tinypulse.com/](https://www.tinypulse.com/) |
-| Teams 응용 프로그램 정보 페이지의 URL | [https://www.tinypulse.com/engage](https://www.tinypulse.com/engage) |
-| 개인정보 처리방침의 URL | [https://www.tinypulse.com/privacy-policy](https://www.tinypulse.com/privacy-policy) |
-| 이용 약관의 URL | [https://www.tinypulse.com/terms-of-use](https://www.tinypulse.com/terms-of-use) |
+| 파트너 회사 이름 | 더 스마트한 비즈니스 솔루션 GmbH |
+| 파트너 웹사이트의 URL | [https://www.smarterbusiness.at/en](https://www.smarterbusiness.at/en) |
+| Teams 응용 프로그램 정보 페이지의 URL | [https://www.smarterbusiness.at/en/tagteam-help](https://www.smarterbusiness.at/en/tagteam-help) |
+| 개인정보 처리방침의 URL | [https://www.smarterbusiness.at/en/add-in-privacy-policy](https://www.smarterbusiness.at/en/add-in-privacy-policy) |
+| 이용 약관의 URL | [https://www.smarterbusiness.at/en/terms-of-use-for-tagteam](https://www.smarterbusiness.at/en/terms-of-use-for-tagteam) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,13 +49,18 @@ TINYpulse에서 Microsoft에 제공한 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 TINYpulse에서 이 앱이 조직 데이터를 수집하고 저장하는 방법과 앱이 수집하는 데이터에 대한 조직이 가질 수 있는 제어에 대해 제공했습니다.
+이 정보는 이 앱이 조직 데이터를 수집하고 저장하는 방법과 앱이 수집하는 데이터에 대한 조직에 대한 제어에 대해 더 스마트 비즈니스 솔루션 GmbH에서 제공되었습니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph 을 사용하여 데이터 액세스
 
 이 [앱에서 필요한 Microsoft Graph 권한을 나열합니다.](https://docs.microsoft.com/graph/permissions-reference)
 
->이 응용 프로그램은 Microsoft Graph 사용하지 않습니다.
+>| **사용 권한**  | **권한 유형(위임/응용 프로그램)** | **데이터가 수집되고 있습니까? 그것을 수집하기위한 정당화?** | **데이터가 저장되어 있습니까? 그것을 저장하는 정당화?** | **Azure AD 앱 ID** |
+>|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
+>| 채널 메시지.읽기.모든 | 위임 | 태그된 대화만 표시하는 데만 사용하는 이 데이터는 수집되지 않습니다. 우리는 검색 API로 변경하고 싶지만 Graph API는 현재 이를 지원하지 않습니다.  | 없음 | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>| User.Read | 위임 | 탭에 User-Information(예: 이름) 표시 | 없음 | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>| User.ReadBasic.All | 위임 | 탭에 User-Avatars 표시 | 없음 | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
+>| 오픈 ID | 위임 | SignIn에 대해서만 - 데이터가 저장되지 않습니다. | 없음 | 6d7f01cb-cfa5-48d9-beed-363d381ae32b |
 
 
 #### <a name="non-microsoft-services-used"></a>사용되지 Microsoft 서비스
@@ -81,13 +86,13 @@ TINYpulse에서 Microsoft에 제공한 정보:
 
 조직의 관리자가 파트너 시스템에서 자신의 정보를 제어하는 방법을 설명해 보세요. 예를 들어 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->우리는 파트너의 시스템에 데이터를 공유하지 않습니다
+>설명된 데이터만 Azure Cosmos DB에 저장합니다. 우리는 다른 Parnter의 시스템과 공유하지 않습니다!
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인간 검토
 
 이 앱에서 수집하거나 저장되는 조직 식별 정보(OII) 데이터를 검토하거나 분석하는 데 관여하는 사람이 있습니까?
 
->아니요
+>예
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -97,9 +102,9 @@ TINYpulse에서 Microsoft에 제공한 정보:
 
 [Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 카탈로그의 정보는 아래에 나타납니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/34569' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/38164' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/34569" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/38164" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -109,7 +114,7 @@ TINYpulse에서 Microsoft에 제공한 정보:
 
 ### <a name="identity-information"></a>신원 정보
 
-이 정보는 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 기준을 처리하는 방법에 대해 TINYpulse에서 제공했습니다.
+이 정보는 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 기준을 처리하는 방법에 대해 스마트 비즈니스 솔루션 GmbH에서 제공되었습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
@@ -120,11 +125,12 @@ TINYpulse에서 Microsoft에 제공한 정보:
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청합니까? | 예 |
 | 앱의 정적 등록 권한은 앱이 동적으로 점진적으로 요청하는 권한을 정확하게 반영합니까? | 예 |
 | 앱이 다중 테넌션을 지원합니까? | 예 |
-| 앱에 기밀 클라이언트가 있습니까? | 아니요 |
+| 앱에 기밀 클라이언트가 있습니까? | 예 |
 | 앱에 등록된 URI(리디렉션 통합 리소스 식별자)를 모두 소유하고 있습니까? | 예 |
-| 앱의 경우 무엇을 사용하지 않으려습니까? | - 와일드카드 리디렉션 URI,<br/>- OAuth2 암시적 Flow, SPA에 필요한 경우가 아니면<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
-| 앱에서 웹 API가 노출됩니까? | 아니요 |
-| 앱에서 미리 보기 API를 사용합니까? | 아니요 |
+| 앱의 경우 무엇을 사용하지 않으려습니까? | - 와일드카드 리디렉션 URI,<br/><br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
+| 앱에서 웹 API가 노출됩니까? | 예 |
+| 권한 모델은 클라이언트 앱이 적절한 동의를 받는 경우에만 호출을 성공시킬 수 있습니까? | 예 |
+| 앱에서 미리 보기 API를 사용합니까? | 예 |
 | 앱에서 비하 API를 사용합니까? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
