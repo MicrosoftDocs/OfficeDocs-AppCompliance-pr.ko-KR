@@ -1,12 +1,12 @@
 ---
-title: salesforce.com 판매포스 신청 정보
+title: Application Information for Salesforce by salesforce.com
 ms.author: elmalova
 author: elenamalova
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: SALESforce에 대한 사용 가능한 모든 보안 및 규정 준수 정보 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보, CSA STAR 레지스트리의 보안/규정 준수 정보.
+description: Salesforce에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 29c00595a806c5144b34701ba54860353f9cafc0
 ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
@@ -19,25 +19,25 @@ ms.locfileid: "52553709"
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>최종 업데이트: 2019년 12월 16일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2019년 12월 16일</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104379334" target="_blank">앱소스에서 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104379334" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-salesforce.com Microsoft에 제공한 정보:
+Microsoft에 salesforce.com 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 이름 | Salesforce |
 | ID | WA104379334 |
-| 지원되는 Office 365 클라이언트 | Outlook 2013 년 이후 Windows, Outlook 2016 또는 이후 Mac에서 웹에서 Outlook |
+| Office 365 클라이언트 지원 | Outlook 2013 이상을 Windows, Outlook 2016 Mac 이상, Outlook 웹용 |
 | 파트너 회사 이름 | salesforce.com |
-| 파트너 웹사이트의 URL | [https://www.salesforce.com/](https://www.salesforce.com/) |
-| 개인정보 처리방침의 URL | [https://www.salesforce.com/company/privacy](https://www.salesforce.com/company/privacy) |
-| 이용 약관의 URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474843361/Product_42949677285/Asset_540860c0-685e-4047-9f3a-082a748e57a2/LIGHTNINGFOROUTLOOKOrderFormSu.doc) |
+| 파트너 웹 사이트의 URL | [https://www.salesforce.com/](https://www.salesforce.com/) |
+| 개인 정보 취급 방침의 URL | [https://www.salesforce.com/company/privacy](https://www.salesforce.com/company/privacy) |
+| 사용 약관 URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474843361/Product_42949677285/Asset_540860c0-685e-4047-9f3a-082a748e57a2/LIGHTNINGFOROUTLOOKOrderFormSu.doc) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,46 +47,46 @@ salesforce.com Microsoft에 제공한 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 이 앱이 조직 데이터를 수집하고 저장하는 방법과 앱이 수집하는 데이터에 대한 조직에서 가질 수 있는 제어에 대한 salesforce.com 제공되었습니다.
+이 정보는 이 salesforce.com 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph 을 사용하여 데이터 액세스
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
-이 [앱에서 필요한 Microsoft Graph 권한을 나열합니다.](https://docs.microsoft.com/graph/permissions-reference)
+이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->이 응용 프로그램은 Microsoft Graph 사용하지 않습니다.
+>이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
-Microsoft 365 기반으로 구축된 앱 및 추가 기능을 사용하면 Microsoft Graph 이외의 추가 Microsoft API를 사용하여 조직 식별 정보(OII)를 수집하거나 처리할 수 있습니다. 이 응용 프로그램이 사용하는 마이크로 소프트 이외의 마이크로 소프트 API를 나열할 Graph.
+기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
->| **API** |  **OII가 수집되고 있습니까?** |  **어떤 OII가 수집됩니까?** | **OII수집을 위한 정당성?** | **OII가 저장되어 있습니까?** | **OII를 저장하는 정당화?** |
+>| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| JavaScript API for Office | 예 | 추가 기능은 Office.js 및 EWS의 함수를 사용하여 Outlook 사용자가 Salesforce에 로그인하기로 결정한 이메일에 대한 콘텐츠 및 첨부 파일을 복사합니다. 비슷한 기능이 캘린더 측에서 사용되어 예약을 Salesforce에 기록합니다. |  | 추가 기능은 getUserIdentityTokenAsync와 같은 기능을 사용하여 현재 Outlook 사용자 ID를 얻고, GetItem(.js 및 EWS)를 사용하여 Salesforce 레코드에 저장할 때 추가 속성 및 현재 전자 메일 메시지의 콘텐츠를 설정하고, GetAttachment(EWS)를 사용하여 Exchange 첨부 파일을 검색하고 페어링된 Salesforce 이메일, UpdateItem(.js) getfolder(.js)를 추가하여 초안을 작성하는 데 사용됩니다(.js., .js., 초안 작성)을 만듭니다. |  |
->| EWS(Exchange 웹 서비스) | 예 | 추가 기능은 Office.js 및 EWS의 함수를 사용하여 Outlook 사용자가 Salesforce에 로그인하기로 결정한 이메일에 대한 콘텐츠 및 첨부 파일을 복사합니다. 비슷한 기능이 캘린더 측에서 사용되어 예약을 Salesforce에 기록합니다. |  | 추가 기능은 getUserIdentityTokenAsync와 같은 기능을 사용하여 현재 Outlook 사용자 ID를 얻고, GetItem(.js 및 EWS)를 사용하여 Salesforce 레코드에 저장할 때 추가 속성 및 현재 전자 메일 메시지의 콘텐츠를 설정하고, GetAttachment(EWS)를 사용하여 Exchange 첨부 파일을 검색하고 페어링된 Salesforce 이메일, UpdateItem(.js) getfolder(.js)를 추가하여 초안을 작성하는 데 사용됩니다(.js., .js., 초안 작성)을 만듭니다. |  |
+>| JavaScript API for Office | 예 | 추가 기능은 Office.js 및 EWS의 기능을 사용하여 사용자가 Salesforce에 로그인하기로 결정한 전자 메일에 대한 Outlook 첨부 파일을 복사합니다. 일정 쪽에서 유사한 기능을 사용하여 약속을 Salesforce에 기록합니다. |  | 추가 기능은 getUserIdentityTokenAsync와 같은 함수를 사용하여 현재 Outlook 사용자 ID, GetItem(.js 및 EWS)을 사용하여 Salesforce 레코드에 저장하는 경우 현재 전자 메일 메시지의 내용과 AdditionalProperties를 구하고 설정하며, EWS(GetAttachment)를 사용하여 Exchange 첨부 파일을 검색하고 쌍을 이루는 Salesforce 전자 메일인 UpdateItem(.js), GetFolder(.js)에 추가하여 초안 메시지를 만드는 데 사용되는 CreateItem(.js)을 가져올 수 있습니다. |  |
+>| EWS(Exchange 웹 서비스) | 예 | 추가 기능은 Office.js 및 EWS의 기능을 사용하여 사용자가 Salesforce에 로그인하기로 결정한 전자 메일에 대한 Outlook 첨부 파일을 복사합니다. 일정 쪽에서 유사한 기능을 사용하여 약속을 Salesforce에 기록합니다. |  | 추가 기능은 getUserIdentityTokenAsync와 같은 함수를 사용하여 현재 Outlook 사용자 ID, GetItem(.js 및 EWS)을 사용하여 Salesforce 레코드에 저장하는 경우 현재 전자 메일 메시지의 내용과 AdditionalProperties를 구하고 설정하며, EWS(GetAttachment)를 사용하여 Exchange 첨부 파일을 검색하고 쌍을 이루는 Salesforce 전자 메일인 UpdateItem(.js), GetFolder(.js)에 추가하여 초안 메시지를 만드는 데 사용되는 CreateItem(.js)을 가져올 수 있습니다. |  |
 
-#### <a name="non-microsoft-services-used"></a>사용되지 Microsoft 서비스
+#### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
-앱이 Microsoft 가 아닌 서비스와 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 명분을 포함합니다.
+앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
->비Microsoft 서비스 사용되지 않습니다.
+>비영구 Microsoft 서비스 사용되지 않습니다.
 
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
 
-조직 식별 정보(OII) 또는 최종 사용자 식별 정보(EUII)가 이 응용 프로그램의 원격 분석 또는 로그에 표시됩니까? 그렇다면 저장되는 데이터와 보존 및 제거 정책은 무엇입니까?
+이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
 >아니요
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 
-조직의 관리자가 파트너 시스템에서 자신의 정보를 제어하는 방법을 설명해 보세요. 예를 들어 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
+조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->Salesforce 저장소는 보안 가이드에 설명되어 있습니다. https://resources.docs.salesforce.com/222/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf
+>Salesforce 저장소에 대한 설명은 의 보안 가이드에 설명되어 있습니다. https://resources.docs.salesforce.com/222/latest/en-us/sfdc/pdf/salesforce_security_impl_guide.pdf
 
-#### <a name="human-review-of-organizational-information"></a>조직 정보의 인간 검토
+#### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
-이 앱에서 수집하거나 저장되는 조직 식별 정보(OII) 데이터를 검토하거나 분석하는 데 관여하는 사람이 있습니까?
+사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
 >아니요
 
@@ -96,7 +96,7 @@ Microsoft 365 기반으로 구축된 앱 및 추가 기능을 사용하면 Micro
 
 ::: zone pivot="mcas"
 
-[Microsoft Cloud App Security](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 카탈로그의 정보는 아래에 나타납니다.
+Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
 <iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/11114' frameborder='no' style='width: 100%;'></iframe>
 
