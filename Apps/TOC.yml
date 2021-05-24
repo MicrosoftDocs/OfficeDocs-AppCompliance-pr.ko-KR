@@ -22,7 +22,7 @@
           href: docs/certification.md
         - name: Microsoft 365 인증 제출 가이드
           href: docs/certification-submission-guide.md
-    - name: 앱 및 Microsoft Teams
+    - name: Microsoft Teams 앱
       href: teams/teams-apps.md
       items:
         - name: 365Projects
@@ -243,7 +243,7 @@
           href: teams/moduleq-q.md
         - name: qbo
           href: teams/unscrambl-qbo.md
-        - name: qChange 리더 환경
+        - name: qChange Leader 환경
           href: teams/qchange-software-solution-inc-leader-experience.md
         - name: Qubie
           href: teams/qubie.md
@@ -383,6 +383,8 @@
           href: teams/wide-ideas.md
         - name: Woobot
           href: teams/woobot.md
+        - name: Workboard
+          href: teams/workboard.md
         - name: Workday
           href: teams/workday.md
         - name: Wrike
@@ -403,7 +405,7 @@
           href: teams/zoho-corporation-private-limited-sign.md
         - name: Zoho Sprints
           href: teams/zoho-corporation-private-limited-sprints.md
-    - name: Microsoft Outlook
+    - name: Microsoft Outlook 앱
       href: outlook/outlook-apps.md
       items:
         - name: Adobe Sign Add-In for Outlook
@@ -450,7 +452,7 @@
           href: outlook/zoho-corporation-private-limited-campaigns-tool-for-marketing-automation.md
         - name: 전자 메일용 Zoho CRM
           href: outlook/zoho-corporation-private-limited-crm-for-email.md
-    - name: 앱 및 Microsoft Word
+    - name: Microsoft Word 앱
       href: word/word-apps.md
       items:
         - name: Word 및 Word용 Adobe Sign for word PowerPoint
@@ -481,7 +483,7 @@
           href: word/jiji-technologies-private-limited-wunder365-for-office.md
         - name: xLaw - 지식 관리 시스템
           href: word/evertn-xlaw-knowledge-management-system.md
-    - name: Microsoft PowerPoint
+    - name: Microsoft PowerPoint 앱
       href: powerpoint/powerpoint-apps.md
       items:
         - name: Word 및 Word용 Adobe Sign for word PowerPoint
@@ -502,7 +504,7 @@
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Office 문서용 Wrike
           href: powerpoint/wrike-inc-for-office-documents.md
-    - name: Microsoft SharePoint
+    - name: Microsoft SharePoint 앱
       href: sharepoint/sharepoint-apps.md
       items:
         - name: Agile Task Board for SharePoint Online
@@ -519,7 +521,7 @@
           href: sharepoint/konnect-email-parser.md
         - name: officeatwork | 사용자용 템플릿 SharePoint
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
-    - name: 앱 및 Microsoft Excel
+    - name: Microsoft Excel 앱
       href: excel/excel-apps.md
       items:
         - name: NetSuite용 CloudExtend Analytics
@@ -552,14 +554,14 @@
           href: excel/wrike-inc-for-office-documents.md
         - name: Wunder365 for Office
           href: excel/jiji-technologies-private-limited-wunder365-for-office.md
-    - name: 앱 및 Microsoft OneNote
+    - name: Microsoft OneNote 앱
       href: onenote/onenote-apps.md
       items:
         - name: officeatwork | 사용자용 콘텐츠 Office
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: Wunder365 for Office
           href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
-    - name: 앱 및 Microsoft Project
+    - name: Microsoft Project 앱
       href: project/project-apps.md
       items:
         - name: officeatwork | 사용자용 템플릿 Office
