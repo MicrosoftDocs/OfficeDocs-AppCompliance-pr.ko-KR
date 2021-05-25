@@ -1,44 +1,45 @@
 ---
-title: 승인된 연락처의 텍스트에 대한 응용 프로그램 정보
+title: 작업보드의 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/10/2021
+ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 텍스트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: CSA STAR 레지스트리의 Workboard, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8d9e5cfd3b082692656c7bb9a67417564cf7ab57
+ms.openlocfilehash: ebbece019cea24042a54c69271da9ce0e4dca337
 ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629670"
+ms.locfileid: "52629725"
 ---
-# <a name="text"></a>텍스트
+# <a name="workboard"></a>Workboard
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 5월 10일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 5월 12일</p>
 
-* <a href="https://teams.microsoft.com/l/app/a622ceb4-b6e2-4557-8218-e22e80975ba4" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000383" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/28d0282b-3cd2-49f0-90bb-a016843750c6" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381599" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-승인된 연락처가 Microsoft에 제공한 정보:
+Workboard에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 텍스트 |
-| ID | WA200000383 |
+| 앱 이름 | Workboard |
+| ID | WA104381599 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | Approved Contact |
-| 파트너 웹 사이트의 URL | [www.approvedcontact.com](www.approvedcontact.com) |
-| 개인 정보 취급 방침의 URL | [https://sales.approvedcontact.com/wp-content/uploads/text-p...](https://sales.approvedcontact.com/wp-content/uploads/text-privacy-policy.pdf) |
-| 사용 약관 URL | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
+| 파트너 회사 이름 | Workboard |
+| 파트너 웹 사이트의 URL | [https://www.workboard.com](https://www.workboard.com) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.workboard.com/microsoft/](https://www.workboard.com/microsoft/) |
+| 개인 정보 취급 방침의 URL | [https://www.workboard.com/license/privacy-policy.html](https://www.workboard.com/license/privacy-policy.html) |
+| 사용 약관 URL | [https://www.workboard.com/license/terms_of_use_v1.php](https://www.workboard.com/license/terms_of_use_v1.php) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,7 +49,7 @@ ms.locfileid: "52629670"
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 승인된 연락처에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 제공됩니다.
+이 정보는 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 Workboard에서 제공했습니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
@@ -56,11 +57,7 @@ ms.locfileid: "52629670"
 
 >| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 위임 | 텍스트 BOT의 경우 인바운드 문자 메시지에 대한 향후 채널을 만들기 위한 팀 식별자를 캡처합니다. | 사용자를 위한 Teams 만들 수 있습니다. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| 전자 메일 | 위임 | 전자 메일 주소 | 사용자 연락처 정보 얻기 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| offline_access | 위임 | 새로 고침 토큰은 데이터베이스에 저장됩니다. | 데이터베이스로 토큰을 새로 고침하는 데 사용됩니다. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| openid | 위임 | 로그인 자격 증명 | 사용자가 로그인할 수 있습니다. 텍스트가 여러 채널로 Teams 수 있도록 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| profile | 위임 | 전자 메일 주소 | 사용자 연락처 정보 얻기 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| User.Read | 위임 | 전자 메일 주소 및 사용자의 ID.  사용자를 WorkBoard의 사용자 ID에 매핑하는 데 사용됩니다. | WorkBoard는 사용자의 ID만 데이터베이스에 저장 | User.Read |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -75,26 +72,26 @@ ms.locfileid: "52629670"
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| 데이터베이스로 토큰을 새로 고침하는 데 사용됩니다. | 전자 메일 주소를 저장합니다. | 데이터베이스로 토큰을 새로 고침하는 데 사용됩니다. |
+>| 사용자 ID는 WorkBord에서 사용자 Teams 알림에 사용됩니다. | 사용자 전자 메일 주소 및 ID | 사용자를 WorkBoard의 사용자 ID에 매핑하는 데 사용됩니다. |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->예, 라이선스 구매를 Commercial Appsource에 연결하기 위한 전자 메일 주소를 기록합니다. 로그에서 이 정보를 삭제할 수 있는 기능을 제공합니다.
+>응용 프로그램 원격 분석 또는 로그에 OII 또는 EUII가 나타나지 않습니다.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->개발자만 로그에 액세스할 수 있습니다. 모든 개발 플랫폼에 액세스하기 위해 2FA를 적용합니다.
+>WorkBoard는 파트너 시스템에 조직 데이터를 저장하지 않습니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요
+>예
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -104,9 +101,9 @@ ms.locfileid: "52629670"
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35752' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/29004' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35752" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/29004" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,20 +113,22 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 승인된 연락처에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+이 정보는 Workboard에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
+| 지원되는 정책 유형 나열 | WorkBoard는 앱 내에 적용된 자체 액세스 정책을 구현했습니다.  사용자의 조직, 팀 및 ID는 액세스 권한을 결정하는 데 사용됩니다. |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
 | 앱에 기밀 클라이언트가 있나요? | 아니요 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
-| 앱에서 웹 API를 노출하나요? | 아니요 |
+| 앱에서 웹 API를 노출하나요? | 예 |
+| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
 | 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 

@@ -2,24 +2,24 @@
 title: 승인된 연락처의 일정 BOT에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 05/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 일정 BOT에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7e34564a01f326390ce807373e33818bef877c3e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 48861f5f4c49a424a0740b0a56e6d85107326396
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553419"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629680"
 ---
 # <a name="calendar-bot"></a>Calendar BOT
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2019년 12월 16일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 5월 10일</p>
 
 * <a href="https://teams.microsoft.com/l/app/f02fddc9-159a-4d58-9800-d94c4f64bfe8" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381271" target="_blank">AppSource의 보기</a>
@@ -36,7 +36,7 @@ ms.locfileid: "52553419"
 | ID | WA104381271 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Approved Contact |
-| 파트너 웹 사이트의 URL | [https://approvedcontact.com](https://approvedcontact.com) |
+| 파트너 웹 사이트의 URL | [www.approvedcontact.com](www.approvedcontact.com) |
 | 개인 정보 취급 방침의 URL | [https://approvedcontact.com/Privacy%20Policy%20Bot.pdf](https://approvedcontact.com/Privacy%20Policy%20Bot.pdf) |
 | 사용 약관 URL | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 
@@ -76,7 +76,7 @@ ms.locfileid: "52553419"
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| 이 로스터를 사용하여 팀의 모든 사람이 열려 있는 시간의 모임을 예약하는 데 사용할 수 있는 무료/사용 시간을 비교합니다. | 전자 메일 주소를 저장하기만 하여 사용중인 시간/시간을 비교할 수 있습니다. |  |
+>| 이 로스터를 사용하여 팀의 모든 사람이 열려 있는 시간의 모임을 예약하는 데 사용할 수 있는 무료/사용 시간을 비교합니다. | 전자 메일 주소를 저장하기만 합니다. | 전자 메일 주소를 저장하기만 하여 사용중인 시간/시간을 비교할 수 있습니다. |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -113,3 +113,27 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 정보
+
+이 정보는 승인된 연락처에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
+| 앱에서 다중 테넌시를 지원하나요? | 예 |
+| 앱에 기밀 클라이언트가 있나요? | 아니요 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

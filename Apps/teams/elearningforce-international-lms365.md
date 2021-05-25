@@ -2,24 +2,23 @@
 title: ELEARNINGFORCE International의 LMS365에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/25/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: LMS365에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 44ed1631c7d0221b463f518f2494b7a8744eef30
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f8e10bb30857c055ab4916c4f944225d50ef44ba
+ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552219"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52629672"
 ---
 # <a name="lms365"></a>LMS365
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 2월 25일</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 3월 18일</p>
 
 * <a href="https://teams.microsoft.com/l/app/d136f17e-df84-47f2-97a4-13aa24c0c647" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381467" target="_blank">AppSource의 보기</a>
@@ -36,7 +35,7 @@ ELEARNINGFORCE International에서 Microsoft에 제공하는 정보:
 | ID | WA104381467 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | ELEARNINGFORCE International |
-| 파트너 웹 사이트의 URL | [https://www.elearningforce.com/teams](https://www.elearningforce.com/teams) |
+| 파트너 웹 사이트의 URL | [https://www.elearningforce.com](https://www.elearningforce.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.elearningforce.com/teams](https://www.elearningforce.com/teams) |
 | 개인 정보 취급 방침의 URL | [https://www.elearningforce.com/privacy](https://www.elearningforce.com/privacy) |
 | 사용 약관 URL | [https://www.elearningforce.com/LMS365-SaaS-Terms](https://www.elearningforce.com/LMS365-SaaS-Terms) |
@@ -72,7 +71,7 @@ ELEARNINGFORCE International에서 Microsoft에 제공하는 정보:
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| SharePoint를 입력하세요. | 아니요 |  |  |  |  |
+>| SharePoint | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
