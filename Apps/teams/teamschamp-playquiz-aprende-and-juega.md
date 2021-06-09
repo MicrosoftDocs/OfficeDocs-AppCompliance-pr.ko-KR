@@ -1,45 +1,45 @@
 ---
-title: 응용 프로그램 C.AI 봇의 응용 프로그램 contexxt.ai
+title: PlayQuiz에 대한 응용 프로그램 정보 - TeamsChamp의 Aprende &amp; Juega
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/06/2021
+ms.date: 05/11/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 C.AI 채택 봇, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: PlayQuiz - Aprende Juega, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 &amp; 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d5e1ad704a7b72a8d3717b7aa1b3d60b23099998
+ms.openlocfilehash: 76593cbcaa9d4284fab7b90e887090254d4ca414
 ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851598"
+ms.locfileid: "52852097"
 ---
-# <a name="cai-adoption-bot"></a>C.AI Adoption Bot
+# <a name="playquiz---aprende-amp-juega"></a>PlayQuiz - Aprende &amp; Juega
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 5월 6일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 5월 11일</p>
 
-* <a href="https://teams.microsoft.com/l/app/f5323aab-3063-46cb-b632-ee01d95de494" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002633" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/d36eac22-ff28-4392-9ba7-6e32151b9894" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002820" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-Microsoft에 contexxt.ai 정보:
+TeamsChamp에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | C.AI Adoption Bot |
-| ID | WA200002633 |
+| 앱 이름 | PlayQuiz - Aprende &amp; Juega |
+| ID | WA200002820 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | contexxt.ai |
-| 파트너 웹 사이트의 URL | [https://contexxt.ai](https://contexxt.ai) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://contexxt.ai/cai-adoption-bot/](https://contexxt.ai/cai-adoption-bot/) |
-| 개인 정보 취급 방침의 URL | [https://contexxt.ai/privacy-policy](https://contexxt.ai/privacy-policy) |
-| 사용 약관 URL | [https://contexxt.ai/terms-of-use](https://contexxt.ai/terms-of-use) |
+| 파트너 회사 이름 | TeamsChamp |
+| 파트너 웹 사이트의 URL | [https://www.encamina.com](https://www.encamina.com) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.teamsquiz.com](https://www.teamsquiz.com) |
+| 개인 정보 취급 방침의 URL | [https://www.teamsquiz.com/en/privacy-policy/](https://www.teamsquiz.com/en/privacy-policy/) |
+| 사용 약관 URL | [https://www.teamsquiz.com/en/terms/](https://www.teamsquiz.com/en/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ Microsoft에 contexxt.ai 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 이 contexxt.ai 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
+이 정보는 TeamsChamp에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대해 제공됩니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
@@ -57,13 +57,10 @@ Microsoft에 contexxt.ai 정보:
 
 >| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | application | 예를 들어 포커스 시간 동안이 아닌 올바른 시기에 팁을 보낼 수 있는 사용자의 가용성 | 예를 들어 포커스 시간 동안이 아닌 올바른 시기에 팁을 보낼 수 있는 사용자의 가용성 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| ChannelMessage.Read.All | application | Microsoft Teams 또는 비공개 또는 채널당 대화의 양과 같은 채널 메타데이터를 사용하여 채널의 사용 현황을 Teams | 개인 또는 Microsoft Teams 또는 채널당 대화 양과 같은 채널 메타데이터의 사용 현황을 분석하는 Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Chat.Read.All | application | Microsoft Teams 메시지의 사용 현황을 분석하기 위한 그룹 및 1:1 채팅의 수와 같은 Teams | 메시지가 Microsoft Teams 그룹 및 1:1 채팅의 수와 같이 대화의 사용 현황을 분석하기 위한 대화 메타데이터가 Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Directory.Read.All | application | 나중에 사용자에 대한 팁을 보낼 수 있는 사용자 개체 ID입니다. | 해시(가명) 나중에 사용자에게 팁을 보낼 수 있도록 하는 사용자의 개체 ID입니다. | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Group.Read.All | application | Microsoft Teams 사용 현황을 분석하기 위한 Teams 및 채널과 같은 Teams | Microsoft Teams 사용 현황을 분석하기 위한 Teams 및 채널과 같은 Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Mail.Read | application | Microsoft는 Exchange 그룹 및 1:1 전자 메일의 양과 같은 메타데이터를 사용하여 Exchange(전자 메일과 비교) Teams | 전자 메일 및 Exchange 수와 같은 Microsoft의 메타데이터와 1:1 전자 메일의 사용 현황을 분석하는 Exchange(전자 메일과 비교) Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| User.Read.All | application | Microsoft Teams 사용 현황을 분석하기 위해 사용자가 언급된 경우와 같이 채팅 및 대화 메타데이터를 Teams | 사용자가 Microsoft Teams 사용 현황을 분석하도록 언급된 경우와 같이 채팅 및 대화 메타데이터가 Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| User.Read | 위임 | 사용자의 이름, 전자 메일 및 프로필 사진 | 전자 메일, 앱과 이름을 보내 앱에 표시 | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
+>| User.ReadBasic.All | 위임 | 이름, 전자 메일 및 프로필 사진 | 해당 데이터를 저장하지 말고 leaderboad(응용 프로그램)에 표시하기 위해 해당 데이터를 읽음 | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
+>| openid | 위임 | 사용자의 기본 프로필 보기 | 전자 메일, 앱 및 이름에서 앱에 표시하기 위해 | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
+>| profile | 위임 | 사용자 기본 프로필 읽기 | 전자 메일, 앱 및 이름에서 앱에 표시하기 위해 | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -76,9 +73,7 @@ Microsoft에 contexxt.ai 정보:
 
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
->| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
->| 봇 프레임워크에서 사용자 ID는 사용자와 통신할 수 있게 자동으로 전송됩니다. C.AI 채택 분석의 추가 사용 데이터는 사용자에 대한 학습 환경을 개별화하는 데 사용되어 이러한 팁을 모르는 사용자에게 적절하고 유용한 팁만 전송합니다. | 아니요. |  |
+>EUII에 액세스하지 않습니다.
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -91,13 +86,13 @@ Microsoft에 contexxt.ai 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->구성은 사용자의 라이선스를 관리(할당/제거)할 수 있습니다. 조직은 라이선스를 관리하기 위한 다양한 역할을 할당할 수 있습니다. 관리자는 항상 데이터 삭제를 요청할 수 있습니다.
+>삭제, 보존, 감사, 보관, 앱의 모든 관리
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->네.
+>아니요.
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -107,9 +102,9 @@ Microsoft에 contexxt.ai 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37589' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/39114' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37589" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/39114" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -119,7 +114,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 contexxt.ai, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 기준을 처리하는 방법에 대한 정보를 제공합니다.
+이 정보는 TeamsChamp에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
@@ -132,6 +127,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 다중 테넌시를 지원하나요? | 네. |
 | 앱에 기밀 클라이언트가 있나요? | 네. |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 네. |
+| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
 | 앱에서 웹 API를 노출하나요? | 아니요. |
 | 앱에서 미리 보기 API를 사용하나요? | 아니요. |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
