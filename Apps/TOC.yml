@@ -129,8 +129,8 @@
           href: teams/enterprizid-inc-ezteam.md
         - name: FormMachines
           href: teams/enterprise-digital-machines-formmachines.md
-        - name: Freehand by InVision
-          href: teams/invision-app-freehand-by.md
+        - name: Freehand
+          href: teams/invisionapp-inc-freehand.md
         - name: Freshdesk
           href: teams/freshworks-inc-freshdesk.md
         - name: Fusion Remote
@@ -141,6 +141,8 @@
           href: teams/goodera.md
         - name: Google Analytics Insights
           href: teams/freevolut-ltd-google-analytics-insights.md
+        - name: GoToConnect
+          href: teams/logmein-inc-gotoconnect.md
         - name: Guru
           href: teams/guru-technologies.md
         - name: HeyTaco!
@@ -151,6 +153,8 @@
           href: teams/hibob-inc.md
         - name: HighSide
           href: teams/highside-inc.md
+        - name: Highspot
+          href: teams/highspot.md
         - name: Hoylu
           href: teams/hoylu.md
         - name: HunchBuzz
@@ -165,8 +169,6 @@
           href: teams/jetdocs.md
         - name: Jira Cloud
           href: teams/atlassian-jira-cloud.md
-        - name: Jive Communications
-          href: teams/jive-by-logmein-inc-communications.md
         - name: Karma
           href: teams/sliday-ltd-karma.md
         - name: Klaxoon
@@ -189,6 +191,8 @@
           href: teams/elearningforce-international-lms365.md
         - name: Lucidchart
           href: teams/lucid-software-lucidchart.md
+        - name: Lucidspark
+          href: teams/lucid-software-lucidspark.md
         - name: LuckyDraw
           href: teams/tony-xia-luckydraw.md
         - name: MailClark
@@ -207,7 +211,7 @@
           href: teams/iglobe-mipa-your-personal-assistant.md
         - name: monday.com
           href: teams/mondaycom.md
-        - name: Jira를 통해 작업 진행
+        - name: Jira를 사용하여 작업을 앞으로 이동
           href: teams/move-work-forward-with-jira.md
         - name: MURAL
           href: teams/mural.md
@@ -261,7 +265,7 @@
           href: teams/unscrambl-qbo.md
         - name: qChange Leader 환경
           href: teams/qchange-software-solution-inc-leader-experience.md
-        - name: 적격
+        - name: 정규화된
           href: teams/qualified.md
         - name: Qubie
           href: teams/qubie.md
@@ -430,33 +434,33 @@
     - name: Microsoft Outlook 앱
       href: outlook/outlook-apps.md
       items:
-        - name: Outlook용 Adobe Add-In 서명
+        - name: Adobe Sign Add-In for Outlook
           href: outlook/adobe-inc-sign-add-in-for-outlook.md
         - name: Altru Videos
           href: outlook/altru-videos.md
         - name: 승인된 연락처 일정
           href: outlook/approved-contact-calendars.md
-        - name: Outlook용 아사나
+        - name: 아사나 for Outlook
           href: outlook/asana-for-outlook.md
-        - name: harmon.ie Outlook용
+        - name: harmon.ie 대한 Outlook
           href: outlook/harmonie-corporation-for-outlook.md
         - name: 송장 및 시간 추적 - Zoho 송장
           href: outlook/zoho-corporation-private-limited-invoice-and-time-tracking.md
-        - name: iPlanner Office 365 Planner Outlook용 추가 기능
+        - name: iPlanner Office 365 Planner 추가 Outlook
           href: outlook/iglobe-iplanner-office-365-planner-add-in-for-outlook.md
         - name: iPlanner Pro Office 365
           href: outlook/iglobe-iplanner-pro-office-365.md
-        - name: Outlook용 지라 클라우드(공식)
+        - name: Jira Cloud for Outlook(공식)
           href: outlook/atlassiancom-jira-cloud-for-outlook-official.md
         - name: MIPA - 사용자만의 개인 도우미
           href: outlook/iglobe-mipa-your-own-personal-assistant.md
         - name: ngDesk
           href: outlook/all-blue-solutions-ngdesk.md
-        - name: Outlook용 Office2SharePoint
+        - name: Office2SharePoint for Outlook
           href: outlook/iglobe-office2sharepoint-for-outlook.md
-        - name: officeatwork | Outlook용 콘텐츠 선택기
+        - name: officeatwork | 사용자용 콘텐츠 Outlook
           href: outlook/officeatwork-officeatworkcontent-chooser-for-outlook.md
-        - name: Outlook용 OnePlaceMail
+        - name: OnePlaceMail for Outlook
           href: outlook/oneplace-solutions-oneplacemail-for-outlook.md
         - name: 우선 순위 매트릭스 - 전자 메일을 작업으로 전환
           href: outlook/appfluence-inc-priority-matrix-turn-emails-into-tasks.md
@@ -464,9 +468,9 @@
           href: outlook/salesforcecom-salesforce.md
         - name: ServiceDesk Plus for Email
           href: outlook/zoho-corporation-private-limited-servicedesk-plus-for-email.md
-        - name: Outlook용 StarLeaf 추가 기능
+        - name: 사용자용 StarLeaf 추가 Outlook
           href: outlook/starleaf-add-in-for-outlook.md
-        - name: Outlook용 Wrike
+        - name: Wrike for Outlook
           href: outlook/wrike-inc-for-outlook.md
         - name: Wunder365
           href: outlook/jiji-technologies-private-limited-wunder365.md
@@ -477,27 +481,27 @@
     - name: Microsoft Word 앱
       href: word/word-apps.md
       items:
-        - name: Word 및 PowerPoint용 Adobe Sign
+        - name: Word 및 Word용 Adobe Sign for word PowerPoint
           href: word/adobe-inc-sign-for-word-and-powerpoint.md
-        - name: Excel-Word 문서 자동화
+        - name: Excel 문서 자동화
           href: word/analysisplace-excel-to-word-document-automation.md
-        - name: harmon.ie Office용
+        - name: harmon.ie 대한 Office
           href: word/harmonie-corporation-for-office.md
         - name: Word용 Lucidchart 다이어그램
           href: word/lucid-software-inc-lucidchart-diagrams-for-word.md
         - name: Office2SharePoint for Office
           href: word/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork | Office용 콘텐츠 선택기
+        - name: officeatwork | 사용자용 콘텐츠 Office
           href: word/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork | Office용 디자이너
+        - name: officeatwork | Office
           href: word/officeatwork-officeatworkdesigner-for-office.md
-        - name: officeatwork | Office용 서식 파일 선택기
+        - name: officeatwork | 사용자용 템플릿 Office
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
-        - name: officeatwork | Office용 업로더
+        - name: officeatwork | 업로더 for Office
           href: word/officeatwork-officeatworkuploader-for-office.md
-        - name: officeatwork | Office 검증자
+        - name: officeatwork | 테스트용 검증 Office
           href: word/officeatwork-officeatworkverifier-for-office.md
-        - name: officeatwork | Office 마법사
+        - name: officeatwork | Office
           href: word/officeatwork-officeatworkwizard-for-office.md
         - name: Office 문서용 Wrike
           href: word/wrike-inc-for-office-documents.md
@@ -508,63 +512,63 @@
     - name: Microsoft PowerPoint 앱
       href: powerpoint/powerpoint-apps.md
       items:
-        - name: Word 및 PowerPoint용 Adobe Sign
+        - name: Word 및 Word용 Adobe Sign for word PowerPoint
           href: powerpoint/adobe-inc-sign-for-word-and-powerpoint.md
-        - name: Excel-Word 문서 자동화
+        - name: Excel 문서 자동화
           href: powerpoint/analysisplace-excel-to-word-document-automation.md
-        - name: harmon.ie Office용
+        - name: harmon.ie 대한 Office
           href: powerpoint/harmonie-corporation-for-office.md
-        - name: PowerPoint용 Lucidchart 다이어그램
+        - name: PowerPoint
           href: powerpoint/lucid-software-inc-lucidchart-diagrams-for-powerpoint.md
         - name: NoMore
           href: powerpoint/nomorehours-nomore.md
         - name: Office2SharePoint for Office
           href: powerpoint/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork | Office용 콘텐츠 선택기
+        - name: officeatwork | 사용자용 콘텐츠 Office
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork | Office용 서식 파일 선택기
+        - name: officeatwork | 사용자용 템플릿 Office
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Office 문서용 Wrike
           href: powerpoint/wrike-inc-for-office-documents.md
     - name: Microsoft SharePoint 앱
       href: sharepoint/sharepoint-apps.md
       items:
-        - name: SharePoint Online용 Agile 작업 보드
+        - name: Agile Task Board for SharePoint Online
           href: sharepoint/agile-is-task-board-for-sharepoint-online.md
-        - name: SharePoint용 FormMachines
-          href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-for-sharepoint.md
-        - name: SharePoint용 Gaggle
+        - name: FormMachines Connector for SharePoint
+          href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
+        - name: 2016에 대한 SharePoint
           href: sharepoint/gagglenet-inc-gaggle-for-sharepoint.md
         - name: iGlobe CRM 추가 기능
           href: sharepoint/iglobe-crm-add-ons.md
-        - name: iGlobe CRM Office 365 for Microsoft Office 365
+        - name: iGlobe CRM Office 365 Microsoft Office 365
           href: sharepoint/iglobe-crm-office-365-for-microsoft.md
         - name: Konnect eMail Parser
           href: sharepoint/konnect-email-parser.md
-        - name: officeatwork | SharePoint용 서식 파일 선택기
+        - name: officeatwork | 사용자용 템플릿 SharePoint
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
     - name: Microsoft Excel 앱
       href: excel/excel-apps.md
       items:
         - name: NetSuite용 CloudExtend Analytics
           href: excel/celigo-cloudextend-analytics-for-netsuite.md
-        - name: Excel-Word 문서 자동화
+        - name: Excel 문서 자동화
           href: excel/analysisplace-excel-to-word-document-automation.md
-        - name: harmon.ie Office용
+        - name: harmon.ie 대한 Office
           href: excel/harmonie-corporation-for-office.md
-        - name: Office 365 Planner용 iPlanner 보고 도구
+        - name: Planner용 iPlanner 보고 Office 365
           href: excel/iglobe-iplanner-reporting-tool-for-office-365-planner.md
-        - name: Excel용 지라 클라우드
+        - name: Jira Cloud for Excel
           href: excel/atlassiancom-jira-cloud-for-excel.md
-        - name: Excel용 Lucidchart 다이어그램
+        - name: Excel
           href: excel/lucid-software-inc-lucidchart-diagrams-for-excel.md
         - name: MeaningCloud Text Analytics for Excel
           href: excel/meaningcloud-text-analytics-for-excel.md
         - name: Office2SharePoint for Office
           href: excel/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork | Office용 콘텐츠 선택기
+        - name: officeatwork | 사용자용 콘텐츠 Office
           href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork | Office용 서식 파일 선택기
+        - name: officeatwork | 사용자용 템플릿 Office
           href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: QuickCells Graphs
           href: excel/cc-1c-quickcells-graphs.md
@@ -579,12 +583,12 @@
     - name: Microsoft OneNote 앱
       href: onenote/onenote-apps.md
       items:
-        - name: officeatwork | Office용 콘텐츠 선택기
+        - name: officeatwork | 사용자용 콘텐츠 Office
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: Wunder365 for Office
           href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
-    - name: Microsoft Project Apps
+    - name: Microsoft Project 앱
       href: project/project-apps.md
       items:
-        - name: officeatwork | Office용 서식 파일 선택기
+        - name: officeatwork | 사용자용 템플릿 Office
           href: project/officeatwork-officeatworktemplate-chooser-for-office.md
