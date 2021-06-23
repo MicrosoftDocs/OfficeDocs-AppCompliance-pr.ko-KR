@@ -7,19 +7,20 @@ keywords: microsoft 365 m365 앱 게시자 증명 인증
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: 199c8f82a894566a918c30e529cefdfb8c259a48
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: fd06ecd028876a862fa3938253817fae3ff0fea0
+ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071764"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53053442"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 앱 규정 준수 프로그램
 
 Microsoft 365 앱 규정 준수 프로그램은 앱 보안 및 규정 준수에 대한 3계층 접근 방식입니다. 각 계층은 다음을 기반으로 합니다. 사용자에게 Microsoft 365 에코시스템에서 앱을 사용하는 동안 필요한 신뢰도를 주는 계층화된 프로그램을 제공합니다. 현재 프로그램의 모든 계층은 자율적으로 처리되며 개발자의 재량에 따라 완료됩니다. 
 
-Microsoft의 미션: Microsoft 고객이 조직을 운영하는 응용 프로그램을 완전히 신뢰할 수 있게 합니다.
-  ![앱 규정 준수를 위한 3계층 방식](media/Microsoft-App-Compliance-Overview.png) 
+Microsoft의 임무: Microsoft 고객은 조직을 운영하는 데 사용되는 응용 프로그램을 완전히 신뢰합니다.
+
+  ![앱 규정 준수에 대한 3계층 접근 방식](media/Microsoft-App-Compliance-Overview.png) 
 
 ## <a name="publisher-verification"></a>게시자 확인
 
@@ -44,18 +45,12 @@ Microsoft의 미션: Microsoft 고객이 조직을 운영하는 응용 프로그
 - SharePoint
 - Project
 - OneNote
+- 웹 앱
 
 > [!IMPORTANT]
-> Microsoft는 제공한 정보를 확인하지 않습니다. 개발자가 단독으로 증명 문서 및 해당 앱 성능 데이터의 진위 여부, 정확도 및 무결성을 확인합니다. 
+> Microsoft는 제공된 정보를 확인하지 않습니다. 개발자가 단독으로 증명 문서 및 해당 앱 성능 데이터의 진위 여부와 정확도, 무결성을 확인합니다. 
 
 ## <a name="microsoft-365-certification"></a>Microsoft 365 인증
-[Microsoft 365 인증](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide)은 Microsoft Teams 앱을 사용할 때 데이터 및 개인 정보가 충분히 안전하며 보호됨을 조직에 보증하고 이에 대한 신뢰를 줍니다. 인증은 앱 솔루션이 Microsoft 기술과 호환되고 Cloud App Security 모범 사례를 준수하며, Microsoft에서 지원됨을 확인합니다.이 프로세스 동안 앱 개발자는 타사 평가자와 협업하여 조직 보안 및 규정 준수 표준을 확인합니다. Microsoft 365 인증은 다음 Microsoft 플랫폼과 통합되는 앱에 적용됩니다.
+[Microsoft 365 인증](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide)은 Microsoft Teams 앱을 사용할 때 데이터 및 개인 정보가 충분히 안전하며 보호됨을 조직에 보증하고 이에 대한 신뢰를 줍니다. 인증은 앱 솔루션이 Microsoft 기술과 호환되고 Cloud App Security 모범 사례를 준수하며, Microsoft에서 지원됨을 확인합니다.이 프로세스 동안 앱 개발자는 타사 평가자와 협업하여 조직 보안 및 규정 준수 표준을 확인합니다. Microsoft 365 인증은 Publisher 증명을 받을 수 있는 동일한 앱에 적용됩니다. 
 
--   Teams
--   Word
--   Excel
--   PowerPoint 
--   Outlook
-- SharePoint
-- Project
-- OneNote
+
