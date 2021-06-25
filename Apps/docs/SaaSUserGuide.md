@@ -6,11 +6,219 @@ description: 앱 준수 Microsoft 365 SaaS용 ISV 사용자 가이드
 keywords: 앱 준수 Microsoft 365 SaaS용 ISV 사용자 가이드
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: df46362239817d52e72696609bda5d8ff425c860
-ms.sourcegitcommit: 16a46884ab2ec6e3bbc4e4c89bc65c1a0556a928
+ms.openlocfilehash: 171aba5ad45ee0ae3d68af2cd1c704fed204de02
+ms.sourcegitcommit: d8a1524fc419a1ca33971b656197f0b6a5efe2b9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53095671"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53125958"
 ---
-# <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a><span data-ttu-id="79360-104">앱 준수 프로그램에 대한 파트너의 Microsoft 365 가이드 - SaaS</span><span class="sxs-lookup"><span data-stu-id="79360-104">Partner's User Guide for Microsoft 365 App Compliance Program - SaaS</span></span>
+# <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a><span data-ttu-id="58ab6-104">앱 준수 프로그램에 대한 파트너의 Microsoft 365 가이드 - SaaS</span><span class="sxs-lookup"><span data-stu-id="58ab6-104">Partner's User Guide for Microsoft 365 App Compliance Program - SaaS</span></span>
+
+## <a name="1-overview"></a><span data-ttu-id="58ab6-105">1. 개요</span><span class="sxs-lookup"><span data-stu-id="58ab6-105">1. Overview</span></span> 
+
+<span data-ttu-id="58ab6-106">이 문서는 파트너 센터 포털을 통해 SaaS 앱에 대한 Publisher 증명 및 인증을 획득하기 위한 Microsoft 365 앱 준수 프로그램에 등록된 파트너를 위한 단계별 사용자 가이드 역할을 합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-106">This document acts as a step-by-step user guide for our Partners, enrolled for Microsoft 365 App Compliance Program aiming to undergo Publisher Attestation and Certification for their SaaS apps, though Partner Center portal.</span></span>
+
+## <a name="2-acronyms--definitions"></a><span data-ttu-id="58ab6-107">2. 약어 & 정의</span><span class="sxs-lookup"><span data-stu-id="58ab6-107">2. Acronyms & Definitions</span></span>
+| | |
+|----|----|
+|<span data-ttu-id="58ab6-108">두문자어</span><span class="sxs-lookup"><span data-stu-id="58ab6-108">Acronym</span></span> | <span data-ttu-id="58ab6-109">정의</span><span class="sxs-lookup"><span data-stu-id="58ab6-109">Definition</span></span> |
+|<span data-ttu-id="58ab6-110">PC(파트너 센터)파트너 센터(https://partner.microsoft.com/)</span><span class="sxs-lookup"><span data-stu-id="58ab6-110">PC (Partner Center)Partner Center(https://partner.microsoft.com/)</span></span>|<span data-ttu-id="58ab6-111">모든 Microsoft 파트너를 위한 포털입니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-111">A portal for all Microsoft Partners.</span></span> <span data-ttu-id="58ab6-112">파트너가 파트너 센터에 로그인하여 설문 Self-Assessment 제출합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-112">A Partner logs in to Partner Center and submits Self-Assessment Questionnaire.</span></span> <span data-ttu-id="58ab6-113">Microsoft 365 앱 준수(microsoft.com)(https://partner.microsoft.com/en-us/dashboard/home)</span><span class="sxs-lookup"><span data-stu-id="58ab6-113">Partner Center for Microsoft 365 App Compliance (microsoft.com)(https://partner.microsoft.com/en-us/dashboard/home)</span></span>|
+|<span data-ttu-id="58ab6-114">ISV</span><span class="sxs-lookup"><span data-stu-id="58ab6-114">ISV</span></span> | <span data-ttu-id="58ab6-115">Independent Software Vendor a.k.a.</span><span class="sxs-lookup"><span data-stu-id="58ab6-115">Independent Software Vendor a.k.a.</span></span> <span data-ttu-id="58ab6-116">파트너 또는 개발자</span><span class="sxs-lookup"><span data-stu-id="58ab6-116">Partner or Developer</span></span> |
+|<span data-ttu-id="58ab6-117">앱 원본</span><span class="sxs-lookup"><span data-stu-id="58ab6-117">App Source</span></span> | <span data-ttu-id="58ab6-118">앱 카탈로그(AppSource) 예제: 이제 가상 에이전트(https://appsource.microsoft.com/en-us/product/office/WA104381816)</span><span class="sxs-lookup"><span data-stu-id="58ab6-118">Catalog of apps (AppSource) Example: Now virtual agent (https://appsource.microsoft.com/en-us/product/office/WA104381816)</span></span> |
+
+## <a name="3-publisher-attestation-workflow"></a><span data-ttu-id="58ab6-119">3. Publisher 워크플로</span><span class="sxs-lookup"><span data-stu-id="58ab6-119">3. Publisher Attestation Workflow</span></span>
+
+<span data-ttu-id="58ab6-120">**홈페이지:** 파트너가 파트너 센터에 로그인하면 방문 페이지입니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-120">**Home Page**: This is the landing page once a partner logs in to Partner Center.</span></span>
+
+![01](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/01.png)
+  
+<span data-ttu-id="58ab6-122">**1단계:** 페이지 왼쪽의 탐색 모음에서 a.</span><span class="sxs-lookup"><span data-stu-id="58ab6-122">**Step 1** : On the left side of the page, on the navigation bar: a.</span></span>    <span data-ttu-id="58ab6-123">상업용 마켓플레이스 b를 선택합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-123">Select Commercial Marketplace b.</span></span>    <span data-ttu-id="58ab6-124">개요 선택</span><span class="sxs-lookup"><span data-stu-id="58ab6-124">Select Overview</span></span>
+
+![02](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/02.png)
+  
+<span data-ttu-id="58ab6-126">'개요'를 선택하면 파트너는 앱 준수 프로그램을 시작하는 데 사용할 수 있는 앱 Microsoft 365 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-126">Upon selecting ‘Overview’, partner can see list of apps available to start the Microsoft 365 Compliance program.</span></span>
+  
+<span data-ttu-id="58ab6-127">**2단계:** 목록에서 앱을 선택하여 Publisher 프로세스를 시작할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-127">**Step 2**: Select an app from the list to begin the Publisher Attestation process.</span></span>
+
+ ![3 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/03.png)
+
+<span data-ttu-id="58ab6-129">앱을 선택하면 다른 탐색 모음에 '앱 준수' 옵션이 팝업됩니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-129">On selecting an app, another navigation bar will pop up with option ‘App Compliance’.</span></span>
+  
+<span data-ttu-id="58ab6-130">**3단계:**'앱 준수' 선택</span><span class="sxs-lookup"><span data-stu-id="58ab6-130">**Step 3**: Select 'App Compliance’</span></span>
+  
+![4 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/04.png)
+  
+<span data-ttu-id="58ab6-132">**4단계:** Self-Assessment 설문지 작성을 Publisher 작성합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-132">**Step 4**: Fill out the Self-Assessment Questionnaire for Publisher Attestation.</span></span>
+ 
+![5 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/05.png)
+  
+<span data-ttu-id="58ab6-134">**참고: 응용 프로그램을 업데이트/다시 제출할 예정인 경우 '제품 선택'에 대한 드롭다운을 클릭하고 앱을 선택하고 '복제'를 클릭합니다.**</span><span class="sxs-lookup"><span data-stu-id="58ab6-134">**Note: If you are coming back to update/re-submit your application, click dropdown for ‘Choose the product’, select the app and click ‘Clone’.**</span></span>
+  
+![6 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/06.png)
+  
+<span data-ttu-id="58ab6-136">**양식의 전체 Import/Export 사용하여 양식을 오프라인으로 완성하고 완료되면 가져올 수 있습니다.**</span><span class="sxs-lookup"><span data-stu-id="58ab6-136">**You can also leverage the Import/Export feature to complete the form offline and import it once completed.**</span></span>
+  
+ ![7 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/07.png)
+  
+ <span data-ttu-id="58ab6-138">**5단계:** 완료되면 '제출'을 클릭하면 평가가 '검토 중'이 됩니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-138">**Step 5**: Once completed, click on ‘Submit’, the assessment will now be ‘under review’.</span></span>
+  
+ ![8 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/08.png)
+  
+ ![9 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/09.png)
+  
+<span data-ttu-id="58ab6-141">**승인/거부 시나리오:**</span><span class="sxs-lookup"><span data-stu-id="58ab6-141">**Approve/Reject Scenarios:**</span></span>
+  
+<span data-ttu-id="58ab6-142">대답.</span><span class="sxs-lookup"><span data-stu-id="58ab6-142">A.</span></span>  <span data-ttu-id="58ab6-143">Publisher Attestation Rejection a.</span><span class="sxs-lookup"><span data-stu-id="58ab6-143">Publisher Attestation Rejection a.</span></span>  <span data-ttu-id="58ab6-144">거부할 경우 파트너는 다음을 할 수 있습니다. • 오류 보고서 보기 o 파트너에게 전자 메일을 통해 알림을 보내고, 파트너 센터에서 오류 보고서를 볼 수 있습니다 . 업데이트하고 질문서를 다시 제출할 Self-Assessment 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-144">In case of rejection, a Partner can: •   View failure report o Partner will be notified via email, and they can view the failure report in Partner Center •   Update and re-submit   Self-Assessment Questionnaire.</span></span>
+  
+ ![10 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/10.png)
+  
+<span data-ttu-id="58ab6-146">B.</span><span class="sxs-lookup"><span data-stu-id="58ab6-146">B.</span></span>  <span data-ttu-id="58ab6-147">Publisher 의거 승인 a.</span><span class="sxs-lookup"><span data-stu-id="58ab6-147">Publisher Attestation Approval a.</span></span>  <span data-ttu-id="58ab6-148">승인 시 파트너는 다음을 할 수 있습니다. • 증명 업데이트 및 다시 제출 • 완료된 Publisher 증명 보기 • M365 인증 프로세스 시작</span><span class="sxs-lookup"><span data-stu-id="58ab6-148">Upon approval, the partner can: •   Update and resubmit attestation •   View completed Publisher Attestation •   Start M365 Certification Process</span></span>
+  
+ ![11 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/11.png)
+  
+ ![12 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/12.png)
+  
+ <span data-ttu-id="58ab6-151">**Post Publisher Verification Approval: Example of link in AppSource for publisher attested apps.**</span><span class="sxs-lookup"><span data-stu-id="58ab6-151">**Post Publisher Verification Approval: Example of link in AppSource for publisher attested apps.**</span></span>
+  
+  ![13 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/13.png)
+  
+ ## <a name="4--microsoft-365-certification-workflow"></a><span data-ttu-id="58ab6-153">4. Microsoft 365 워크플로</span><span class="sxs-lookup"><span data-stu-id="58ab6-153">4.  Microsoft 365 Certification Workflow</span></span>
+  
+ <span data-ttu-id="58ab6-154">파트너는 확인란을 선택하고 '제출'을 클릭하여 인증 프로세스를 시작할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-154">A partner can begin the Certification process by selecting the checkbox and clicking ‘Submit’</span></span>
+  
+ ![14 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/14.png)
+  
+<span data-ttu-id="58ab6-156">**1단계:** 초기 문서 제출 모든 세부 정보를 입력하고 관련 문서를 업로드한 다음 '제출'을 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-156">**Step 1** : Initial Document Submission Fill out all the details, upload relevant documents and Click ‘Submit’</span></span>
+  
+ ![15](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/15.png)
+  
+ ![16 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/16.png)
+ 
+<span data-ttu-id="58ab6-159">제출을 클릭하면 제출이 검토됩니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-159">On clicking Submit, the submission will be under review.</span></span>
+ 
+![17 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/17.png)
+  
+ <span data-ttu-id="58ab6-161">초기 문서가 충분하지 않을 경우 분석가가 개정을 요청합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-161">An analyst requests a revision in case the initial documents are not sufficient or relevant.</span></span> <span data-ttu-id="58ab6-162">분석가가 파트너와 협력하여 승인을 위해 올바른 문서를 얻습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-162">The analyst will work with the Partner to help get the right documents for approval.</span></span>
+  
+![18 ](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/18.png)
+  
+<span data-ttu-id="58ab6-164">분석가가 초기 문서 제출을 승인하면 파트너는 제어 요구 사항을 제출해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-164">Once the analyst approves the initial document submission, the partner needs to submit the control requirements.</span></span>
+  
+<span data-ttu-id="58ab6-165">**2단계:** 제어 요구 사항 제출</span><span class="sxs-lookup"><span data-stu-id="58ab6-165">**Step 2**: Control Requirement Submission</span></span>
+  
+<span data-ttu-id="58ab6-166">모든 세부 정보를 입력하고 관련 문서를 업로드하고 '제출'을 클릭합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-166">Fill out all the details, upload relevant documents and Click ‘Submit’</span></span>
+
+![19](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/19.png)
+
+![20](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/20.png)
+
+![ 21](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/21.png)
+ 
+<span data-ttu-id="58ab6-170">제출을 클릭하면 제출이 검토됩니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-170">On clicking Submit, the submission will be under review.</span></span>
+  
+![22](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/22.png)
+  
+<span data-ttu-id="58ab6-172">분석가가 제어 요구 사항 문서가 충분하지 않은 경우 또는 관련성이 없는 경우 개정을 요청합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-172">An analyst requests a revision in case the control requirement documents are not sufficient or relevant.</span></span> <span data-ttu-id="58ab6-173">분석가가 파트너와 협력하여 승인을 위해 올바른 문서를 얻습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-173">The analyst will work with the Partner to help get the right documents for approval.</span></span>
+  
+![23](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/23.png)
+  
+![24](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/24.png)
+  
+![25](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/25.png)
+  
+<span data-ttu-id="58ab6-177">제출이 승인 표준을 충족하지 않는 경우 분석가가 제출을 거부합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-177">In case the submission does not satisfy the approval standards, the analyst will reject the submission.</span></span>
+  
+<span data-ttu-id="58ab6-178">파트너는 분석가와 협력하여 관련 정보 및 문서를 제공할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-178">The partner can work with the analyst to provide the relevant information and documents.</span></span>
+  
+![26](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/26.png)
+  
+<span data-ttu-id="58ab6-180">모든 보안 표준이 충족되고 나면 분석가가 제출을 승인하고 파트너가 인증을 Microsoft 365 합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-180">Once all the security standards have been met, the analyst will approve the submission and the partner will be Microsoft 365 Certified.</span></span>
+  
+![27](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/27.png)
+  
+<span data-ttu-id="58ab6-182">\*\*인증 후 승인: AppSource에서 Microsoft 365 인증 배지의 예입니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-182">\*\*Post Certification Approval: Example of Microsoft 365 certification badge in AppSource.</span></span> ** 
+  
+![28](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/28.png)
+  
+## <a name="5---microsoft-365-renewal-workflow"></a><span data-ttu-id="58ab6-184">5. Microsoft 365 갱신 워크플로:</span><span class="sxs-lookup"><span data-stu-id="58ab6-184">5.   Microsoft 365 Renewal Workflow:</span></span>
+  
+<span data-ttu-id="58ab6-185">**Microsoft 365Publisher 증명 및 인증 갱신 워크플로:**</span><span class="sxs-lookup"><span data-stu-id="58ab6-185">**Microsoft 365 Publisher Attestation and Certification Renewal Workflow:**</span></span>  
+
+<span data-ttu-id="58ab6-186">Microsoft 365 이제 앱 준수 프로그램은 연간 갱신 프로세스를 제공합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-186">Microsoft 365 App Compliance Program now offers an annual renewal process.</span></span> <span data-ttu-id="58ab6-187">이 프로세스 동안 앱 개발자는 기존 Publisher 증명 설문지 및 인증에 필요한 문서를 Microsoft 365 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-187">During this process, app developers can update their existing Publisher Attestation questionnaire and documents required for Microsoft 365 Certification.</span></span> 
+ 
+<span data-ttu-id="58ab6-188">**이점:**</span><span class="sxs-lookup"><span data-stu-id="58ab6-188">**Benefits:**</span></span> 
+
+  <span data-ttu-id="58ab6-189">• AppSource 및 팀 스토어에서 인증 배지를 유지 관리하여 앱을 다른 앱과 차별화합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-189">• Maintain your certification badge in AppSource and Team Store to differentiate your app from others.</span></span> 
+  
+  <span data-ttu-id="58ab6-190">• 인증된 앱을 사용할 때 고객의 신뢰를 높이기</span><span class="sxs-lookup"><span data-stu-id="58ab6-190">• Increase customer confidence in using your certified app.</span></span> 
+  
+  <span data-ttu-id="58ab6-191">• IT 관리자가 업데이트된 인증 정보를 통해 정보를 통해 의사 결정을 내리는 데 도움을 줄 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-191">• Help IT admins make informed decisions with updated certification information.</span></span>
+
+<span data-ttu-id="58ab6-192">새로운 갱신 프로세스는 원활한 환경을 제공하기 위해 파트너 https://partner.microsoft.com/en-us/dashboard/home) 센터()에서 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-192">The new renewal process is available in Partner Center(https://partner.microsoft.com/en-us/dashboard/home) to provide a seamless experience.</span></span> <span data-ttu-id="58ab6-193">갱신 미리 알림은 만료 날짜 90일 전부터 파트너 센터에 표시됩니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-193">A renewal reminder will be shown in Partner Center starting 90 days before the expiration date.</span></span> <span data-ttu-id="58ab6-194">만료 90일, 60일 및 30일 전에 전자 메일을 통해 주기적인 미리 알림도 전송됩니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-194">Periodic reminders will also be sent via email at 90, 60 and 30 days before expiration.</span></span> 
+ 
+<span data-ttu-id="58ab6-195">**계층 1: Publisher 갱신:**</span><span class="sxs-lookup"><span data-stu-id="58ab6-195">**Tier 1: Publisher Attestation Renewal:**</span></span>
+  
+<span data-ttu-id="58ab6-196">앱의 Publisher 답변을 매년 다시 제출해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-196">The app’s Publisher Attestation answers will need to be resubmitted on an annual basis.</span></span> <span data-ttu-id="58ab6-197">1년이 다가오면 전자 메일 미리 알림이 전송되고 스터스터가 다시 전송됩니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-197">When the attestation nears 1-year mark, an email reminder will be sent encouraging a resubmission of the attestation.</span></span> 
+ 
+<span data-ttu-id="58ab6-198">**1단계:** **갱신을** 선택하여 Publisher 갱신합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-198">**Step 1**: Select **Renew** to renew the Publisher Attestation.</span></span>
+  
+![29](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/29.png)
+  
+<span data-ttu-id="58ab6-200">**2단계:** 이전 Publisher 정보를 검토하고 필요한 경우 최신 정보로 업데이트합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-200">**Step 2**: Review the previous Publisher Attestation answers and update with the latest information as needed.</span></span> 
+  
+<span data-ttu-id="58ab6-201">준비가 Publisher 갱신에 대한 제출을 제출합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-201">Submit Publisher Attestation for renewal when ready.</span></span> <span data-ttu-id="58ab6-202">M365 앱 준수 분석가가 검토합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-202">It will be reviewed by an M365 App Compliance Analyst.</span></span>
+  
+![30](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/30.png)
+  
+<span data-ttu-id="58ab6-204">**Publisher 인증 갱신 승인됨:**</span><span class="sxs-lookup"><span data-stu-id="58ab6-204">**Publisher Attestation Renewal Approved:**</span></span>
+  
+![31](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/31.png)
+  
+<span data-ttu-id="58ab6-206">**Publisher 만료된 의거:**</span><span class="sxs-lookup"><span data-stu-id="58ab6-206">**Publisher Attestation Expired:**</span></span>
+  
+<span data-ttu-id="58ab6-207">Microsoft docs에서 앱의 Publisher 페이지를 유지 관리하기 위해 만료 날짜 전에 앱의 정보를 갱신해야 합니다. 또한 시기 적절한 갱신을 통해 AppSource 및 팀 스토어에서 앱의 배지 및 아이콘을 계속 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-207">The app’s information needs to be renewed before the expiration date to maintain the app’s Publisher Attestation page on the Microsoft docs. Timely renewal will also ensure continued badging and icons for the app in AppSource and Team Store.</span></span>
+  
+![32](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/32.png)
+  
+<span data-ttu-id="58ab6-209">**참고:** 만료되면 Publisher 갱신 프로세스를 언제든지 '갱신'을 클릭하여 시작할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-209">**Note**: Once expired, Publisher Attestation renewal process can be started anytime by clicking ‘Renew’.</span></span>
+ 
+<span data-ttu-id="58ab6-210">**계층 2: Microsoft 365 갱신**</span><span class="sxs-lookup"><span data-stu-id="58ab6-210">**Tier 2: Microsoft 365 Certification Renewal**</span></span>
+  
+<span data-ttu-id="58ab6-211">앱의 인증 정보는 매년 다시 제출해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-211">The app’s certification information needs to be resubmitted on an annual basis.</span></span> <span data-ttu-id="58ab6-212">이렇게 하면 현재 환경의 범위 내 컨트롤을 다시 확인해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-212">This will require revalidation of the in-scope controls of your current environment.</span></span> <span data-ttu-id="58ab6-213">인증이 1년이 다가오면 문서 및 증거를 다시 전송할 수 있는 전자 메일 알림이 전송됩니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-213">When the Certification nears 1-year mark an email notification will be sent encouraging a resubmission of the documents and evidence.</span></span>
+  
+![33](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/33.png)
+  
+<span data-ttu-id="58ab6-215">**인증 갱신 승인/거부 시나리오:**</span><span class="sxs-lookup"><span data-stu-id="58ab6-215">**Certification Renewal Approve/Reject Scenarios:**</span></span>
+ 
+<span data-ttu-id="58ab6-216">**시나리오 1:** 인증 갱신이 시작된 후 검토 중입니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-216">**Scenario 1:** Certification renewal has started and is under review.</span></span>
+  
+![34](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/34.png)
+
+<span data-ttu-id="58ab6-218">시나리오 1A: 인증 갱신 거부: 다음의 경우 인증이 거부될 수 있습니다. • 앱에 필요한 도구, 프로세스 또는 구성이 없는 경우 인증 기간 내에 필요한 변경 내용을 구현할 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-218">Scenario 1A: Certification renewal rejection: Certification may be rejected if: •   The app does not have the required tooling, processes, or configurations in place and will not be able to implement required changes within the certification window.</span></span> <span data-ttu-id="58ab6-219">• 앱에 미해결 취약점이 있으며 인증 기간 내에 수정될 수 없습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-219">•   The app has outstanding vulnerabilities in place and cannot be fixed within the certification window.</span></span> 
+  
+![35](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/35.png)
+  
+<span data-ttu-id="58ab6-221">시나리오 1B: 인증 갱신 승인</span><span class="sxs-lookup"><span data-stu-id="58ab6-221">Scenario 1B: Certification renewal is approved</span></span>
+
+![36](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/36.png)
+
+<span data-ttu-id="58ab6-223">**인증 만료:**</span><span class="sxs-lookup"><span data-stu-id="58ab6-223">**Certification Expiration:**</span></span>
+ 
+<span data-ttu-id="58ab6-224">Microsoft docs에서 앱의 인증 페이지를 유지 관리하기 위해 만료 날짜 전에 앱의 정보를 갱신해야 합니다. 또한 시기 적절한 갱신을 통해 AppSource 및 팀 스토어에서 앱의 배지 및 아이콘을 계속 사용할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-224">The app’s information needs to be renewed before the expiration date to maintain app’s Certification page on the Microsoft docs. Timely renewal will also ensure continued badging and icons for the app in AppSource and Team Store.</span></span>
+
+![5.5](https://github.com/MicrosoftDocs/OfficeDocs-AppCompliance-pr/blob/master/Apps/media/UserGuidePhotos/5.5.png)
+  
+<span data-ttu-id="58ab6-226">참고: 만료되면 Publisher '갱신'을 클릭하여 언제든지 증명 및 인증 프로세스를 시작할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="58ab6-226">Note: Once expired, Publisher Attestation and Certification process can be started anytime by clicking ‘Renew’.</span></span> 
+
+
+
+
+  
+
+  
+ 
+
+  
+
+ 
