@@ -6,12 +6,12 @@ description: Microsoft 365 인증 제출 가이드 세분화 보기
 keywords: 앱 인증 팀 Microsoft 365 준수 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5e99defd75573b1335975ddc19e851c50da7721f
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: 1ee9ba43ffe793f38438a26365cbb8cbc05aa2f3
+ms.sourcegitcommit: d8a1524fc419a1ca33971b656197f0b6a5efe2b9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053452"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53125968"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 인증 제출 가이드
 
@@ -104,9 +104,9 @@ IaaS 또는 PaaS가 배포되는 경우 이러한 배포 유형 내에서 호스
 
 |인구 크기              | 샘플                  |
 |---------------------------- |-------------------------|
-|<5|1|
-|>5 & <10|2|
-|>9 & <25|3|
+|<5|1 |
+|>5 & <10|2 |
+|>9 & <25|3 |
 |>24|4 |
 
 > [!NOTE]
@@ -233,6 +233,7 @@ GraphAPI 권한 유효성 검사는 앱/추가 기능에서 과도하게 허용�
 침투 테스트 보고서를 검토하여 아래 컨트롤에 설명된 다음과 같은 **** 자동 오류 기준을 충족하는 취약성은 없는지 검토합니다.
  
 **침투 테스트 요구 사항**
+
 ||**침투 테스트 컨트롤**|
 | -------------------------|-----------------------------|
 |**일반 조건**| **컨트롤**|
@@ -987,7 +988,7 @@ Microsoft는 응용 프로그램을 배포하고 다른 호스팅 환경 내에 
 
 ![워크플로](ProcessFlow.jpg)
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 [Microsoft 365 앱 준수 프로그램 개요](~/overview.md)  
 [앱 Microsoft 365 는 Publisher 무엇입니까?](~/docs/attestation.md)  
