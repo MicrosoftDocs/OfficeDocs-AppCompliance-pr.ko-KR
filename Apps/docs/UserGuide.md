@@ -6,74 +6,74 @@ description: 앱 준수 프로그램에 Microsoft 365 ISV 사용자 가이드
 keywords: 앱 준수 프로그램에 Microsoft 365 ISV 사용자 가이드
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: b8560fe46bbad2710001467e9edfeab72d6e0cb7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 437fcbc56309ca14566dbb95f470097af82c26bf
+ms.sourcegitcommit: bfabb191087786fae2b476e3f30861317886defa
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549935"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53179089"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>앱 준수 프로그램에 대한 Microsoft 365 사용자 가이드
 
-|||
+|작업 단계|제목|
 |---|---|
-|계층 1| 게시자 증명|
-|계층 2| Microsoft 365 인증|
+|1단계| 게시자 증명|
+|2단계| Microsoft 365 인증|
 
 ## <a name="1-overview"></a>1. 개요
 이 문서는 파트너 센터 포털을 통해 Microsoft 365 증명 및 인증을 획득하기 위한 Microsoft 365 Publisher 앱 준수 프로그램에 등록된 파트너를 위한 단계별 사용자 가이드 역할을 합니다.
 
 ## <a name="2-acronyms--definitions"></a>2. 약어 & 정의
-| | |
+| 두문자어 |정의 |
 |---|----|
-|두문자어 | 정의 |
-|PC(파트너 센터)|모든 Microsoft 파트너를 위한 포털입니다. 파트너가 파트너 센터에 로그인하고 설문 Self-Assessment 제출합니다. https://partner.microsoft.com/|
-|ISV|Independent Software Vendor A.k.a. 파트너 또는 개발자|
-|앱 원본| 앱 카탈로그(https://appsource.microsoft.com/)
-||예: 이제 가상 에이전트(https://appsource.microsoft.com/en-us/product/office/WA104381816)|
+|[PC(파트너 센터)](https://partner.microsoft.com/)|모든 Microsoft 파트너를 위한 포털입니다. 파트너가 파트너 센터에 로그인하여 설문 Self-Assessment 제출합니다. [앱 준수를](https://partner.microsoft.com/dashboard/home) Microsoft 365 파트너 센터|
+|ISV|독립 소프트웨어 공급업체. A.k.a. 파트너 또는 개발자|
+|앱 원본| [앱 카탈로그](https://appsource.microsoft.com/)
+||예: [이제 가상 에이전트](https://appsource.microsoft.com/product/office/WA104381816)|
 
 ## <a name="3---publisher-attestation-workflow"></a>3. Publisher 워크플로
 
 홈페이지: 파트너가 파트너 센터에 로그인하면 방문 페이지입니다.
 
-![파트너 센터 홈 화면](../media/Picture1.png)
+![파트너 센터 홈 화면](../media/UserGuidePhotos/01.png)
 
 **1단계:**   페이지 왼쪽의 탐색 모음에서 다음을 클릭합니다.
 1. 저장소 Office 선택
 1. 개요 선택
 
-![Office 왼쪽 탐색 창에서 스토어를 찾을 수 있습니다.](../media/Picture2.png)
+![Office 왼쪽 탐색 창에서 스토어를 찾을 수 있습니다.](../media/UserGuidePhotos/02.png)
 
 '개요'를 선택하면 파트너는 파트너 센터를 통해 제출된 앱 목록을 볼 수 있으며, 파트너는 파트너 준수 프로그램에 사용할 Microsoft 365 있습니다.
 
 **2단계:** 목록에서 앱을 선택하여 Publisher 프로세스를 시작할 수 있습니다.
 
-![사용할 응용 프로그램 선택](../media/Picture3.png)
+![사용할 응용 프로그램 선택](../media/UserGuidePhotos/03.png)
 
 앱을 선택하면 다른 탐색 모음에 '앱 준수' 옵션이 팝업됩니다.
 
 **3단계:**'앱 준수' 선택
 
-![앱 준수 선택](../media/App%20compliance%20step%203.png)
+![앱 준수 선택](../media/UserGuidePhotos/04.png)
 
 **4단계:** Self-Assessment Publisher 설문지 작성
 
-![Import/Export](../media/step4-new%20add.PNG)
+![게시자 증명](../media/UserGuidePhotos/5.5.PNG)
 
-![가져오기/내보내기](../media/NewFeature%20impExp.PNG)
+**참고:** 응용 프로그램을 업데이트/다시 제출할 예정인 경우 '제품 선택'에 대한 드롭다운을 클릭하고 앱을 선택하고 '복제'를 클릭합니다.
 
-**참고**:응용 프로그램을 업데이트/다시 제출할 예정인 경우 '제품 선택'에 대한 드롭다운을 클릭하고 앱을 선택하고 '복제'를 클릭합니다.
+![복제](../media/UserGuidePhotos/05.PNG)
 
-![CLone ](../media/clone.PNG)
- ![ Clone2](../media/clone2.PNG)
+양식의 전체 Import/Export 사용하여 양식을 오프라인으로 완성하고 완료되면 가져올 수 있습니다.
+
+![내보내기 기능 가져오기](../media/UserGuidePhotos/06.PNG)
 
 양식의 전체 Import/Export 사용하여 양식을 오프라인으로 완성하고 완료되면 가져올 수 있습니다. 
 
 **5단계:** 완료되면 '제출'을 클릭하면 평가가 '검토 중'이 됩니다.
 
-![Sumbit 클릭](../media/Picture8.png)
+![Sumbit 클릭](../media/UserGuidePhotos/07.png)
 
-![검토가 현재 진행 중입니다.](../media/Picture9.png)
+![검토가 현재 진행 중입니다.](../media/UserGuidePhotos/08.png)
 
 ### <a name="approvereject-scenarios"></a>승인/거부 시나리오:
 
@@ -81,11 +81,8 @@ ms.locfileid: "52549935"
 
 이 단계에서 거부하는 경우 파트너는 다음을 할 수 있습니다.
 -   실패 보고서 보기.
-    - 파트너는 파트너 센터 및 전자 메일을 통해 알림을 하게 됩니다.
--   응답 Self-Assessment 업데이트합니다.
--   자체 평가를 다시 제출합니다.
-
-![평가 업데이트 및 다시 제출](../media/Picture10.png)
+    - 파트너는 전자 메일을 통해 알림을 보내며 파트너 센터에서 오류 보고서를 볼 수 있습니다.
+-   Publisher 업데이트 및 다시 제출 평가 ![](../media/UserGuidePhotos/09.png)
 
 **B.Publisher 다시 제출**
 
