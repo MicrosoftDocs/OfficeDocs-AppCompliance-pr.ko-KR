@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Jira용 Smart 커넥트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6fb1be576d588727c75f14d72db48bc3a7a8aeb5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b8266a72ed6690bd4c9994b64bceccbe73d87013
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550738"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278970"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect for Jira
 
@@ -36,10 +36,10 @@ Yasoon GmbH에서 Microsoft에 제공한 정보:
 | ID | WA200002055 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | yasoon GmbH |
-| 파트너 웹 사이트의 URL | [https://yasoon.com](https://yasoon.com) |
+| 파트너 웹 사이트의 URL | [https://www.yasoon.com](https://www.yasoon.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://yasoon.com/microsoft-teams-for-jira/](https://yasoon.com/microsoft-teams-for-jira/) |
-| 개인 정보 취급 방침의 URL | [https://yasoon.com/privacy-policy-services](https://yasoon.com/privacy-policy-services) |
-| 사용 약관 URL | [https://yasoon.com/terms-of-use](https://yasoon.com/terms-of-use) |
+| 개인 정보 취급 방침의 URL | [https://yasoon.com/privacy-policy-services/](https://yasoon.com/privacy-policy-services/) |
+| 사용 약관 URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474846970/Product_42949680957/Asset_3f25ec80-eacb-454f-8cc2-eeee583b65c6/170825EULAOfficeaddinEN.doc) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: qbo에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 245ab6925aa77a005194e1badf31b926280454a1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7f3e775cca00c9e4517a292b1b66183f5417bf53
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551078"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53279060"
 ---
 # <a name="qbo"></a>qbo
 
@@ -36,7 +36,7 @@ Unscrambl에서 Microsoft에 제공한 정보:
 | ID | WA200001708 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Unscrambl |
-| 파트너 웹 사이트의 URL | [https://qbo.ai](https://qbo.ai) |
+| 파트너 웹 사이트의 URL | [https://unscrambl.com](https://unscrambl.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://qbo.ai](https://qbo.ai) |
 | 개인 정보 취급 방침의 URL | [https://qbo.ai/legal/](https://qbo.ai/legal/) |
 | 사용 약관 URL | [https://qbo.ai/legal/#service](https://qbo.ai/legal/#service) |
