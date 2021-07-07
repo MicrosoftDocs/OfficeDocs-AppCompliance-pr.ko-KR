@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Excel, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cbed2eb7aada40d5631391a9549600a4af3edebf
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 73212faa010d95233281a0cf7f120e9ee0fd1ffb
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549828"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281200"
 ---
 # <a name="jira-cloud-for-excel"></a>Jira Cloud for Excel
 
@@ -35,9 +35,9 @@ Microsoft에 Atlassian.com 정보:
 | ID | WA200000556 |
 | Office 365 클라이언트 지원 | Excel 2016 Mac, Excel 2016 이상, Windows 웹용 Excel |
 | 파트너 회사 이름 | Atlassian.com |
-| 파트너 웹 사이트의 URL | [https://www.atlassian.com/](https://www.atlassian.com/) |
-| 개인 정보 취급 방침의 URL | [https://www.atlassian.com/legal/privacy-policy](https://www.atlassian.com/legal/privacy-policy) |
-| 사용 약관 URL | [https://www.microsoft.com/en-us/store/standard-application-...](https://www.microsoft.com/en-us/store/standard-application-license-terms) |
+| 파트너 웹 사이트의 URL | [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
+| 개인 정보 취급 방침의 URL | [https://www.msteams-atlassian.com/privacy-policy/](https://www.msteams-atlassian.com/privacy-policy/) |
+| 사용 약관 URL | [https://www.msteams-atlassian.com/legal/](https://www.msteams-atlassian.com/legal/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

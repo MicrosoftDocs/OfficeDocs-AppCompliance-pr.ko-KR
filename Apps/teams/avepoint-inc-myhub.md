@@ -2,23 +2,23 @@
 title: Application Information for MyHub by AvePoint, inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/21/2020
+ms.date: 05/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: MyHub에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ccf5367ea692731bafcdc03d04ab4dad2e76c976
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: a45478d976bc03d682c1236d8f266bc7443973a0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553389"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282021"
 ---
 # <a name="myhub"></a>MyHub
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>개발자가 마지막으로 업데이트한 날짜: 2020년 12월 21일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 5월 25일</p>
 
 * <a href="https://teams.microsoft.com/l/app/c3ff6344-f6f0-4bfa-8697-b9d47b32ca4b" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000726" target="_blank">AppSource의 보기</a>
@@ -36,8 +36,9 @@ AvePoint, inc.에서 Microsoft에 제공한 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | AvePoint, inc. |
 | 파트너 웹 사이트의 URL | [https://www.avepoint.com](https://www.avepoint.com) |
-| 개인 정보 취급 방침의 URL | [https://www.avepoint.com/company/privacy-policy](https://www.avepoint.com/company/privacy-policy) |
-| 사용 약관 URL | [https://www.avepoint.com/company/terms-and-conditions/](https://www.avepoint.com/company/terms-and-conditions/) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.avepoint.com/products/cloud/myhub](https://www.avepoint.com/products/cloud/myhub) |
+| 개인 정보 취급 방침의 URL | [https://www.avepoint.com/privacy-policy/](https://www.avepoint.com/privacy-policy/) |
+| 사용 약관 URL | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,3 +114,28 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 정보
+
+이 정보는 AvePoint, inc.에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공합니다.
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
+| 앱에서 다중 테넌시를 지원하나요? | 예 |
+| 앱에 기밀 클라이언트가 있나요? | 예 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
+| 앱에서 웹 API를 노출하나요? | 예 |
+| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
+| 앱에서 미리 보기 API를 사용하나요? | 예 |
+| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

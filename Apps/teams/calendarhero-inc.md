@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CalendarHero에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d27858000c591c320cfadc301ea16ddf2fac89bd
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f3609c1e5884a49e4b52077295108622e10e7ff5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553334"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282001"
 ---
 # <a name="calendarhero"></a>CalendarHero
 
@@ -36,10 +36,10 @@ CalendarHero Inc에서 Microsoft에 제공한 정보:
 | ID | WA200000150 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | CalendarHero Inc |
-| 파트너 웹 사이트의 URL | [https://calendarhero.com](https://calendarhero.com) |
+| 파트너 웹 사이트의 URL | [https://zoom.ai](https://zoom.ai) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://faq.zoom.ai/](https://faq.zoom.ai/) |
-| 개인 정보 취급 방침의 URL | [https://calendarhero.com/privacy](https://calendarhero.com/privacy) |
-| 사용 약관 URL | [https://calendarhero.com/terms-of-use](https://calendarhero.com/terms-of-use) |
+| 개인 정보 취급 방침의 URL | [https://zoom.ai/privacy-policy](https://zoom.ai/privacy-policy) |
+| 사용 약관 URL | [https://zoom.ai/terms-of-use](https://zoom.ai/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

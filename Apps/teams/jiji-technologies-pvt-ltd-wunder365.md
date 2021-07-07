@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wunder365에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0399c1da90a5a744eaa23457a67f99b654de8303
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9ef4f9f97964d1d099676654ff2cfaaa11532167
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553029"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281821"
 ---
 # <a name="wunder365"></a>Wunder365
 
@@ -36,7 +36,7 @@ JiJi Technologies Pvt Ltd에서 Microsoft에 제공하는 정보:
 | ID | WA200000742 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | JiJi Technologies Pvt Ltd |
-| 파트너 웹 사이트의 URL | [https://www.wunder365.com](https://www.wunder365.com) |
+| 파트너 웹 사이트의 URL | [https://www.jijitechnologies.com](https://www.jijitechnologies.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.wunder365.com/wunder365-for-office](https://www.wunder365.com/wunder365-for-office) |
 | 개인 정보 취급 방침의 URL | [https://www.wunder365.com/teams-app-privacy-policy](https://www.wunder365.com/teams-app-privacy-policy) |
 | 사용 약관 URL | [https://www.wunder365.com/terms-of-service](https://www.wunder365.com/terms-of-service) |
@@ -88,7 +88,7 @@ JiJi Technologies Pvt Ltd에서 Microsoft에 제공하는 정보:
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->Azure Application Insights에 로그인하고 있습니다. 테넌트 ID 및 사용자의 전자 메일 ID를 로깅하여 문제를 식별하고 고객이 문제를 해결하는 데 도움이 됩니다.
+>Azure Application 2013에 로그인하고 Insights. 테넌트 ID 및 사용자의 전자 메일 ID를 로깅하여 문제를 식별하고 고객이 문제를 해결하는 데 도움이 됩니다.
 
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 ScanBuddy.ai, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b56bde795cbc679962c6df997d01293306d79b1f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e9fbc11281494fe1c5a12fbbe1124ea7953a24b7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552939"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281230"
 ---
 # <a name="scanbuddyai"></a>ScanBuddy.ai
 
@@ -36,9 +36,9 @@ LLC에서 microsoft에 Moblize.it 정보:
 | ID | WA200001305 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Moblize.it LLC |
-| 파트너 웹 사이트의 URL | [https://scanbuddy.ai](https://scanbuddy.ai) |
+| 파트너 웹 사이트의 URL | [https://admin.scanbuddy.app/](https://admin.scanbuddy.app/) |
 | 개인 정보 취급 방침의 URL | [https://scanbuddy.ai/scan-buddy-app-privacy-policy](https://scanbuddy.ai/scan-buddy-app-privacy-policy) |
-| 사용 약관 URL | [https://scanbuddy.ai/scanbuddy-ai-terms-of-use](https://scanbuddy.ai/scanbuddy-ai-terms-of-use) |
+| 사용 약관 URL | [https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC...](https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC&amp;p5=WA200001305&amp;cmu=en-US) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

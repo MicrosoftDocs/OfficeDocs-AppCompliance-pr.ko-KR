@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 Wrike에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1ee6c98b2513459c588100a9b3b19ba529d98af0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 5ee9a184fbe3c5358e79253a7227bbb69d62d4d4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553699"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282412"
 ---
 # <a name="wrike-for-outlook"></a>Wrike for Outlook
 
@@ -32,11 +32,11 @@ Wrike Inc.에서 Microsoft에 제공한 정보:
 |:----------------|:-------------|
 | 앱 이름 | Wrike for Outlook |
 | ID | WA104381120 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상을 Windows, Outlook 2016 or later on Mac, Outlook on iOS, Outlook on the web, Outlook on Android |
+| Office 365 클라이언트 지원 | Outlook 2013 이상은 Windows, Outlook 2016 이상, Outlook iOS, 웹용 Outlook, Android Outlook) |
 | 파트너 회사 이름 | Wrike Inc. |
-| 파트너 웹 사이트의 URL | [https://wrike.com/](https://wrike.com/) |
-| 개인 정보 취급 방침의 URL | [https://www.wrike.com/security/privacy](https://www.wrike.com/security/privacy) |
-| 사용 약관 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 파트너 웹 사이트의 URL | [https://www.wrike.com/](https://www.wrike.com/) |
+| 개인 정보 취급 방침의 URL | [https://www.wrike.com/privacy/](https://www.wrike.com/privacy/) |
+| 사용 약관 URL | [https://www.wrike.com/terms/](https://www.wrike.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

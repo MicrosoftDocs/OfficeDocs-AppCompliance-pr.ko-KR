@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TagTeam에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5c4976272cd5ee2f280544bf1bb6fb674ca5297d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b4e3fcf89e816c115887fa5bd0df38cc95d4ae2f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553344"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280950"
 ---
 # <a name="tagteam"></a>TagTeam
 
@@ -35,8 +35,8 @@ Smarter Business Solution GmbH에서 Microsoft에 제공하는 정보:
 | 앱 이름 | TagTeam |
 | ID | WA200002829 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 더욱 스마트해진 비즈니스 솔루션 GmbH |
-| 파트너 웹 사이트의 URL | [https://www.smarterbusiness.at/en](https://www.smarterbusiness.at/en) |
+| 파트너 회사 이름 | Smarter Business Solution GmbH |
+| 파트너 웹 사이트의 URL | [https://www.smarterbusiness.at](https://www.smarterbusiness.at) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.smarterbusiness.at/en/tagteam-help](https://www.smarterbusiness.at/en/tagteam-help) |
 | 개인 정보 취급 방침의 URL | [https://www.smarterbusiness.at/en/add-in-privacy-policy](https://www.smarterbusiness.at/en/add-in-privacy-policy) |
 | 사용 약관 URL | [https://www.smarterbusiness.at/en/terms-of-use-for-tagteam](https://www.smarterbusiness.at/en/terms-of-use-for-tagteam) |

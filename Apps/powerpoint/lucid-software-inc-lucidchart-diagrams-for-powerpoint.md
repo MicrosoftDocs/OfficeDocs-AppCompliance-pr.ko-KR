@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Lucidchart 다이어그램, 데이터 PowerPoint 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 024b2e925ba84967bf40754908a8d98baa1d705f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7fcf941323e998bd2e4ffba59f60410e745a1613
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553609"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282362"
 ---
 # <a name="lucidchart-diagrams-for-powerpoint"></a>PowerPoint
 
@@ -35,7 +35,7 @@ Lucid Software Inc에서 Microsoft에 제공하는 정보:
 | ID | WA104380117 |
 | Office 365 클라이언트 지원 | PowerPoint 2016 Mac, 웹용 PowerPoint, PowerPoint 2013 이상에서 Windows |
 | 파트너 회사 이름 | Lucid Software Inc |
-| 파트너 웹 사이트의 URL | [https://www.lucidchart.com/](https://www.lucidchart.com/) |
+| 파트너 웹 사이트의 URL | [https://www.lucidchart.com](https://www.lucidchart.com) |
 | 개인 정보 취급 방침의 URL | [https://www.lucidchart.com/pages/privacy](https://www.lucidchart.com/pages/privacy) |
 | 사용 약관 URL | [https://www.lucidchart.com/pages/tos](https://www.lucidchart.com/pages/tos) |
 

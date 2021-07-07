@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ecBooking, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1cdd05e4acfb1c7720af1a2e22b2c6d29425ca60
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b1806ca26bb20d1f4f24d87d7b617ad9ff108397
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552179"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281881"
 ---
 # <a name="ecbooking"></a>ecBooking
 
@@ -36,7 +36,7 @@ Expert Systems IVR(Asia) 2013에서 Co.Ltd. Microsoft에:
 | ID | WA200002096 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Expert Systems IVR(Asia) Co.Ltd. |
-| 파트너 웹 사이트의 URL | [https://www.esi-asia.com/](https://www.esi-asia.com/) |
+| 파트너 웹 사이트의 URL | [https://www.esi-asia.com](https://www.esi-asia.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/) |
 | 개인 정보 취급 방침의 URL | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/#1510822239639-efecac03-d43200b0-aa88) |
 | 사용 약관 URL | [https://www.esi-asia.com/product/intelligent-room-booking-s...](https://www.esi-asia.com/product/intelligent-room-booking-system/#1598241760681-29d114e0-5c2b) |

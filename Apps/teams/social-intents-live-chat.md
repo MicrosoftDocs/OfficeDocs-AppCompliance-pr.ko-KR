@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Live Chat, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9bc8ccb18fd8e43dd3d59f15fbc324f835e82d93
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 41df26af03dd56fb89ce316ecaa61d7af3ae7bf5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551488"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280930"
 ---
 # <a name="live-chat"></a>Live Chat
 
@@ -37,8 +37,8 @@ Microsoft에 대한 공유 의도에서 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Social Intents |
 | 파트너 웹 사이트의 URL | [https://www.socialintents.com](https://www.socialintents.com) |
-| 개인 정보 취급 방침의 URL | [https://www.socialintents.com/privacy.html](https://www.socialintents.com/privacy.html) |
-| 사용 약관 URL | [https://www.socialintents.com/tos.html](https://www.socialintents.com/tos.html) |
+| 개인 정보 취급 방침의 URL | []() |
+| 사용 약관 URL | []() |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

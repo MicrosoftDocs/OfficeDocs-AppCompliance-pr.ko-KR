@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Timeghost, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ac22c7368da817caf44157bad920221791989245
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1a6a6cda6c7f70fff9df1c5fa6dbfb009ea12ed1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552039"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281791"
 ---
 # <a name="timeghost"></a>timeghost
 
@@ -36,7 +36,7 @@ K&#246;Microsoft에 GmbH를 제공하는 정보:
 | ID | WA200001532 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | K&#246;llisch GmbH |
-| 파트너 웹 사이트의 URL | [https://timeghost.io/](https://timeghost.io/) |
+| 파트너 웹 사이트의 URL | [https://timeghost.io](https://timeghost.io) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://timeghost.io](https://timeghost.io) |
 | 개인 정보 취급 방침의 URL | [https://timeghost.io/privacy-policy/](https://timeghost.io/privacy-policy/) |
 | 사용 약관 URL | [https://timeghost.io/terms-and-conditions/](https://timeghost.io/terms-and-conditions/) |

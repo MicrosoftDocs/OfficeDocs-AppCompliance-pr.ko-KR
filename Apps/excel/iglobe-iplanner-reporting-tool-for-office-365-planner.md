@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 Office 365 Planner, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 iPlanner 보고 도구에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a577fcc75982703bfae0de740a7e69d9d13e509a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2b9797eb2b4ec271804711473a77f26a9cce4e13
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52548768"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281150"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>Planner용 iPlanner 보고 Office 365
 
@@ -34,9 +34,9 @@ iGlobe에서 Microsoft에 제공한 정보:
 | ID | WA104380686 |
 | Office 365 클라이언트 지원 | Excel 2016 Mac의 Windows, 웹용 Excel Excel 2016 이상에서 또는 그 이상을 사용할 수 있습니다. |
 | 파트너 회사 이름 | iGlobe |
-| 파트너 웹 사이트의 URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
-| 개인 정보 취급 방침의 URL | [https://iglobecrm.com/content/legal-information](https://iglobecrm.com/content/legal-information) |
-| 사용 약관 URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836912/Product_42949680354/Asset_9d620695-979f-49e4-bc56-98259b0cdeb2/EULAPlanner.pdf) |
+| 파트너 웹 사이트의 URL | [https://iglobecrm.com/](https://iglobecrm.com/) |
+| 개인 정보 취급 방침의 URL | [https://instassl.iglobecrm.com/legal-information](https://instassl.iglobecrm.com/legal-information) |
+| 사용 약관 URL | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

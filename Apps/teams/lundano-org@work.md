@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Org@Work, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 68f59afdc79ae00f1643f9f2ce5650e06392d2a3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6791c124a7d18f6a6d0554857cad1f35b6fd7781
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551979"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281761"
 ---
 # <a name="orgwork"></a>Org@Work
 
@@ -36,10 +36,10 @@ Lundano에서 Microsoft에 제공한 정보:
 | ID | WA200002461 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Lundano |
-| 파트너 웹 사이트의 URL | [https://www.lundano.com/orgatwork/](https://www.lundano.com/orgatwork/) |
+| 파트너 웹 사이트의 URL | [https://www.lundano.com/en/](https://www.lundano.com/en/) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.lundano.com/orgatwork/index.html#](https://www.lundano.com/orgatwork/index.html#) |
 | 개인 정보 취급 방침의 URL | [https://cp.lundano.com/privacy_en.html](https://cp.lundano.com/privacy_en.html) |
-| 사용 약관 URL | [https://cp.lundano.com/terms.html](https://cp.lundano.com/terms.html) |
+| 사용 약관 URL | [https://cp.lundano.com/Terms_en.html](https://cp.lundano.com/Terms_en.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

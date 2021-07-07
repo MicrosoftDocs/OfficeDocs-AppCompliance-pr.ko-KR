@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Clever Ads, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0b092ef8ab27bec0a2f5c3bf294b301a71d1649a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d0ef9f59476133e673a0bf9edf99e63cfc424559
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552279"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281951"
 ---
 # <a name="clever-ads"></a>Clever Ads
 
@@ -36,9 +36,9 @@ Clever Ads에서 Microsoft에 제공하는 정보:
 | ID | WA200001182 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Clever Ads |
-| 파트너 웹 사이트의 URL | [https://www.cleverads.com/](https://www.cleverads.com/) |
-| 개인 정보 취급 방침의 URL | [https://www.cleverads.com/privacy-policy](https://www.cleverads.com/privacy-policy) |
-| 사용 약관 URL | [https://www.cleverads.com/terms-conditions](https://www.cleverads.com/terms-conditions) |
+| 파트너 웹 사이트의 URL | [https://cleverads.com](https://cleverads.com) |
+| 개인 정보 취급 방침의 URL | [https://cleverads.com/privacy-policy](https://cleverads.com/privacy-policy) |
+| 사용 약관 URL | [https://cleverads.com/terms-conditions](https://cleverads.com/terms-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

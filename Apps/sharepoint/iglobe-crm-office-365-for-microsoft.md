@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: cSA STAR 레지스트리의 iGlobe CRM Office 365 Microsoft Office 365, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b52fcc6ec5d5f5f36c11379c736e098048e58b6b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bdc9b8367c251e17fc055f0a3466e74b97215bbd
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553509"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281510"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-office-365"></a>iGlobe CRM Office 365 Microsoft Office 365
 
@@ -34,9 +34,9 @@ iGlobe에서 Microsoft에 제공한 정보:
 | ID | WA104379222 |
 | Office 365 클라이언트 지원 | SharePoint 2013 이상 |
 | 파트너 회사 이름 | iGlobe |
-| 파트너 웹 사이트의 URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| 파트너 웹 사이트의 URL | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | 개인 정보 취급 방침의 URL | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
-| 사용 약관 URL | [https://www.iglobecrm.com/content/iglobe-crm-office-365-end...](https://www.iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
+| 사용 약관 URL | [https://iglobecrm.com/content/iglobe-crm-office-365-end-use...](https://iglobecrm.com/content/iglobe-crm-office-365-end-user-license-agreement) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

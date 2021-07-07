@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: DisasterTech DICE에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 29d53402a9bbf635e83d6d262227a8363577e261
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c9aceaf48c36012ad8c6eb062c1161746d55da6a
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552239"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281923"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -36,7 +36,7 @@ DisasterTech에서 Microsoft에 제공한 정보:
 | ID | WA200001909 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | DisasterTech |
-| 파트너 웹 사이트의 URL | [https://dice.disastertech.com](https://dice.disastertech.com) |
+| 파트너 웹 사이트의 URL | [https://www.disastertech.com](https://www.disastertech.com) |
 | 개인 정보 취급 방침의 URL | [https://dice.disastertech.com/privacy.html](https://dice.disastertech.com/privacy.html) |
 | 사용 약관 URL | [https://dice.disastertech.com/tos.html](https://dice.disastertech.com/tos.html) |
 

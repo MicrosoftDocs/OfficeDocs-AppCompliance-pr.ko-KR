@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 아사나에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6c18bb20cdf753b1a5d998b3d7b7144f950f00c0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0f2e4ff08367c5b8694ca9b6f2cfce1a530a64c9
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553409"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282051"
 ---
 # <a name="asana"></a>Asana
 
@@ -36,7 +36,7 @@ ms.locfileid: "52553409"
 | ID | WA200001727 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Asana |
-| 파트너 웹 사이트의 URL | [https://asana.com/?noredirect&amp;utm_source=asana_inproduct &amp; ut...](https://asana.com/?noredirect&amp;utm_source=asana_inproduct&amp;utm_medium=organic_inproduct&amp;utm_campaign=msft_teams_launch) |
+| 파트너 웹 사이트의 URL | [https://asana.com](https://asana.com) |
 | 개인 정보 취급 방침의 URL | [https://asana.com/terms#privacy-policy](https://asana.com/terms#privacy-policy) |
 | 사용 약관 URL | [https://asana.com/terms#terms-of-service](https://asana.com/terms#terms-of-service) |
 

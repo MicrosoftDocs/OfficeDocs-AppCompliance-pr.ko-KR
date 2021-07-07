@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Q에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3424ac372f46be0fc9834611fb1a0d57c69831a4
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2bdf876ddb9ab17d9fa8616edda8b849e0d85df7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551908"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281751"
 ---
 # <a name="q"></a>Q
 
@@ -37,8 +37,8 @@ ModuleQ에서 Microsoft에 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | ModuleQ |
 | 파트너 웹 사이트의 URL | [https://moduleq.com](https://moduleq.com) |
-| 개인 정보 취급 방침의 URL | [https://moduleq.com/privacy-policy/](https://moduleq.com/privacy-policy/) |
-| 사용 약관 URL | [https://moduleq.com/terms-of-service/](https://moduleq.com/terms-of-service/) |
+| 개인 정보 취급 방침의 URL | [https://moduleq.com/privacy-policy](https://moduleq.com/privacy-policy) |
+| 사용 약관 URL | [https://moduleq.com/terms-of-service](https://moduleq.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

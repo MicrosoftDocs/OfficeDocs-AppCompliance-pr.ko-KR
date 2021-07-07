@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Trivia, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fbd1b9f5f308f3690a9d55a40993ba6122e8f81b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6facd1d8622d78a616329030cef6ffa83bf3bec3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553849"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280900"
 ---
 # <a name="trivia"></a>Trivia
 
@@ -36,7 +36,7 @@ Springworks HR Tech에서 Microsoft에 제공하는 정보:
 | ID | WA200001956 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Springworks HR Tech |
-| 파트너 웹 사이트의 URL | [https://springworks.in/](https://springworks.in/) |
+| 파트너 웹 사이트의 URL | [https://www.springworks.in](https://www.springworks.in) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.springworks.in/trivia](https://www.springworks.in/trivia) |
 | 개인 정보 취급 방침의 URL | [https://trivia.springworks.in/policy](https://trivia.springworks.in/policy) |
 | 사용 약관 URL | [https://trivia.springworks.in/tnc](https://trivia.springworks.in/tnc) |

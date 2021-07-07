@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 송장 및 시간 추적에 사용할 수 있는 모든 보안 및 규정 준수 정보 - Zoho Invoice, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0909b65a673af03aa6b190d181f1572ab84b5e77
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0a3e8afb7be998c2fba33e7c4320956cbd990ef3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553669"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281580"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>송장 및 시간 추적 - Zoho 송장
 
@@ -33,11 +33,11 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 |:----------------|:-------------|
 | 앱 이름 | 송장 및 시간 추적 - Zoho 송장 |
 | ID | WA104381067 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상을 Windows, Outlook 2016 Mac 이상, Outlook 웹용 |
+| Office 365 클라이언트 지원 | Outlook 2013 이상은 Mac, Windows Outlook 2016 이상에서 웹용 Outlook |
 | 파트너 회사 이름 | Zoho Corporation Private Limited |
 | 파트너 웹 사이트의 URL | [https://www.zoho.com/](https://www.zoho.com/) |
-| 개인 정보 취급 방침의 URL | [https://zoho.com/privacy.html](https://zoho.com/privacy.html) |
-| 사용 약관 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 개인 정보 취급 방침의 URL | [https://www.zoho.com/privacy.html](https://www.zoho.com/privacy.html) |
+| 사용 약관 URL | [https://www.zoho.com/terms.html](https://www.zoho.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

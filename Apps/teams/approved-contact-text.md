@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 텍스트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8d9e5cfd3b082692656c7bb9a67417564cf7ab57
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: f87ac4854d4301ea194d7b906f9b417e268a9df3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629670"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281430"
 ---
 # <a name="text"></a>텍스트
 
@@ -36,7 +36,7 @@ ms.locfileid: "52629670"
 | ID | WA200000383 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Approved Contact |
-| 파트너 웹 사이트의 URL | [www.approvedcontact.com](www.approvedcontact.com) |
+| 파트너 웹 사이트의 URL | [https://www.approvedcontact.com](https://www.approvedcontact.com) |
 | 개인 정보 취급 방침의 URL | [https://sales.approvedcontact.com/wp-content/uploads/text-p...](https://sales.approvedcontact.com/wp-content/uploads/text-privacy-policy.pdf) |
 | 사용 약관 URL | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 

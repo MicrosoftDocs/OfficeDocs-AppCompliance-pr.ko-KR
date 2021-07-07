@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 askR.ai, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: df24c20ad60cd7e72946db7a8404019903b4a483
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e88abce5e865bdd3a09d4593b882070c013bbc93
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552379"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281420"
 ---
 # <a name="askrai"></a>askR.ai
 
@@ -36,7 +36,7 @@ Microsoft에 askR.ai 정보:
 | ID | WA200001583 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | askR.ai |
-| 파트너 웹 사이트의 URL | [https://en.askr.ai/](https://en.askr.ai/) |
+| 파트너 웹 사이트의 URL | [https://en.askr.ai](https://en.askr.ai) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://en.askr.ai](https://en.askr.ai) |
 | 개인 정보 취급 방침의 URL | [https://en.askr.ai/privacy-policy-askr-ai](https://en.askr.ai/privacy-policy-askr-ai) |
 | 사용 약관 URL | [https://en.askr.ai/terms-of-use-askr-ai](https://en.askr.ai/terms-of-use-askr-ai) |

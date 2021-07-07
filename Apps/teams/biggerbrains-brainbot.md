@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: BrainBot, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b5eec3d8d487cdc79f8ecd180fe848812889d19d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2b2d399cc59b9df98708a41720514a6ecb2d6dea
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553379"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282011"
 ---
 # <a name="brainbot"></a>BrainBot
 
@@ -36,9 +36,9 @@ Biggerbrains에서 Microsoft에 제공한 정보:
 | ID | WA104381981 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Biggerbrains |
-| 파트너 웹 사이트의 URL | [https://brainbot.ai](https://brainbot.ai) |
+| 파트너 웹 사이트의 URL | [https://getbiggerbrains.com](https://getbiggerbrains.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://brainbot.ai](https://brainbot.ai) |
-| 개인 정보 취급 방침의 URL | [https://brainbot.ai/privacypolicy/](https://brainbot.ai/privacypolicy/) |
+| 개인 정보 취급 방침의 URL | [https://www.brainbot.ai/privacypolicy/](https://www.brainbot.ai/privacypolicy/) |
 | 사용 약관 URL | [https://brainbot.ai/terms/](https://brainbot.ai/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

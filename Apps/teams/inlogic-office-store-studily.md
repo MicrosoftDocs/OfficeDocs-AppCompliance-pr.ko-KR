@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Studi.ly, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 26a89739809e0d398db2a823bd714aa06a2d210d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: bc3307db955cf9f124442f08fc315c1cd8158659
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553059"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281240"
 ---
 # <a name="studily"></a>Studi.ly
 
@@ -36,9 +36,9 @@ inLogic-Office Microsoft에 제공되는 정보:
 | ID | WA200001668 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | inLogic-Office Store |
-| 파트너 웹 사이트의 URL | [https://www.studi.ly](https://www.studi.ly) |
-| 개인 정보 취급 방침의 URL | [https://www.studi.ly/Studily_Privacy_Statement.pdf](https://www.studi.ly/Studily_Privacy_Statement.pdf) |
-| 사용 약관 URL | [https://www.studi.ly/Studily_Terms_Of_Use_v1.pdf](https://www.studi.ly/Studily_Terms_Of_Use_v1.pdf) |
+| 파트너 웹 사이트의 URL | [https://www.inlogic.dk](https://www.inlogic.dk) |
+| 개인 정보 취급 방침의 URL | [https://studi.ly/Studily_Privacy_Statement.pdf](https://studi.ly/Studily_Privacy_Statement.pdf) |
+| 사용 약관 URL | [https://studi.ly/Studily_Terms_Of_Use_v1.pdf](https://studi.ly/Studily_Terms_Of_Use_v1.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

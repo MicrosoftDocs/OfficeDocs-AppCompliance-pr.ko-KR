@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Board 커넥트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6b314c6cc51515efced101ba986555d859dc4182
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3b7e2eb64055713e06f927882aa7bbf56cf62991
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553189"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281902"
 ---
 # <a name="board-connect"></a>Board Connect
 
@@ -36,9 +36,9 @@ Microsoft에 제곱하여 제공되는 정보:
 | ID | WA200001955 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Engage Squared |
-| 파트너 웹 사이트의 URL | [https://boardconnect.app](https://boardconnect.app) |
+| 파트너 웹 사이트의 URL | [https://engagesq.com](https://engagesq.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://boardconnect.app](https://boardconnect.app) |
-| 개인 정보 취급 방침의 URL | [https://boardconnect.app/privacy](https://boardconnect.app/privacy) |
+| 개인 정보 취급 방침의 URL | [https://boardconnect.app/privacy/](https://boardconnect.app/privacy/) |
 | 사용 약관 URL | [https://boardconnect.app/terms](https://boardconnect.app/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

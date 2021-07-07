@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 62f32ce131b2ebdf827d8e11e24873fc552577a7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: da3e4b0f9a5219bcf0d652938f24397c12b7bdb4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552749"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280860"
 ---
 # <a name="stack-overflow-for-teams"></a>Stack Overflow for Teams
 
@@ -36,9 +36,9 @@ Microsoft에 대한 스택 오버플로에서 제공하는 정보:
 | ID | WA200000739 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Stack Overflow |
-| 파트너 웹 사이트의 URL | [https://stackoverflow.com](https://stackoverflow.com) |
+| 파트너 웹 사이트의 URL | [https://www.stackoverflow.com](https://www.stackoverflow.com) |
 | 개인 정보 취급 방침의 URL | [https://stackoverflow.com/legal/privacy-policy](https://stackoverflow.com/legal/privacy-policy) |
-| 사용 약관 URL | [https://stackoverflow.com/legal/terms-of-service/public](https://stackoverflow.com/legal/terms-of-service/public) |
+| 사용 약관 URL | [https://stackoverflow.com/legal/terms-of-service/teams](https://stackoverflow.com/legal/terms-of-service/teams) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

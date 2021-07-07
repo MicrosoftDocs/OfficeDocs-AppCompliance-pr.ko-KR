@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 승인된 연락처 일정, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6849ef81797483688f6e0fad69338b1a015748d0
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: 9bb96c6c6ba40df3e3d4d64c1f0e4033d7425e88
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629650"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281650"
 ---
 # <a name="approved-contact-calendars"></a>승인된 연락처 일정
 
@@ -33,9 +33,9 @@ ms.locfileid: "52629650"
 |:----------------|:-------------|
 | 앱 이름 | 승인된 연락처 일정 |
 | ID | WA104380294 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상을 Windows, Outlook 2016 Mac 이상, Outlook 웹용 |
+| Office 365 클라이언트 지원 | Outlook 2013 이상은 Mac, Windows Outlook 2016 이상에서 웹용 Outlook |
 | 파트너 회사 이름 | Approved Contact |
-| 파트너 웹 사이트의 URL | [www.approvedcontact.com](www.approvedcontact.com) |
+| 파트너 웹 사이트의 URL | [https://www.approvedcontact.com](https://www.approvedcontact.com) |
 | 개인 정보 취급 방침의 URL | [https://approvedcontact.com/Privacy%20Policy.pdf](https://approvedcontact.com/Privacy%20Policy.pdf) |
 | 사용 약관 URL | [https://approvedcontact.com/Terms%20of%20use.pdf](https://approvedcontact.com/Terms%20of%20use.pdf) |
 

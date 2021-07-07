@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 미리 알림, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8e2124ed68b2e9d750c8bc6a229eca0ccad200b5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 56999a3dc9723eab8b56fcdbc434283a7c864534
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552449"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282101"
 ---
 # <a name="remind"></a>Remind
 
@@ -36,9 +36,9 @@ Microsoft로 제한되는 88에 의해 제공되는 정보:
 | ID | WA200001444 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | 88 Ventures Limited |
-| 파트너 웹 사이트의 URL | [https://www.teamsreminder.app](https://www.teamsreminder.app) |
-| 개인 정보 취급 방침의 URL | [https://www.teamsreminder.app/#privacy](https://www.teamsreminder.app/#privacy) |
-| 사용 약관 URL | [https://www.teamsreminder.app/#terms](https://www.teamsreminder.app/#terms) |
+| 파트너 웹 사이트의 URL | [https://moonbearapp.com](https://moonbearapp.com) |
+| 개인 정보 취급 방침의 URL | [https://teamsreminder.app/#privacy](https://teamsreminder.app/#privacy) |
+| 사용 약관 URL | [https://teamsreminder.app/#terms](https://teamsreminder.app/#terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

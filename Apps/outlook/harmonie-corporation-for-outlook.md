@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 harmon.ie, Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f494dbc3857bd9fed2603cef3dbc6f76306510c1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 90b5ce81e0b2a0b0d0c9568facb456c5e87aad62
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553739"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281630"
 ---
 # <a name="harmonie-for-outlook"></a>harmon.ie 대한 Outlook
 
@@ -33,11 +33,11 @@ Microsoft에서 harmon.ie 제공하는 정보:
 |:----------------|:-------------|
 | 앱 이름 | harmon.ie 대한 Outlook |
 | ID | WA103004101 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상, Windows Outlook 2016 이상, Outlook iOS, Outlook Android, 웹 Outlook 사용 |
+| Office 365 클라이언트 지원 | Outlook 2013 이상은 Windows, Outlook 2016 이상, Outlook iOS, android, Outlook 웹용 Outlook |
 | 파트너 회사 이름 | harmon.ie Corporation |
-| 파트너 웹 사이트의 URL | [https://harmon.ie/](https://harmon.ie/) |
+| 파트너 웹 사이트의 URL | [https://harmon.ie](https://harmon.ie) |
 | 개인 정보 취급 방침의 URL | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
-| 사용 약관 URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474836605/Product_42949673246/Asset_37060a29-311b-4239-be49-1758aebbeb1a/harmonieEULA.pdf) |
+| 사용 약관 URL | [https://harmon.ie/legal/eula](https://harmon.ie/legal/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

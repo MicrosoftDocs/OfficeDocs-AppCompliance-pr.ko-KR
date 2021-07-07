@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sensei 랩 수행자, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6365c2a9916693a94c6af8ed107865872e8e000b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3b0d84d3da0d5fdf32854cd4b3b31b86662cb4b8
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551698"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281070"
 ---
 # <a name="sensei-labs-conductor"></a>Sensei Labs Conductor
 
@@ -36,8 +36,7 @@ Sensei Labs Inc.에서 Microsoft에 제공하는 정보:
 | ID | WA200001951 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Sensei Labs Inc. |
-| 파트너 웹 사이트의 URL | [https://www.senseilabs.com/conductor/?utm_campaign=msftteam...](https://www.senseilabs.com/conductor/?utm_campaign=msftteamslaunch&amp;utm_source=teamsappsource&amp;utm_medium=createdby&amp;utm_content=conductorlink) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [해당 없음](N/A) |
+| 파트너 웹 사이트의 URL | [https://www.senseilabs.com](https://www.senseilabs.com) |
 | 개인 정보 취급 방침의 URL | [https://www.senseilabs.com/conductor/conductor-privacy-poli...](https://www.senseilabs.com/conductor/conductor-privacy-policy/) |
 | 사용 약관 URL | [https://www.senseilabs.com/conductor/msft-teams-terms-condi...](https://www.senseilabs.com/conductor/msft-teams-terms-conditions/) |
 

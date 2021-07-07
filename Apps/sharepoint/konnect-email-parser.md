@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Konnect eMail Parser, 해당 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6341fbe817009d86dbd92256fed54c72ff89161f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 1af3a75f49bf10e0185ba80a289fd05524c8130e
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552469"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282121"
 ---
 # <a name="konnect-email-parser"></a>Konnect eMail Parser
 
@@ -35,7 +35,7 @@ Konnect eMail에서 Microsoft로 제공한 정보:
 | ID | WA200001893 |
 | Office 365 클라이언트 지원 | SharePoint 2016 이상 |
 | 파트너 회사 이름 | Konnect eMail |
-| 파트너 웹 사이트의 URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| 파트너 웹 사이트의 URL | [https://www.konnectemail.com](https://www.konnectemail.com) |
 | 개인 정보 취급 방침의 URL | [https://www.konnectemail.com/privacy-policy-sharepoint-pars...](https://www.konnectemail.com/privacy-policy-sharepoint-parser-app) |
 | 사용 약관 URL | [https://www.konnectemail.com/eula](https://www.konnectemail.com/eula) |
 
@@ -68,7 +68,7 @@ Konnect eMail에서 Microsoft로 제공한 정보:
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->Azure Application Insights 내에서 90일 동안 보존된 로그
+>Azure Application Insights
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 

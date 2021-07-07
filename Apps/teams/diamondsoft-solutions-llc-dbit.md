@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 DBit, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 23995f613c3c3b6d7b2ab7d161f8710ccddf07d0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: dbdb857d15f33848c459bc817fa9c2c55da8e6b4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553959"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281320"
 ---
 # <a name="dbit"></a>DBit
 
@@ -36,7 +36,7 @@ Diamondsoft Solutions, LLC에서 Microsoft에 제공하는 정보:
 | ID | WA200001536 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Diamondsoft Solutions, LLC |
-| 파트너 웹 사이트의 URL | [https://www.dbit.io/index.html](https://www.dbit.io/index.html) |
+| 파트너 웹 사이트의 URL | [https://www.diamondsoftsolutions.com](https://www.diamondsoftsolutions.com) |
 | 개인 정보 취급 방침의 URL | [https://www.dbit.io/privacypolicy.html](https://www.dbit.io/privacypolicy.html) |
 | 사용 약관 URL | [https://www.dbit.io/termsofuse.html](https://www.dbit.io/termsofuse.html) |
 

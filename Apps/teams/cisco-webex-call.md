@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Webex Call, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8cd5499529eb41a5a840c9a7792e9b47f9a6c877
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3c6552bd7b266f4c35d35dabefe3abbf7e407ea1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552289"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281961"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -36,9 +36,8 @@ Cisco에서 Microsoft에 제공한 정보:
 | ID | WA200001495 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Cisco |
-| 파트너 웹 사이트의 URL | [https://www.cisco.com/c/en/us/solutions/collaboration/webex...](https://www.cisco.com/c/en/us/solutions/collaboration/webex-teams.html) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [해당 없음](N/A) |
-| 개인 정보 취급 방침의 URL | [https://www.cisco.com/c/en/us/about/legal/privacy-full.html](https://www.cisco.com/c/en/us/about/legal/privacy-full.html) |
+| 파트너 웹 사이트의 URL | [https://www.cisco.com](https://www.cisco.com) |
+| 개인 정보 취급 방침의 URL | [https://www.cisco.com/c/en/us/about/legal/privacy.html](https://www.cisco.com/c/en/us/about/legal/privacy.html) |
 | 사용 약관 URL | [https://www.cisco.com/c/en/us/products/universal-cloud-agre...](https://www.cisco.com/c/en/us/products/universal-cloud-agreement.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

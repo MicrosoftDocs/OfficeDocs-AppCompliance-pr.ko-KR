@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Outlook(공식), 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e366abab2bef95cd0468c87945096ec9c22024cc
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b4c7c0bb245c602d1650f13fb231894a86b3e8b0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552549"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281640"
 ---
 # <a name="jira-cloud-for-outlook-official"></a>Jira Cloud for Outlook(공식)
 
@@ -33,11 +33,11 @@ Microsoft에 Atlassian.com 정보:
 |:----------------|:-------------|
 | 앱 이름 | Jira Cloud for Outlook(공식) |
 | ID | WA200000056 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상, Windows Outlook 2016 이상, Outlook iOS, Outlook Android, 웹 Outlook 사용 |
+| Office 365 클라이언트 지원 | Outlook 2013 이상은 Windows, Outlook 2016 이상, Outlook iOS, android, Outlook 웹용 Outlook |
 | 파트너 회사 이름 | Atlassian.com |
-| 파트너 웹 사이트의 URL | [https://www.atlassian.com/](https://www.atlassian.com/) |
-| 개인 정보 취급 방침의 URL | [https://www.atlassian.com/legal/privacy-policy](https://www.atlassian.com/legal/privacy-policy) |
-| 사용 약관 URL | [https://www.atlassian.com/legal/cloud-terms-of-service](https://www.atlassian.com/legal/cloud-terms-of-service) |
+| 파트너 웹 사이트의 URL | [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira) |
+| 개인 정보 취급 방침의 URL | [https://www.msteams-atlassian.com/privacy-policy/](https://www.msteams-atlassian.com/privacy-policy/) |
+| 사용 약관 URL | [https://www.msteams-atlassian.com/legal/](https://www.msteams-atlassian.com/legal/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

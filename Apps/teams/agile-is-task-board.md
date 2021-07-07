@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Agile 작업 보드, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3bbf6f95ed5a0e840b1ba8c896dbb14b4ddfa5f2
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a5062da73958a88a7b788a74771e76ae506b314d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553449"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281470"
 ---
 # <a name="agile-task-board"></a>Agile Task Board
 
@@ -36,7 +36,7 @@ Agile-IS에서 Microsoft에 제공한 정보:
 | ID | WA200002162 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Agile-IS |
-| 파트너 웹 사이트의 URL | [https://www.agile-is.de/agiletaskboard?utm_medium=appsource...](https://www.agile-is.de/agiletaskboard?utm_medium=appsource&amp;utm_campaign=teams&amp;utm_source=manifest) |
+| 파트너 웹 사이트의 URL | [https://www.agile-is.de](https://www.agile-is.de) |
 | 개인 정보 취급 방침의 URL | [https://www.agile-is.de/en/telemetry](https://www.agile-is.de/en/telemetry) |
 | 사용 약관 URL | [https://www.agile-is.de/en/termsofuse](https://www.agile-is.de/en/termsofuse) |
 

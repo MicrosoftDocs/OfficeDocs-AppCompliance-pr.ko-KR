@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR Office 콘텐츠 선택, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f4d95e0dcbb0a7234299f190766e85b17f6a853f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 39c7e2b45c8fa4d525d3b024533fbf63fa17b0be
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552589"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281741"
 ---
 # <a name="officeatwork--content-chooser-for-office"></a>officeatwork | 사용자용 콘텐츠 Office
 
@@ -34,7 +34,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 | ID | WA104380602 |
 | Office 365 클라이언트 지원 | Excel mac, iPad Excel 2016 이상, Excel 2013 서비스 팩 1 이상에서 Windows. 웹용 Excel Word on iPad, Word 2016 or later on Mac, 웹용 Word, Word 2013 Service Pack 1 or later on Windows, PowerPoint on iPad, PowerPoint 2016 or later on Mac, 웹용 PowerPoint, PowerPoint 2013 Service Pack 1 or later on Windows, 웹용 OneNote |
 | 파트너 회사 이름 | officeatwork |
-| 파트너 웹 사이트의 URL | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| 파트너 웹 사이트의 URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 개인 정보 취급 방침의 URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | 사용 약관 URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

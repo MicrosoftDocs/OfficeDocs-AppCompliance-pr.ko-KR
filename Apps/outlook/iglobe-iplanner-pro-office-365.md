@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: iPlanner에 사용할 수 있는 모든 보안 및 규정 Pro Office 365, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a191dc43512ce9a58ff36277c3a602aff2e799a7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9c77c1e0a5f70dae4bd296c545cff51fb163f6cb
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553729"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281620"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -32,9 +32,9 @@ iGlobe에서 Microsoft에 제공한 정보:
 |:----------------|:-------------|
 | 앱 이름 | iPlanner Pro Office 365 |
 | ID | WA104380464 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상, Windows Outlook 2016 Mac, Outlook iOS, 웹 Outlook 이상 |
+| Office 365 클라이언트 지원 | Outlook 2013 이상은 Windows, Outlook 2016 이상, iOS, Outlook 또는 웹용 Outlook |
 | 파트너 회사 이름 | iGlobe |
-| 파트너 웹 사이트의 URL | [https://www.iglobecrm.com/](https://www.iglobecrm.com/) |
+| 파트너 웹 사이트의 URL | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
 | 개인 정보 취급 방침의 URL | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
 | 사용 약관 URL | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
 

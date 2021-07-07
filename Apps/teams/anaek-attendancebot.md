@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AttendanceBot, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d99f924734bd6857b32ebb85942e5ef7ddb3cf18
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 900bbe4856204c7b1de0c988388aedc0f79366c5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553429"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281450"
 ---
 # <a name="attendancebot"></a>AttendanceBot
 
@@ -36,9 +36,9 @@ Anaek가 Microsoft에 제공한 정보:
 | ID | WA104381652 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Anaek |
-| 파트너 웹 사이트의 URL | [https://www.attendancebot.com/microsoft-teams/](https://www.attendancebot.com/microsoft-teams/) |
+| 파트너 웹 사이트의 URL | [https://www.harmonizehq.com](https://www.harmonizehq.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.attendancebot.com](https://www.attendancebot.com) |
-| 개인 정보 취급 방침의 URL | [https://www.attendancebot.com/attendance/privacy/](https://www.attendancebot.com/attendance/privacy/) |
+| 개인 정보 취급 방침의 URL | [https://www.attendancebot.com/privacy](https://www.attendancebot.com/privacy) |
 | 사용 약관 URL | [https://www.attendancebot.com/attendance/tos/](https://www.attendancebot.com/attendance/tos/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

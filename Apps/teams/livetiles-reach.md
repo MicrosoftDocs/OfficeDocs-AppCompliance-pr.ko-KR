@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Reach에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 83df050a6f58bc1d0b7d49239b40ddf2ba80849a
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 91729da78b1a031be38569bfd4e4168f2a96f83a
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551999"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281781"
 ---
 # <a name="reach"></a>Reach
 
@@ -38,8 +38,8 @@ LiveTiles에서 Microsoft에 제공하는 정보:
 | 파트너 회사 이름 | LiveTiles |
 | 파트너 웹 사이트의 URL | [https://livetilesglobal.com](https://livetilesglobal.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://livetilesglobal.com/products/livetiles-reach/](https://livetilesglobal.com/products/livetiles-reach/) |
-| 개인 정보 취급 방침의 URL | [https://livetilesglobal.com/privacy-policy](https://livetilesglobal.com/privacy-policy) |
-| 사용 약관 URL | [https://livetilesglobal.com/eula](https://livetilesglobal.com/eula) |
+| 개인 정보 취급 방침의 URL | [https://livetilesglobal.com/privacy-policy/](https://livetilesglobal.com/privacy-policy/) |
+| 사용 약관 URL | [https://livetilesglobal.com/eula/](https://livetilesglobal.com/eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

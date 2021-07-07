@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리에서 Excel Word 문서 자동화, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e3f7d7ec2b59ac21a44ca92737e9fbdba4cfdaaa
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8dc1ac8d012545326f0d3c4f96764d5a2ed391b7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52549858"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281210"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel 문서 자동화
 
@@ -35,7 +35,7 @@ AnalysisPlace에서 Microsoft에 제공하는 정보:
 | ID | WA104380955 |
 | Office 365 클라이언트 지원 | Excel 2016 mac, Excel 2016 이상, Windows, Word 2016 이상, mac, Word 2016 Windows Word 2016, PowerPoint 2016 PowerPoint 2016 이상, Windows, 웹용 Excel, 웹용 Word, 웹용 PowerPoint Windows 이상에서 웹용 PowerPoint 웹용 PowerPoint |
 | 파트너 회사 이름 | AnalysisPlace |
-| 파트너 웹 사이트의 URL | [https://analysisplace.com/](https://analysisplace.com/) |
+| 파트너 웹 사이트의 URL | [https://analysisplace.com](https://analysisplace.com) |
 | 개인 정보 취급 방침의 URL | [https://analysisplace.com/Privacy](https://analysisplace.com/Privacy) |
 | 사용 약관 URL | [https://analysisplace.com/Terms](https://analysisplace.com/Terms) |
 

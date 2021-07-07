@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Yeeflow, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c8dc3fb5a23d480299aae331a9ccccae9641c66c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9b1292e935d526947d689c9c5de9638589270957
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553439"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281460"
 ---
 # <a name="yeeflow"></a>Yeeflow
 
@@ -36,8 +36,8 @@ Akmii가 Microsoft에 제공하는 정보:
 | ID | WA20000089 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Akmii |
-| 파트너 웹 사이트의 URL | [https://www.yeeflow.com](https://www.yeeflow.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [www.yeeflow.com](www.yeeflow.com) |
+| 파트너 웹 사이트의 URL | [https://www.akmii.com](https://www.akmii.com) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.yeeflow.com](https://www.yeeflow.com) |
 | 개인 정보 취급 방침의 URL | [https://www.yeeflow.com/privacy](https://www.yeeflow.com/privacy) |
 | 사용 약관 URL | [https://www.yeeflow.com/terms](https://www.yeeflow.com/terms) |
 

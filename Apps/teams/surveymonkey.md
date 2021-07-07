@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SurveyMonkey에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 57ba8ed84e0d9ea4101ea82ed5d92aef1f634ed1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: daf5de5437a08ca8b748157a5e136bbe7b114122
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552729"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280820"
 ---
 # <a name="surveymonkey"></a>SurveyMonkey
 
@@ -38,8 +38,8 @@ SurveyMonkey에서 Microsoft에 제공하는 정보:
 | 파트너 회사 이름 | SurveyMonkey |
 | 파트너 웹 사이트의 URL | [https://www.surveymonkey.com](https://www.surveymonkey.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://help.surveymonkey.com/articles/en_US/kb/Microsoft-T...](https://help.surveymonkey.com/articles/en_US/kb/Microsoft-Teams-Integration) |
-| 개인 정보 취급 방침의 URL | [https://www.surveymonkey.com/privacy](https://www.surveymonkey.com/privacy) |
-| 사용 약관 URL | [https://www.surveymonkey.com/mp/policy/terms-of-use/](https://www.surveymonkey.com/mp/policy/terms-of-use/) |
+| 개인 정보 취급 방침의 URL | [https://www.surveymonkey.com/mp/legal/privacy-policy/](https://www.surveymonkey.com/mp/legal/privacy-policy/) |
+| 사용 약관 URL | [https://www.surveymonkey.com/mp/legal/terms-of-use/](https://www.surveymonkey.com/mp/legal/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

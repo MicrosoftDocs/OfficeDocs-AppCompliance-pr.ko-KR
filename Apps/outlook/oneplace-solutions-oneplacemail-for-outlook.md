@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Outlook OnePlaceMail, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5094d1ad5e7b028ac115529de16ddb9cbef2086f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 97c9b74768b11e3c63a302566a20a2cb762275a0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552499"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281710"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail for Outlook
 
@@ -33,11 +33,11 @@ OnePlace 솔루션에서 Microsoft에 제공하는 정보:
 |:----------------|:-------------|
 | 앱 이름 | OnePlaceMail for Outlook |
 | ID | WA104380723 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상, Windows Outlook 2016 이상, Outlook iOS, Outlook Android, 웹 Outlook 사용 |
+| Office 365 클라이언트 지원 | Outlook 2013 이상은 Windows, Outlook 2016 이상, Outlook iOS, android, Outlook 웹용 Outlook |
 | 파트너 회사 이름 | OnePlace 솔루션 |
-| 파트너 웹 사이트의 URL | [https://www.oneplacesolutions.com/](https://www.oneplacesolutions.com/) |
+| 파트너 웹 사이트의 URL | [https://www.oneplacesolutions.com](https://www.oneplacesolutions.com) |
 | 개인 정보 취급 방침의 URL | [https://www.oneplacesolutions.com/oneplacemailapp-privacy](https://www.oneplacesolutions.com/oneplacemailapp-privacy) |
-| 사용 약관 URL | [https://www.oneplacesolutions.com/oneplacemailapp-eula](https://www.oneplacesolutions.com/oneplacemailapp-eula) |
+| 사용 약관 URL | [https://www.oneplacesolutions.com/eula.html](https://www.oneplacesolutions.com/eula.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -86,7 +86,7 @@ OnePlace 솔루션에서 Microsoft에 제공하는 정보:
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->EUII 및 OII는 원격 분석에 표시됩니다. 이 정보는 Application Insights에 저장되고, 미사일 시 암호화되고, 액세스가 제어되고 90일 후에 삭제됩니다.
+>EUII 및 OII는 원격 분석에 표시됩니다. 이 정보는 응용 프로그램 Insights 저장되고, 미사용, 액세스 제어 및 90일 후에 삭제됩니다.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 

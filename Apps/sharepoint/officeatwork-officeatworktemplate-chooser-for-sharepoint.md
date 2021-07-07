@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR 레지스트리의 SharePoint, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 위한 템플릿 선택기입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7d114cfdc01d155897fd5ebb0c25134ff6fabeae
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4ca57d9a566a058e8af0ae2929333361eea70f90
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553479"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281500"
 ---
 # <a name="officeatwork--template-chooser-for-sharepoint"></a>officeatwork | 사용자용 템플릿 SharePoint
 
@@ -34,7 +34,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 | ID | WA200001923 |
 | Office 365 클라이언트 지원 | SharePoint 2016 이상 |
 | 파트너 회사 이름 | officeatwork |
-| 파트너 웹 사이트의 URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
+| 파트너 웹 사이트의 URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 개인 정보 취급 방침의 URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | 사용 약관 URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

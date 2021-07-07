@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Kudozza, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3c55726061f0663cf395ea5edb45adf96f35bce3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 85221e2c57cbe5954e3343d8a44cec704c71eda9
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553819"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53280780"
 ---
 # <a name="kudozza"></a>Kudozza
 
@@ -36,10 +36,10 @@ SurviveF5 GmbH에서 Microsoft에 제공한 정보:
 | ID | WA200002599 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | surviveF5 GmbH |
-| 파트너 웹 사이트의 URL | [https://www.kudozza.com](https://www.kudozza.com) |
+| 파트너 웹 사이트의 URL | [https://surviveF5.com](https://surviveF5.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://kudozza.com](https://kudozza.com) |
-| 개인 정보 취급 방침의 URL | [https://www.kudozza.com/privacy](https://www.kudozza.com/privacy) |
-| 사용 약관 URL | [https://www.kudozza.com/terms](https://www.kudozza.com/terms) |
+| 개인 정보 취급 방침의 URL | [https://kudozza.com/privacy](https://kudozza.com/privacy) |
+| 사용 약관 URL | [https://kudozza.com/terms](https://kudozza.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

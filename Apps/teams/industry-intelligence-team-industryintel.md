@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: IndustryIntel에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6e2c1c35d0054df773b83fa2d31a95daceaee585
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a213e68c58f2f3aea6f9bc1e6c8568fcbdefc141
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553069"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281250"
 ---
 # <a name="industryintel"></a>IndustryIntel
 
@@ -36,8 +36,8 @@ ms.locfileid: "52553069"
 | ID | WA200001907 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Industry Intelligence Team |
-| 파트너 웹 사이트의 URL | [https://www.industryintel.com/public:about-us/our-team](https://www.industryintel.com/public:about-us/our-team) |
-| 개인 정보 취급 방침의 URL | [https://www.industryintel.com/public:legal/privacy-policy-m...](https://www.industryintel.com/public:legal/privacy-policy-msteams) |
+| 파트너 웹 사이트의 URL | [https://www.industryintel.com](https://www.industryintel.com) |
+| 개인 정보 취급 방침의 URL | [https://www.industryintel.com/public:legal/privacy-policy](https://www.industryintel.com/public:legal/privacy-policy) |
 | 사용 약관 URL | [https://www.industryintel.com/public:legal/terms-of-use](https://www.industryintel.com/public:legal/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

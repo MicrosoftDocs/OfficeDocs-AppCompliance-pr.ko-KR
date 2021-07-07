@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 동적 신호, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0d3c59f6809bafe16eec2a1d709f40a980576b1b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 19f633362ac605ef5891b3d7e11f34a8ec04d74f
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552229"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281310"
 ---
 # <a name="dynamic-signal"></a>Dynamic Signal
 
@@ -36,7 +36,7 @@ ms.locfileid: "52552229"
 | ID | WA200000102 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Dynamic Signal |
-| 파트너 웹 사이트의 URL | [https://dynamicsignal.com](https://dynamicsignal.com) |
+| 파트너 웹 사이트의 URL | [https://www.dynamicsignal.com](https://www.dynamicsignal.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://support.dynamicsignal.com/hc/en-us/requests/new?tic...](https://support.dynamicsignal.com/hc/en-us/requests/new?ticket_form_id=360000290032) |
 | 개인 정보 취급 방침의 URL | [https://dynamicsignal.com/privacy/](https://dynamicsignal.com/privacy/) |
 | 사용 약관 URL | [https://dynamicsignal.com/terms-of-use/platform-terms-of-us...](https://dynamicsignal.com/terms-of-use/platform-terms-of-use/) |

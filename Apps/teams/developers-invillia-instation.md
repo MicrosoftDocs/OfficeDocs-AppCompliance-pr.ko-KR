@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: InStation, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 40c86e4284ed201fedf63bfe3bbd7570b61049b7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 46b7c4131e1f3897036cf0b2180b2f99c2e6ff2c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552249"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282031"
 ---
 # <a name="instation"></a>InStation
 
@@ -36,7 +36,7 @@ ms.locfileid: "52552249"
 | ID | WA200001701 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Developers Invillia |
-| 파트너 웹 사이트의 URL | [https://instation.invillia.com/](https://instation.invillia.com/) |
+| 파트너 웹 사이트의 URL | [https://invillia.com/](https://invillia.com/) |
 | 개인 정보 취급 방침의 URL | [https://instation.invillia.com/terms#privacy-policy](https://instation.invillia.com/terms#privacy-policy) |
 | 사용 약관 URL | [https://instation.invillia.com/terms#terms-of-use](https://instation.invillia.com/terms#terms-of-use) |
 

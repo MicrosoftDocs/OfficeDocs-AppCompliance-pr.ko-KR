@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 회의 i/o, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cc2d3c2845660ddda7b2d759d4d30cb4191286dd
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f1ac0d98833813915b3485a7b5c00233f41ddee8
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553219"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53281340"
 ---
 # <a name="conferences-io"></a>Conferences i/o
 
@@ -36,10 +36,10 @@ Microsoft에 대한 회의 i/o에서 제공하는 정보:
 | ID | WA200001867 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Conferences i/o |
-| 파트너 웹 사이트의 URL | [https://teamsapp.conferences.io/](https://teamsapp.conferences.io/) |
+| 파트너 웹 사이트의 URL | [https://conferences.io](https://conferences.io) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.conferences.io/our-platform/features/](https://www.conferences.io/our-platform/features/) |
 | 개인 정보 취급 방침의 URL | [https://teamsapp.conferences.io/privacy/](https://teamsapp.conferences.io/privacy/) |
-| 사용 약관 URL | [https://teamsapp.conferences.io/terms/](https://teamsapp.conferences.io/terms/) |
+| 사용 약관 URL | [https://teamsapp.conferences.io/eula/](https://teamsapp.conferences.io/eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
