@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Learn, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: acb0b07f25bc3fa2e86246a061ff73d3152b9810
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 798bd76f786119863f9ff2046e72daa15bcb0696
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550858"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283352"
 ---
 # <a name="learn"></a>학습
 
@@ -36,7 +36,7 @@ Witivio에서 Microsoft에 제공하는 정보:
 | ID | WA200001308 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Witivio |
-| 파트너 웹 사이트의 URL | [https://www.witivio.com/learn](https://www.witivio.com/learn) |
+| 파트너 웹 사이트의 URL | [https://www.witivio.com](https://www.witivio.com) |
 | 개인 정보 취급 방침의 URL | [https://www.witivio.com/en/privacy](https://www.witivio.com/en/privacy) |
 | 사용 약관 URL | [https://witivio.com/en/terms-of-use](https://witivio.com/en/terms-of-use) |
 

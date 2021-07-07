@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR Office, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 위한 디자이너.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2df5ab4f69bd416e1c671818abda805b3e1350d3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 75a181280e13843471a66597f992c536c61534f8
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552629"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283462"
 ---
 # <a name="officeatwork--designer-for-office"></a>officeatwork | Office
 
@@ -34,7 +34,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 | ID | WA104380518 |
 | Office 365 클라이언트 지원 | Word 2016 Mac, 웹용 Word, Word 2016 이상, Windows Word on iPad |
 | 파트너 회사 이름 | officeatwork |
-| 파트너 웹 사이트의 URL | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| 파트너 웹 사이트의 URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 개인 정보 취급 방침의 URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | 사용 약관 URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

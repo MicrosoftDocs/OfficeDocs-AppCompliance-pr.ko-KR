@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Adobe Sign for Word 및 PowerPoint, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: aa9b4a19f83574d7d9428bbf979ac7ee1375227c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0c5ed86f2de8925a87b726db9c2a9946721e06c7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552669"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283332"
 ---
 # <a name="adobe-sign-for-word-and-powerpoint"></a>Word 및 Word용 Adobe Sign for word PowerPoint
 
@@ -34,9 +34,9 @@ Adobe Inc.에서 Microsoft에 제공한 정보:
 | ID | WA104381155 |
 | Office 365 클라이언트 지원 | Word 2016 Mac의 PowerPoint 2013 서비스 팩 1 이상, Windows, Windows, 웹용 Word, 웹용 PowerPoint, PowerPoint 2016 이상에 있는 Word 2013 서비스 팩 1 이상 |
 | 파트너 회사 이름 | Adobe Inc. |
-| 파트너 웹 사이트의 URL | [https://www.adobe.com/](https://www.adobe.com/) |
-| 개인 정보 취급 방침의 URL | [https://www.adobe.com/privacy/policies-business/esign.html](https://www.adobe.com/privacy/policies-business/esign.html) |
-| 사용 약관 URL | [https://support.office.com/client/61994a3b-2c87-41c4-a88d-a...](https://support.office.com/client/61994a3b-2c87-41c4-a88d-a6455efa362d?omkt=en) |
+| 파트너 웹 사이트의 URL | [https://acrobat.adobe.com/us/en/sign.html](https://acrobat.adobe.com/us/en/sign.html) |
+| 개인 정보 취급 방침의 URL | [https://www.adobe.com/privacy/policy.html](https://www.adobe.com/privacy/policy.html) |
+| 사용 약관 URL | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

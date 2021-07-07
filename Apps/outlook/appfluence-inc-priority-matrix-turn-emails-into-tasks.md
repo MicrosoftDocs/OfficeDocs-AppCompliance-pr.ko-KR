@@ -2,23 +2,23 @@
 title: 우선 순위 매트릭스에 대한 응용 프로그램 정보 - Appfluence Inc를 통해 전자 메일을 작업으로 전환
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/16/2021
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 우선 순위 매트릭스에 사용할 수 있는 모든 보안 및 규정 준수 정보 - CSA STAR 레지스트리에서 전자 메일을 작업, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보로 전환합니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9843ece5a330f4a8b8adb6f1388a4a26e12dbe21
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 45ce05ada25cde937488b7372262dbb63c90f66c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553759"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282922"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>우선 순위 매트릭스 - 전자 메일을 작업으로 전환
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 4월 16일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 23일</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104381735" target="_blank">AppSource의 보기</a>
 
@@ -32,10 +32,10 @@ Appfluence Inc에서 Microsoft에 제공한 정보:
 |:----------------|:-------------|
 | 앱 이름 | 우선 순위 매트릭스 - 전자 메일을 작업으로 전환 |
 | ID | WA104381735 |
-| Office 365 클라이언트 지원 | Outlook 2016, Windows, Outlook 2016 이상, iOS, Outlook iOS, Outlook Android, 웹 Outlook 이상 |
+| Office 365 클라이언트 지원 | Outlook 2016 Windows, Outlook 2016 이상, iOS, Outlook android, Outlook 이상에서 웹용 Outlook |
 | 파트너 회사 이름 | Appfluence Inc |
-| 파트너 웹 사이트의 URL | [https://appfluence.com/](https://appfluence.com/) |
-| 개인 정보 취급 방침의 URL | [https://appfluence.com/privacy](https://appfluence.com/privacy) |
+| 파트너 웹 사이트의 URL | [https://appfluence.com/office-365-project-management-integr...](https://appfluence.com/office-365-project-management-integration/) |
+| 개인 정보 취급 방침의 URL | [https://appfluence.com/privacy/](https://appfluence.com/privacy/) |
 | 사용 약관 URL | [https://appfluence.com/eula](https://appfluence.com/eula) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -117,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |

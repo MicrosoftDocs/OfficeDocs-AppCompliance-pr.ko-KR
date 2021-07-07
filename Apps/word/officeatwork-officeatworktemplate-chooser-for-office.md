@@ -2,23 +2,23 @@
 title: Officeatwork | officeatwork로 Office 서식 파일 선택
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2020
+ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR 레지스트리의 Office, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 위한 템플릿 선택기입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2328345bdcbd17b9b777e603e8ff36ee5b509176
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c9bc3e8e62056582d37c7b1f4125cf29e35e9df1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550308"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283272"
 ---
 # <a name="officeatwork--template-chooser-for-office"></a>officeatwork | 사용자용 템플릿 Office
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>개발자가 마지막으로 업데이트한 날짜: 2020년 12월 8일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 23일</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380050" target="_blank">AppSource의 보기</a>
 
@@ -34,7 +34,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 | ID | WA104380050 |
 | Office 365 클라이언트 지원 | Excel iPad, Excel 2016 Mac, Excel 2013 이상에서 Windows, 웹용 Excel Word on iPad, Word 2016 or later on Mac, 웹용 Word, Word 2013 or later on Windows, PowerPoint on iPad, PowerPoint 2016 or later on Mac, 웹용 PowerPoint, PowerPoint 2013 or later on Windows, Project 2016 or later on Windows |
 | 파트너 회사 이름 | officeatwork |
-| 파트너 웹 사이트의 URL | [https://links.officeatwork.com/officeatwork-home](https://links.officeatwork.com/officeatwork-home) |
+| 파트너 웹 사이트의 URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 개인 정보 취급 방침의 URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
 | 사용 약관 URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 

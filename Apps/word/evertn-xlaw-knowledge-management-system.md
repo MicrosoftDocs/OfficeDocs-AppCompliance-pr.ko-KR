@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: xLaw에 사용할 수 있는 모든 보안 및 규정 준수 정보 - CSA STAR 레지스트리의 기술 관리 시스템, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e10b2149f8d103ae9c9ab042402168be6ac73e9b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 57f63c4bc93739fa2a251d797ea4475ef786a09d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552659"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283492"
 ---
 # <a name="xlaw---knowledge-management-system"></a>xLaw - 지식 관리 시스템
 
@@ -35,7 +35,7 @@ Microsoft에 제공된 정보:
 | ID | WA104381077 |
 | Office 365 클라이언트 지원 | Word 2016 Mac, 웹용 Word Word 2013 이상에서 Windows |
 | 파트너 회사 이름 | evertn |
-| 파트너 웹 사이트의 URL | [https://xlaw.eu/](https://xlaw.eu/) |
+| 파트너 웹 사이트의 URL | [https://extendlaw.com](https://extendlaw.com) |
 | 개인 정보 취급 방침의 URL | [https://xlaw.eu/en/privacypolicy.html](https://xlaw.eu/en/privacypolicy.html) |
 | 사용 약관 URL | [https://xlaw.eu/en/tos.html](https://xlaw.eu/en/tos.html) |
 

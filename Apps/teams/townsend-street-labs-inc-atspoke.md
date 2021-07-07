@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: atSpoke에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9a159ce3ac976eb1916cd94b3eb1cf002f8e13c1
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: b3e3027c83c78373347a972124853add6214ee8d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551198"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283392"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -36,9 +36,9 @@ Street Labs, Inc.에서 Microsoft에 제공한 정보:
 | ID | WA200001454 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Townsend Street Labs, Inc. |
-| 파트너 웹 사이트의 URL | [https://www.atspoke.com](https://www.atspoke.com) |
+| 파트너 웹 사이트의 URL | [https://www.atspoke.com/](https://www.atspoke.com/) |
 | 개인 정보 취급 방침의 URL | [https://www.atspoke.com/privacy-policy/](https://www.atspoke.com/privacy-policy/) |
-| 사용 약관 URL | [https://www.atspoke.com/terms-of-service](https://www.atspoke.com/terms-of-service) |
+| 사용 약관 URL | [https://www.atspoke.com/terms-of-service/](https://www.atspoke.com/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

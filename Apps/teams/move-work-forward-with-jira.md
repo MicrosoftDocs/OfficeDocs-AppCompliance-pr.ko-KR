@@ -2,24 +2,24 @@
 title: Jira를 통해 작업 진행을 위한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/05/2021
+ms.date: 06/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Jira로 이동, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a5ca2ec25650abba3f68a2ec543434c56d3c3d27
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 2f0f51e841a3b22c1fe1670defe99948cc99f5a3
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852089"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282962"
 ---
-# <a name="move-work-forward-with-jira"></a>Jira를 통해 작업 진행
+# <a name="move-work-forward-with-jira"></a>Jira를 사용하여 작업을 앞으로 이동
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 5월 5일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 10일</p>
 
 * <a href="https://teams.microsoft.com/l/app/79ca2e8f-dd2c-40d5-897e-1b22d41038fe" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002855" target="_blank">AppSource의 보기</a>
@@ -32,10 +32,10 @@ Microsoft로 작업 이동에서 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Jira를 통해 작업 진행 |
+| 앱 이름 | Jira를 사용하여 작업을 앞으로 이동 |
 | ID | WA200002855 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 작업 진행 |
+| 파트너 회사 이름 | 작업을 앞으로 이동 |
 | 파트너 웹 사이트의 URL | [https://www.moveworkforward.com](https://www.moveworkforward.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.moveworkforward.com/product/microsoft-teams-jir...](https://www.moveworkforward.com/product/microsoft-teams-jira-connector) |
 | 개인 정보 취급 방침의 URL | [https://www.moveworkforward.com/privacy-policy](https://www.moveworkforward.com/privacy-policy) |
@@ -77,7 +77,7 @@ Microsoft로 작업 이동에서 제공하는 정보:
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| 앱을 설치할 때 이름을 통해 사용자를 인사말합니다. 사용자 Microsoft Teams 및 Atlassian 사용자 일치 | 아니요. |  |
+>| 앱을 설치할 때 이름을 통해 사용자를 인사말합니다. 사용자 Microsoft Teams 및 Atlassian 사용자 일치 | 아니요 |  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -96,7 +96,7 @@ Microsoft로 작업 이동에서 제공하는 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요.
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,18 +122,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 네. |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 네. |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 네. |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요. |
-| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 네. |
-| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 네. |
-| 앱에서 다중 테넌시를 지원하나요? | 네. |
-| 앱에 기밀 클라이언트가 있나요? | 아니요. |
-| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 네. |
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
+| 앱에서 다중 테넌시를 지원하나요? | 예 |
+| 앱에 기밀 클라이언트가 있나요? | 아니요 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/><br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
-| 앱에서 웹 API를 노출하나요? | 아니요. |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요. |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

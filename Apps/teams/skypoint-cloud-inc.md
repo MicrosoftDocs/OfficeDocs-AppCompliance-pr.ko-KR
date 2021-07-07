@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SkyPoint 클라우드, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 898f7fc73ff32a8d5c999ab78141b2bcda59a09f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6c23bac241d7456f7811e74af2dff6b93ef57e6c
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552829"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283232"
 ---
 # <a name="skypoint-cloud"></a>SkyPoint Cloud
 
@@ -36,7 +36,7 @@ SkyPoint Cloud Inc.에서 Microsoft에 제공하는 정보:
 | ID | WA200002580 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | SkyPoint Cloud Inc. |
-| 파트너 웹 사이트의 URL | [https://skypointcloud.com/](https://skypointcloud.com/) |
+| 파트너 웹 사이트의 URL | [https://skypointcloud.com](https://skypointcloud.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://skypointcloud.com/platform/](https://skypointcloud.com/platform/) |
 | 개인 정보 취급 방침의 URL | [https://skypointcloud.com/privacy/](https://skypointcloud.com/privacy/) |
 | 사용 약관 URL | [https://skypointcloud.com/terms/](https://skypointcloud.com/terms/) |

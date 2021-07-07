@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 ngDesk, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c527842a226a4029f8c1d0ad842ef762c47ed85f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 307c22805fdb3f0b92d65fa5cc0b754d28e34519
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553769"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282932"
 ---
 # <a name="ngdesk"></a>ngDesk
 
@@ -33,11 +33,11 @@ ms.locfileid: "52553769"
 |:----------------|:-------------|
 | 앱 이름 | ngDesk |
 | ID | WA200002505 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상을 Windows, Outlook 2016 Mac 이상, Outlook 웹용 |
+| Office 365 클라이언트 지원 | Outlook 2013 이상은 Mac, Windows Outlook 2016 이상에서 웹용 Outlook |
 | 파트너 회사 이름 | 모든 파란색 솔루션 |
-| 파트너 웹 사이트의 URL | [https://appsource.microsoft.com/marketplace/apps?product=of...](https://appsource.microsoft.com/marketplace/apps?product=office) |
-| 개인 정보 취급 방침의 URL | [https://ngdesk.com/privacy-policy-office-365](https://ngdesk.com/privacy-policy-office-365) |
-| 사용 약관 URL | [https://ngdesk.com/subscription-agreement](https://ngdesk.com/subscription-agreement) |
+| 파트너 웹 사이트의 URL | [https://ngdesk.com](https://ngdesk.com) |
+| 개인 정보 취급 방침의 URL | [https://ngdesk.com/privacy-policy-office-365/](https://ngdesk.com/privacy-policy-office-365/) |
+| 사용 약관 URL | [https://ngdesk.com/terms-of-service/](https://ngdesk.com/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

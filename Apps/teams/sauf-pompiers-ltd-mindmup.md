@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindMup, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fc8852fe84307129e40d79f2f2d29c6133a81c11
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 0bf09c9e6a144fb4415879577af4debcc5fc6713
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551798"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283062"
 ---
 # <a name="mindmup"></a>MindMup
 
@@ -38,7 +38,7 @@ Sauf Pompiers Ltd에서 Microsoft에 제공한 정보:
 | 파트너 회사 이름 | Sauf Pompiers Ltd |
 | 파트너 웹 사이트의 URL | [https://www.mindmup.com](https://www.mindmup.com) |
 | 개인 정보 취급 방침의 URL | [https://www.mindmup.com/resources/privacy_policy.html](https://www.mindmup.com/resources/privacy_policy.html) |
-| 사용 약관 URL | [https://www.mindmup.com/resources/terms_gold.html](https://www.mindmup.com/resources/terms_gold.html) |
+| 사용 약관 URL | [https://www.mindmup.com/resources/terms_mindmup.html](https://www.mindmup.com/resources/terms_mindmup.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

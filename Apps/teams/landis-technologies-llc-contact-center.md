@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 연락처 센터, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f6e143a7666d5f3a4cfb5744b7a27edfbe60b982
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 121d59640731b43137d1b2e9d7df987a2a78fe01
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552019"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283002"
 ---
 # <a name="contact-center"></a>Contact Center
 
@@ -36,8 +36,8 @@ Landis Technologies LLC에서 Microsoft에 제공하는 정보:
 | ID | WA200001428 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Landis Technologies LLC |
-| 파트너 웹 사이트의 URL | [https://landistechnologies.com/office365contactcenter/](https://landistechnologies.com/office365contactcenter/) |
-| 개인 정보 취급 방침의 URL | [https://landistechnologies.com/legal/](https://landistechnologies.com/legal/) |
+| 파트너 웹 사이트의 URL | [https://landistechnologies.com/](https://landistechnologies.com/) |
+| 개인 정보 취급 방침의 URL | [https://www.landistechnologies.com/legal/](https://www.landistechnologies.com/legal/) |
 | 사용 약관 URL | [https://landistechnologies.com/eula/](https://landistechnologies.com/eula/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -95,7 +95,7 @@ Landis Technologies LLC에서 Microsoft에 제공하는 정보:
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->예. MS Graph API 요청이 기록되어 지원 요청이 지원됩니다. Application Insights 기본값에 따라 Microsoft Azure 삭제됩니다.
+>예. MS Graph API 요청이 기록되어 지원 요청이 지원됩니다. 이 정책은 응용 프로그램 Microsoft Azure 기본적으로 Insights 삭제됩니다.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 

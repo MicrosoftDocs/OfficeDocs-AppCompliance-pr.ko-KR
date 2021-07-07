@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Talview 인터뷰, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4f6b1b560d06f7d1d3728eabd646ded7d99874db
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a641b49729a43c8b12339f162eeee395183f5859
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552699"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282942"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -38,8 +38,8 @@ Microsoft에 Talview Inc에서 제공하는 정보:
 | 파트너 회사 이름 | Talview Inc |
 | 파트너 웹 사이트의 URL | [https://talview.com](https://talview.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://info.talview.com/talview-partners-microsoft-teams](https://info.talview.com/talview-partners-microsoft-teams) |
-| 개인 정보 취급 방침의 URL | [https://talview.com/privacy](https://talview.com/privacy) |
-| 사용 약관 URL | [https://talview.com/terms](https://talview.com/terms) |
+| 개인 정보 취급 방침의 URL | [https://www.talview.com/privacy](https://www.talview.com/privacy) |
+| 사용 약관 URL | [https://www.talview.com/terms](https://www.talview.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

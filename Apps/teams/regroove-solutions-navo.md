@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Navo에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ef2c71df0559a5a3db4612df5acf86835efe1a71
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 11346ff15831615ac6b617d8d14f83f38c7de0a5
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553939"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283113"
 ---
 # <a name="navo"></a>Navo
 
@@ -36,7 +36,7 @@ Regroove 솔루션에서 Microsoft에 제공하는 정보:
 | ID | WA200001047 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Regroove Solutions |
-| 파트너 웹 사이트의 URL | [https://getnavo.com](https://getnavo.com) |
+| 파트너 웹 사이트의 URL | [https://regroove.ca ; https://getnavo.com](https://regroove.ca ; https://getnavo.com) |
 | 개인 정보 취급 방침의 URL | [https://getnavo.com/privacy-policy/](https://getnavo.com/privacy-policy/) |
 | 사용 약관 URL | [https://getnavo.com/terms-of-service/](https://getnavo.com/terms-of-service/) |
 
@@ -79,13 +79,13 @@ Regroove 솔루션에서 Microsoft에 제공하는 정보:
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->예, Application Insights에서는 사용자 인증 ID 및 사용자 계정 ID(테넌시 ID)를 저장합니다.
+>예, 응용 프로그램 Insights 사용자 인증 ID 및 사용자 계정 ID(테넌시 ID)를 저장합니다.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->스트라이프 또는 Application Insights와 같은 서비스를 통해 저장되는 모든 데이터는 Azure Cosmos 저장됩니다. 모든 관리자는 2FA를 사용하며 액세스는 직원의 하위 집합으로 제한됩니다.
+>스트라이프 또는 응용 프로그램 Insights 같은 서비스를 통해 저장하는 모든 데이터는 Azure Cosmos 데이터베이스에 저장됩니다. 모든 관리자는 2FA를 사용하며 액세스는 직원의 하위 집합으로 제한됩니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Tryane Analytics에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 265fa798414c907f25690252e1714bebfdbdde1b
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: d5b5119f0c9897b6d59163ad03580744a7f822f0
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551108"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283574"
 ---
 # <a name="tryane-analytics"></a>Tryane Analytics
 
@@ -36,9 +36,9 @@ Tryane이 Microsoft에 제공한 정보:
 | ID | WA200001827 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Tryane |
-| 파트너 웹 사이트의 URL | [https://tryane.com/en/produit/tat/](https://tryane.com/en/produit/tat/) |
-| 개인 정보 취급 방침의 URL | [https://tryane.com/tryane-analytics/privacy_policy.html](https://tryane.com/tryane-analytics/privacy_policy.html) |
-| 사용 약관 URL | [https://tryane.com/tryane-analytics/terms_of_use.html](https://tryane.com/tryane-analytics/terms_of_use.html) |
+| 파트너 웹 사이트의 URL | [https://www.tryane.com](https://www.tryane.com) |
+| 개인 정보 취급 방침의 URL | [https://analytics.tryane.com/docs/en/privacy_policy.html](https://analytics.tryane.com/docs/en/privacy_policy.html) |
+| 사용 약관 URL | [https://analytics.tryane.com/docs/en/terms_of_use.html](https://analytics.tryane.com/docs/en/terms_of_use.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -2,17 +2,17 @@
 title: Microsoft Outlook 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/21/2021
+ms.date: 07/02/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft 앱 앱에 대해 사용 가능한 모든 보안 Outlook 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: bf0efa79460f5c5d794f1b300af9ff6af98dd2b7
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: 00e8b55b4cb0767405adc0bab02a084256df0418
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629630"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53265774"
 ---
 # <a name="microsoft-outlook-app-security-and-compliance"></a>Microsoft Outlook 보안 및 규정 준수
 
@@ -24,6 +24,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Altru Videos](./altru-videos.md) | Altru | **✓** |  |
 | [승인된 연락처 일정](./approved-contact-calendars.md) | Approved Contact | **✓** |  |
 | [아사나 for Outlook](./asana-for-outlook.md) | Asana | **✓** |  |
+| [CI-Signature](./ci-solution-gmbh-signature.md) | ci 솔루션 GmbH | **✓** |  |
 | [harmon.ie 대한 Outlook](./harmonie-corporation-for-outlook.md) | harmon.ie Corporation | **✓** |  |
 | [송장 및 시간 추적 - Zoho 송장](./zoho-corporation-private-limited-invoice-and-time-tracking.md) | Zoho Corporation Private Limited | **✓** |  |
 | [iPlanner Office 365 Planner 추가 Outlook](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

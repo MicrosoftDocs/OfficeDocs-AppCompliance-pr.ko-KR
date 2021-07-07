@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sentry, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7df6fe458724bbd7162c0bcfc2cdda95176a0e70
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4795f68da9e5b0eb3fa283494f547b7c9ae43f6d
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553899"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283242"
 ---
 # <a name="sentry"></a>Sentry
 
@@ -36,7 +36,7 @@ Sentry가 Microsoft에 제공한 정보:
 | ID | WA200002106 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Sentry |
-| 파트너 웹 사이트의 URL | [https://sentry.io/](https://sentry.io/) |
+| 파트너 웹 사이트의 URL | [https://sentry.io](https://sentry.io) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://docs.sentry.io/product/integrations/msteams/](https://docs.sentry.io/product/integrations/msteams/) |
 | 개인 정보 취급 방침의 URL | [https://sentry.io/privacy/](https://sentry.io/privacy/) |
 | 사용 약관 URL | [https://sentry.io/terms/](https://sentry.io/terms/) |

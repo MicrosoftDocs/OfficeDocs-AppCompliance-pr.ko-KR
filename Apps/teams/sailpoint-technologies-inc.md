@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: 에 대 한 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: befd216c19352c4b812703fe7d59d2c3fd3fd7d7
-ms.sourcegitcommit: dafa6701f28c66f003efaf2e3a70d61dc3240955
+ms.openlocfilehash: bcde5fdd363b217adabcdfd91074dedfcbe73b88
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/06/2021
-ms.locfileid: "52790055"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283082"
 ---
-# <a name="sailpoint"></a>10진수점
+# <a name="sailpoint"></a>Sailpoint
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,11 +32,11 @@ Microsoft에 제공된아이전스포인트 기술, Inc.에서 제공하는 정�
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 10진수점 |
+| 앱 이름 | Sailpoint |
 | ID | WA200002761 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 아이에스와일드포인트 기술, Inc. |
-| 파트너 웹 사이트의 URL | [sailpoint.com](sailpoint.com) |
+| 파트너 회사 이름 | SailPoint Technologies, Inc. |
+| 파트너 웹 사이트의 URL | [https://sailpoint.com](https://sailpoint.com) |
 | 개인 정보 취급 방침의 URL | [https://www.sailpoint.com/legal/privacy/](https://www.sailpoint.com/legal/privacy/) |
 | 사용 약관 URL | [https://www.sailpoint.com/legal/customer-agreements/](https://www.sailpoint.com/legal/customer-agreements/) |
 
@@ -69,7 +69,7 @@ Microsoft에 제공된아이전스포인트 기술, Inc.에서 제공하는 정�
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| 사용자 이름이 사용자 이름으로 메시지의 내부에 Teams | 아니요. |  |
+>| 사용자 이름이 사용자 이름으로 메시지의 내부에 Teams | 아니요 |  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -88,7 +88,7 @@ Microsoft에 제공된아이전스포인트 기술, Inc.에서 제공하는 정�
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요.
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

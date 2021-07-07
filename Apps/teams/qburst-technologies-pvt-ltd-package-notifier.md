@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 패키지 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 32a5d38cf65162adfcf236d955d881b77cba0ec7
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 76f042a43f4a14b7ee1de71a9bb70a5e646413d4
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552819"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283132"
 ---
 # <a name="package-notifier"></a>Package Notifier
 
@@ -36,8 +36,7 @@ QBURST TECHNOLOGIES PVT LTD에서 Microsoft에 제공하는 정보:
 | ID | WA200002737 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | QBURST TECHNOLOGIES PVT LTD |
-| 파트너 웹 사이트의 URL | [https://package-notifier.qburst.in](https://package-notifier.qburst.in) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [해당 없음](N/A) |
+| 파트너 웹 사이트의 URL | [https://www.qburst.in](https://www.qburst.in) |
 | 개인 정보 취급 방침의 URL | [https://package-notifier.qburst.in/privacy-policy.html](https://package-notifier.qburst.in/privacy-policy.html) |
 | 사용 약관 URL | [https://package-notifier.qburst.in/terms-and-conditions.html](https://package-notifier.qburst.in/terms-and-conditions.html) |
 

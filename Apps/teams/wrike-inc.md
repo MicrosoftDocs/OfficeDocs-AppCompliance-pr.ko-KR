@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: Wrike에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 4ef844f9bf25ffa41a6054aa6ffcbebdb94be223
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c175c36e7ecb9bc19b2ff3ad95b56bfab38cdcab
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550768"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283342"
 ---
 # <a name="wrike"></a>Wrike
 
@@ -35,10 +35,10 @@ Wrike Inc.에서 Microsoft에 제공한 정보:
 | ID | WA104381390 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Wrike Inc. |
-| 파트너 웹 사이트의 URL | [https://www.wrike.com](https://www.wrike.com) |
+| 파트너 웹 사이트의 URL | [https://www.wrike.com/](https://www.wrike.com/) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://help.wrike.com/hc/en-us/articles/115001825869-Micro...](https://help.wrike.com/hc/en-us/articles/115001825869-Microsoft-Teams) |
-| 개인 정보 취급 방침의 URL | [https://www.wrike.com/security/privacy/](https://www.wrike.com/security/privacy/) |
-| 사용 약관 URL | [https://www.wrike.com/security/terms/](https://www.wrike.com/security/terms/) |
+| 개인 정보 취급 방침의 URL | [https://www.wrike.com/privacy/](https://www.wrike.com/privacy/) |
+| 사용 약관 URL | [https://www.wrike.com/terms/](https://www.wrike.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

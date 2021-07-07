@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LuckyDraw, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5ba1afff33ce27c6f520b34f73423c734c8859ec
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 24990484921465f2ad6a761efd6b3f3686344cc7
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551268"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283402"
 ---
 # <a name="luckydraw"></a>LuckyDraw
 
@@ -36,7 +36,7 @@ Tony Xia가 Microsoft에 제공한 정보:
 | ID | WA20000091 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Tony Xia |
-| 파트너 웹 사이트의 URL | [https://luckydraw.teetee365.com](https://luckydraw.teetee365.com) |
+| 파트너 웹 사이트의 URL | [https://luckydraw.teetee365.com/](https://luckydraw.teetee365.com/) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://luckydraw4web4prd.z7.web.core.windows.net/](https://luckydraw4web4prd.z7.web.core.windows.net/) |
 | 개인 정보 취급 방침의 URL | [https://luckydraw.teetee365.com/privacy](https://luckydraw.teetee365.com/privacy) |
 | 사용 약관 URL | [https://luckydraw.teetee365.com/terms](https://luckydraw.teetee365.com/terms) |
@@ -77,7 +77,7 @@ Tony Xia가 Microsoft에 제공한 정보:
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->EUII는 경우에 따라 기록됩니다. 예를 들어 사용자는 다행히 그리기 활동을 시작합니다. 앱은 데이터 보존이 기본값인 Azure Application Insights를 사용하고 있습니다.
+>EUII는 경우에 따라 기록됩니다. 예를 들어 사용자는 다행히 그리기 활동을 시작합니다. 앱에서 Azure 응용 프로그램 Insights 보존이 기본값인 90일입니다.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 

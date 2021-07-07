@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cd3d403d7b25c1ad5dda60dff8d93c18dfe59c30
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 631e8ea5e7265566b1c8332987ea31f9d5ec41bc
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553749"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53282912"
 ---
 # <a name="asana-for-outlook"></a>아사나 for Outlook
 
@@ -33,11 +33,11 @@ ms.locfileid: "52553749"
 |:----------------|:-------------|
 | 앱 이름 | 아사나 for Outlook |
 | ID | WA104381833 |
-| Office 365 클라이언트 지원 | Outlook 2016, mac, Windows Outlook 2016 이상, 웹에서 Outlook 이상 사용 |
+| Office 365 클라이언트 지원 | Outlook 2016 Mac, Windows Outlook 2016 이상에서 웹용 Outlook |
 | 파트너 회사 이름 | Asana |
-| 파트너 웹 사이트의 URL | [https://asana.com/](https://asana.com/) |
+| 파트너 웹 사이트의 URL | [https://asana.com](https://asana.com) |
 | 개인 정보 취급 방침의 URL | [https://asana.com/terms#privacy-policy](https://asana.com/terms#privacy-policy) |
-| 사용 약관 URL | [https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US](https://go.microsoft.com/fwlink/?LinkID=521715&amp;omkt=en-US) |
+| 사용 약관 URL | [https://asana.com/terms#terms-of-service](https://asana.com/terms#terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

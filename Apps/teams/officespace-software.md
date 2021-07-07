@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 OfficeSpace, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 216f79628f149fa3e62118b63d26bf63da16bb1f
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 4d72b695fe5078922922f5a26ca81c4ab7970fc1
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551878"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283172"
 ---
 # <a name="officespace"></a>OfficeSpace
 
@@ -36,8 +36,7 @@ OfficeSpace 소프트웨어에서 Microsoft에 제공한 정보:
 | ID | WA200002052 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | OfficeSpace Software |
-| 파트너 웹 사이트의 URL | [https://www.officespacesoftware.com/](https://www.officespacesoftware.com/) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [해당 없음](N/A) |
+| 파트너 웹 사이트의 URL | [https://www.officespacesoftware.com](https://www.officespacesoftware.com) |
 | 개인 정보 취급 방침의 URL | [https://www.officespacesoftware.com/oss-customer-privacy-po...](https://www.officespacesoftware.com/oss-customer-privacy-policy-25052018) |
 | 사용 약관 URL | [https://www.officespacesoftware.com/oss-teams-app-terms-of-...](https://www.officespacesoftware.com/oss-teams-app-terms-of-use) |
 

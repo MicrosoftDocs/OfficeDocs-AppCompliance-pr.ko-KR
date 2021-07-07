@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Prezi Video에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8b689869b4c8799d396a61ccbecd0d1b4a4e5c51
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8bd0c290442e01f6f7a07f39bc38f2f7ece2123b
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552839"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283142"
 ---
 # <a name="prezi-video"></a>Prezi Video
 
@@ -37,8 +37,8 @@ Prezi가 Microsoft에 제공한 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Prezi |
 | 파트너 웹 사이트의 URL | [https://prezi.com](https://prezi.com) |
-| 개인 정보 취급 방침의 URL | [https://prezi.com/privacy-policy/201910_NL/](https://prezi.com/privacy-policy/201910_NL/) |
-| 사용 약관 URL | [https://prezi.com/terms-of-use/201910_NL/](https://prezi.com/terms-of-use/201910_NL/) |
+| 개인 정보 취급 방침의 URL | [https://prezi.com/privacy-policy/](https://prezi.com/privacy-policy/) |
+| 사용 약관 URL | [https://prezi.com/terms-of-use/](https://prezi.com/terms-of-use/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

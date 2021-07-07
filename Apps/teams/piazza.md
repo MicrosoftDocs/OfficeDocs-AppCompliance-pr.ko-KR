@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Piazza에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b168fe7a5bc0b6f2f85c182c22667d6cfb2320ae
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a5c3e9c4d557ff73815181725e74e42433b0fb01
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552859"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283152"
 ---
 # <a name="piazza"></a>Piazza
 
@@ -36,7 +36,7 @@ Piazza에서 Microsoft에 제공한 정보:
 | ID | WA200001568 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Piazza |
-| 파트너 웹 사이트의 URL | [https://piazza.com](https://piazza.com) |
+| 파트너 웹 사이트의 URL | [https://www.piazza.com](https://www.piazza.com) |
 | 개인 정보 취급 방침의 URL | [https://piazza.com/legal/privacy](https://piazza.com/legal/privacy) |
 | 사용 약관 URL | [https://piazza.com/legal/terms](https://piazza.com/legal/terms) |
 

@@ -2,24 +2,23 @@
 title: 작업보드의 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/12/2021
+ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: CSA STAR 레지스트리의 Workboard, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ebbece019cea24042a54c69271da9ce0e4dca337
-ms.sourcegitcommit: abce882d3e2ca5b9b0b47fc4a26c01e6e111a9b4
+ms.openlocfilehash: 94ad01886baec72c516f5e32953d8a7cbea17204
+ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52629725"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53265764"
 ---
 # <a name="workboard"></a>Workboard
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 5월 12일</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 4일</p>
 
 * <a href="https://teams.microsoft.com/l/app/28d0282b-3cd2-49f0-90bb-a016843750c6" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381599" target="_blank">AppSource의 보기</a>

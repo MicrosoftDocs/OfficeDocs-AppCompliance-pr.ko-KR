@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Berrycast, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 726a087d07e64f82ee44932a450a038e5bfaa858
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c3236368fbab418754e758f6009607335e593515
+ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551939"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53283422"
 ---
 # <a name="berrycast"></a>Berrycast
 
@@ -36,9 +36,9 @@ Technologies Openmind Inc, Les에서 Microsoft에 제공하는 정보:
 | ID | WA200002798 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Technologies Openmind Inc, Les |
-| 파트너 웹 사이트의 URL | [https://berrycast.com](https://berrycast.com) |
-| 개인 정보 취급 방침의 URL | [https://berrycast.com/privacy-policy](https://berrycast.com/privacy-policy) |
-| 사용 약관 URL | [https://berrycast.com/terms-of-use](https://berrycast.com/terms-of-use) |
+| 파트너 웹 사이트의 URL | [https://www.berrycast.com](https://www.berrycast.com) |
+| 개인 정보 취급 방침의 URL | [https://www.berrycast.com/privacy-policy](https://www.berrycast.com/privacy-policy) |
+| 사용 약관 URL | [https://www.berrycast.com/terms-of-use](https://www.berrycast.com/terms-of-use) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
