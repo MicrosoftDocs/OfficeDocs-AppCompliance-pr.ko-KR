@@ -6,12 +6,12 @@ description: Publisher 프로그램에 대한 자세한 정보
 keywords: 앱 증명 인증 365 설문지 앱소싱 게시자
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5b49b6aa06dffc0df6a87cf1e9b0824806a90cc2
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: 3479395605bd7e3ecc0ab618b8030987e67d2617
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053482"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315088"
 ---
 # <a name="what-is-publisher-attestation"></a>2016년 Publisher 란?
 
@@ -20,7 +20,7 @@ Publisher 앱 준수 프로그램의 다음 계층은 Microsoft 365 것입니다
 > [!IMPORTANT]
 > Microsoft는 제공한 정보를 확인하지 않습니다. 앱 개발자는 게시 에세이션에서 제공하는 정보에 대해 전적으로 책임을 져야 합니다. 
 
-게시자 증명은 Microsoft 플랫폼과 통합된 앱에 적용됩니다.
+Publisher 의거는 WebApps 및 다음 Microsoft 플랫폼과 통합되는 모든 앱에 적용됩니다.
 - Teams
 - Word
 - Excel
@@ -29,7 +29,6 @@ Publisher 앱 준수 프로그램의 다음 계층은 Microsoft 365 것입니다
 - SharePoint
 - Project
 - OneNote
-- Web Apps
 
 ### <a name="benefits-for-it-admins"></a>IT 관리자를 위한 혜택
 IT 관리자를 위한 Publisher 수 있는 이점은 다음과 같습니다.
@@ -70,7 +69,7 @@ IT 관리자를 위한 Publisher 수 있는 이점은 다음과 같습니다.
 
 **MIPA [](https://docs.microsoft.com/microsoft-365-app-certification/teams/iglobe-mipa-your-personal-assistant?pivots=mcas) 목록을 참조하여 응용 프로그램 Publisher 완료한 앱의 예를 참조하세요.** 
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 * [Microsoft 365 앱 준수 프로그램 개요](~/overview.md)
 * [확인의 Publisher](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)

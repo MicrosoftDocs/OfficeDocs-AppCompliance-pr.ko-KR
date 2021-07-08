@@ -6,12 +6,12 @@ description: Publisher 프로그램에 대한 자세한 정보
 keywords: 앱 증명 인증 365 설문지 앱소싱
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4d5284beb199cc1c5a77bd6091bbc04428b545bd
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: abedb09bc280c0b643f037324178aa854f2f117f
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053432"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315108"
 ---
 # <a name="complete-publisher-attestation"></a>전체 Publisher Attestation
 
@@ -19,6 +19,16 @@ Publisher Attestation은 앱의 보안, 데이터 처리 및 규정 준수 관�
 
 > [!IMPORTANT]
 > Microsoft는 제공한 정보를 확인하지 않습니다. 개발자는 자체 평가에서 제공하는 정보에 대해 전적으로 책임을 져야 합니다. 
+
+**Publisher Attestation은 WebApps 및 다음 Microsoft 제품과 통합되는 모든 앱에 적용됩니다.**
+- Teams
+- Word
+- Excel
+- PowerPoint 
+- Outlook
+- SharePoint
+- Project
+- OneNote
 
 
 ## <a name="program-benefits"></a>프로그램 혜택
@@ -28,17 +38,7 @@ Publisher Attestation은 앱의 보안, 데이터 처리 및 규정 준수 관�
 - 스토어의 다른 앱과의 차별화. 
 - AppSource, Teams 관리 센터의 항목에서 Teams 페이지로 연결합니다. 
 - 인증 자격을 Microsoft 365 자격.
-
-## <a name="publisher-attestation-applies-to-apps-that-integrate-with"></a>Publisher Attestation은 다음과 통합되는 앱에 적용됩니다.
-- Teams
-- Word
-- Excel
-- PowerPoint 
-- Outlook
-- SharePoint
-- Project
-- OneNote
-- Web Apps
+ 
 
 ## <a name="publisher-attestation-process"></a>Publisher 의거 프로세스
 
@@ -64,7 +64,7 @@ Publisher Attestation은 앱의 보안, 데이터 처리 및 규정 준수 관�
 >[!IMPORTANT]
 >Publisher 규약에 참여하면 귀하는 본 추가 약관에 동의하고 Microsoft Corporation과의 Publisher 측에 참여하는 데 적용되는 모든 관련 설명서("Microsoft", "Microsoft", "당사", "당사" 또는 "당사")를 준수하는 데 동의합니다. 귀하는 귀하는 적용 가능한 경우, Publisher 회사 및/또는 기타 엔터티를 대신하여 이러한 Publisher 규약에 동의할 권한이 있는 것으로 표현하고 이를 규약합니다. 당사는 이러한 추가 약관을 변경, 수정 또는 종료할 수 있습니다. 변경 또는 Publisher 후 Publisher 프로그램에 계속 참여하면 새로운 추가 약관에 동의하는 것입니다. 새 추가 약관에 동의하지 않는 경우 또는 본 약관을 종료하는 경우 Publisher 프로그램 참여를 중지해야 합니다.
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 * [Microsoft 365 앱 준수 프로그램 개요](~/overview.md)  
 * [전체 Publisher 확인](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  

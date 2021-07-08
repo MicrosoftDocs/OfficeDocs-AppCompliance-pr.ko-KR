@@ -6,12 +6,12 @@ description: Microsoft 365 인증 세부 정보 개요
 keywords: appSource에 대한 앱 Microsoft 365 증명
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4c4f5b3ab20038eb1d21e9bf24d60d64fa6a02d9
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: e5696890f532589ae4fbec08aaf9f5be7b2e4590
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053462"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315098"
 ---
 # <a name="complete-microsoft-365-certification"></a>인증 Microsoft 365 완료
 
@@ -35,6 +35,9 @@ Microsoft 365 인증을 위해서는 보안 및 규정 준수 프로세스 및 �
 1. 인증 제출 Microsoft 365 [신중하게](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide) 읽어 요구되는 내용을 이해하세요. 인증 제출 가이드의 인증 []( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#app-certification-criteria) 제출 가이드에 지정된 제어 Microsoft 365 수 있도록 합니다.
 1. 파트너 센터 내에서 "인증 시작"을 클릭합니다. 그러면 초기 문서 제출 포털로 이동됩니다. 초기 문서 [제출을 제출합니다.](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission) 이렇게 하면 앱이 설계 및 고객 데이터를 처리하는 방식에 따라 평가 범위 내 범위를 결정하는 데 도움이 됩니다. 제출이 수락된 경우 이 페이지를 자주 확인하십시오.
 
+>[!NOTE]
+>모든 Office 앱에 대해 Office [앱 사용자 가이드를 참조할 수 있습니다.](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) 모든 WebApps에 대해 [SaaS](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)앱 사용자 가이드를 참조할 수 있습니다.
+
 ### <a name="assessment"></a>평가
 1. 초기 문서 제출이 수락되면 앱에 필요한 보안 컨트롤 집합이 포털에 자동으로 표시됩니다. 그런 다음 컨트롤이 준비 중이라 증명하는 각 컨트롤에 대한 증거를 제출해야 합니다. 모든 증거를 제출할 **수 있는 60일이** 주어졌다는 사실에 유의합니다. 분석가가 증거를 검토하고 제어를 승인하거나 새 증거 또는 추가 증거를 요청합니다. 이 페이지를 자주 확인하여 증거가 수락된지 확인하십시오.
 ### <a name="certification"></a>인증
@@ -49,7 +52,7 @@ Microsoft 365 인증을 위해서는 보안 및 규정 준수 프로세스 및 �
 
 
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
 * [Microsoft 365 앱 준수 프로그램 개요](~/overview.md)  
 * [확인이란 Publisher 무엇입니까?](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)

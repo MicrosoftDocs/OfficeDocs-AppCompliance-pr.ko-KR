@@ -6,16 +6,16 @@ description: Microsoft 365 인증 제출 가이드 세분화 보기
 keywords: 앱 인증 팀 Microsoft 365 준수 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1ee9ba43ffe793f38438a26365cbb8cbc05aa2f3
-ms.sourcegitcommit: d8a1524fc419a1ca33971b656197f0b6a5efe2b9
+ms.openlocfilehash: dd3a61b6b9768c278cd7d48dd88847ea9ee56421
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53125968"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315128"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 인증 제출 가이드
 
-**이 문서의 내용**
+**이 문서에서는:**
 - [소개](#introduction)
 - [필수 구성 요소](#prerequisites) 
 - [Microsoft 365 인증 사양 업데이트](#microsoft-365-certification-specification-updates)
@@ -48,10 +48,11 @@ Microsoft 365 인증 프로그램에 참여하면 귀하는 이러한 추가 약
 이 문서는 ISV(Independent Software Vendor)에서 Microsoft 365 인증 프로세스, 프로세스 시작을 위한 선행 요구 사항 및 ISV에 있어야 하는 특정 보안 제어에 대한 세부 정보를 제공하기 위한 것입니다.  앱 준수 Microsoft 365 대한 일반 정보는 앱 준수 Microsoft 365 페이지에서 찾을 수 [있습니다.](https://docs.microsoft.com/microsoft-365-app-certification/overview) 
 
 > [!IMPORTANT]
-> 현재는 Microsoft 365 인증이 제한됩니다.
+> 현재는 Microsoft 365 인증이 모든 기관에 적용될 수 있습니다.
 >* Microsoft Teams 응용 프로그램(Tabs, Bots 등)입니다.
 >* Sharepoint 앱/추가 기능
 >* Office 추가 기능(Word, Excel, PowerPoint, Outlook, Project, OneNote)
+>* WebApps
 
 ## <a name="prerequisites"></a>필수 구성 요소
 
@@ -116,12 +117,29 @@ IaaS 또는 PaaS가 배포되는 경우 이러한 배포 유형 내에서 호스
 
 인증 프로세스를 시작하기 전에 인증서 증명을 성공적으로 Publisher 합니다. 증명 응답은 인증 Microsoft 365 지원에 사용되어 다음과 같이 진행됩니다.
 
-1.  현재 Publisher 여전히 정확한지 확인을 위해 사용 중인 Publisher 설명서를 검토하세요.
-2.  인증 Microsoft 365 가이드를 검토하여 시작 전에 모든 컨트롤을 충족할 수 있도록 합니다.
-3.  파트너 센터에서 '인증 시작'을 클릭하고 초기 문서 제출을 제출합니다. 여기서 답변을 확인하면 평가 범위를 결정하는 데 도움이 됩니다.
-4.  평가에 대한 증거를 제공해야 하는 컨트롤의 전체 목록이 제공됩니다.
-5.  모든 범위 내 인증 Microsoft 365 60일 이내에 충족된 증거를 제출합니다.
-6.  제출을 자주 확인하여 주의가 필요한 의견이나 미해결 요청이 있는지 확인할 수 있습니다. 모든 컨트롤에 대한 증거가 승인되면 인증을 Microsoft 365 수 있습니다. 
+## <a name="certification-process"></a>인증 프로세스
+
+인증 프로세스를 시작하기 전에 인증 증명을 Publisher 합니다. 게시자 증명이 승인되면 Microsoft 365 인증에 참여할 수 있는 소개 전자 메일을 받게 됩니다.
+
+### <a name="preparation"></a>준비
+1. 파트너 센터로 이동하여 완료된 Publisher [문서를 검토합니다.]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation) 필요한 경우 응답을 편집하고 업데이트할 수 있습니다. 그러나 이 경우 승인을 위해 의거 문서를 다시 제출해야 합니다. 제출이 3개월보다 오래된 경우 검토 및 유효성 검사를 위해 Publisher 제출해야 합니다. 
+1. 인증 제출 Microsoft 365 [신중하게](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide) 읽어 요구되는 내용을 이해하세요. 인증 제출 가이드의 인증 []( https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#app-certification-criteria) 제출 가이드에 지정된 제어 Microsoft 365 수 있도록 합니다.
+1. 파트너 센터 내에서 "인증 시작"을 클릭합니다. 그러면 초기 문서 제출 포털로 이동됩니다. 초기 문서 [제출을 제출합니다.](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission) 이렇게 하면 앱이 설계 및 고객 데이터를 처리하는 방식에 따라 평가 범위 내 범위를 결정하는 데 도움이 됩니다. 제출이 수락된 경우 이 페이지를 자주 확인하십시오.
+
+>[!NOTE]
+>모든 Office 앱에 대해 Office [앱 사용자 가이드를 참조할 수 있습니다.](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) 모든 WebApps에 대해 [SaaS](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide)앱 사용자 가이드를 참조할 수 있습니다.
+
+### <a name="assessment"></a>평가
+1. 초기 문서 제출이 수락되면 앱에 필요한 보안 컨트롤 집합이 포털에 자동으로 표시됩니다. 그런 다음 컨트롤이 준비 중이라 증명하는 각 컨트롤에 대한 증거를 제출해야 합니다. 모든 증거를 제출할 **수 있는 60일이** 주어졌다는 사실에 유의합니다. 분석가가 증거를 검토하고 제어를 승인하거나 새 증거 또는 추가 증거를 요청합니다. 이 페이지를 자주 확인하여 증거가 수락된지 확인하십시오.
+### <a name="certification"></a>인증
+1. 분석가가 제출의 유효성을 검사한 후 인증 결정에 대한 알림을 하게 됩니다. 인증을 받은 앱은 **AppSource** 및 **Microsoft 문서** 페이지 내에서 응용 프로그램에 대한 배지를 받게 됩니다. 여기에서 인증의 전체 이점에 대해 읽을 수 [있습니다.](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)
+
+## <a name="review-and-re-certification"></a>검토 및 다시 인증
+응용 프로그램에서 중요한 변경을 [](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#significant-changes) 진행하는 경우, 알림이 필요합니다.
+
+또한 매년 재인증을 거치야 합니다. 이렇게 하면 현재 환경에 대해 범위 내 컨트롤을 다시 확인해야 합니다. 이 프로세스는 인증이 만료되기 최대 90일 전에 시작할 수 있습니다. 기존 인증은 재인증 기간 동안 만료되지 않습니다. 모든 프로그램에서 다시 인증은 Microsoft 365 1주년 후에 만료됩니다.
+
+만료 날짜 전에 인증이 갱신되지 않은 경우 앱 인증 상태가 해지됩니다. 모든 배지, 아이콘 및 관련 인증 브랜드가 앱에서 제거되고 인증된 앱으로 앱을 Microsoft 365 금지됩니다.
 
 
 > [!IMPORTANT]
