@@ -2,17 +2,17 @@
 title: Microsoft OneNote 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/02/2021
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 앱 앱에 대해 사용 가능한 모든 보안 Microsoft OneNote 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 164a506a9d202a1c6af917e0bdc3575b807ce3ad
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 0303adc7cf8b30f5e0445f2e1ce4592beb777d77
+ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281660"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53341154"
 ---
 # <a name="microsoft-onenote-app-security-and-compliance"></a>Microsoft OneNote 앱 보안 및 규정 준수
 
@@ -21,4 +21,5 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [officeatwork | Office 콘텐츠 선택](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [Wunder365 for Office](./jiji-technologies-private-limited-wunder365-for-office.md) | Ji Technologies Private Limited | **✓** |  |

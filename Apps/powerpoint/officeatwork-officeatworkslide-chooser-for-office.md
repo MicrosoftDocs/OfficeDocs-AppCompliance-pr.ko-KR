@@ -1,26 +1,27 @@
 ---
-title: Officeatwork | officeatwork로 Office 콘텐츠 선택
+title: Officeatwork | officeatwork로 Office 슬라이드 선택기
 ms.author: elmalova
 author: elenamalova
 ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
-description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR Office 콘텐츠 선택, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+certification_type: attested
+description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR 레지스트리의 Office, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 위한 슬라이드 선택기입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fb8e0d9cb9f15856c5f877efc8980ebdc2785bf1
-ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
+ms.openlocfilehash: 8ef453d069765ba92a9dcb7dd792bc887d62a6d4
+ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2021
-ms.locfileid: "53366230"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53339844"
 ---
-# <a name="officeatwork--content-chooser-for-office"></a>officeatwork | 사용자용 콘텐츠 Office
+# <a name="officeatwork--slide-chooser-for-office"></a>officeatwork | 슬라이드 선택 Office
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 23일</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380602" target="_blank">AppSource의 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002582" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
@@ -30,9 +31,9 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | officeatwork - 사용자용 콘텐츠 Office |
-| ID | WA104380602 |
-| Office 365 클라이언트 지원 | Excel mac, iPad Excel 2016 이상, Excel 2013 서비스 팩 1 이상에서 Windows. 웹용 Excel Word on iPad, Word 2016 or later on Mac, 웹용 Word, Word 2013 Service Pack 1 or later on Windows, PowerPoint on iPad, PowerPoint 2016 or later on Mac, 웹용 PowerPoint, PowerPoint 2013 Service Pack 1 or later on Windows, 웹용 OneNote |
+| 앱 이름 | officeatwork - 사용자용 슬라이드 Office |
+| ID | WA200002582 |
+| Office 365 클라이언트 지원 | PowerPoint 2016 Mac, 웹용 PowerPoint, PowerPoint 2016 이상에서 Windows |
 | 파트너 회사 이름 | officeatwork |
 | 파트너 웹 사이트의 URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 개인 정보 취급 방침의 URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
@@ -54,16 +55,16 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 >| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | 즐겨찾기: 사용자가 데이터를 읽고 쓸 수 OneDrive. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
->| Files.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | OneDrive: 사용자가 데이터를 읽고 쓸 수 OneDrive. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
->| Group.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 그룹에 데이터를 읽고 쓸 수 있습니다. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
->| GroupMember.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인 - 보안 그룹 지원: 앱이 그룹을 나열하고, 기본 그룹 속성을 읽고, 로그인한 사용자가 액세스할 수 있는 모든 그룹의 구성원 자격을 읽을 수 있도록 허용 | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
->| Sites.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 SharePoint. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
->| User.Read | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 사용자의 기본 속성을 읽을 수 있도록 합니다. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
->| User.Read.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 사용자가 속한 그룹을 찾아야 합니다. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
->| offline_access | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 새로 고침 토큰을 통해 자동 로그인을 사용하도록 설정하려면 사용자가 officeatwork 앱을 실행하기 전마다 수동으로 로그인해야 합니다. 이 범위는 SSO를 사용할 수 없는 호스트 응용 프로그램에만 필요합니다. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
->| openid | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 사용자가 조직 및/또는 Microsoft 계정을 사용하여 officeatwork 앱에 로그인할 수 있도록 합니다. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
->| profile | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 로그인한 사용자를 표시하기 위한 것입니다. 이렇게 하면 officeatwork 앱에 로그인하는 데 사용된 계정을 사용자에게 확인/확인하는 데 도움이 됩니다. | e8bea835-c6b0-45aa-9c39-889d3c77d5a3 |
+>| Files.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | 즐겨찾기: 사용자가 데이터를 읽고 쓸 수 OneDrive. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
+>| Files.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | OneDrive: 사용자가 데이터를 읽고 쓸 수 OneDrive. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
+>| Group.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 그룹에 데이터를 읽고 쓸 수 있습니다. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
+>| GroupMember.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인 - 보안 그룹 지원: 앱이 그룹을 나열하고, 기본 그룹 속성을 읽고, 로그인한 사용자가 액세스할 수 있는 모든 그룹의 구성원 자격을 읽을 수 있도록 허용 | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
+>| Sites.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 SharePoint. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
+>| User.Read | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 사용자의 기본 속성을 읽을 수 있도록 합니다. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
+>| User.Read.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 사용자가 속한 그룹을 찾아야 합니다. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
+>| offline_access | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 새로 고침 토큰을 통해 자동 로그인을 사용하도록 설정하려면 사용자가 officeatwork 앱을 실행하기 전마다 수동으로 로그인해야 합니다. 이 범위는 SSO를 사용할 수 없는 호스트 응용 프로그램에만 필요합니다. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
+>| openid | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 사용자가 조직 및/또는 Microsoft 계정을 사용하여 officeatwork 앱에 로그인할 수 있도록 합니다. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
+>| profile | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 로그인한 사용자를 표시하기 위한 것입니다. 이렇게 하면 officeatwork 앱에 로그인하는 데 사용된 계정을 사용자에게 확인/확인하는 데 도움이 됩니다. | 3f2fa737-e376-4c4d-a49d-b8eb08ca7e8d |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
@@ -107,9 +108,9 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/40835' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/40835" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

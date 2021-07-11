@@ -1,26 +1,27 @@
 ---
-title: Officeatwork | officeatwork로 Office 콘텐츠 선택
+title: Officeatwork의 이미지 선택에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
 ms.date: 06/23/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
-description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR Office 콘텐츠 선택, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+certification_type: attested
+description: 이미지 선택기, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: fb8e0d9cb9f15856c5f877efc8980ebdc2785bf1
-ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
+ms.openlocfilehash: f5de723dfa038a621d06771b0bf4b329821eca97
+ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2021
-ms.locfileid: "53366230"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53339839"
 ---
-# <a name="officeatwork--content-chooser-for-office"></a>officeatwork | 사용자용 콘텐츠 Office
+# <a name="image-chooser"></a>이미지 선택
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 23일</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104380602" target="_blank">AppSource의 보기</a>
+* <a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.image-chooser" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
@@ -30,12 +31,11 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | officeatwork - 사용자용 콘텐츠 Office |
-| ID | WA104380602 |
-| Office 365 클라이언트 지원 | Excel mac, iPad Excel 2016 이상, Excel 2013 서비스 팩 1 이상에서 Windows. 웹용 Excel Word on iPad, Word 2016 or later on Mac, 웹용 Word, Word 2013 Service Pack 1 or later on Windows, PowerPoint on iPad, PowerPoint 2016 or later on Mac, 웹용 PowerPoint, PowerPoint 2013 Service Pack 1 or later on Windows, 웹용 OneNote |
+| 앱 이름 | 이미지 선택 |
+| ID | officeatwork-ag.image-chooser |
 | 파트너 회사 이름 | officeatwork |
 | 파트너 웹 사이트의 URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
-| 개인 정보 취급 방침의 URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
+| 개인 정보 취급 방침의 URL | [https://www.officeatwork.com/privacy-policy.html](https://www.officeatwork.com/privacy-policy.html) |
 | 사용 약관 URL | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -107,9 +107,9 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/40833' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35751" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/40833" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

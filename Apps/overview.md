@@ -7,12 +7,12 @@ keywords: microsoft 365 m365 앱 게시자 증명 인증
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: fd06ecd028876a862fa3938253817fae3ff0fea0
-ms.sourcegitcommit: 0d46955e7b4c0e1d4208843813793c382344b2f5
+ms.openlocfilehash: c644414281f46696ff49f3b9eb1341f02e96f0ba
+ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53053442"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53315118"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 앱 규정 준수 프로그램
 
@@ -36,7 +36,7 @@ Microsoft의 임무: Microsoft 고객은 조직을 운영하는 데 사용되는
 
 [게시자 증명](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-attestation-guide)에서는 개발자가 앱 서비스애 대한 일반, 데이터 처리, 보안 및 규정 준수 정보를 공유합니다. 이는 IT 관리자가 앱 게시자와 직접 작업할 필요성을 줄여 줍니다. 합리적 결정을 하는 데 필요한 모든 정보는 게시자 증명을 완료한 모든 앱에 대해 한 곳에서 일관된 형식으로 확인할 수 있습니다. 게시자 증명의 목표는 고객이 테넌트에서 사용하는 앱이 조직 표준을 충족하도록 보장하면서 앱 채택 프로세스를 보다 쉽고 빠르게 처리하는 것입니다.
 
-게시자 증명은 Microsoft 플랫폼과 통합된 앱에 적용됩니다.
+게시자 증명은 WebApps 및 다음 Microsoft 제품과 통합되는 모든 앱에 적용됩니다.
 -   Teams
 -   Word
 -   Excel
@@ -45,7 +45,6 @@ Microsoft의 임무: Microsoft 고객은 조직을 운영하는 데 사용되는
 - SharePoint
 - Project
 - OneNote
-- 웹 앱
 
 > [!IMPORTANT]
 > Microsoft는 제공된 정보를 확인하지 않습니다. 개발자가 단독으로 증명 문서 및 해당 앱 성능 데이터의 진위 여부와 정확도, 무결성을 확인합니다. 
