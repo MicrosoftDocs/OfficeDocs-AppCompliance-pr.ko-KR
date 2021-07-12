@@ -43,6 +43,8 @@
           href: excel/iglobe-office2sharepoint-for-office.md
         - name: officeatwork | 사용자용 콘텐츠 Office
           href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | 사용자용 이미지 Office
+          href: excel/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork | 사용자용 템플릿 Office
           href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: QuickCells Graphs
@@ -60,6 +62,8 @@
       items:
         - name: officeatwork | 사용자용 콘텐츠 Office
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | 사용자용 이미지 Office
+          href: onenote/officeatwork-officeatworkimage-chooser-for-office.md
         - name: Wunder365 for Office
           href: onenote/jiji-technologies-private-limited-wunder365-for-office.md
     - name: Microsoft Outlook 앱
@@ -126,6 +130,8 @@
           href: powerpoint/iglobe-office2sharepoint-for-office.md
         - name: officeatwork | 사용자용 콘텐츠 Office
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
+        - name: officeatwork | 사용자용 이미지 Office
+          href: powerpoint/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork | 슬라이드 선택 Office
           href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
         - name: officeatwork | 사용자용 템플릿 Office
@@ -616,6 +622,8 @@
           href: word/officeatwork-officeatworkcontent-chooser-for-office.md
         - name: officeatwork | Office
           href: word/officeatwork-officeatworkdesigner-for-office.md
+        - name: officeatwork | 사용자용 이미지 Office
+          href: word/officeatwork-officeatworkimage-chooser-for-office.md
         - name: officeatwork | 사용자용 템플릿 Office
           href: word/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: officeatwork | 업로더 for Office
@@ -653,6 +661,8 @@
           href: saas/appfluence-inc-priority-matrix.md
         - name: SalesTim
           href: saas/salestim.md
+        - name: 슬라이드 선택
+          href: saas/officeatwork-slide-chooser.md
         - name: Template Chooser
           href: saas/officeatwork-template-chooser.md
         - name: 서식 파일 선택 브라우저
