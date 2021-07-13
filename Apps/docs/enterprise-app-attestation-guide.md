@@ -6,19 +6,19 @@ description: Publisher 프로그램에 대한 자세한 정보
 keywords: 앱 증명 인증 365 설문지 앱소싱 게시자
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 3479395605bd7e3ecc0ab618b8030987e67d2617
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: d91c11b53f1f807fbb4335918586a7748f14bf91
+ms.sourcegitcommit: a475d48e9538faa7ed682c11829c2e45ba675af6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315088"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53383731"
 ---
 # <a name="what-is-publisher-attestation"></a>2016년 Publisher 란?
 
 Publisher 앱 준수 프로그램의 다음 계층은 Microsoft 365 것입니다. 앱 개발자는 앱의 보안 및 규정 준수를 평가할 때 고객 또는 IT 관리자가 자주 묻는 질문이 포함된 자체 평가를 완료하도록 요청합니다. 그런 다음 Microsoft는 보다 쉽고 시기적인 평가를 위해 이 정보를 게시합니다.
 
 > [!IMPORTANT]
-> Microsoft는 제공한 정보를 확인하지 않습니다. 앱 개발자는 게시 에세이션에서 제공하는 정보에 대해 전적으로 책임을 져야 합니다. 
+> Microsoft는 제공된 모든 정보의 유효성을 검사하지 않습니다. 앱 개발자는 게시자 의거에 제공한 정보에 대해 전적으로 책임을 져야 합니다. 
 
 Publisher 의거는 WebApps 및 다음 Microsoft 플랫폼과 통합되는 모든 앱에 적용됩니다.
 - Teams
