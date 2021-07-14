@@ -2,21 +2,21 @@
 title: Microsoft Excel 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/08/2021
+ms.date: 07/14/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Excel 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 4e420551bcf1b60ddd0a36719fc12d60bb489cbf
-ms.sourcegitcommit: 3583fc1d7037a9a9d9d463913e34ffbbd65042f1
+ms.openlocfilehash: a8cda8484e930dfce615338d027c97eaec60396a
+ms.sourcegitcommit: 0098942ce316ab984e09fd9d2063cbc516c8bfb5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53341164"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "53422689"
 ---
-# <a name="microsoft-excel-app-security-and-compliance"></a>Microsoft Excel 앱 보안 및 규정 준수
+# <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 앱 보안 및 규정 준수
 
-Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용하는 앱 및 추가 기능의 Microsoft Excel 정보를 제공하고 의사 결정에 대해 알릴 수 있습니다. 이 정보에는 [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) 앱 카탈로그의 정보와 개발자가 응용 프로그램을 제출할 때 제공한 정보가 추가됩니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
+Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용하는 앱 및 추가 기능 관련 결정을 Microsoft Excel 정보를 제공합니다. 이 정보에는 [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) 앱 카탈로그의 정보와 개발자가 응용 프로그램을 제출할 때 제공한 정보가 추가됩니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
 
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -34,5 +34,4 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [QuickCells Graphs](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
 | [QuickCells Solvers](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
-| [Office 문서용 Wrike](./wrike-inc-for-office-documents.md) | Wrike Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Wunder365 for Office](./jiji-technologies-private-limited-wunder365-for-office.md) | Ji Technologies Private Limited | **✓** |  |
