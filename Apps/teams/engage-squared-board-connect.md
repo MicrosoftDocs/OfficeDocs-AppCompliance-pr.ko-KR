@@ -2,24 +2,24 @@
 title: 제곱을 커넥트 게시판에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/16/2021
+ms.date: 07/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Board 커넥트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3b7e2eb64055713e06f927882aa7bbf56cf62991
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7c67ece1e55b265152c8a7664b8f714926d9caff
+ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281902"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53456606"
 ---
 # <a name="board-connect"></a>Board Connect
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 2월 16일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 7월 5일</p>
 
 * <a href="https://teams.microsoft.com/l/app/e8f06a4e-cefe-4b1e-a24b-c97bea471130" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001955" target="_blank">AppSource의 보기</a>

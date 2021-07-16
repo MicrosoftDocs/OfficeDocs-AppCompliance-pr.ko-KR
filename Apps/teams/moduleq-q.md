@@ -2,24 +2,24 @@
 title: Q by ModuleQ에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/17/2020
+ms.date: 07/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Q에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2bdf876ddb9ab17d9fa8616edda8b849e0d85df7
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 3444110a1d98a1a9a1157c21e76774373782b8c2
+ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281751"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53456594"
 ---
 # <a name="q"></a>Q
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2020년 3월 17일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 7월 8일</p>
 
 * <a href="https://teams.microsoft.com/l/app/72bb25c7-3644-4318-8249-a08e5493a520" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381433" target="_blank">AppSource의 보기</a>
@@ -37,7 +37,8 @@ ModuleQ에서 Microsoft에 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | ModuleQ |
 | 파트너 웹 사이트의 URL | [https://moduleq.com](https://moduleq.com) |
-| 개인 정보 취급 방침의 URL | [https://moduleq.com/privacy-policy](https://moduleq.com/privacy-policy) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://moduleq.com/product](https://moduleq.com/product) |
+| 개인 정보 취급 방침의 URL | [https://moduleq.com/privacy-policy/](https://moduleq.com/privacy-policy/) |
 | 사용 약관 URL | [https://moduleq.com/terms-of-service](https://moduleq.com/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -110,3 +111,29 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 정보
+
+이 정보는 ModuleQ에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
+| 앱에서 다중 테넌시를 지원하나요? | 예 |
+| 앱에 기밀 클라이언트가 있나요? | 아니요 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
+| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/><br/> |
+| 앱에서 웹 API를 노출하나요? | 예 |
+| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
