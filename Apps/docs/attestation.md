@@ -6,12 +6,12 @@ description: Publisher 프로그램에 대한 자세한 정보
 keywords: 앱 증명 인증 365 설문지 앱소싱
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: abedb09bc280c0b643f037324178aa854f2f117f
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: 1d3652bb2f0eab3f1f533ce4acf3d13104843eea
+ms.sourcegitcommit: 98b9f17063c7ada0890b37af405990ad5eedd0b9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315108"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53466028"
 ---
 # <a name="complete-publisher-attestation"></a>전체 Publisher Attestation
 
@@ -20,7 +20,7 @@ Publisher Attestation은 앱의 보안, 데이터 처리 및 규정 준수 관�
 > [!IMPORTANT]
 > Microsoft는 제공한 정보를 확인하지 않습니다. 개발자는 자체 평가에서 제공하는 정보에 대해 전적으로 책임을 져야 합니다. 
 
-**Publisher Attestation은 WebApps 및 다음 Microsoft 제품과 통합되는 모든 앱에 적용됩니다.**
+**Publisher Attestation은 Web Apps(파트너 센터의 상업용 마켓플레이스를 통해 게시된 SaaS 앱) 및 다음 Microsoft 제품과 통합되는 모든 앱에 적용됩니다.**
 - Teams
 - Word
 - Excel
@@ -36,13 +36,13 @@ Publisher Attestation은 앱의 보안, 데이터 처리 및 규정 준수 관�
 - 엔터프라이즈 조직의 보안 및 규정 준수 내부 검토 타임라인을 가속화합니다.
 - 투명도가 증가합니다.
 - 스토어의 다른 앱과의 차별화. 
-- AppSource, Teams 관리 센터의 항목에서 Teams 페이지로 연결합니다. 
+- AppSource, Teams 관리 센터, Microsoft 관리 센터 및 Teams 스토어의 항목에서 docs 페이지에 연결합니다. 
 - 인증 자격을 Microsoft 365 자격.
  
 
 ## <a name="publisher-attestation-process"></a>Publisher 의거 프로세스
 
-1. **참여** - Publisher 은 파트너 센터에 통합됩니다. 파트너 센터 내의 모든 사용자 친숙한 설문지에서 의거를 완료할 수 있습니다. 단계별 [프로세스는](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) 사용자 가이드를 참조하세요.
+1. **참여** - Publisher 은 파트너 센터에 [통합됩니다.](https://partner.microsoft.com) 파트너 센터 내의 모든 사용자 친숙한 설문지에서 의거를 완료할 수 있습니다. 단계별 프로세스는 Office [스토어](https://docs.microsoft.com/microsoft-365-app-certification/docs/userguide) [](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/saasuserguide) 및 상업용 마켓플레이스 사용자 가이드를 참조하세요.
 
 2. **검토 피드백 및** 결과 대기 - 일관성 확인 검토 중에 분석가가 부적절한 응답 데이터와 같은 차단 문제를 발견하면 추가 정보를 위해 연락을 하게 됩니다. 분석가가 프로세스 전체에서 검토 결과 및 추가 작업 제출을 자세히 설명하는 앱 활동 로그를 유지 관리합니다. 확정 보고서가 완료되고 응답이 허용되는 것으로 확인되면 제출이 승인됩니다. 승인 상태는 제출 시간부터 1년 동안 유효합니다.
 
@@ -64,7 +64,7 @@ Publisher Attestation은 앱의 보안, 데이터 처리 및 규정 준수 관�
 >[!IMPORTANT]
 >Publisher 규약에 참여하면 귀하는 본 추가 약관에 동의하고 Microsoft Corporation과의 Publisher 측에 참여하는 데 적용되는 모든 관련 설명서("Microsoft", "Microsoft", "당사", "당사" 또는 "당사")를 준수하는 데 동의합니다. 귀하는 귀하는 적용 가능한 경우, Publisher 회사 및/또는 기타 엔터티를 대신하여 이러한 Publisher 규약에 동의할 권한이 있는 것으로 표현하고 이를 규약합니다. 당사는 이러한 추가 약관을 변경, 수정 또는 종료할 수 있습니다. 변경 또는 Publisher 후 Publisher 프로그램에 계속 참여하면 새로운 추가 약관에 동의하는 것입니다. 새 추가 약관에 동의하지 않는 경우 또는 본 약관을 종료하는 경우 Publisher 프로그램 참여를 중지해야 합니다.
 
-## <a name="learn-more"></a>자세한 정보
+## <a name="learn-more"></a>자세히 알아보기
 
 * [Microsoft 365 앱 준수 프로그램 개요](~/overview.md)  
 * [전체 Publisher 확인](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)  
