@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Prezi Video에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8bd0c290442e01f6f7a07f39bc38f2f7ece2123b
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 8e7e9c70ee848fd284e3297a915ec9847d3ef1ee
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283142"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521269"
 ---
 # <a name="prezi-video"></a>Prezi Video
 
@@ -62,7 +62,7 @@ Prezi가 Microsoft에 제공한 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 자세한 내용은 https://prezi.com/privacy-policy/ |  | 다음 API/SDK는 1과의 통합에 사용됩니다. Botbuilder-SDK(python): 이 SDK를 사용하여 Azure Active Directory 개체 ID(API를 aad_object_id. 이 정보는 사용자 Microsoft Teams 프레지 비디오 관련 콘텐츠에 매핑하는 데 prezi.com.  2. Botbuilder-js(javascript): Microsoft Teams SDK를 사용하여 특정 데이터가 수집되지 않습니다. |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
@@ -70,7 +70,7 @@ Prezi가 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 봇은 언급된 로스터 정보에 액세스하지 않습니다. | 봇은 언급된 로스터 정보에 액세스하지 않습니다. |  |
 
 

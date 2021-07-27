@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Guru에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4577aabcc19f32941d3d9005ba7e9fe61e4675cc
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 87316d020c6658b00fe7e12cc7326917779f2623
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281270"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521651"
 ---
 # <a name="guru"></a>Guru
 
@@ -63,7 +63,7 @@ Guru Technologies에서 Microsoft에 제공하는 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Guru의 최종 사용자 응용 프로그램 및 내부 데이터베이스 | 사용자 또는 회사에서 사용자 Teams 대해 Guru 앱을 설정하면 사용자 프로필과 연결된 사용자 이름, 전자 메일 및 회사 이름과 같은 일반적인 정보가 기록되어 액세스할 수 있습니다. | 사용자에게 통합을 사용하려면 Teams 계정과 Guru 계정이 모두 있어야 하는 경우 통합을 사용하도록 설정하는 사용자를 추적하고 추적하여 해당 사용자에게 지원 및 관리를 제공합니다. |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

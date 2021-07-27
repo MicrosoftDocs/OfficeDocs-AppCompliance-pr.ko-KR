@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Q에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3444110a1d98a1a9a1157c21e76774373782b8c2
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: a1a9995b6b723d7ed712f9a0fdbe9315ee53c7f0
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53456594"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521302"
 ---
 # <a name="q"></a>Q
 
@@ -55,13 +55,13 @@ ModuleQ에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | application | 메시지 본문 및 첨부 파일을 제외하고 모임 데이터를 저장합니다. | 응용 프로그램에서 사용자의 비즈니스 우선 순위를 지능적으로 이해하기 위해 사용자의 일정 이벤트를 읽을 수 있도록 허용합니다. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| Group.Read.All | 위임 | 없음 | 앱에서 콘텐츠를 공유하기 위해 팀에서 상호 작용할 수 있습니다. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| Mail.Read | application | 메시지 본문 및 첨부 파일을 제외하고 전자 메일 데이터를 저장합니다. | 사용자의 비즈니스 우선 순위를 지능적으로 이해하기 위해 응용 프로그램에서 사용자의 메일을 읽을 수 있도록 허용 | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| User.Read | 위임 | 사용자 전자 메일 및 인증 토큰 | 사용자가 ModuleQ 계정으로 로그인하고 Office 365 계정을 연결하도록 허용합니다. | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
->| User.Read.All | 위임 | 없음 | 앱이 사용자가 일부인 Teams 목록이 표시 하도록 허용합니다. 공유에만 사용  | 418a1ee4-ca76-4b38-b4b3-8cca25417a6c |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | application | 메시지 본문 및 첨부 파일을 제외하고 모임 데이터를 저장합니다. | 응용 프로그램에서 사용자의 비즈니스 우선 순위를 지능적으로 이해하기 위해 사용자의 일정 이벤트를 읽을 수 있도록 허용합니다. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| Group.Read.All | 위임 | 없음 | 앱에서 콘텐츠를 공유하기 위해 팀에서 상호 작용할 수 있습니다. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| Mail.Read | application | 메시지 본문 및 첨부 파일을 제외하고 전자 메일 데이터를 저장합니다. | 사용자의 비즈니스 우선 순위를 지능적으로 이해하기 위해 응용 프로그램에서 사용자의 메일을 읽을 수 있도록 허용 | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| User.Read | 위임 | 사용자 전자 메일 및 인증 토큰 | 사용자가 ModuleQ 계정으로 로그인하고 Office 365 계정을 연결하도록 허용합니다. | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
+>| User.Read.All | 위임 | 없음 | 앱이 사용자가 일부인 Teams 목록이 표시 하도록 허용합니다. 공유에만 사용  | [418a1ee4-ca76-4b38-b4b3-8cca25417a6c](https://docs.microsoft.com/microsoft-365-app-certification/azure/418a1ee4-ca76-4b38-b4b3-8cca25417a6c) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

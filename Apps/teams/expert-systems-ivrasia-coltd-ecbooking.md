@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ecBooking, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b1806ca26bb20d1f4f24d87d7b617ad9ff108397
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: f36edd400f35d7e4ccbfef5edd0225855f73ab69
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281881"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521731"
 ---
 # <a name="ecbooking"></a>ecBooking
 
@@ -55,14 +55,14 @@ Expert Systems IVR(Asia) 2013에서 Co.Ltd. Microsoft에:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | application | 사용자 전자 메일, 사용자 이벤트 등의 데이터가 저장됩니다. 사용자 이벤트는 회의실 가용성을 확인하고 이벤트를 만들기 위해 수집됩니다. | Users 이벤트의 ID, 위치 이름 및 기타 이벤트의 세부 정보가 저장됩니다. 회의실 가용성을 확인하고 이벤트를 만들기 위해 데이터가 수집됩니다. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| Mail.Send | application | 사용자 전자 메일과 같은 데이터. 사용자 전자 메일은 방 예약 미리 알림 전자 메일을 보내기 위해 수집됩니다. | 사용자 전자 메일과 같은 데이터. 사용자 전자 메일은 방 예약 미리 알림 전자 메일을 보내기 위해 수집됩니다. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| User.Read | 위임 | 사용자 ID, 이름 및 전자 메일과 같은 데이터. 사용자 데이터는 응용 프로그램에서 로그인하기 위해 수집됩니다. | 사용자 ID, 이름 및 전자 메일과 같은 데이터. 사용자 데이터는 응용 프로그램에서 로그인하기 위해 수집됩니다. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| User.Read.All | application | 사용자 ID, 이름 및 전자 메일과 같은 데이터. 사용자 데이터는 응용 프로그램에서 로그인하기 위해 수집됩니다. | 사용자 ID, 이름 및 전자 메일과 같은 데이터. 사용자 데이터는 응용 프로그램에서 로그인하기 위해 수집됩니다. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| 전자 메일 | 위임 | 사용자 전자 메일과 같은 데이터. User Emailare는 사용자의 가용성을 확인하고 이벤트를 만들기 위해 수집됩니다. | 사용자 전자 메일과 같은 데이터. User Emailare는 사용자의 가용성을 확인하고 이벤트를 만들기 위해 수집됩니다. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
->| openid | 위임 | 사용자가 응용 프로그램에 로그인할 수 있도록 하는 사용자의 openid inorder입니다. | 사용자가 응용 프로그램에 로그인할 수 있도록 하는 사용자의 openid inorder입니다. | a85d5d70-9b9c-46e4-bdd6-d139f1648dea |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | application | 사용자 전자 메일, 사용자 이벤트 등의 데이터가 저장됩니다. 사용자 이벤트는 회의실 가용성을 확인하고 이벤트를 만들기 위해 수집됩니다. | Users 이벤트의 ID, 위치 이름 및 기타 이벤트의 세부 정보가 저장됩니다. 회의실 가용성을 확인하고 이벤트를 만들기 위해 데이터가 수집됩니다. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| Mail.Send | application | 사용자 전자 메일과 같은 데이터. 사용자 전자 메일은 방 예약 미리 알림 전자 메일을 보내기 위해 수집됩니다. | 사용자 전자 메일과 같은 데이터. 사용자 전자 메일은 방 예약 미리 알림 전자 메일을 보내기 위해 수집됩니다. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| User.Read | 위임 | 사용자 ID, 이름 및 전자 메일과 같은 데이터. 사용자 데이터는 응용 프로그램에서 로그인하기 위해 수집됩니다. | 사용자 ID, 이름 및 전자 메일과 같은 데이터. 사용자 데이터는 응용 프로그램에서 로그인하기 위해 수집됩니다. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| User.Read.All | application | 사용자 ID, 이름 및 전자 메일과 같은 데이터. 사용자 데이터는 응용 프로그램에서 로그인하기 위해 수집됩니다. | 사용자 ID, 이름 및 전자 메일과 같은 데이터. 사용자 데이터는 응용 프로그램에서 로그인하기 위해 수집됩니다. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| 전자 메일 | 위임 | 사용자 전자 메일과 같은 데이터. User Emailare는 사용자의 가용성을 확인하고 이벤트를 만들기 위해 수집됩니다. | 사용자 전자 메일과 같은 데이터. User Emailare는 사용자의 가용성을 확인하고 이벤트를 만들기 위해 수집됩니다. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
+>| openid | 위임 | 사용자가 응용 프로그램에 로그인할 수 있도록 하는 사용자의 openid inorder입니다. | 사용자가 응용 프로그램에 로그인할 수 있도록 하는 사용자의 openid inorder입니다. | [a85d5d70-9b9c-46e4-bdd6-d139f1648dea](https://docs.microsoft.com/microsoft-365-app-certification/azure/a85d5d70-9b9c-46e4-bdd6-d139f1648dea) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

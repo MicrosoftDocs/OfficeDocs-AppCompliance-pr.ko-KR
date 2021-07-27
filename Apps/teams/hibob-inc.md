@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Hibob에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6b35068bec11d40cf7cf1c21a77f12f526bc35ce
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 9168d876cfdf6abc2839311d3820ec8a024f29d1
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283042"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521621"
 ---
 # <a name="hibob"></a>Hibob
 
@@ -68,7 +68,7 @@ Hibob Inc.에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 이 로스터는 전자 메일에 따라 Teams 사용자와 일치하는 데 사용됩니다. 일치는 식별, 알림, 프로필에 대한 링크에 Teams 사용됩니다. | UPN 속성만 사용 및 저장됩니다. |  |
 
 

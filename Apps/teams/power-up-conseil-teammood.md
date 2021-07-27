@@ -2,24 +2,24 @@
 title: Power Up Conseil의 TeamMood에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/05/2021
+ms.date: 06/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: TeamMood, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 83135e227edd83a4bf807f7a1c7d27cd094d3b4c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: e64ee816ff86bfacca7e479d8d36a95272bd2e44
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551838"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521287"
 ---
 # <a name="teammood"></a>TeamMood
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 1월 5일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 30일</p>
 
 * <a href="https://teams.microsoft.com/l/app/670cd639-d430-4972-87b5-4c2eb18af991" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002451" target="_blank">AppSource의 보기</a>
@@ -63,7 +63,7 @@ Power Up Conseil에서 Microsoft에 제공하는 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| AWS | company email address, firstname, lastname | Email adresses to manage the account on TeamMood. 사용자와의 통신을 개인 설정하기 위한 이름과 성입니다. |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

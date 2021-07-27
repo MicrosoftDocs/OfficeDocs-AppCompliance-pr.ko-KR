@@ -2,24 +2,24 @@
 title: yasoon GmbH로 커넥트 Jira용 Smart 커넥트 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/22/2021
+ms.date: 07/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Jira용 Smart 커넥트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b8266a72ed6690bd4c9994b64bceccbe73d87013
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: a4a5a1ad980bba5214811bea5d981a1705ec4f1f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53278970"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528034"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect for Jira
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 1월 22일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 7월 21일</p>
 
 * <a href="https://teams.microsoft.com/l/app/6402de97-ce33-4386-bf28-b37e9e139c09" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002055" target="_blank">AppSource의 보기</a>
@@ -55,17 +55,17 @@ Yasoon GmbH에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Channel.ReadBasic.All | 위임 | 사용 권한은 사용자가 Jira에서 이 가입 채널 중 하나를 선택할 수 있도록 하는 데 사용됩니다. | 캐싱 목적으로 채널 ID | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| ChannelMessage.Read.Group | application | 앱에서 Jira에 연결된 채널 메시지를 표시하는 데 허용합니다. | 메시지를 Jira 문제에 연결하기 위한 메시지 ID | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| ChannelMessage.Send | 위임 | 데이터가 사용 중이지 않습니다. 이 API는 사용자가 Jira의 채널 메시지에 회신할 수 있도록 하는 데 사용됩니다. | 없음 | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| ChannelSettings.Read.Group | application | 채널에 대한 세부 정보를 찾아보는 데 사용됩니다. | 없음 | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| Chat.ReadWrite | 위임 | 사용자가 채팅에 새 응답을 추가하고 Jira의 채팅 메시지를 볼 수 있도록 하는 데 사용됩니다. | 없음 | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| Member.Read.Group | application | 사용 권한 검사에 사용하면 앱에서 사용자의 팀 구성원 자격을 확인할 수 있습니다. | 없음 | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| Team.ReadBasic.All | 위임 | 사용 권한은 사용자가 Jira에서 이 참가 팀 중 하나를 선택할 수 있도록 하는 데 사용됩니다. | 캐싱 목적으로 사용할 팀 ID | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| TeamSettings.Read.Group | application | 앱에서 특정 기본값을 적용하기 위해 팀 설정을 읽을 수 있습니다. | 없음 | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
->| User.ReadBasic.All | 위임 | 사용자가 채널 메시지에서 @-mention에 대한 공동 작업자를 선택할 수 있습니다. | 없음 | 89d5ca9f-d63b-4885-bd30-6e7433c1540c |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | 위임 | 사용 권한은 사용자가 Jira에서 이 가입 채널 중 하나를 선택할 수 있도록 하는 데 사용됩니다. | 캐싱 목적으로 채널 ID | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ChannelMessage.Read.Group | application | 앱에서 Jira에 연결된 채널 메시지를 표시하는 데 허용합니다. | 메시지를 Jira 문제에 연결하기 위한 메시지 ID | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ChannelMessage.Send | 위임 | 데이터가 사용 중이지 않습니다. 이 API는 사용자가 Jira의 채널 메시지에 회신할 수 있도록 하는 데 사용됩니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ChannelSettings.Read.Group | application | 채널에 대한 세부 정보를 찾아보는 데 사용됩니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Chat.ReadWrite | 위임 | 사용자가 채팅에 새 응답을 추가하고 Jira의 채팅 메시지를 볼 수 있도록 하는 데 사용됩니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Member.Read.Group | application | 사용 권한 검사에 사용하면 앱에서 사용자의 팀 구성원 자격을 확인할 수 있습니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Team.ReadBasic.All | 위임 | 사용 권한은 사용자가 Jira에서 이 참가 팀 중 하나를 선택할 수 있도록 하는 데 사용됩니다. | 캐싱 목적으로 사용할 팀 ID | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| TeamSettings.Read.Group | application | 앱에서 특정 기본값을 적용하기 위해 팀 설정을 읽을 수 있습니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| User.ReadBasic.All | 위임 | 사용자가 채널 메시지에서 @-mention에 대한 공동 작업자를 선택할 수 있습니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -73,7 +73,7 @@ Yasoon GmbH에서 Microsoft에 제공한 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Atlassian Jira와 계약자 중 한 명은 여기에서 볼 수 있습니다. https://go.yasoon.com/contractors | 메시지 메타데이터(ID, 타임스탬프), 사용자 및 조직 메타데이터(사용자 ID, 조직 ID) 및 사용자 전자 메일 주소 | 앱 기능(예: Office 계정과 Atlassian 계정 일치)을 지원하고 문제를 더 빠르게 해결할 수 있도록 지원할 수 있습니다. |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
@@ -81,7 +81,7 @@ Yasoon GmbH에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 사용자 계정과 Teams Atlassian Jira 계정 일치 | 아니요 |  |
 
 
@@ -138,7 +138,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
 | 앱에서 웹 API를 노출하나요? | 아니요 |
-| 앱에서 미리 보기 API를 사용하나요? | 예 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

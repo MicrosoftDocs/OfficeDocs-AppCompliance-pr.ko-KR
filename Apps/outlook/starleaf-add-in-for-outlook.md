@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 StarLeaf 추가 기능에서 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 48335c7260921e50740f28d57192d74a9e0a4fe5
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 66f31eb44942e20b4db10d5e718eb67e3e50b03e
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281600"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527904"
 ---
 # <a name="starleaf-add-in-for-outlook"></a>사용자용 StarLeaf 추가 Outlook
 
@@ -53,10 +53,10 @@ StarLeaf에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | application | 모임의 iCalUId, 모임 시간/날짜, 참석자 전자 메일 주소 및 모임에서 사용자 지정 속성 인터페이스를 사용하여 읽고 쓰는 Single-Value-Extended-Property를 Office.js 저장합니다. iCalUId는 사용자의 outlook 일정에 있는&#8217;서비스의 비디오 모임과 상관 관계가 있는 데 사용됩니다. 시간/날짜 및 참석자는 서비스의 올바른 사용자에게 올바른 시기에 비디오 모임을 제공하는 데 사용됩니다. SVEP는 O365 추가 기능과 함께 사용되어 사용자가 녹음/녹화와 같은 서비스에서 비디오 모임에 대한 세부 정보를 설정할 수 있는 인터페이스를 제공합니다. | webhook 알림을 구독하여 일정의 이벤트에 대한 사용자 변경 내용을 추적하고 일관되게 서비스를 업데이트하는 데 사용됩니다. 또한 사용자가 Teams 앱과 상호 작용하고 서비스에서 모임을 예약할 때 일정에 이벤트를 만드는 데도 사용됩니다. | 6e86b349-768f-4953-ac2e-fb03f92db4be |
->| User.Read | application | 로그인할 수 있게 oauth 새로 고침 토큰을 저장합니다. 사용자 프로필 ID를 저장하여 해당 사용자의 향후 OAuth 시도와 비교할 수 있도록&#8217;두 번 저장하지 않도록 합니다.  | 사용자가 앱에 로그인할 수 있도록 허용하고 앱에서 사용자의 전자&#8217;주소로 로그인을 서비스의 계정과 상관 관계화할 수 있도록 허용합니다.  | 6e86b349-768f-4953-ac2e-fb03f92db4be |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | application | 모임의 iCalUId, 모임 시간/날짜, 참석자 전자 메일 주소 및 모임에서 사용자 지정 속성 인터페이스를 사용하여 읽고 쓰는 Single-Value-Extended-Property를 Office.js 저장합니다. iCalUId는 사용자의 outlook 일정에 있는&#8217;서비스의 비디오 모임과 상관 관계가 있는 데 사용됩니다. 시간/날짜 및 참석자는 서비스의 올바른 사용자에게 올바른 시기에 비디오 모임을 제공하는 데 사용됩니다. SVEP는 O365 추가 기능과 함께 사용되어 사용자가 녹음/녹화와 같은 서비스에서 비디오 모임에 대한 세부 정보를 설정할 수 있는 인터페이스를 제공합니다. | webhook 알림을 구독하여 일정의 이벤트에 대한 사용자 변경 내용을 추적하고 일관되게 서비스를 업데이트하는 데 사용됩니다. 또한 사용자가 Teams 앱과 상호 작용하고 서비스에서 모임을 예약할 때 일정에 이벤트를 만드는 데도 사용됩니다. | [6e86b349-768f-4953-ac2e-fb03f92db4be](https://docs.microsoft.com/microsoft-365-app-certification/azure/6e86b349-768f-4953-ac2e-fb03f92db4be) |
+>| User.Read | application | 로그인할 수 있게 oauth 새로 고침 토큰을 저장합니다. 사용자 프로필 ID를 저장하여 해당 사용자의 향후 OAuth 시도와 비교할 수 있도록&#8217;두 번 저장하지 않도록 합니다.  | 사용자가 앱에 로그인할 수 있도록 허용하고 앱에서 사용자의 전자&#8217;주소로 로그인을 서비스의 계정과 상관 관계화할 수 있도록 허용합니다.  | [6e86b349-768f-4953-ac2e-fb03f92db4be](https://docs.microsoft.com/microsoft-365-app-certification/azure/6e86b349-768f-4953-ac2e-fb03f92db4be) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -64,7 +64,7 @@ StarLeaf에서 Microsoft에 제공한 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 기술 지원 문제가 발생하는 경우 사례 관리를 위해 조직 데이터가 SalesForce로 전송될 수 있습니다. 사용자가 PSTN 전화 접속 기능을 사용하는 경우 통화가 Twilio, Plivo 또는 Voxbone을 통해 흐르게 됩니다. |  | 해당 없음 |
 
 

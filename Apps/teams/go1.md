@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Go1에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 39501f6cb09502287dcff26acab4d8720b5fb6a0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d6fa3c9d0ecf710724379da869fba4b0cec23f6a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281280"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521671"
 ---
 # <a name="go1"></a>Go1
 
@@ -54,11 +54,11 @@ Go1에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | application | 앱이 파일 데이터를 저장하지 않습니다. | 사용자가 onedrive에서 파일을 업로드하고 공유할 수 있도록 허용 | c859de61-8a6b-42e6-ba88-f639df33bc72 |
->| Group.ReadWrite.All | application | Teams 환경을 관리하는 앱을 지원하기 위해 저장된 채널 이름 및 고유 ID | 앱에서 사용자 환경의 구조화된 학습을 Teams 채널과 채널을 동적으로 Teams 수 있습니다. | c859de61-8a6b-42e6-ba88-f639df33bc72 |
->| User.Read.All | application | 직접 개인 학습자 환경을 제공하기 위해 저장된 사용자 이름 및 전자 메일 및 UPN | 를 사용하여 팀 구성원 간의 학습 리소스 공유를 지원할 수 있습니다. | c859de61-8a6b-42e6-ba88-f639df33bc72 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | application | 앱이 파일 데이터를 저장하지 않습니다. | 사용자가 onedrive에서 파일을 업로드하고 공유할 수 있도록 허용 | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
+>| Group.ReadWrite.All | application | Teams 환경을 관리하는 앱을 지원하기 위해 저장된 채널 이름 및 고유 ID | 앱에서 사용자 환경의 구조화된 학습을 Teams 채널과 채널을 동적으로 Teams 수 있습니다. | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
+>| User.Read.All | application | 직접 개인 학습자 환경을 제공하기 위해 저장된 사용자 이름 및 전자 메일 및 UPN | 를 사용하여 팀 구성원 간의 학습 리소스 공유를 지원할 수 있습니다. | [c859de61-8a6b-42e6-ba88-f639df33bc72](https://docs.microsoft.com/microsoft-365-app-certification/azure/c859de61-8a6b-42e6-ba88-f639df33bc72) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -66,7 +66,7 @@ Go1에서 Microsoft에 제공한 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 사용자 이름과 성은 과정 콘텐츠를 플레이할 때 GO1의 콘텐츠 공급자와 공유될 수 있습니다. 이는 콘텐츠 공급자가 개인화된 학습 환경을 제공해야 하는 경우만 공유됩니다. |  | 해당 없음 |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

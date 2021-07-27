@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Listy, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bfa36c199e7839ce0756ecb5dfb3f5b923821405
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 9f8d7a9060a53b5261bbb0378c2181a2ec8bfa3b
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281841"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521551"
 ---
 # <a name="listy"></a>Listy
 
@@ -55,9 +55,9 @@ ms.locfileid: "53281841"
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamSettings.Read.Group | 둘 다 | 로컬 앱 계정을 만들 때 사용자가 수동으로 데이터를 채우지 않는 경우 | 로컬 앱 계정을 만들 때 사용자가 수동으로 데이터를 채우지 않는 경우 | 8aa22b64-9a2c-403b-83c1-feaf774c764c |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| TeamSettings.Read.Group | 둘 다 | 로컬 앱 계정을 만들 때 사용자가 수동으로 데이터를 채우지 않는 경우 | 로컬 앱 계정을 만들 때 사용자가 수동으로 데이터를 채우지 않는 경우 | [8aa22b64-9a2c-403b-83c1-feaf774c764c](https://docs.microsoft.com/microsoft-365-app-certification/azure/8aa22b64-9a2c-403b-83c1-feaf774c764c) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

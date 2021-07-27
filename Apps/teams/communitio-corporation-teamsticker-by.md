@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Communitio의 TeamSticker에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 944fa2eaf8df347cf3ce1b96bad9cd8521dceed3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 871c410b520fc7b8697942a4921104329a239338
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281941"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521861"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker by Communitio
 
@@ -55,22 +55,22 @@ Communitio Corporation에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Chat.ReadWrite | application |  응용 프로그램이 채팅에 게시하기 때문에 | 응용 프로그램에서는 데이터를 저장하지 않습니다. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| Group.ReadWrite.All | 둘 다 | 응용 프로그램은 그룹 ID 및 그룹 이름을 수집합니다. | 응용 프로그램은 그룹 ID와 이름 쌍을 저장합니다. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| User.Read | 위임 | 응용 프로그램은 사용자의 프로필 이미지를 수집합니다. | 응용 프로그램은 사용자 아이콘을 표시하기 위해 사용자의 프로필 이미지를 저장합니다. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| User.Read.All | 둘 다 | Application은 사용자의 objectId/email/name을 수집하여 카드를 보낼 사용자를 검색합니다. | 이 경우 응용 프로그램은 데이터를 저장하지 않습니다. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| offline_access | 위임 | Application은 백그라운드에서 User.Read/ User.Read.All을 사용하기 위해 사용자의 api 토큰을 수집합니다. | 응용 프로그램은 백그라운드에서 User.Read/ User.Read.All을 사용하기 위해 사용자의 api 토큰을 저장합니다. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| openid | 위임 | 데이터가 수집되지 않습니다. | 응용 프로그램에서 이 권한을 사용하여 openid로 로그인합니다. | bceca1f0-723f-44d0-b732-b3506c0a641d |
->| profile | 위임 | 응용 프로그램은 사용자의 objectId/ email / name을 수집합니다. | 응용 프로그램은 사용자의 objectId/ email / name을 저장합니다. | bceca1f0-723f-44d0-b732-b3506c0a641d |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Chat.ReadWrite | application |  응용 프로그램이 채팅에 게시하기 때문에 | 응용 프로그램에서는 데이터를 저장하지 않습니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| Group.ReadWrite.All | 둘 다 | 응용 프로그램은 그룹 ID 및 그룹 이름을 수집합니다. | 응용 프로그램은 그룹 ID와 이름 쌍을 저장합니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| User.Read | 위임 | 응용 프로그램은 사용자의 프로필 이미지를 수집합니다. | 응용 프로그램은 사용자 아이콘을 표시하기 위해 사용자의 프로필 이미지를 저장합니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| User.Read.All | 둘 다 | Application은 사용자의 objectId/email/name을 수집하여 카드를 보낼 사용자를 검색합니다. | 이 경우 응용 프로그램은 데이터를 저장하지 않습니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| offline_access | 위임 | Application은 백그라운드에서 User.Read/ User.Read.All을 사용하기 위해 사용자의 api 토큰을 수집합니다. | 응용 프로그램은 백그라운드에서 User.Read/ User.Read.All을 사용하기 위해 사용자의 api 토큰을 저장합니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| openid | 위임 | 데이터가 수집되지 않습니다. | 응용 프로그램에서 이 권한을 사용하여 openid로 로그인합니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| profile | 위임 | 응용 프로그램은 사용자의 objectId/ email / name을 수집합니다. | 응용 프로그램은 사용자의 objectId/ email / name을 저장합니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >|  봇 프레임워크 REST API | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -84,7 +84,7 @@ Communitio Corporation에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| User.Read.All의 권한이 있기 때문에. | 아니요 |  |
 
 

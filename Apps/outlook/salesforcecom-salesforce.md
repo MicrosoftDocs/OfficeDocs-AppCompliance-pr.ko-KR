@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Salesforce에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b5999dd08ed27ce75bc958e431c0974e10830a3c
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d0490ea422179e064443f7fad12abb64bc6efa47
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281700"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527914"
 ---
 # <a name="salesforce"></a>Salesforce
 
@@ -60,7 +60,7 @@ Microsoft에 salesforce.com 정보:
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| JavaScript API for Office | 예 | 추가 기능은 Office.js 및 EWS의 기능을 사용하여 사용자가 Salesforce에 로그인하기로 결정한 전자 메일에 대한 Outlook 첨부 파일을 복사합니다. 일정 쪽에서 유사한 기능을 사용하여 약속을 Salesforce에 기록합니다. |  | 추가 기능은 getUserIdentityTokenAsync와 같은 함수를 사용하여 현재 Outlook 사용자 ID, GetItem(.js 및 EWS)을 사용하여 Salesforce 레코드에 저장하는 경우 현재 전자 메일 메시지의 내용과 AdditionalProperties를 구하고 설정하며, EWS(GetAttachment)를 사용하여 Exchange 첨부 파일을 검색하고 쌍을 이루는 Salesforce 전자 메일인 UpdateItem(.js), GetFolder(.js)에 추가하여 초안 메시지를 만드는 데 사용되는 CreateItem(.js)을 가져올 수 있습니다. |  |
 >| EWS(Exchange 웹 서비스) | 예 | 추가 기능은 Office.js 및 EWS의 기능을 사용하여 사용자가 Salesforce에 로그인하기로 결정한 전자 메일에 대한 Outlook 첨부 파일을 복사합니다. 일정 쪽에서 유사한 기능을 사용하여 약속을 Salesforce에 기록합니다. |  | 추가 기능은 getUserIdentityTokenAsync와 같은 함수를 사용하여 현재 Outlook 사용자 ID, GetItem(.js 및 EWS)을 사용하여 Salesforce 레코드에 저장하는 경우 현재 전자 메일 메시지의 내용과 AdditionalProperties를 구하고 설정하며, EWS(GetAttachment)를 사용하여 Exchange 첨부 파일을 검색하고 쌍을 이루는 Salesforce 전자 메일인 UpdateItem(.js), GetFolder(.js)에 추가하여 초안 메시지를 만드는 데 사용되는 CreateItem(.js)을 가져올 수 있습니다. |  |
 

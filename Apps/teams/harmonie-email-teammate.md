@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Email TeamMate, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 21c17ca6e6ac518063e9ba097b17422907e7189e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a5d84cc70ee039a4b2973fb5ec9bfd9f20a9a179
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553109"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521661"
 ---
 # <a name="email-teammate"></a>Email TeamMate
 
@@ -55,14 +55,14 @@ Microsoft에 harmon.ie 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Chat.Read | 위임 | 팀원이 대화 채팅 구성원과 파일 저장을 공유하기 위해 SharePoint/One 드라이브에서 특정 대화의 채팅 구성원을 다운로드하는 데 필요합니다. | 없음 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| Files.ReadWrite.All | 위임 | 팀원이 전자 메일 첨부 파일을 SharePoint &amp; /Teams /OneDrive | 없음 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| Mail.ReadWrite | 위임 | TeamMate가 사용자의 전자 메일을 표시하고 팀에 저장된 전자 메일에 회신하는 Teams | 없음 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| People.Read | 위임 | 팀원이 사용자에 의해 전자 메일을 검색하고 자주 연락하는 사람에 대해 제안하는 데 필요합니다. | 없음 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| User.Read | 위임 | 사용자가 계정으로 TeamMate에 로그인할 수 있도록 허용하고 TeamMate가 기본 사용자 프로필 정보를 볼 수 있도록 허용 | 없음 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
->| User.ReadBasic.All | 위임 | 팀원이 채팅 구성원 전자 메일 주소를 확인하려면 팀원과 함께 저장한 공유 OneDrive 필요  | 없음 | 74a31d8c-1ee9-4fb8-bc22-640ba5f457f4 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Chat.Read | 위임 | 팀원이 대화 채팅 구성원과 파일 저장을 공유하기 위해 SharePoint/One 드라이브에서 특정 대화의 채팅 구성원을 다운로드하는 데 필요합니다. | 없음 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| Files.ReadWrite.All | 위임 | 팀원이 전자 메일 첨부 파일을 SharePoint &amp; /Teams /OneDrive | 없음 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| Mail.ReadWrite | 위임 | TeamMate가 사용자의 전자 메일을 표시하고 팀에 저장된 전자 메일에 회신하는 Teams | 없음 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| People.Read | 위임 | 팀원이 사용자에 의해 전자 메일을 검색하고 자주 연락하는 사람에 대해 제안하는 데 필요합니다. | 없음 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| User.Read | 위임 | 사용자가 계정으로 TeamMate에 로그인할 수 있도록 허용하고 TeamMate가 기본 사용자 프로필 정보를 볼 수 있도록 허용 | 없음 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| User.ReadBasic.All | 위임 | 팀원이 채팅 구성원 전자 메일 주소를 확인하려면 팀원과 함께 저장한 공유 OneDrive 필요  | 없음 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

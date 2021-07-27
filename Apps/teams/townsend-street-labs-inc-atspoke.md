@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: atSpoke에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: b3e3027c83c78373347a972124853add6214ee8d
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 2d72ea33577e386c61be6bcd09feeba813e9e1f5
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283392"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528104"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -54,11 +54,11 @@ Street Labs, Inc.에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 위임 | atSpoke는 Microsoft 그룹 ID를 저장합니다. | atSpoke와 atSpoke 간에 그룹 정보를 읽고 쓸 수 Microsoft Teams.  | dfaf15dc-4e94-4484-a25d-79358fe70d8b |
->| User.ReadWrite.All | 위임 | atSpoke는 사용자 전자 메일 및 사용자 ID를 저장합니다. | atSpoke와 atSpoke 간에 사용자 정보를 읽고 쓸 수 Microsoft Teams. | dfaf15dc-4e94-4484-a25d-79358fe70d8b |
->| offline_access | 위임 | atSpoke는 이에 대한 데이터를 저장하지 않습니다. | 백그라운드 동기화에 사용됩니다. | dfaf15dc-4e94-4484-a25d-79358fe70d8b |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 위임 | atSpoke는 Microsoft 그룹 ID를 저장합니다. | atSpoke와 atSpoke 간에 그룹 정보를 읽고 쓸 수 Microsoft Teams.  | [dfaf15dc-4e94-4484-a25d-79358fe70d8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b) |
+>| User.ReadWrite.All | 위임 | atSpoke는 사용자 전자 메일 및 사용자 ID를 저장합니다. | atSpoke와 atSpoke 간에 사용자 정보를 읽고 쓸 수 Microsoft Teams. | [dfaf15dc-4e94-4484-a25d-79358fe70d8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b) |
+>| offline_access | 위임 | atSpoke는 이에 대한 데이터를 저장하지 않습니다. | 백그라운드 동기화에 사용됩니다. | [dfaf15dc-4e94-4484-a25d-79358fe70d8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/dfaf15dc-4e94-4484-a25d-79358fe70d8b) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -66,7 +66,7 @@ Street Labs, Inc.에서 Microsoft에 제공한 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 예, 운영 효율성을 위해 타사 서비스를 사용 합니다. Google, Inc.: 논리 볼륨에 저장된 데이터, 기본 Google 클라우드 네트워크의 저장소 백업, 서비스 및 API 로그 또는 응용 프로그램 로그. 기록된 트랜잭션 이벤트에는 사용자 식별자, 연락처 정보 및 고객 콘텐츠가 포함될 수 있습니다. MongoDB, Inc.: 클라우드 기반 데이터베이스 컬렉션에 저장된 데이터입니다. - 사용자가 제출한 요청, 사용자가 추가한 요청에 대한 응답, 사용자가 추가한 기술 문서가 포함된 고객 콘텐츠 - 사용자 식별자(Spoke 사용자 계정을 만드는 데 사용되는 이름, 전자 메일, 아바타 및 전화 번호). Mailgun Technologies, Inc.: 전자 메일 통신(예: 이름 및 전자 메일)을 보낼 사용자 식별자 및 연락처 정보입니다. Twilio, Inc.: 사용자 전화 번호 및 고객 콘텐츠: 텍스트, 메시지 본문&#8217;음성 및 비디오 미디어, 이미지, 소리 등 Twilio&#8217;서비스를 사용하여 교환되는 콘텐츠입니다. Mixpanel, Inc.: 전송되는 개인 데이터에는 메시지 콘텐츠에 포함된 이름, 전자 메일, IP 주소 및 개인 데이터가 포함됩니다. Cloudinary, Inc.: 최종 사용자가 제출한 파일 기반 고객 콘텐츠입니다. Elasticsearch, Inc.: 기록된 응용 프로그램 트랜잭션 이벤트에는 고객 콘텐츠의 텍스트가 소진될 수 있습니다. Stitch, Inc.: 연락처 정보, 사용 현황 정보, 구독자의 권한이 부여된 사용자의 일반 식별자 외의 모든 개인 데이터 구독자 또는 권한이 부여된 사용자가 플랫폼에 제출합니다. Mode Analytics, Inc.: 사용자당 분석을 제공하는 사용자 식별자 정보입니다. DataDog: 기록된 응용 프로그램 트랜잭션 이벤트에 고객 콘텐츠의 텍스트가 일부 포함되어 있을 수 있습니다. 로그 보존 기간은 14일입니다. Fullstory, Inc.: 웹 사용자 인터페이스에서 수행된 작업 기록 식별을 위해 Spoke의 사용자 계정을 포함합니다. |  | Bot Framework REST API를 사용하고 있습니다. 이 API를 사용하여 askSpoke 봇 서비스에 메시지를 보내고 받을 수 있습니다. |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
@@ -74,7 +74,7 @@ Street Labs, Inc.에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| atSpoke는 atSpoke에서 사용자를 동기화하여 사용자를 Microsoft Teams 권한을 정의할 수 있습니다. | atSpoke는 사용자가 atSpoke에 Microsoft Teams 수 있도록 전자 메일만 저장합니다. |  |
 
 

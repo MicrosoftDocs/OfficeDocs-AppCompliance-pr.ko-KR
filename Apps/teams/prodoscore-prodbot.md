@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ProdBot에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8cf445d1b1f7ef72300017ce095d0dec0e038f41
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 46b5682dc3b3c5052c5b3912125d2caebcb9f662
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551828"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521135"
 ---
 # <a name="prodbot"></a>ProdBot
 
@@ -63,7 +63,7 @@ Prodoscore에서 Microsoft에 제공하는 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Google Cloud Platform | Domain Name | 응용 프로그램에 등록하면 조직의 도메인 이름을 사용하여 조직을 고유하게 식별합니다. |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

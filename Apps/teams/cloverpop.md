@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Cloverpop에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c6be013237c6368624687f7eb297a7149c28a548
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3865c07aca73134fd9029ee0550559d9a4f93fd2
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281350"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521871"
 ---
 # <a name="cloverpop"></a>Cloverpop
 
@@ -54,11 +54,11 @@ Cloverpop에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | 사용자 데이터를 저장합니다. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. 사용자가 결정을 만들고 상호 작용할 때 이 데이터를 만든 사용자, 팀 및 조직과 연결합니다. 또한 사람이 친숙한 UX에 이 소유권을 표시해야 하여 표시 정보(예: 사용자가 아바타로&#8217;저장합니다. | 사용자가 로그인할 수 있도록 허용하고 UPN에 대한 앱 액세스 권한을 부여하여 전자 메일, 이름&#8221; oid, tid, givenName, surname, familyName, user avatar(photo), organization displayName | 1040474b-572d-4575-a423-95dd262a8b8a |
->| openid | 위임 | 사용자 데이터를 저장합니다. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. 사용자가 결정을 만들고 상호 작용할 때 이 데이터를 만든 사용자, 팀 및 조직과 연결합니다. 또한 사람이 친숙한 UX에 이 소유권을 표시해야 하여 표시 정보(예: 사용자가 아바타로&#8217;저장합니다. | 웹앱에서 &#8220;로그인을 Teams&#8221; 로그인합니다. | 1040474b-572d-4575-a423-95dd262a8b8a |
->| profile | 위임 | 사용자 데이터를 저장합니다. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. 사용자가 결정을 만들고 상호 작용할 때 이 데이터를 만든 사용자, 팀 및 조직과 연결합니다. 또한 사람이 친숙한 UX에 이 소유권을 표시해야 하여 표시 정보(예: 사용자가 아바타로&#8217;저장합니다. | 웹앱에서 &#8220;로그인을 Teams&#8221; 로그인합니다. | 1040474b-572d-4575-a423-95dd262a8b8a |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | 사용자 데이터를 저장합니다. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. 사용자가 결정을 만들고 상호 작용할 때 이 데이터를 만든 사용자, 팀 및 조직과 연결합니다. 또한 사람이 친숙한 UX에 이 소유권을 표시해야 하여 표시 정보(예: 사용자가 아바타로&#8217;저장합니다. | 사용자가 로그인할 수 있도록 허용하고 UPN에 대한 앱 액세스 권한을 부여하여 전자 메일, 이름&#8221; oid, tid, givenName, surname, familyName, user avatar(photo), organization displayName | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
+>| openid | 위임 | 사용자 데이터를 저장합니다. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. 사용자가 결정을 만들고 상호 작용할 때 이 데이터를 만든 사용자, 팀 및 조직과 연결합니다. 또한 사람이 친숙한 UX에 이 소유권을 표시해야 하여 표시 정보(예: 사용자가 아바타로&#8217;저장합니다. | 웹앱에서 &#8220;로그인을 Teams&#8221; 로그인합니다. | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
+>| profile | 위임 | 사용자 데이터를 저장합니다. email, oid, givenName, familyName, user avatar, user object id. organization id(tenantId), organization display name, Also we store on our side teams/channels names, ids, teams members. 사용자가 결정을 만들고 상호 작용할 때 이 데이터를 만든 사용자, 팀 및 조직과 연결합니다. 또한 사람이 친숙한 UX에 이 소유권을 표시해야 하여 표시 정보(예: 사용자가 아바타로&#8217;저장합니다. | 웹앱에서 &#8220;로그인을 Teams&#8221; 로그인합니다. | [1040474b-572d-4575-a423-95dd262a8b8a](https://docs.microsoft.com/microsoft-365-app-certification/azure/1040474b-572d-4575-a423-95dd262a8b8a) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -72,7 +72,7 @@ Cloverpop에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 결정과 관련된 특정 사용자가 수행한 작업을 정확하게 표시하기 위해 첫 번째/성/표시 이름 데이터에 액세스합니다. 각 사용자가 여러 조직에 속하도록 허용하기 위해 전자 메일 주소를 db의 각 사용자에 대한 고유 식별자로 사용하게 됩니다. 앱과 상호 작용하는 경우(예: 설문에 응답하는 경우) 이 데이터에만 액세스합니다. | 결정과 관련된 특정 사용자가 수행한 작업을 정확하게 표시하기 위해 첫 번째/성/표시 이름 데이터를 저장합니다.  전자 메일 주소는 각 사용자가 여러 조직에 속할 수 있도록 허용하기 때문에 db의 각 사용자에 대한 고유 식별자로 사용하기 때문에 저장됩니다. 이 데이터는 앱과 상호 작용할 때(예: 설문에 응답하는 경우) 저장합니다. 의사 결정 데이터는 결정에 대한 기록 시스템으로 설정됩니다. 따라서 각 사용자가 결정에 참여한 방법을 식별하기 위해 데이터를 저장하는 것이 중요합니다. |  |
 
 

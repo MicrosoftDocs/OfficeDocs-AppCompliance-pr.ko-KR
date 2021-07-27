@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Jira로 이동, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2f0f51e841a3b22c1fe1670defe99948cc99f5a3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7120519c2ecb0643465760677b2bef895b1e2f4d
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282962"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521290"
 ---
 # <a name="move-work-forward-with-jira"></a>Jira를 사용하여 작업을 앞으로 이동
 
@@ -55,14 +55,14 @@ Microsoft로 작업 이동에서 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Channel.Create | 위임 | 문제 토론 채널을 만드는 데 사용됩니다. | 새로 만든 채널의 웹 URL은 Jira에 표시되어 공유 토론 채널에 Microsoft Teams 저장됩니다. | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| Channel.ReadBasic.All | 위임 | 채널 이름 및 ID는 Jira에서 채널로 알림을 보내는 Microsoft Teams. | 채널 ID 및 이름은 Jira에서 채널로의 알림을 구성하기 위해 Microsoft Teams. | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| Team.ReadBasic.All | 위임 | 사용 권한은 사용자가 Jira에서 이 참가 팀 중 하나를 선택할 수 있도록 하는 데 사용됩니다. | Jira의 구성 화면에 표시할 팀 ID 및 이름입니다. | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| TeamsAppInstallation.ReadForTeam | 위임 | 팀의 Teams 설치된 앱을 읽습니다. 봇에 배달을 설정할 Microsoft Teams 봇이 Teams 앱으로 보낼 수 있습니다. | Nothing | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| User.Read | 위임 | 사용자가 채널 메시지에서 @-mention을 사용하여 공동 작업자와 토론 채널을 만들 수 있습니다. | Nothing | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
->| 전자 메일 | 위임 | 전자 메일은 Atlassian 및 Microsoft Users 일치에 사용됩니다. | 전자 메일이 저장되지 않습니다. 일치하는 프로세스 중에만 사용됩니다. | 39d845a0-3fa2-4fba-acc2-61afe40cfcea |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.Create | 위임 | 문제 토론 채널을 만드는 데 사용됩니다. | 새로 만든 채널의 웹 URL은 Jira에 표시되어 공유 토론 채널에 Microsoft Teams 저장됩니다. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Channel.ReadBasic.All | 위임 | 채널 이름 및 ID는 Jira에서 채널로 알림을 보내는 Microsoft Teams. | 채널 ID 및 이름은 Jira에서 채널로의 알림을 구성하기 위해 Microsoft Teams. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Team.ReadBasic.All | 위임 | 사용 권한은 사용자가 Jira에서 이 참가 팀 중 하나를 선택할 수 있도록 하는 데 사용됩니다. | Jira의 구성 화면에 표시할 팀 ID 및 이름입니다. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| TeamsAppInstallation.ReadForTeam | 위임 | 팀의 Teams 설치된 앱을 읽습니다. 봇에 배달을 설정할 Microsoft Teams 봇이 Teams 앱으로 보낼 수 있습니다. | Nothing | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| User.Read | 위임 | 사용자가 채널 메시지에서 @-mention을 사용하여 공동 작업자와 토론 채널을 만들 수 있습니다. | Nothing | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| 전자 메일 | 위임 | 전자 메일은 Atlassian 및 Microsoft Users 일치에 사용됩니다. | 전자 메일이 저장되지 않습니다. 일치하는 프로세스 중에만 사용됩니다. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -76,7 +76,7 @@ Microsoft로 작업 이동에서 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 앱을 설치할 때 이름을 통해 사용자를 인사말합니다. 사용자 Microsoft Teams 및 Atlassian 사용자 일치 | 아니요 |  |
 
 

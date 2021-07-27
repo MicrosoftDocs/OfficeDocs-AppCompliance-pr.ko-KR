@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CI-Out-of-Office Lite에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 87a4d77deaac6281018befe1fc2de44f0fe20c35
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: de7d350bf6eda53a782872b3c4965235cfeca799
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275493"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521961"
 ---
 # <a name="ci-out-of-office-lite"></a>CI-Out-of-Office Lite
 
@@ -35,7 +35,7 @@ Ci 솔루션 GmbH에서 Microsoft에 제공하는 정보:
 | 앱 이름 | CI-Out-of-Office Lite |
 | ID | WA200002748 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | ci 솔루션 GmbH |
+| 파트너 회사 이름 | ci solution GmbH |
 | 파트너 웹 사이트의 URL | [https://www.ci-solution.com](https://www.ci-solution.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.ci-solution.com/support/en/ci-oof-lite/](https://www.ci-solution.com/support/en/ci-oof-lite/) |
 | 개인 정보 취급 방침의 URL | [https://www.ci-solution.com/kontakt/datenschutz.html](https://www.ci-solution.com/kontakt/datenschutz.html) |
@@ -55,9 +55,9 @@ Ci 솔루션 GmbH에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 전자 메일 | 위임 | 사용자의 전자 메일 주소 보기 | Es werden keine Daten gespeichert. | fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 전자 메일 | 위임 | 사용자의 전자 메일 주소 보기 | Es werden keine Daten gespeichert. | [fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc1e4e41-1e20-49ba-88aa-5f26fa8bc4da) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

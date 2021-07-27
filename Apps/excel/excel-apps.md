@@ -2,17 +2,17 @@
 title: Microsoft Excel 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/14/2021
+ms.date: 07/22/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Excel 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: a8cda8484e930dfce615338d027c97eaec60396a
-ms.sourcegitcommit: 0098942ce316ab984e09fd9d2063cbc516c8bfb5
+ms.openlocfilehash: f630984d82de748e01559058f4d916942a4fed0a
+ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "53422689"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53547796"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 앱 보안 및 규정 준수
 

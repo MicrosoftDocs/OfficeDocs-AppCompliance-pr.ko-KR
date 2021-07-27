@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 송장 및 시간 추적에 사용할 수 있는 모든 보안 및 규정 준수 정보 - Zoho Invoice, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0a3e8afb7be998c2fba33e7c4320956cbd990ef3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3879f8b00191c9dbd9f712e685430d0360bb74fb
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281580"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527874"
 ---
 # <a name="invoice-and-time-tracking---zoho-invoice"></a>송장 및 시간 추적 - Zoho 송장
 
@@ -53,16 +53,16 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Contacts.Read | 위임 |  |  사용자가 Office365 연락처를 Zoho 송장과 동기화할 수 있도록 허용합니다. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Mail.Read | 위임 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Mail.Send | 위임 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Export.All | 위임 |  | 사용자가 모든 사용자 관련 정보를 내보낼 수 있도록 허용합니다. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read.All | 위임 |  | 사용자가 로그인하고 사용자 프로필을 읽을 수 있도록 허용합니다. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | 위임 |  | 사용자가 Office365 사용자를 Zoho로 가져올 수 있도록 허용합니다. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 전자 메일 | 위임 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| profile | 위임 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Contacts.Read | 위임 |  |  사용자가 Office365 연락처를 Zoho 송장과 동기화할 수 있도록 허용합니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Mail.Read | 위임 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Mail.Send | 위임 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Export.All | 위임 |  | 사용자가 모든 사용자 관련 정보를 내보낼 수 있도록 허용합니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read.All | 위임 |  | 사용자가 로그인하고 사용자 프로필을 읽을 수 있도록 허용합니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | 위임 |  | 사용자가 Office365 사용자를 Zoho로 가져올 수 있도록 허용합니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 전자 메일 | 위임 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| profile | 위임 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

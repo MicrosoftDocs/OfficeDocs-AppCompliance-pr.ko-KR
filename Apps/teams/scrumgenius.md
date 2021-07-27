@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 ScrumGenius, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fb8b30ddc27b512a5731ef3ec42cb76ed097c56c
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: be8873fecd5dc50ab4db6def68c7c25f73e677fd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283052"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521041"
 ---
 # <a name="scrumgenius"></a>ScrumGenius
 
@@ -54,10 +54,10 @@ ScrumGenius에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 위임 | 사용자의 일정에 설정된 휴가 날짜입니다. | 사용자가 휴가를 ScrumGenius와 동기화할 수 있도록 합니다. |  |
->| User.Read | 위임 | 사용자의 이름 및 전자 메일 주소입니다. | 사용자가 Microsoft 로그인을 사용하여 로그인할 수 있도록 허용합니다. |  |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 위임 | 사용자의 일정에 설정된 휴가 날짜입니다. | 사용자가 휴가를 ScrumGenius와 동기화할 수 있도록 합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 위임 | 사용자의 이름 및 전자 메일 주소입니다. | 사용자가 Microsoft 로그인을 사용하여 로그인할 수 있도록 허용합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -71,7 +71,7 @@ ScrumGenius에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 팀명에 액세스하여 팀 관리자가 scrumgenius를 설치할 때 나머지 팀명을 scrumgenius와 동기화할 수 있으므로 플랫폼에서 팀원들이 대기 작업 보고서를 구성하고 보고서를 받을 팀의 구성원을 할당할 수 있도록 플랫폼에 온보드할 수 있습니다. | 이름, 성, 표시 이름, 전자 메일 주소 |  |
 
 

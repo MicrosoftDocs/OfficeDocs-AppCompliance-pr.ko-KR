@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Navo에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 11346ff15831615ac6b617d8d14f83f38c7de0a5
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: e17eac9ef2db9418a38900d0de84ce62fad71097
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283113"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521211"
 ---
 # <a name="navo"></a>Navo
 
@@ -54,10 +54,10 @@ Regroove 솔루션에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | application | 사용자 수를 저장하고 청구 주기당 한 번씩 쿼리합니다. 또한 테넌시 ID를 조직의 ID로 사용 합니다. | 테넌트에 있는 사용자 수를 계산할 수 있습니다. 이 사용자는 청구 목적으로 사용됩니다. 또한 보안 트리밍을 사용하여 특정 데이터를 보호할 수 있도록 사용자가 있는 그룹을 쿼리할 수 있습니다. 또한 조직의 테넌시 ID를 쿼리합니다. | 75ce4e02-e37b-479c-81c7-438348a2a251 |
->| User.Read | 위임 | 데이터가 저장되지 않습니다. | 로그인 및 사용자 프로필 읽기 | 75ce4e02-e37b-479c-81c7-438348a2a251 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | application | 사용자 수를 저장하고 청구 주기당 한 번씩 쿼리합니다. 또한 테넌시 ID를 조직의 ID로 사용 합니다. | 테넌트에 있는 사용자 수를 계산할 수 있습니다. 이 사용자는 청구 목적으로 사용됩니다. 또한 보안 트리밍을 사용하여 특정 데이터를 보호할 수 있도록 사용자가 있는 그룹을 쿼리할 수 있습니다. 또한 조직의 테넌시 ID를 쿼리합니다. | [75ce4e02-e37b-479c-81c7-438348a2a251](https://docs.microsoft.com/microsoft-365-app-certification/azure/75ce4e02-e37b-479c-81c7-438348a2a251) |
+>| User.Read | 위임 | 데이터가 저장되지 않습니다. | 로그인 및 사용자 프로필 읽기 | [75ce4e02-e37b-479c-81c7-438348a2a251](https://docs.microsoft.com/microsoft-365-app-certification/azure/75ce4e02-e37b-479c-81c7-438348a2a251) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -65,7 +65,7 @@ Regroove 솔루션에서 Microsoft에 제공하는 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 테넌시 ID 및 사용자 수를 줄무늬에 저장합니다. |  | User.Read | 위임 | 로그인 및 사용자 프로필 읽기 - 데이터가 저장되지 않습니다. |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

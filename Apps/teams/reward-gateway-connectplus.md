@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 커넥트+, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 831f29b4b5a7f15dbaf9f7672d0dece4fc50c645
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: 573f6bbf833f08720b6ace0fe6d1f0b92bcc4a53
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275462"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521181"
 ---
-# <a name="connect"></a>커넥트+
+# <a name="connect"></a>Connect+
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Reward Gateway에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 커넥트+ |
+| 앱 이름 | Connect+ |
 | ID | WA200002611 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Reward Gateway |
@@ -55,9 +55,9 @@ Reward Gateway에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| AppCatalog.Read.All | 위임 | 데이터가 수집되지 않습니다. | 각 사용자의 aadObjectId를 저장하여 사용자가 한 번 이상 앱에 로그인한 경우를 추적할 수 있습니다. | 5e4dadf5-9f90-449b-9e39-934fd10b7c23 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| AppCatalog.Read.All | 위임 | 데이터가 수집되지 않습니다. | 각 사용자의 aadObjectId를 저장하여 사용자가 한 번 이상 앱에 로그인한 경우를 추적할 수 있습니다. | [5e4dadf5-9f90-449b-9e39-934fd10b7c23](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e4dadf5-9f90-449b-9e39-934fd10b7c23) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 광범위한 아이디어, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 05daba10da032e947976d99411e0e70982e17f00
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 1e73a7aebbaaffa12572717f7a4a9968fd5667f7
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279052"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528064"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
@@ -54,11 +54,11 @@ ms.locfileid: "53279052"
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | application | 그룹 ID 및 어떤 사용자가 어떤 그룹에 속하는지 저장 | 앱이 고객 조직 디렉터리(예: 사용자 및 그룹)의 데이터를 읽을 수 있도록 허용합니다.  | 77baef51-6387-4aff-9b3f-23e4654c30cd |
->| Group.ReadWrite.All | application | 그룹과 연결된 채널 ID를 저장합니다. | 사용자가 고객 포털에서 팀, 채널 및 탭을 Microsoft Teams 수 있습니다. 이렇게 하면 사용자가 기존 팀을 고객 포털에 Microsoft Teams 수 있습니다. | 77baef51-6387-4aff-9b3f-23e4654c30cd |
->| User.Read | 위임 | 이름 전자 메일을 &amp; 저장합니다. | 사용자를 대신하여 Microsoft Graph 액세스 권한을 부여할 수 있습니다. | 77baef51-6387-4aff-9b3f-23e4654c30cd |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | application | 그룹 ID 및 어떤 사용자가 어떤 그룹에 속하는지 저장 | 앱이 고객 조직 디렉터리(예: 사용자 및 그룹)의 데이터를 읽을 수 있도록 허용합니다.  | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
+>| Group.ReadWrite.All | application | 그룹과 연결된 채널 ID를 저장합니다. | 사용자가 고객 포털에서 팀, 채널 및 탭을 Microsoft Teams 수 있습니다. 이렇게 하면 사용자가 기존 팀을 고객 포털에 Microsoft Teams 수 있습니다. | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
+>| User.Read | 위임 | 이름 전자 메일을 &amp; 저장합니다. | 사용자를 대신하여 Microsoft Graph 액세스 권한을 부여할 수 있습니다. | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -66,7 +66,7 @@ ms.locfileid: "53279052"
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Mailjet 전자 메일 알림에 사용되는 전자 메일입니다. |  | 해당 없음 |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
@@ -74,7 +74,7 @@ ms.locfileid: "53279052"
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 백비에서 사용자를 만들고 팀에 연결된 콘텐츠에 액세스할 수 있는 권한을 부여하기 위해 | We store: Name - 사용자의 이름을 표시하기 위해 전자 메일 주소 - 사용자를 식별하기 위해 |  |
 
 

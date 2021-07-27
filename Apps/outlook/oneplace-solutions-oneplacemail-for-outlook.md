@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Outlook OnePlaceMail, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 97c9b74768b11e3c63a302566a20a2cb762275a0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 18dc1ab4ba71102564c1c85f7ed3846d9f4f1700
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281710"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527934"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail for Outlook
 
@@ -53,31 +53,31 @@ OnePlace 솔루션에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 위임 | 현재 Teams 구성원인지 확인하는 데 필요합니다. | 없음 | 44a72516-136f-4a55-ae26-ef09977230be |
->| Mail.ReadWrite.Shared | 위임 | 메일 속성에 액세스하여 SharePoint 열을 설정하고 메일 항목에 전송된 SharePoint 범주를 추가하는 데 필요합니다. | 없음 | 44a72516-136f-4a55-ae26-ef09977230be |
->| MailboxSettings.ReadWrite | 위임 | 수집되거나 사용되지 않습니다. 사용자 사서함의 마스터 범주 목록에 범주를 추가하는 데 사용됩니다. | 없음 | 44a72516-136f-4a55-ae26-ef09977230be |
->| Sites.ReadWrite.All | 위임 | 앱이 앱에 업로드한 항목에 대한 속성을 설정하는 데 SharePoint. | 없음 | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.Read | 위임 | Microsoft 365에 대한 인증에 Graph. | 다음 데이터는 앱에서 데이터베이스에 저장하며, 구독 및 사용자 라이선스 추적에 사용됩니다. 사용자 ID, 전자 메일, 이름, 성. | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | 위임 | 사용자 선택 필드에 사용자 프로필 이미지를 표시하는 데 필요합니다. | 없음 | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadBasic.All | 위임 | 사용자 선택 필드에 사용자 프로필 이미지를 표시하는 데 필요합니다. | 없음 | 44a72516-136f-4a55-ae26-ef09977230be |
->| User.ReadWrite.All | 위임 | 테넌시의 사용자 내에서 Teams 서비스를 사용할 수 있는지 여부를 Office 365 필요합니다. | 없음 | 44a72516-136f-4a55-ae26-ef09977230be |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 위임 | 현재 Teams 구성원인지 확인하는 데 필요합니다. | 없음 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| Mail.ReadWrite.Shared | 위임 | 메일 속성에 액세스하여 SharePoint 열을 설정하고 메일 항목에 전송된 SharePoint 범주를 추가하는 데 필요합니다. | 없음 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| MailboxSettings.ReadWrite | 위임 | 수집되거나 사용되지 않습니다. 사용자 사서함의 마스터 범주 목록에 범주를 추가하는 데 사용됩니다. | 없음 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| Sites.ReadWrite.All | 위임 | 앱이 앱에 업로드한 항목에 대한 속성을 설정하는 데 SharePoint. | 없음 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.Read | 위임 | Microsoft 365에 대한 인증에 Graph. | 다음 데이터는 앱에서 데이터베이스에 저장하며, 구독 및 사용자 라이선스 추적에 사용됩니다. 사용자 ID, 전자 메일, 이름, 성. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.ReadBasic.All | 위임 | 사용자 선택 필드에 사용자 프로필 이미지를 표시하는 데 필요합니다. | 없음 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.ReadBasic.All | 위임 | 사용자 선택 필드에 사용자 프로필 이미지를 표시하는 데 필요합니다. | 없음 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| User.ReadWrite.All | 위임 | 테넌시의 사용자 내에서 Teams 서비스를 사용할 수 있는지 여부를 Office 365 필요합니다. | 없음 | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| SharePoint를 입력하세요. | 예 | SharePoint URL, 라이브러리/목록/폴더 이름 | 액세스하는 관리 정보는 전자 메일 및 첨부 파일을 전자 메일 및 첨부 파일을 저장하는 프로세스를 Exchange SharePoint. 이 추가 데이터는 미사시에 저장되지 않습니다. 전송 중 암호화됩니다. 이 데이터의 예로는 선택 열 값, SharePoint, 콘텐츠 형식 이름, 폴더 이름, 사이트 이름 등의 열 값이 포함됩니다.  | 이 데이터는 앱에서 저장 또는 수집되지 않는 동안 원격 분석/로그에 표시되어 90일 동안 보존될 수 있습니다. | 데이터가 저장되지 않습니다. |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| SharePoint | 예 | SharePoint URL, 라이브러리/목록/폴더 이름 | 액세스하는 관리 정보는 전자 메일 및 첨부 파일을 전자 메일 및 첨부 파일을 저장하는 프로세스를 Exchange SharePoint. 이 추가 데이터는 미사시에 저장되지 않습니다. 전송 중 암호화됩니다. 이 데이터의 예로는 선택 열 값, SharePoint, 콘텐츠 형식 이름, 폴더 이름, 사이트 이름 등의 열 값이 포함됩니다.  | 이 데이터는 앱에서 저장 또는 수집되지 않는 동안 원격 분석/로그에 표시되어 90일 동안 보존될 수 있습니다. | 데이터가 저장되지 않습니다. |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Chargify 서비스는 구독 관리 및 청구에 사용됩니다. 앱 내(무료) 구독 만들기의 경우 사용자의 이름, 성, 전자 메일 주소가 Chargify와 공유됩니다. 구입한 구독(라이선스가 있는 여러 사용자 지원)의 경우 개별 사용자 세부 정보는 Chargify 서비스와 공유되지 않습니다. | 전자 메일 주소 | 사용자에게 구독 수명 주기 이벤트를 전달할 수 있도록 설정하려면 |
 
 

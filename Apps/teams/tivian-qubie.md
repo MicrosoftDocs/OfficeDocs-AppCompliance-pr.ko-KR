@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Qubie에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: cc884ffa130d572003051bc3516f9a51785948ad
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d0873a510d894772d494487c293551e12dceb929
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282670"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528124"
 ---
 # <a name="qubie"></a>Qubie
 
@@ -35,7 +35,7 @@ Microsoft에 Tivian에서 제공하는 정보:
 | 앱 이름 | Qubie |
 | ID | WA104381933 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 티비아어 |
+| 파트너 회사 이름 | Tivian |
 | 파트너 웹 사이트의 URL | [https://www.questback.com/our-products/performance-suite/te...](https://www.questback.com/our-products/performance-suite/teams-triumph-with-qubie/) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.questback.com/qubie-ms-teams](https://www.questback.com/qubie-ms-teams) |
 | 개인 정보 취급 방침의 URL | [https://www.questback.com/qubie-privacy-policy/](https://www.questback.com/qubie-privacy-policy/) |
@@ -69,7 +69,7 @@ Microsoft에 Tivian에서 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 팀 채팅에서 설명을 삭제하는 경우 이름을 표시하고 버그를 파일을 보내거나 질문을 보내는 사용자에게 응답할 수 있습니다. 버그를 파일에 저장하거나 질문이 있는 사용자에게 응답합니다. 사용자가 질문의 컨텍스트를 알 수 있도록 팀 성과 질문을 표시할 때 표시됩니다. 보고서 및 그래프를 표시할 때 팀 이름을 표시합니다. | 표시 이름, 전자 메일 주소, 팀 이름  |  |
 
 

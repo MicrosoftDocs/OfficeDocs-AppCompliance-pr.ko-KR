@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Reach에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 91729da78b1a031be38569bfd4e4168f2a96f83a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d188c61f6f87dbe528219d82f1b58477b184da8a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281781"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521471"
 ---
 # <a name="reach"></a>Reach
 
@@ -55,13 +55,13 @@ LiveTiles에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamsActivity.Send | application | 없음 | 없음 | a7c1920d-3ac0-42db-9757-078a2b321fd8  |
->| User.Read | 위임 | User DisplayName, User Email Address, UPN. 사용자가 앱에 로그인하고 로그인한 사용자의 기본 정보(예: 표시 이름)를 받을 수 있도록 허용하는 데 필요합니다. 전자 메일 주소는 전자 메일 알림을 보내는 데 사용됩니다.  | User DisplayName, User Email Address, UPN. 사용자가 앱에 로그인하고 로그인한 사용자의 기본 정보(예: 표시 이름)를 받을 수 있도록 허용하는 데 필요합니다. 전자 메일 주소는 전자 메일 알림을 보내는 데 사용됩니다.  | d492530a-8cff-481c-90da-9c3c3f1be7da |
->| User.ReadBasic.All | 위임 | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile 전화 Number, User Business 전화 Number, User Office Location. 사용자가 앱(Phonebook) 내에서 다른 사용자를 검색하고 다른 사용자의 기본 프로필 및 연락처 정보를 볼 수 있도록 하는 데 필요합니다.  | 없음 | d492530a-8cff-481c-90da-9c3c3f1be7da |
->| Directory.Read.All | application | 그룹 구성원 자격, 디렉터리의 AD 그룹. 사용자의 그룹 구성원 자격은 Microsoft 365 API에 대한 호출을 최소화하기 위해 Graph 저장됩니다. 사용자가 Active Directory 그룹을 검색할 수 있도록 하는 데 필요합니다. 또한 응용 프로그램에서 백end의 웹 작업에서 사용자의 AD 그룹 구성원 자격을 확인하려면 이 권한이 필요합니다. | 사용자의 그룹 구성원 자격입니다. 사용자의 그룹 구성원 자격은 Microsoft 365 API에 대한 호출을 최소화하기 위해 Graph 저장됩니다. 사용자가 Active Directory 그룹을 검색할 수 있도록 하는 데 필요합니다. 또한 응용 프로그램에서 백end의 웹 작업에서 사용자의 AD 그룹 구성원 자격을 확인하려면 이 권한이 필요합니다.  | d492530a-8cff-481c-90da-9c3c3f1be7da  |
->| User.Read.All | application | 사용자 프로필에서 검색되는 데이터는 앱 내에 지정된 대상 지정 기능 구성에 따라 다릅니다. 앱에서 로그인한 사용자 없이 사용자 프로필을 읽을 수 있도록 허용하는 데 필요합니다. 특정 프로필 속성 값에 따라 정보를 특정 사용자에게 표시하려면 응용 프로그램 내의 정보 대상 지정 기능에 프로필 데이터를 읽어야 합니다.  | 없음 | d492530a-8cff-481c-90da-9c3c3f1be7da  |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| TeamsActivity.Send | application | 없음 | 없음 | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7c1920d-3ac0-42db-9757-078a2b321fd8 ) |
+>| User.Read | 위임 | User DisplayName, User Email Address, UPN. 사용자가 앱에 로그인하고 로그인한 사용자의 기본 정보(예: 표시 이름)를 받을 수 있도록 허용하는 데 필요합니다. 전자 메일 주소는 전자 메일 알림을 보내는 데 사용됩니다.  | User DisplayName, User Email Address, UPN. 사용자가 앱에 로그인하고 로그인한 사용자의 기본 정보(예: 표시 이름)를 받을 수 있도록 허용하는 데 필요합니다. 전자 메일 주소는 전자 메일 알림을 보내는 데 사용됩니다.  | [d492530a-8cff-481c-90da-9c3c3f1be7da](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da) |
+>| User.ReadBasic.All | 위임 | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile 전화 Number, User Business 전화 Number, User Office Location. 사용자가 앱(Phonebook) 내에서 다른 사용자를 검색하고 다른 사용자의 기본 프로필 및 연락처 정보를 볼 수 있도록 하는 데 필요합니다.  | 없음 | [d492530a-8cff-481c-90da-9c3c3f1be7da](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da) |
+>| Directory.Read.All | application | 그룹 구성원 자격, 디렉터리의 AD 그룹. 사용자의 그룹 구성원 자격은 Microsoft 365 API에 대한 호출을 최소화하기 위해 Graph 저장됩니다. 사용자가 Active Directory 그룹을 검색할 수 있도록 하는 데 필요합니다. 또한 응용 프로그램에서 백end의 웹 작업에서 사용자의 AD 그룹 구성원 자격을 확인하려면 이 권한이 필요합니다. | 사용자의 그룹 구성원 자격입니다. 사용자의 그룹 구성원 자격은 Microsoft 365 API에 대한 호출을 최소화하기 위해 Graph 저장됩니다. 사용자가 Active Directory 그룹을 검색할 수 있도록 하는 데 필요합니다. 또한 응용 프로그램에서 백end의 웹 작업에서 사용자의 AD 그룹 구성원 자격을 확인하려면 이 권한이 필요합니다.  | [d492530a-8cff-481c-90da-9c3c3f1be7da ](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da ) |
+>| User.Read.All | application | 사용자 프로필에서 검색되는 데이터는 앱 내에 지정된 대상 지정 기능 구성에 따라 다릅니다. 앱에서 로그인한 사용자 없이 사용자 프로필을 읽을 수 있도록 허용하는 데 필요합니다. 특정 프로필 속성 값에 따라 정보를 특정 사용자에게 표시하려면 응용 프로그램 내의 정보 대상 지정 기능에 프로필 데이터를 읽어야 합니다.  | 없음 | [d492530a-8cff-481c-90da-9c3c3f1be7da ](https://docs.microsoft.com/microsoft-365-app-certification/azure/d492530a-8cff-481c-90da-9c3c3f1be7da ) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -69,7 +69,7 @@ LiveTiles에서 Microsoft에 제공하는 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| SendGrid, OneSignal | 전자 메일 주소, 표시 이름 | 전자 메일 및 모바일 푸시 알림을 통해 사용자에게 알림 보내기 |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

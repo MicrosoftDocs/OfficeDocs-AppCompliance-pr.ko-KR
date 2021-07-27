@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Workday, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f85cc0ccc778f7ed3440e85795574faad3868d24
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 71a16c42f8676ac12ed4de34ccbdf010de009453
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279010"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528044"
 ---
 # <a name="workday"></a>Workday
 
@@ -55,10 +55,10 @@ Workday에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| TeamsAppInstallation.ReadWriteForUser.All | application | 앱 ID 조사, 사용자용 앱 설치, AAD에서 Teams 라이선스 세부 정보 다운로드 | 이 기능과 관련된 데이터는 저장하지 않습니다.  사용자를 위한 앱을 설치할 수 있습니다. | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
->| User.Read.All | application | 사용자 AAID를 검색하여 사용자 메시지를 전송합니다. | AAID 및 Teams AAID  | 0209ae9c-8d92-4fb8-9c77-4dc29fd371e0 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| TeamsAppInstallation.ReadWriteForUser.All | application | 앱 ID 조사, 사용자용 앱 설치, AAD에서 Teams 라이선스 세부 정보 다운로드 | 이 기능과 관련된 데이터는 저장하지 않습니다.  사용자를 위한 앱을 설치할 수 있습니다. | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
+>| User.Read.All | application | 사용자 AAID를 검색하여 사용자 메시지를 전송합니다. | AAID 및 Teams AAID  | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -66,7 +66,7 @@ Workday에서 Microsoft에 제공한 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 조직 데이터는 Workday Services와 Microsoft 간에 공유됩니다. 자세한 내용은 Workday와의 계약 약관을 참조합니다. | 조직 데이터는 Workday Services와 Microsoft 간에 공유됩니다. 자세한 내용은 Workday와의 계약 약관을 참조합니다. | 해당 없음 |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
@@ -74,7 +74,7 @@ Workday에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 로스터 데이터는 Workday 앱과 사용자의 상호 작용을 개인 설정하는 데 사용됩니다. | 아니요 |  |
 
 

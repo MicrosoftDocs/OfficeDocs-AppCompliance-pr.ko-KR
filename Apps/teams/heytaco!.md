@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: HeyTaco!, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 66739977ba4aa3eef7456d4ec60530f94065a2b9
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 7b4641b33166043dd311bdd89568c9eaea4b87a1
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553129"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521641"
 ---
 # <a name="heytaco"></a>HeyTaco!
 
@@ -54,11 +54,11 @@ HeyTaco에서 제공하는 정보! Microsoft에:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 전자 메일 | 위임 | Slack에서 MS로의 데이터 전송에 대해 사용자를 일치 Teams | Slack에서 MS 팀으로의 데이터 전송에 대해 사용자를 일치하도록 하는 데 사용됩니다. | be8d11cf-265a-4974-9912-4ff28c29fc21 |
->| openid | 위임 | 를 사용하여 HeyTaco에 로그인합니다. | 를 사용하여 HeyTaco에 로그인합니다. | be8d11cf-265a-4974-9912-4ff28c29fc21 |
->| profile | 위임 | 사용자 이름, 프로필 이미지, 타임존 오프셋, 테넌트 ID 및 팀 ID를 캡처하는 데 사용됩니다. | 사용자 이름, 아바타, 타임존 오프셋, 테넌트 ID 및 팀 ID를 캡처하는 데 사용됩니다. | be8d11cf-265a-4974-9912-4ff28c29fc21 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 전자 메일 | 위임 | Slack에서 MS로의 데이터 전송에 대해 사용자를 일치 Teams | Slack에서 MS 팀으로의 데이터 전송에 대해 사용자를 일치하도록 하는 데 사용됩니다. | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| openid | 위임 | 를 사용하여 HeyTaco에 로그인합니다. | 를 사용하여 HeyTaco에 로그인합니다. | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| profile | 위임 | 사용자 이름, 프로필 이미지, 타임존 오프셋, 테넌트 ID 및 팀 ID를 캡처하는 데 사용됩니다. | 사용자 이름, 아바타, 타임존 오프셋, 테넌트 ID 및 팀 ID를 캡처하는 데 사용됩니다. | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -72,7 +72,7 @@ HeyTaco에서 제공하는 정보! Microsoft에:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 사용자에게 타코를 수신한 사용자와 태코의 사용자를 알 수 있습니다. | 전자 메일 주소(플랫폼 간 마이그레이션 타코용) 이름(사용자 인사말용) 프로필 이미지(리더보드에 표시) 타임존(활동 페이지에 제공된 타코를 제대로 표시) 테넌트 ID(테넌트의 데이터 집계용) 팀 ID(팀의 데이터 집계용)  |  |
 
 

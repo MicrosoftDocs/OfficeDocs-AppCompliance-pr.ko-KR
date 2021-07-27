@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sensei 랩 수행자, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3b0d84d3da0d5fdf32854cd4b3b31b86662cb4b8
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 0c7fa93ad3521decc194fcddf94d86d161a864ea
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281070"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521021"
 ---
 # <a name="sensei-labs-conductor"></a>Sensei Labs Conductor
 
@@ -61,7 +61,7 @@ Sensei Labs Inc.에서 Microsoft에 제공하는 정보:
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| 봇 프레임워크 | 예 | Teams 인스턴스 ID | 조직에 Teams 응용 프로그램의 인스턴스에 매핑하기 위해  | Teams 인스턴스 ID | 조직에 Teams 응용 프로그램의 인스턴스에 매핑하기 위해  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -75,7 +75,7 @@ Sensei Labs Inc.에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 를 통해 봇 대화 중에 사람을 올바르게 해결합니다. 응용 프로그램에서 사용자를 Teams 매핑하기 위해 | Teams 식별자, 이름, 전자 메일 주소 | 플랫폼에서 Teams 사용자를 매핑할 수 있습니다. |
 
 

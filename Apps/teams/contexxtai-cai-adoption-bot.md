@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 C.AI 채택 봇, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d5e1ad704a7b72a8d3717b7aa1b3d60b23099998
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 5bb11c96f750701128470f3e1c61ea0f5d476233
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851598"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521842"
 ---
 # <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
@@ -55,15 +55,15 @@ Microsoft에 contexxt.ai 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | application | 예를 들어 포커스 시간 동안이 아닌 올바른 시기에 팁을 보낼 수 있는 사용자의 가용성 | 예를 들어 포커스 시간 동안이 아닌 올바른 시기에 팁을 보낼 수 있는 사용자의 가용성 | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| ChannelMessage.Read.All | application | Microsoft Teams 또는 비공개 또는 채널당 대화의 양과 같은 채널 메타데이터를 사용하여 채널의 사용 현황을 Teams | 개인 또는 Microsoft Teams 또는 채널당 대화 양과 같은 채널 메타데이터의 사용 현황을 분석하는 Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Chat.Read.All | application | Microsoft Teams 메시지의 사용 현황을 분석하기 위한 그룹 및 1:1 채팅의 수와 같은 Teams | 메시지가 Microsoft Teams 그룹 및 1:1 채팅의 수와 같이 대화의 사용 현황을 분석하기 위한 대화 메타데이터가 Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Directory.Read.All | application | 나중에 사용자에 대한 팁을 보낼 수 있는 사용자 개체 ID입니다. | 해시(가명) 나중에 사용자에게 팁을 보낼 수 있도록 하는 사용자의 개체 ID입니다. | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Group.Read.All | application | Microsoft Teams 사용 현황을 분석하기 위한 Teams 및 채널과 같은 Teams | Microsoft Teams 사용 현황을 분석하기 위한 Teams 및 채널과 같은 Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| Mail.Read | application | Microsoft는 Exchange 그룹 및 1:1 전자 메일의 양과 같은 메타데이터를 사용하여 Exchange(전자 메일과 비교) Teams | 전자 메일 및 Exchange 수와 같은 Microsoft의 메타데이터와 1:1 전자 메일의 사용 현황을 분석하는 Exchange(전자 메일과 비교) Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
->| User.Read.All | application | Microsoft Teams 사용 현황을 분석하기 위해 사용자가 언급된 경우와 같이 채팅 및 대화 메타데이터를 Teams | 사용자가 Microsoft Teams 사용 현황을 분석하도록 언급된 경우와 같이 채팅 및 대화 메타데이터가 Teams | abe28a0d-6acc-47d8-9169-cfcc2553bc13 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | application | 예를 들어 포커스 시간 동안이 아닌 올바른 시기에 팁을 보낼 수 있는 사용자의 가용성 | 예를 들어 포커스 시간 동안이 아닌 올바른 시기에 팁을 보낼 수 있는 사용자의 가용성 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| ChannelMessage.Read.All | application | Microsoft Teams 또는 비공개 또는 채널당 대화의 양과 같은 채널 메타데이터를 사용하여 채널의 사용 현황을 Teams | 개인 또는 Microsoft Teams 또는 채널당 대화 양과 같은 채널 메타데이터의 사용 현황을 분석하는 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Chat.Read.All | application | Microsoft Teams 메시지의 사용 현황을 분석하기 위한 그룹 및 1:1 채팅의 수와 같은 Teams | 메시지가 Microsoft Teams 그룹 및 1:1 채팅의 수와 같이 대화의 사용 현황을 분석하기 위한 대화 메타데이터가 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Directory.Read.All | application | 나중에 사용자에 대한 팁을 보낼 수 있는 사용자 개체 ID입니다. | 해시(가명) 나중에 사용자에게 팁을 보낼 수 있도록 하는 사용자의 개체 ID입니다. | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Group.Read.All | application | Microsoft Teams 사용 현황을 분석하기 위한 Teams 및 채널과 같은 Teams | Microsoft Teams 사용 현황을 분석하기 위한 Teams 및 채널과 같은 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Mail.Read | application | Microsoft는 Exchange 그룹 및 1:1 전자 메일의 양과 같은 메타데이터를 사용하여 Exchange(전자 메일과 비교) Teams | 전자 메일 및 Exchange 수와 같은 Microsoft의 메타데이터와 1:1 전자 메일의 사용 현황을 분석하는 Exchange(전자 메일과 비교) Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| User.Read.All | application | Microsoft Teams 사용 현황을 분석하기 위해 사용자가 언급된 경우와 같이 채팅 및 대화 메타데이터를 Teams | 사용자가 Microsoft Teams 사용 현황을 분석하도록 언급된 경우와 같이 채팅 및 대화 메타데이터가 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -77,8 +77,8 @@ Microsoft에 contexxt.ai 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
->| 봇 프레임워크에서 사용자 ID는 사용자와 통신할 수 있게 자동으로 전송됩니다. C.AI 채택 분석의 추가 사용 데이터는 사용자에 대한 학습 환경을 개별화하는 데 사용되어 이러한 팁을 모르는 사용자에게 적절하고 유용한 팁만 전송합니다. | 아니요. |  |
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
+>| 봇 프레임워크에서 사용자 ID는 사용자와 통신할 수 있게 자동으로 전송됩니다. C.AI 채택 분석의 추가 사용 데이터는 사용자에 대한 학습 환경을 개별화하는 데 사용되어 이러한 팁을 모르는 사용자에게 적절하고 유용한 팁만 전송합니다. | 아니요 |  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -97,7 +97,7 @@ Microsoft에 contexxt.ai 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->네.
+>예
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -123,17 +123,17 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 네. |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 네. |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 네. |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요. |
-| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 네. |
-| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 네. |
-| 앱에서 다중 테넌시를 지원하나요? | 네. |
-| 앱에 기밀 클라이언트가 있나요? | 네. |
-| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 네. |
-| 앱에서 웹 API를 노출하나요? | 아니요. |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요. |
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
+| 앱에서 다중 테넌시를 지원하나요? | 예 |
+| 앱에 기밀 클라이언트가 있나요? | 예 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 공유 Advocacy, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e38ae1ab7bfe01792293819ef6bc57a13ba101d3
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: 376dae946bfd5bf8fafcf10d33f2e7ae4e20a706
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987900"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521259"
 ---
-# <a name="social-advocacy"></a>Social Advocacy
+# <a name="social-advocacy"></a>소셜 지지
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Oktopost에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Social Advocacy |
+| 앱 이름 | 소셜 지지 |
 | ID | WA200002598 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Oktopost |
@@ -69,7 +69,7 @@ Oktopost에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| PII는 인증 및 권한 부여 목적으로 사용됩니다. | 이름, 전자 메일, 세션 데이터(IP, 위치) | PII는 인증, 권한 부여 및 로깅 목적으로 사용됩니다. |
 
 

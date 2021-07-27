@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Org@Work, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6791c124a7d18f6a6d0554857cad1f35b6fd7781
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 2c1cfec539c8db4ddd597b8125079521d40615c4
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281761"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53521421"
 ---
 # <a name="orgwork"></a>Org@Work
 
@@ -55,13 +55,13 @@ Lundano에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | aa1c54a1-f482-424d-9389-dbd131233483 |
->| 전자 메일 | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | aa1c54a1-f482-424d-9389-dbd131233483 |
->| offline_access | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | aa1c54a1-f482-424d-9389-dbd131233483 |
->| openid | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | aa1c54a1-f482-424d-9389-dbd131233483 |
->| profile | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | aa1c54a1-f482-424d-9389-dbd131233483 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| 전자 메일 | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| offline_access | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| openid | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| profile | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -75,7 +75,7 @@ Lundano에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 봇 푸시를 확인하기 위해 계획 관리자의 직원 이름을 언급해야 합니다. | 직원의 성, 전자 메일 &amp; 광고, 회사 및 조직 | 이러한 정보는 Org@Work 워크플로를 완료하기 위해 계획 관리자가 &amp; 필요합니다. |
 
 
