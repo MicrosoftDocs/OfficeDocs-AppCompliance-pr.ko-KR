@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AVA에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c55d372c0249302da425ea5b2483aba88f1a2e42
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 462181d4ba98d11e5aeae15a4827c6138bc80924
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281410"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522076"
 ---
 # <a name="ava"></a>AVA
 
@@ -55,18 +55,18 @@ AvePoint, Inc.에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Mail.ReadWrite.Shared | 위임 | 없음 | 사용자의 전자 메일을 검색하고 전자 메일을 지정된 폴더로 이동 | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
->| User.Read | 위임 |  사용자의 액세스 토큰 - 사용자의 데이터 검색 및 복원에 사용됩니다. | 사용자가 로그인하여 액세스 토큰을 앱에 부여할 수 있도록 허용 | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
->| User.ReadWrite | 위임 | DisplayName, UserPrincipalName, JobTitle, Organization, Country, MySiteUrl - 앱을 사용한 사용자의 기본 정보를 기록합니다. | 사용자의 기본 프로필 정보 얻기 | 6f30434d-3cfa-4cf8-9810-6fcf79ae750a |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Mail.ReadWrite.Shared | 위임 | 없음 | 사용자의 전자 메일을 검색하고 전자 메일을 지정된 폴더로 이동 | [6f30434d-3cfa-4cf8-9810-6fcf79ae750a](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a) |
+>| User.Read | 위임 |  사용자의 액세스 토큰 - 사용자의 데이터 검색 및 복원에 사용됩니다. | 사용자가 로그인하여 액세스 토큰을 앱에 부여할 수 있도록 허용 | [6f30434d-3cfa-4cf8-9810-6fcf79ae750a](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a) |
+>| User.ReadWrite | 위임 | DisplayName, UserPrincipalName, JobTitle, Organization, Country, MySiteUrl - 앱을 사용한 사용자의 기본 정보를 기록합니다. | 사용자의 기본 프로필 정보 얻기 | [6f30434d-3cfa-4cf8-9810-6fcf79ae750a](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f30434d-3cfa-4cf8-9810-6fcf79ae750a) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| SharePoint REST API | 예 | 사용자의 개인 사이트의 재생에서 파일을 검색하고 이러한 파일을 복원합니다. AllSites.Manage 권한이 필요합니다. |  | 없음 |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

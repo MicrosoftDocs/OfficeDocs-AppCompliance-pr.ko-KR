@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 모든 사용 가능한 보안 및 규정 준수 정보, 모든 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 15448c84e8702cef69ed94ff69dba5343b7e2443
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 254237e2b21f4805eb059be373b184672cf7f853
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553299"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522059"
 ---
 # <a name="bonusly"></a>Bonusly
 
@@ -69,7 +69,7 @@ Microsoft에 제공되는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 시스템에서 연결된 사용자를 찾기 위해 사용자 전자 메일에 액세스합니다. | 사용자 전자 메일은 시스템에 저장되지만 사용자 전자 메일은 시스템에서 시스템에 Teams. |  |
 
 

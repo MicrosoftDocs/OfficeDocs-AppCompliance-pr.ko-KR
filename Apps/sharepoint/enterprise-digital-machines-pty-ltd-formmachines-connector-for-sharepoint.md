@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: FormMachines Connector for SharePoint, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f550b89335a7ce75d23d01728478e121f10c6fd3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 56c08c242cb3822ebaea854026fb3f758768b7bf
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282694"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522231"
 ---
 # <a name="formmachines-connector-for-sharepoint"></a>FormMachines Connector for SharePoint
 
@@ -53,9 +53,9 @@ ms.locfileid: "53282694"
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | (로그인, 전자 메일, Azure Guid, displayName, first_login_date_time) | 사용자가 로그인할 수 있도록 허용하고 UPN에 대한 앱 액세스 권한을 부여하여 자동 로그인을 사용하도록 설정하고 각 사용자를 고유하게 식별할 수 있도록 합니다. | 8c87660f-d36f-41f6-b0ae-025253f380aa |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | (로그인, 전자 메일, Azure Guid, displayName, first_login_date_time) | 사용자가 로그인할 수 있도록 허용하고 UPN에 대한 앱 액세스 권한을 부여하여 자동 로그인을 사용하도록 설정하고 각 사용자를 고유하게 식별할 수 있도록 합니다. | [8c87660f-d36f-41f6-b0ae-025253f380aa](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c87660f-d36f-41f6-b0ae-025253f380aa) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CatchEm, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8f491e0b26c58392c2e791322603dc014fcf96ef
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: bdac27ddbc3148644562af20f8f6d415a56903d9
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281991"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522031"
 ---
 # <a name="catchem"></a>CatchEm
 
@@ -55,16 +55,16 @@ Chimu Software에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Chat.ReadBasic | 위임 | 이 사용 권한은 응용 프로그램 사용자의 연락처를 확인하는 데 필요합니다. AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. Email, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 &quot; 기능을 &quot; 허용하는 데 도움이 됩니다. 최신 채팅 ID: &quot; 클릭하여 채팅 기능을 사용하도록 &quot; 설정하려면 | 이 사용 권한은 응용 프로그램 사용자의 연락처를 확인하는 데 필요합니다. AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. Email, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 &quot; 기능을 &quot; 허용하는 데 도움이 됩니다. 최신 채팅 ID: &quot; 클릭하여 채팅 기능을 사용하도록 &quot; 설정하려면 | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| People.Read | 위임 | 외부 연락처에 대한 데이터의 정확도를 향상시킵니다. DisplayName: 응용 프로그램 사용자에 대한 연락처를 식별합니다. | 외부 연락처에 대한 데이터의 정확도를 향상시킵니다. DisplayName: 응용 프로그램 사용자에 대한 연락처를 식별합니다. | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| Presence.Read.All | 위임 | 연락처 현재 현재 상태 | 해당 없음 | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| TeamsActivity.Send | 둘 다 | 연락처 현재 상태가 변경된 경우 사용자에게 알림을 보내기 위해 | 해당 없음 | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| TeamsAppInstallation.ReadWriteSelfForUser | 위임 | 응용 프로그램에 대해 자동 업데이트를 사용하도록 설정하려면 | 해당 없음 | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| User.Read | 위임 | AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. 전자 메일, IM 주소, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 기능을 &quot; &quot; 허용하는 데 도움이 됩니다. CompanyName, Country: Analytics. AccountEnabled, DeletedDateTime: 비활성화된 사용자에 대한 사용자 데이터 자동 삭제 | AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. 전자 메일, IM 주소, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 기능을 &quot; &quot; 허용하는 데 도움이 됩니다. CompanyName, Country: Analytics. AccountEnabled, DeletedDateTime: 비활성화된 사용자에 대한 사용자 데이터 자동 삭제 | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| User.ReadBasic.All | 위임 | 내부 연락처의 데이터 정확도를 향상시킵니다. AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. Email, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 &quot; 기능을 &quot; 허용하는 데 도움이 됩니다. | 내부 연락처의 데이터 정확도를 향상시킵니다. AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. Email, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 &quot; 기능을 &quot; 허용하는 데 도움이 됩니다. | fc686a41-3bd0-45b3-a56d-f278888fd694 |
->| offline_access | 위임 | Graph 보안 토큰을 사용하여 사용자가 응용 프로그램을 적극적으로 사용하지 않을 때 응용 프로그램에서 연락처 현재 상태 변경 내용을 알리고 연락처 목록을 업데이트할 수 있도록 허용 | Graph 토큰 | fc686a41-3bd0-45b3-a56d-f278888fd694 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Chat.ReadBasic | 위임 | 이 사용 권한은 응용 프로그램 사용자의 연락처를 확인하는 데 필요합니다. AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. Email, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 &quot; 기능을 &quot; 허용하는 데 도움이 됩니다. 최신 채팅 ID: &quot; 클릭하여 채팅 기능을 사용하도록 &quot; 설정하려면 | 이 사용 권한은 응용 프로그램 사용자의 연락처를 확인하는 데 필요합니다. AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. Email, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 &quot; 기능을 &quot; 허용하는 데 도움이 됩니다. 최신 채팅 ID: &quot; 클릭하여 채팅 기능을 사용하도록 &quot; 설정하려면 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| People.Read | 위임 | 외부 연락처에 대한 데이터의 정확도를 향상시킵니다. DisplayName: 응용 프로그램 사용자에 대한 연락처를 식별합니다. | 외부 연락처에 대한 데이터의 정확도를 향상시킵니다. DisplayName: 응용 프로그램 사용자에 대한 연락처를 식별합니다. | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| Presence.Read.All | 위임 | 연락처 현재 현재 상태 | 해당 없음 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| TeamsActivity.Send | 둘 다 | 연락처 현재 상태가 변경된 경우 사용자에게 알림을 보내기 위해 | 해당 없음 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| TeamsAppInstallation.ReadWriteSelfForUser | 위임 | 응용 프로그램에 대해 자동 업데이트를 사용하도록 설정하려면 | 해당 없음 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| User.Read | 위임 | AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. 전자 메일, IM 주소, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 기능을 &quot; &quot; 허용하는 데 도움이 됩니다. CompanyName, Country: Analytics. AccountEnabled, DeletedDateTime: 비활성화된 사용자에 대한 사용자 데이터 자동 삭제 | AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. 전자 메일, IM 주소, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 기능을 &quot; &quot; 허용하는 데 도움이 됩니다. CompanyName, Country: Analytics. AccountEnabled, DeletedDateTime: 비활성화된 사용자에 대한 사용자 데이터 자동 삭제 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| User.ReadBasic.All | 위임 | 내부 연락처의 데이터 정확도를 향상시킵니다. AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. Email, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 &quot; 기능을 &quot; 허용하는 데 도움이 됩니다. | 내부 연락처의 데이터 정확도를 향상시킵니다. AadObjectId: 사용자를 고유하게 식별합니다. TenantId: 연락처가 사용자 내부인지 또는 외부 연락처인지를 판단합니다. DisplayName, GivenName, Surname: 응용 프로그램 사용자에 대한 연락처를 식별합니다. Email, UserPrincipalName: 이름이 같은 연락처를 구분하고 클릭하여 채팅 &quot; 기능을 &quot; 허용하는 데 도움이 됩니다. | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
+>| offline_access | 위임 | Graph 보안 토큰을 사용하여 사용자가 응용 프로그램을 적극적으로 사용하지 않을 때 응용 프로그램에서 연락처 현재 상태 변경 내용을 알리고 연락처 목록을 업데이트할 수 있도록 허용 | Graph 토큰 | [fc686a41-3bd0-45b3-a56d-f278888fd694](https://docs.microsoft.com/microsoft-365-app-certification/azure/fc686a41-3bd0-45b3-a56d-f278888fd694) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -78,7 +78,7 @@ Chimu Software에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 메시지 기능의 태그는 연락처의 표시 이름을 사용하여 응용 프로그램 사용자에게 &quot; &quot; 표시해야 합니다. | 연락처의 표시 이름 | 연락처의 이름을 응용 프로그램 사용자에게 다시 제공 |
 
 

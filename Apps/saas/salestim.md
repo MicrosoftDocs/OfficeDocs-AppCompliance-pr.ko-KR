@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 SalesTim, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a8f6bc2575a68f17e8a00701fa4a55b3a7906f91
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 90e9a29a28b5496e4f5f63837c28d94546c76979
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282699"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522225"
 ---
 # <a name="salestim"></a>SalesTim
 
@@ -52,15 +52,15 @@ SalesTim에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| AppCatalog.ReadWrite.All | 위임 | 아니요 | 앱이 회사 앱 카탈로그에 자체 패키지를 설치하고 업데이트할 수 있도록 허용합니다. | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| Directory.AccessAsUser.All | 위임 | 일부&#8217;데이터만 저장하지 않습니다. | 사용자가 워크플로에서 승인자를 선택하는 등 응용 프로그램의 다양한 장소에서 다른 사용자를 선택할 수 있습니다. | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| Group.ReadWrite.All | 위임 | 그룹&#8217;/팀&#8217;다시 저장하지 않을 수 있습니다. | 앱에서 그룹을 만들고, 로그인한 사용자를 대신하여 모든 그룹 속성 및 구성원 자격을 읽을 수 있도록 허용합니다. 또한 그룹 소유자가 그룹을 관리할 수 있도록 허용하고 그룹 구성원이 그룹 콘텐츠를 업데이트할 수 있습니다. | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| Mail.Send | 위임 | 알림&#8217;, 받는 사람(ID만), 요청 ID와 같은 이 작업의 메타데이터를 다시 저장할 수 있습니다. | 앱이 승인 워크플로 중에 알림 전자 메일을 보낼 수 있습니다. | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| Sites.ReadWrite.All | 위임 | 일부 Azure 서비스를 사용하여 데이터를 저장하고 있습니다. 특히 Azure 및 Cosmos DB에 Redis | 팀 프로비전 프로세스 중에 앱에서 팀과 연결된 드라이브(파일 및 폴더)를 관리할 수 있습니다. | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| User.Read.All | 위임 | 일부&#8217;데이터만 저장하지 않습니다. | 앱에서 모든 사용자의 프로필 속성, 보고서 및 관리자의 전체 집합을 읽을 수 있도록 허용합니다. 특히 대상 지정 프로세스 중에 현재 사용자 프로필을 기준으로 일부 콘텐츠를 필터링하는 데 사용됩니다. | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
->| offline_access | 위임 | 아니요 | 앱에서 일부 백그라운드 작업 및 작업을 사용자로 수행할 수 있도록 허용합니다. | 2a651f59-97ce-42bb-97d7-cf7a2af4b635 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| AppCatalog.ReadWrite.All | 위임 | 아니요 | 앱이 회사 앱 카탈로그에 자체 패키지를 설치하고 업데이트할 수 있도록 허용합니다. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| Directory.AccessAsUser.All | 위임 | 일부&#8217;데이터만 저장하지 않습니다. | 사용자가 워크플로에서 승인자를 선택하는 등 응용 프로그램의 다양한 장소에서 다른 사용자를 선택할 수 있습니다. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| Group.ReadWrite.All | 위임 | 그룹&#8217;/팀&#8217;다시 저장하지 않을 수 있습니다. | 앱에서 그룹을 만들고, 로그인한 사용자를 대신하여 모든 그룹 속성 및 구성원 자격을 읽을 수 있도록 허용합니다. 또한 그룹 소유자가 그룹을 관리할 수 있도록 허용하고 그룹 구성원이 그룹 콘텐츠를 업데이트할 수 있습니다. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| Mail.Send | 위임 | 알림&#8217;, 받는 사람(ID만), 요청 ID와 같은 이 작업의 메타데이터를 다시 저장할 수 있습니다. | 앱이 승인 워크플로 중에 알림 전자 메일을 보낼 수 있습니다. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| Sites.ReadWrite.All | 위임 | 일부 Azure 서비스를 사용하여 데이터를 저장하고 있습니다. 특히 Azure 및 Cosmos DB에 Redis | 팀 프로비전 프로세스 중에 앱에서 팀과 연결된 드라이브(파일 및 폴더)를 관리할 수 있습니다. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| User.Read.All | 위임 | 일부&#8217;데이터만 저장하지 않습니다. | 앱에서 모든 사용자의 프로필 속성, 보고서 및 관리자의 전체 집합을 읽을 수 있도록 허용합니다. 특히 대상 지정 프로세스 중에 현재 사용자 프로필을 기준으로 일부 콘텐츠를 필터링하는 데 사용됩니다. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
+>| offline_access | 위임 | 아니요 | 앱에서 일부 백그라운드 작업 및 작업을 사용자로 수행할 수 있도록 허용합니다. | [2a651f59-97ce-42bb-97d7-cf7a2af4b635](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a651f59-97ce-42bb-97d7-cf7a2af4b635) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -68,7 +68,7 @@ SalesTim에서 Microsoft에 제공하는 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Intercom을 기본 지원 응용 프로그램으로 사용하고 있습니다. Intercom에는 다음과 같은 몇 가지 기본 사용자 프로필 정보가 포함될 수 있습니다. https://developers.salestim.com/platform/datamanagement.html#support-data | 회사명 | 프로덕션 환경에서 GitHub API를 사용하여 문제를 자동으로 생성하고 있습니다. 또한 에 설명된 일부 기술 GitHub 저장하고 https://developers.salestim.com/platform/datamanagement.html#error-reporting-data) 있습니다. 이러한 문제 및 로그에는 몇 가지 기본 사용자 프로필 정보가 포함될 수 있습니다. 이러한 문제 및 로그는 15일마다 자동으로 삭제됩니다. |
 
 

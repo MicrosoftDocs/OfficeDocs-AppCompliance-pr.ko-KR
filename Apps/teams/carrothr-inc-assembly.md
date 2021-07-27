@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 어셈블리, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6cc680f1f7ec25df961d2453dcbfdc20afd0b2eb
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: f8d63c77c3fd9b52353ce22954dfa4dadb8dea2f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852105"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522058"
 ---
 # <a name="assembly"></a>어셈블리
 
@@ -55,15 +55,15 @@ CarrotHR Inc.에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Channel.Create | 위임 | 사용자가 앱에서 만든 채널에 앱을 할당할 수 있도록 허용 | 앱을 올바른 채널과 동기화된 것으로 유지하기 위해 채널 ID를 저장합니다. | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| Directory.Read.All | application | 어셈블리에서 구성원을 제대로 검색할 수 있도록 프로필을 동기화된 것으로 유지 | Assembly에서 구성원을 검색할 수 있도록 하는 데 사용할 수 있는 모든 추가 프로필 정보 | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| Group.Read.All | 위임 | 데이터를 관찰하여 앱이 올바른 그룹에 할당될 수 있는지 확인합니다. | 그룹을 저장하지 않습니다. | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| Teams. ReadBasic.All | application | 올바른 팀 탭에 앱을 할당하는 능력 | 팀이 추가된 팀을 저장할 수 없습니다.  | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| TeamsTab.Create | application | 이 기능을 사용하여 앱을 채널/팀에 올바르게 추가하도록 허용합니다. | 탭 데이터를 수집하거나 저장하지 않습니다. | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| 전자 메일 | 위임 | 특정 계정에 대한 액세스 권한을 부여할 수 있도록 사용자의 전자 메일 | 특정 계정 및 일치 ID에 대한 액세스 권한을 부여할 수 있도록 사용자의 전자 메일 | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
->| profile | 위임 | 어셈블리를 자동으로 입력하고 변경 내용과 동기화를 유지할 사용자 Microsoft Teams | 사용자의 전체 이름 | 0a1b7ca8-390e-4f55-a7b5-eee089c5a905 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.Create | 위임 | 사용자가 앱에서 만든 채널에 앱을 할당할 수 있도록 허용 | 앱을 올바른 채널과 동기화된 것으로 유지하기 위해 채널 ID를 저장합니다. | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| Directory.Read.All | application | 어셈블리에서 구성원을 제대로 검색할 수 있도록 프로필을 동기화된 것으로 유지 | Assembly에서 구성원을 검색할 수 있도록 하는 데 사용할 수 있는 모든 추가 프로필 정보 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| Group.Read.All | 위임 | 데이터를 관찰하여 앱이 올바른 그룹에 할당될 수 있는지 확인합니다. | 그룹을 저장하지 않습니다. | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| Teams. ReadBasic.All | application | 올바른 팀 탭에 앱을 할당하는 능력 | 팀이 추가된 팀을 저장할 수 없습니다.  | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| TeamsTab.Create | application | 이 기능을 사용하여 앱을 채널/팀에 올바르게 추가하도록 허용합니다. | 탭 데이터를 수집하거나 저장하지 않습니다. | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| 전자 메일 | 위임 | 특정 계정에 대한 액세스 권한을 부여할 수 있도록 사용자의 전자 메일 | 특정 계정 및 일치 ID에 대한 액세스 권한을 부여할 수 있도록 사용자의 전자 메일 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| profile | 위임 | 어셈블리를 자동으로 입력하고 변경 내용과 동기화를 유지할 사용자 Microsoft Teams | 사용자의 전체 이름 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -95,7 +95,7 @@ CarrotHR Inc.에서 Microsoft에 제공한 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요.
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -121,19 +121,19 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 네. |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 네. |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요. |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요. |
-| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 네. |
-| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 아니요. |
-| 앱에서 다중 테넌시를 지원하나요? | 네. |
-| 앱에 기밀 클라이언트가 있나요? | 네. |
-| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 네. |
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 아니요 |
+| 앱에서 다중 테넌시를 지원하나요? | 예 |
+| 앱에 기밀 클라이언트가 있나요? | 예 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
-| 앱에서 웹 API를 노출하나요? | 네. |
-| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 네. |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요. |
+| 앱에서 웹 API를 노출하나요? | 예 |
+| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

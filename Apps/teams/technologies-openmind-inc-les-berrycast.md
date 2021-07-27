@@ -2,24 +2,24 @@
 title: Technologies Openmind Inc, Les의 Berrycast에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/20/2021
+ms.date: 07/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Berrycast, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c3236368fbab418754e758f6009607335e593515
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 714db08e839b60403a567b2cab1af888c4cb7b6f
+ms.sourcegitcommit: c545fba57f8ca821caf6ef55f5b4b068b5f35984
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283422"
+ms.lasthandoff: 07/24/2021
+ms.locfileid: "53578234"
 ---
 # <a name="berrycast"></a>Berrycast
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 4월 20일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 7월 23일</p>
 
 * <a href="https://teams.microsoft.com/l/app/c7cde650-1e32-11eb-af14-639b3a7d6491" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002798" target="_blank">AppSource의 보기</a>
@@ -54,13 +54,13 @@ Technologies Openmind Inc, Les에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| People.Read | 위임 | 모든 사용자 연락처를 얻습니다. | 레코드를 빠르게 공유할 수 있도록 연락처 전자 메일, 성, 성 및 사진이 저장됩니다. | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| User.Read | 위임 | 기본 정보(이름 및 성 및 그림)로 사용자를 식별하기 위해 | 이름 표시 lastname 및 picture into the application | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| 전자 메일 | 위임 | 사용자를 식별하기 위해 | 로깅을 위해 사용자를 식별하고 알림을 보내기 위해 | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| offline_access | 위임 | 액세스 권한이 부여된 데이터에 대한 액세스 권한 유지 | 해당 없음 | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
->| openid | 위임 | 사용자를 식별하기 위해 | 로깅을 위해 사용자를 식별하기 위해 | 094f3986-3951-4f0c-88fa-514d117c8dd0 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| People.Read | 위임 | 모든 사용자 연락처를 얻습니다. | 레코드를 빠르게 공유할 수 있도록 연락처 전자 메일, 성, 성 및 사진이 저장됩니다. | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| User.Read | 위임 | 기본 정보(이름 및 성 및 그림)로 사용자를 식별하기 위해 | 이름 표시 lastname 및 picture into the application | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| 전자 메일 | 위임 | 사용자를 식별하기 위해 | 로깅을 위해 사용자를 식별하고 알림을 보내기 위해 | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| offline_access | 위임 | 액세스 권한이 부여된 데이터에 대한 액세스 권한 유지 | 해당 없음 | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
+>| openid | 위임 | 사용자를 식별하기 위해 | 로깅을 위해 사용자를 식별하기 위해 | [094f3986-3951-4f0c-88fa-514d117c8dd0](https://docs.microsoft.com/microsoft-365-app-certification/azure/094f3986-3951-4f0c-88fa-514d117c8dd0) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -68,7 +68,7 @@ Technologies Openmind Inc, Les에서 Microsoft에 제공하는 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 스트라이프, Intercom, MixPanel, 진폭 | email, user unique identification, firstname, lastname  | 안전한 결제를 처리하고, 마케팅 캠페인을 수행하고, 효율적인 고객 서비스를 확보하고, 제품을 개선하기 위해 사용자 분석 추적 |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 365Projects에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 07ef4c5e5e71ee8034c75869b97d5c8924f502fd
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: aad8e35ad1e02212c23ef2a892412ba3c0ce1312
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281490"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53522191"
 ---
 # <a name="365projects"></a>365Projects
 
@@ -55,15 +55,15 @@ Microsoft에 365Apps에서 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Channel.ReadBasic.All | 위임 | 프로젝트를 채널과 연결하기 위해 팀 내의 채널 | 프로젝트를 채널과 연결하기 위해 팀 내의 채널 | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| Group.Read.All | 위임 | 팀 플래너/플래너 작업 다운로드, 다른 최소 권한 범위에서 앱이 사용자 계획 및 계획 작업을 받을 수 있도록 허용하지만 슬프게도 이 작업을 허용하는 범위가 없는 것이 좋습니다. | DB에 저장하지 않습니다. | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| Group.ReadWrite.All | application | 사용자 Teams  | DB에 저장되지 않습니다. | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| People.Read | 위임 | 사용자 이름을 지정하여 팀 구성원으로 추가하거나 작업을 할당합니다. | 사용자 Guid가 작업 배정에 저장됩니다. | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| Team.ReadBasic.All | 위임 | 팀 이름에 가입되어 프로젝트를 채널에 Teams 있습니다. | 팀 Guid는 링크를 설정하기 위해 프로젝트 메타데이터에 저장됩니다. | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| User.Read | 위임 | 헤더에 표시하기 위해 사용자 정보 표시  | 테넌트가 처음 프로비전될 때 사용자 전자 메일이 소유자로 저장됩니다. | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
->| User.Read.All | 위임 | 사용자 읽기를 통해 작업 배정 업데이트 | 사용자 Guid만 저장되어 개인 식별 정보가 DB에 저장되지 않습니다. | 99a0a9b1-5d28-45df-9f99-792aa32795f4 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | 위임 | 프로젝트를 채널과 연결하기 위해 팀 내의 채널 | 프로젝트를 채널과 연결하기 위해 팀 내의 채널 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| Group.Read.All | 위임 | 팀 플래너/플래너 작업 다운로드, 다른 최소 권한 범위에서 앱이 사용자 계획 및 계획 작업을 받을 수 있도록 허용하지만 슬프게도 이 작업을 허용하는 범위가 없는 것이 좋습니다. | DB에 저장하지 않습니다. | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| Group.ReadWrite.All | application | 사용자 Teams  | DB에 저장되지 않습니다. | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| People.Read | 위임 | 사용자 이름을 지정하여 팀 구성원으로 추가하거나 작업을 할당합니다. | 사용자 Guid가 작업 배정에 저장됩니다. | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| Team.ReadBasic.All | 위임 | 팀 이름에 가입되어 프로젝트를 채널에 Teams 있습니다. | 팀 Guid는 링크를 설정하기 위해 프로젝트 메타데이터에 저장됩니다. | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| User.Read | 위임 | 헤더에 표시하기 위해 사용자 정보 표시  | 테넌트가 처음 프로비전될 때 사용자 전자 메일이 소유자로 저장됩니다. | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| User.Read.All | 위임 | 사용자 읽기를 통해 작업 배정 업데이트 | 사용자 Guid만 저장되어 개인 식별 정보가 DB에 저장되지 않습니다. | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
