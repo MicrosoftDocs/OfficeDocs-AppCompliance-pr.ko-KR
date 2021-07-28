@@ -2,17 +2,17 @@
 title: Azure 앱 IDs 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Azure 앱 ID에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 51bbb2832ccebf6af8ea7cbe05398aebb101b41f
-ms.sourcegitcommit: c545fba57f8ca821caf6ef55f5b4b068b5f35984
+ms.openlocfilehash: 231e1d7b116c1703bbc7724523ecd48f625f7e46
+ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/24/2021
-ms.locfileid: "53578094"
+ms.lasthandoff: 07/27/2021
+ms.locfileid: "53609788"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure 앱 IDs 보안 및 규정 준수
 
