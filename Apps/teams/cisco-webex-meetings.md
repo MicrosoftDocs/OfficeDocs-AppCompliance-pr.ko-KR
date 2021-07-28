@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Cisco Webex 모임에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 34db97485d4c25655075a838adb5ec998ca324a5
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b46674ef9171747267a6f2142fa2d83c8cb7687b
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281360"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525782"
 ---
 # <a name="cisco-webex-meetings"></a>Cisco Webex Meetings
 
@@ -69,7 +69,7 @@ Cisco Webex 모임에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 사용자의 전자 메일 주소는 Cisco Webex 사이트에서 사용자별 모임에 액세스하고 예약하는 데 사용됩니다. | 데이터가 봇 서비스의 데이터베이스에 저장되지 않습니다. |  |
 
 

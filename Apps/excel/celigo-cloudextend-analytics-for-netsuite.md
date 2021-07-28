@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: NetSuite용 CloudExtend Analytics, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2393250c620e3e543eae1d25e1cf0bcf0dd2f7cc
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: 489f4f04afc52476b34a98ecd808c035ff47a676
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987683"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526084"
 ---
 # <a name="cloudextend-analytics-for-netsuite"></a>NetSuite용 CloudExtend Analytics
 
@@ -53,10 +53,10 @@ Celigo CloudExtend에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 둘 다 | 사용자가 사이트를 통해 공유되는 통합 문서의 정보를 얻을 수 있는 액세스 권한이 있는 사이트 모음 읽기 | 통합 문서에 오프라인으로 액세스하기 위해 siteid를 저장합니다. | 7040f194-bf08-400e-acb1-69df7939416a |
->| Files.ReadWrite.All | 둘 다 | 테이블 및 시트와 같은 통합 문서 콘텐츠를 읽고 해당 테이블에 콘텐츠를 쓸 수 있습니다. | 웹 URL, 통합 문서 ID 및 오프라인으로 액세스할 통합 문서의 위치와 같은 통합 문서 세부 정보 | 7040f194-bf08-400e-acb1-69df7939416a |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | 둘 다 | 사용자가 사이트를 통해 공유되는 통합 문서의 정보를 얻을 수 있는 액세스 권한이 있는 사이트 모음 읽기 | 통합 문서에 오프라인으로 액세스하기 위해 siteid를 저장합니다. | [7040f194-bf08-400e-acb1-69df7939416a](https://docs.microsoft.com/microsoft-365-app-certification/azure/7040f194-bf08-400e-acb1-69df7939416a) |
+>| Files.ReadWrite.All | 둘 다 | 테이블 및 시트와 같은 통합 문서 콘텐츠를 읽고 해당 테이블에 콘텐츠를 쓸 수 있습니다. | 웹 URL, 통합 문서 ID 및 오프라인으로 액세스할 통합 문서의 위치와 같은 통합 문서 세부 정보 | [7040f194-bf08-400e-acb1-69df7939416a](https://docs.microsoft.com/microsoft-365-app-certification/azure/7040f194-bf08-400e-acb1-69df7939416a) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -64,7 +64,7 @@ Celigo CloudExtend에서 Microsoft에 제공한 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Chargebee, NetSuite, Salesforce, Intercom, LogRocket, Amazon AWS | Org name, NetSuite Account number, Domain of Org email addresses, Billing contact information | 라이선스 프로비저닝, 유효성 검사 및 청구 고객 지원, 문제 해결 및 계정 관리 |
 
 

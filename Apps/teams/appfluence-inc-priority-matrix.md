@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 우선 순위 매트릭스, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 93b64ae01c745f370af36bd6cb8a73787d39867a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: e88ba3c98c9ab444f2500ed09013071a6b5ab2c3
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281440"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525902"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
@@ -54,17 +54,17 @@ Appfluence Inc에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 위임 | 새 사용자가 계정에 추가될 때만 전자 메일을 저장합니다. | 새 계정을 만들 때 이 계정을 사용하여 다른 팀 구성원을 제안합니다. | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| User.ReadBasic.All | 위임 | 새 사용자가 계정에 추가될 때만 전자 메일을 저장합니다. | 새 계정을 만들 때 이 계정을 사용하여 다른 팀 구성원을 제안합니다. | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| offline_access | 위임 | 사용자를 대신하여 요청을 수행하기 위해 로그인 토큰을 저장합니다. | 사용자를 유인하지 않고 토큰을 새로 고침합니다. (우선 순위 매트릭스(Teams) | 5be2b320-a5b7-4221-893c-dee506e4e365 |
->| Files.Read.All | 위임 | 사용자가 명시적으로 원래 파일에 연결되는 우선 순위 매트릭스 항목을 명시적으로 만들지 않는 한 어떤 파일 정보도 저장하지 않습니다. | 웹앱 및 Outlook/Teams 추가 기능을 통해 사용할 수 있는 일대일 기능에서는 이 기능을 사용하여 모임 및 전반적인 공동 작업을 용이하게 하기 위해 시스템에서 두 사용자 간에 공유되는 SharePoint/OneDrive 파일을 강조합니다. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
->| User.Read | 위임 | 기본 사용자 프로필 정보(표시 이름, 이름, 성, 전자 메일, 아바타)는 저희가 저장합니다. | 사용자 이름, 전자 메일, 아바타를 사용하여 계정을 개인 설정하세요. | affadfb6-f17b-428f-97f9-9aae3b6175bc |
->| openid | 위임 | 사용자의 로그인 모드를 나타내기 위해 SSO 연결을 저장합니다. | Single Sign-On을 통해 사용자를 로그인하기 위해 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
->| Calendars.Read | 위임 | 소수의 일정 이벤트가 시스템에 저장된 작업으로 설정됩니다. | 1:1 보기에 표시될 수 있도록 일정 이벤트를 읽습니다. 또한 새 계정을 초기화합니다.  | d76f016f-52c7-41b5-835b-900361d7040c |
->| Mail.Read | 위임 | 시스템에서 만든 작업을 원본 메시지에 대한 링크와 함께 저장합니다. | 이 Outlook 추가 기능에서 전자 메일을 작업으로 전환하고 공유 작업을 1:1 보기로 표시하는 데 사용됩니다. | d76f016f-52c7-41b5-835b-900361d7040c |
->| Tasks.Read | 위임 | 일부 Outlook/Planner 작업은 새 사용자를 지원하기 위해 시스템에 복제됩니다. | 새 사용자 계정을 해당 사용자 계정으로 부트스트스트 Graph 작업을 수행합니다. | d76f016f-52c7-41b5-835b-900361d7040c |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 위임 | 새 사용자가 계정에 추가될 때만 전자 메일을 저장합니다. | 새 계정을 만들 때 이 계정을 사용하여 다른 팀 구성원을 제안합니다. | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
+>| User.ReadBasic.All | 위임 | 새 사용자가 계정에 추가될 때만 전자 메일을 저장합니다. | 새 계정을 만들 때 이 계정을 사용하여 다른 팀 구성원을 제안합니다. | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
+>| offline_access | 위임 | 사용자를 대신하여 요청을 수행하기 위해 로그인 토큰을 저장합니다. | 사용자를 유인하지 않고 토큰을 새로 고침합니다. (우선 순위 매트릭스(Teams) | [5be2b320-a5b7-4221-893c-dee506e4e365](https://docs.microsoft.com/microsoft-365-app-certification/azure/5be2b320-a5b7-4221-893c-dee506e4e365) |
+>| Files.Read.All | 위임 | 사용자가 명시적으로 원래 파일에 연결되는 우선 순위 매트릭스 항목을 명시적으로 만들지 않는 한 어떤 파일 정보도 저장하지 않습니다. | 웹앱 및 Outlook/Teams 추가 기능을 통해 사용할 수 있는 일대일 기능에서는 이 기능을 사용하여 모임 및 전반적인 공동 작업을 용이하게 하기 위해 시스템에서 두 사용자 간에 공유되는 SharePoint/OneDrive 파일을 강조합니다. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
+>| User.Read | 위임 | 기본 사용자 프로필 정보(표시 이름, 이름, 성, 전자 메일, 아바타)는 저희가 저장합니다. | 사용자 이름, 전자 메일, 아바타를 사용하여 계정을 개인 설정하세요. | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
+>| openid | 위임 | 사용자의 로그인 모드를 나타내기 위해 SSO 연결을 저장합니다. | Single Sign-On을 통해 사용자를 로그인하기 위해 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/affadfb6-f17b-428f-97f9-9aae3b6175bc) |
+>| Calendars.Read | 위임 | 소수의 일정 이벤트가 시스템에 저장된 작업으로 설정됩니다. | 1:1 보기에 표시될 수 있도록 일정 이벤트를 읽습니다. 또한 새 계정을 초기화합니다.  | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
+>| Mail.Read | 위임 | 시스템에서 만든 작업을 원본 메시지에 대한 링크와 함께 저장합니다. | 이 Outlook 추가 기능에서 전자 메일을 작업으로 전환하고 공유 작업을 1:1 보기로 표시하는 데 사용됩니다. | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
+>| Tasks.Read | 위임 | 일부 Outlook/Planner 작업은 새 사용자를 지원하기 위해 시스템에 복제됩니다. | 새 사용자 계정을 해당 사용자 계정으로 부트스트스트 Graph 작업을 수행합니다. | [d76f016f-52c7-41b5-835b-900361d7040c](https://docs.microsoft.com/microsoft-365-app-certification/azure/d76f016f-52c7-41b5-835b-900361d7040c) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -78,7 +78,7 @@ Appfluence Inc에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 봇은 작업을 만들어 특정 팀원에게 할당할 수 있으며, 이를 위해 해당 이름을 알아야 합니다. | 아니요 |  |
 
 

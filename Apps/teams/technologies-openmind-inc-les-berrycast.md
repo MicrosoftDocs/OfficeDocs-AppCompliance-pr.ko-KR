@@ -2,24 +2,24 @@
 title: Technologies Openmind Inc, Les의 Berrycast에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 04/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Berrycast, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 714db08e839b60403a567b2cab1af888c4cb7b6f
-ms.sourcegitcommit: c545fba57f8ca821caf6ef55f5b4b068b5f35984
+ms.openlocfilehash: 67b58bf2246c109bd58bbe15e9cf1c281e3ad51f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/24/2021
-ms.locfileid: "53578234"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528134"
 ---
 # <a name="berrycast"></a>Berrycast
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 7월 23일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 4월 20일</p>
 
 * <a href="https://teams.microsoft.com/l/app/c7cde650-1e32-11eb-af14-639b3a7d6491" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002798" target="_blank">AppSource의 보기</a>

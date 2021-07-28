@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ClipTraining, 해당 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9eb5383b9bd372e1f46af30b838160bca88e308b
-ms.sourcegitcommit: 5cd33d38cc7376b28458ee47ebc2c2710ce7f113
+ms.openlocfilehash: 5d59d4cbd2d28f1c906e541e7ffc78311c12ffb6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53339834"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525772"
 ---
 # <a name="cliptraining"></a>ClipTraining
 
@@ -55,12 +55,12 @@ ClipTraining에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| 전자 메일 | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | af089bb5-48be-413d-ad34-53c32799da7d |
->| offline_access | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | af089bb5-48be-413d-ad34-53c32799da7d |
->| openid | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | af089bb5-48be-413d-ad34-53c32799da7d |
->| profile | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | af089bb5-48be-413d-ad34-53c32799da7d |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| 전자 메일 | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| offline_access | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| openid | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| profile | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -68,7 +68,7 @@ ClipTraining에서 Microsoft에 제공하는 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 비 Microsoft 호스팅 서비스, 비영리 Microsoft CRM | 이름, 성, 전자 메일 주소 | 비즈니스용 필수 |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

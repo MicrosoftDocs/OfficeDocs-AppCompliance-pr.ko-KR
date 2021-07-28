@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: PlayQuiz - Aprende Juega, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 &amp; 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 76593cbcaa9d4284fab7b90e887090254d4ca414
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 2d538edf2b96311ea7f2611a33d2362786453ee3
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852097"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528144"
 ---
 # <a name="playquiz---aprende-amp-juega"></a>PlayQuiz - Aprende &amp; Juega
 
@@ -55,12 +55,12 @@ TeamsChamp에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | 사용자의 이름, 전자 메일 및 프로필 사진 | 전자 메일, 앱과 이름을 보내 앱에 표시 | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| User.ReadBasic.All | 위임 | 이름, 전자 메일 및 프로필 사진 | 해당 데이터를 저장하지 말고 leaderboad(응용 프로그램)에 표시하기 위해 해당 데이터를 읽음 | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| openid | 위임 | 사용자의 기본 프로필 보기 | 전자 메일, 앱 및 이름에서 앱에 표시하기 위해 | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
->| profile | 위임 | 사용자 기본 프로필 읽기 | 전자 메일, 앱 및 이름에서 앱에 표시하기 위해 | f3277edf-4f66-4e94-853b-cc1f1e2914f8 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | 사용자의 이름, 전자 메일 및 프로필 사진 | 전자 메일, 앱과 이름을 보내 앱에 표시 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| User.ReadBasic.All | 위임 | 이름, 전자 메일 및 프로필 사진 | 해당 데이터를 저장하지 말고 leaderboad(응용 프로그램)에 표시하기 위해 해당 데이터를 읽음 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| openid | 위임 | 사용자의 기본 프로필 보기 | 전자 메일, 앱 및 이름에서 앱에 표시하기 위해 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| profile | 위임 | 사용자 기본 프로필 읽기 | 전자 메일, 앱 및 이름에서 앱에 표시하기 위해 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -92,7 +92,7 @@ TeamsChamp에서 Microsoft에 제공하는 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요.
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -118,18 +118,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 네. |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 네. |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 네. |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요. |
-| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 네. |
-| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 네. |
-| 앱에서 다중 테넌시를 지원하나요? | 네. |
-| 앱에 기밀 클라이언트가 있나요? | 네. |
-| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 네. |
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
+| 앱에서 다중 테넌시를 지원하나요? | 예 |
+| 앱에 기밀 클라이언트가 있나요? | 예 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
-| 앱에서 웹 API를 노출하나요? | 아니요. |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요. |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

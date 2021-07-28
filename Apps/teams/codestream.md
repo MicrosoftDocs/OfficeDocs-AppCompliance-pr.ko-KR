@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CodeStream, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9d47c0ffe0f8f23cf09b175fce24a8dcccfa87dd
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: 4875193923e2e34cf8e46d85437325128716bd47
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53459564"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525762"
 ---
 # <a name="codestream"></a>CodeStream
 
@@ -62,7 +62,7 @@ CodeStream에서 Microsoft에 제공하는 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| sendgrid.com, segment.io, mixpanel.com, intercom.com hubspot.com | 전자 메일 주소 | 분석, CRM, 응용 프로그램 지원 |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

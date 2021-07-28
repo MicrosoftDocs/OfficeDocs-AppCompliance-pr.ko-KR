@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Teams Manager, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fbca7409c87bed006a18b31d7de2fa43afd9b95f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 0f135c14a96849a21ebf424b152a257df8e5e9e9
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283192"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528264"
 ---
 # <a name="teams-manager"></a>Teams Manager
 
@@ -54,13 +54,13 @@ Solutions2Share GmbH에서 Microsoft로 제공되는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 둘 다 | 템플릿을 매핑하기 위해 TenantID 및 TeamId를 저장합니다.  | 모든 웹 Teams 허용하고 Teams. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| Notes.ReadWrite.All | application | 없음 | 앱에서 승인된 팀에 전자 필기장을 추가할 수 있습니다. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.Read | 위임 | 없음 | 사용자가 로그인할 수 있도록 허용하고 자동 로그인을 사용하도록 설정하기 위해 앱에 UPN에 대한 액세스 권한을 부여합니다. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.Read.All | 둘 다 | 승인자/관리자 섹션에 입력한 사용자의 ID를 저장합니다. | 앱 내의 사용자 선택에 표시하기 위해 모든 사용자를 나열합니다. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
->| User.ReadBasic.All | 위임 | 없음 | 앱 내의 사용자 선택에 표시하기 위해 모든 사용자를 나열합니다. | b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 둘 다 | 템플릿을 매핑하기 위해 TenantID 및 TeamId를 저장합니다.  | 모든 웹 Teams 허용하고 Teams. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| Notes.ReadWrite.All | application | 없음 | 앱에서 승인된 팀에 전자 필기장을 추가할 수 있습니다. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| User.Read | 위임 | 없음 | 사용자가 로그인할 수 있도록 허용하고 자동 로그인을 사용하도록 설정하기 위해 앱에 UPN에 대한 액세스 권한을 부여합니다. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| User.Read.All | 둘 다 | 승인자/관리자 섹션에 입력한 사용자의 ID를 저장합니다. | 앱 내의 사용자 선택에 표시하기 위해 모든 사용자를 나열합니다. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
+>| User.ReadBasic.All | 위임 | 없음 | 앱 내의 사용자 선택에 표시하기 위해 모든 사용자를 나열합니다. | [b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

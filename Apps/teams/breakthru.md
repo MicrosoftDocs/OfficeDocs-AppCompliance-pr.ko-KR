@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Breakthru, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 916ab5e08cc7ae5266f3010512490bd648cf9afc
-ms.sourcegitcommit: 1b9ad544fd91bb0fb25e467baf2d368a812dc476
+ms.openlocfilehash: 488ff550ab43a398cc004a3224549e6ecdff36b1
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52927243"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527604"
 ---
 # <a name="breakthru"></a>Breakthru
 
@@ -69,7 +69,7 @@ Breakthru에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 사용자의 기록 통계를 표시하고 사용자가 설정한 미리 알림을 전달합니다. | 전자 메일 및 TeamID. | 사용자가 설정한 미리 알림을 전달합니다. 사용자에게 중단에 참여할 수 있는 데이터 시각화를 제공합니다. |
 
 

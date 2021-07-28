@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 텍스트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f87ac4854d4301ea194d7b906f9b417e268a9df3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: fec1cbe4c30ef87592503e6e00ad1063cf953e05
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281430"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525892"
 ---
 # <a name="text"></a>텍스트
 
@@ -54,13 +54,13 @@ ms.locfileid: "53281430"
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 위임 | 텍스트 BOT의 경우 인바운드 문자 메시지에 대한 향후 채널을 만들기 위한 팀 식별자를 캡처합니다. | 사용자를 위한 Teams 만들 수 있습니다. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| 전자 메일 | 위임 | 전자 메일 주소 | 사용자 연락처 정보 얻기 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| offline_access | 위임 | 새로 고침 토큰은 데이터베이스에 저장됩니다. | 데이터베이스로 토큰을 새로 고침하는 데 사용됩니다. | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| openid | 위임 | 로그인 자격 증명 | 사용자가 로그인할 수 있습니다. 텍스트가 여러 채널로 Teams 수 있도록 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
->| profile | 위임 | 전자 메일 주소 | 사용자 연락처 정보 얻기 | a622ceb4-b6e2-4557-8218-e22e80975ba4 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 위임 | 텍스트 BOT의 경우 인바운드 문자 메시지에 대한 향후 채널을 만들기 위한 팀 식별자를 캡처합니다. | 사용자를 위한 Teams 만들 수 있습니다. | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| 전자 메일 | 위임 | 전자 메일 주소 | 사용자 연락처 정보 얻기 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| offline_access | 위임 | 새로 고침 토큰은 데이터베이스에 저장됩니다. | 데이터베이스로 토큰을 새로 고침하는 데 사용됩니다. | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| openid | 위임 | 로그인 자격 증명 | 사용자가 로그인할 수 있습니다. 텍스트가 여러 채널로 Teams 수 있도록 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
+>| profile | 위임 | 전자 메일 주소 | 사용자 연락처 정보 얻기 | [a622ceb4-b6e2-4557-8218-e22e80975ba4](https://docs.microsoft.com/microsoft-365-app-certification/azure/a622ceb4-b6e2-4557-8218-e22e80975ba4) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -74,7 +74,7 @@ ms.locfileid: "53281430"
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 데이터베이스로 토큰을 새로 고침하는 데 사용됩니다. | 전자 메일 주소를 저장합니다. | 데이터베이스로 토큰을 새로 고침하는 데 사용됩니다. |
 
 

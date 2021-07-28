@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: StealthMail, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4855cb478e8ba2e53b793a1d61f477de88b74058
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 322cdc906ab0cd2ae8980d1412bb4dd9c897a5f6
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552739"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528224"
 ---
 # <a name="stealthmail"></a>StealthMail
 
@@ -55,15 +55,15 @@ Stealthmail Software Ltd에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMessage.Read.All | 위임 | 응용 프로그램에서 만든 보안 전자 메일에 대한 참조를 통해 채널로 메시지를 전송합니다. | nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| ChannelMessage.Send | 위임 | 응용 프로그램에서 만든 보안 전자 메일에 대한 참조를 통해 채널로 메시지를 전송합니다. | nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| Chat.ReadWrite | 위임 | 응용 프로그램에서 만든 보안 전자 메일에 대한 참조와 채팅할 메시지를 전송합니다. | nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| GroupMember.Read.All | 위임 | 응용 프로그램에서 채널 구성원을 통해 보안 전자 메일을 만들 수 있습니다. | nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| User.Read.All | 위임 | 응용 프로그램에서 채팅 구성원을 통해 보안 전자 메일을 만들 수 있습니다. | nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| User.ReadBasic.All | 위임 | 응용 프로그램에서 채팅 구성원을 통해 보안 전자 메일을 만들 수 있습니다. | nothing | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
->| 전자 메일 | 위임 | 사용자 인증 | 데이터베이스에 아무 것도 저장하지 않습니다. | 1ed0a549-c730-44c7-a984-a8c658fe9807 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMessage.Read.All | 위임 | 응용 프로그램에서 만든 보안 전자 메일에 대한 참조를 통해 채널로 메시지를 전송합니다. | nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| ChannelMessage.Send | 위임 | 응용 프로그램에서 만든 보안 전자 메일에 대한 참조를 통해 채널로 메시지를 전송합니다. | nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| Chat.ReadWrite | 위임 | 응용 프로그램에서 만든 보안 전자 메일에 대한 참조와 채팅할 메시지를 전송합니다. | nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| GroupMember.Read.All | 위임 | 응용 프로그램에서 채널 구성원을 통해 보안 전자 메일을 만들 수 있습니다. | nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| User.Read.All | 위임 | 응용 프로그램에서 채팅 구성원을 통해 보안 전자 메일을 만들 수 있습니다. | nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| User.ReadBasic.All | 위임 | 응용 프로그램에서 채팅 구성원을 통해 보안 전자 메일을 만들 수 있습니다. | nothing | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
+>| 전자 메일 | 위임 | 사용자 인증 | 데이터베이스에 아무 것도 저장하지 않습니다. | [1ed0a549-c730-44c7-a984-a8c658fe9807](https://docs.microsoft.com/microsoft-365-app-certification/azure/1ed0a549-c730-44c7-a984-a8c658fe9807) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

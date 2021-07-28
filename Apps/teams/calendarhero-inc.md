@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CalendarHero에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f3609c1e5884a49e4b52077295108622e10e7ff5
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 41a7dd8a2cb7d900ac26b228c4cc2522d76da59c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282001"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527594"
 ---
 # <a name="calendarhero"></a>CalendarHero
 
@@ -55,15 +55,15 @@ CalendarHero Inc에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 둘 다 | 모임은 Azure의 mongoDB에서 캐시되지만 설명은 암호화됩니다. | 사용자의 일정 이벤트에 액세스합니다. |  |
->| Contacts.ReadWrite | 둘 다 | 연락처 이름 및 전자 메일 주소입니다. | 사용자의 연락처를 읽어 모임에 초대할 수 있습니다. |  |
->| Group.Read.All | 둘 다 | 그룹 이름 및 구성원. | (선택 사항) 회사 사용자 그룹을 읽습니다(그룹과의 계획용). |  |
->| Mail.Read | 둘 다 | 연락처 전자 메일/이름, 상호 작용의 빈도/재시도. | (선택 사항)는 사용자의 가장 중요한 연락처 아래에 전자 메일 메타 데이터를 읽는 데 사용됩니다(Machine Learning. |  |
->| MailboxSettings.ReadWrite | 둘 다 | 사용자의 시간제어 | 사용자의 시간제어 |  |
->| User.Read.All | 둘 다 | 사용자의 이름 전자 &amp; 메일(연락처로 저장) | (선택 사항) 회사 사용자 읽기(동료와의 계획) |  |
->| offline_access | application | 아니요 | 사용자가 존재하지 않고 언제든지 백 엔드를 읽고 써야 합니다. |  |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 둘 다 | 모임은 Azure의 mongoDB에서 캐시되지만 설명은 암호화됩니다. | 사용자의 일정 이벤트에 액세스합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Contacts.ReadWrite | 둘 다 | 연락처 이름 및 전자 메일 주소입니다. | 사용자의 연락처를 읽어 모임에 초대할 수 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Group.Read.All | 둘 다 | 그룹 이름 및 구성원. | (선택 사항) 회사 사용자 그룹을 읽습니다(그룹과의 계획용). | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.Read | 둘 다 | 연락처 전자 메일/이름, 상호 작용의 빈도/재시도. | (선택 사항)는 사용자의 가장 중요한 연락처 아래에 전자 메일 메타 데이터를 읽는 데 사용됩니다(Machine Learning. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| MailboxSettings.ReadWrite | 둘 다 | 사용자의 시간제어 | 사용자의 시간제어 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read.All | 둘 다 | 사용자의 이름 전자 &amp; 메일(연락처로 저장) | (선택 사항) 회사 사용자 읽기(동료와의 계획) | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | application | 아니요 | 사용자가 존재하지 않고 언제든지 백 엔드를 읽고 써야 합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -77,7 +77,7 @@ CalendarHero Inc에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 모임 도우미 봇이 모임을 예약할 수 있도록 직장의 이름/전자 메일 가져오기 | 이름 &amp; 전자 메일. 두 가지 모두 빠른 검색 및 부분 이름 검색(예: )을 위해 데이터베이스에 저장됩니다. Joe P와의 만남) |  |
 
 

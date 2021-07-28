@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 Office 365 Planner, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 iPlanner 보고 도구에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2b9797eb2b4ec271804711473a77f26a9cce4e13
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 3591c67721188d8dc70bf4f2cf0e34bdb9ffc506
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281150"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526054"
 ---
 # <a name="iplanner-reporting-tool-for-office-365-planner"></a>Planner용 iPlanner 보고 Office 365
 
@@ -52,19 +52,19 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 작업 기한에 달력을&#8217;달력 항목을 만들 수 있습니다. |  |
->| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자의 동의를 확인하고 API를 사용할 수 있는 액세스 권한을 습니다. |  |
->| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 Outlook To Do 플래그가 지정되어 업데이트됩니다. 새 Planner 작업을 만들 수 있습니다. |  |
->| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 첨부 파일로 파일에 액세스하고 작업에 파일을 업로드하려면 |  |
->| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계획 목록을 다운로드하고 작업을 업데이트합니다. |  |
->| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하기 위해 버킷 및 스위빙 라인을 업데이트합니다. |  |
->| Mail.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | User.Read- 플래너 작업을 Outlook To Do 플래그가 지정되어 있는 전자 메일을 업데이트합니다. 새 Planner 작업을 만들 수 있습니다. |  |
->| Mail.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 메일을 표시하고 메일을 보내기 위해 |  |
->| Mail.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 선택한 메일에서 메일 제목을 얻습니다. 앱이 선택한 전자 메일에서 정보를 얻을 수 있도록 허용하여 설명 필드를 작업 설명에 복사하고 메일이나 메일 자체의 첨부 파일을 작업에 저장할 수 있도록 허용합니다. 알림 보내기. |  |
->| Tasks.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 로그인한 사용자를 Outlook To Do.Read를 업데이트하고 플래너 작업을 다운로드하고 플래그가 Outlook To Do 전자 메일을 업데이트합니다. 새 Planner 작업을 만들 수 있습니다. |  |
->| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 로그인 및 사용자 프로필 읽기 |  |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 작업 기한에 달력을&#8217;달력 항목을 만들 수 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자의 동의를 확인하고 API를 사용할 수 있는 액세스 권한을 습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 Outlook To Do 플래그가 지정되어 업데이트됩니다. 새 Planner 작업을 만들 수 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 첨부 파일로 파일에 액세스하고 작업에 파일을 업로드하려면 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계획 목록을 다운로드하고 작업을 업데이트합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하기 위해 버킷 및 스위빙 라인을 업데이트합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | User.Read- 플래너 작업을 Outlook To Do 플래그가 지정되어 있는 전자 메일을 업데이트합니다. 새 Planner 작업을 만들 수 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 메일을 표시하고 메일을 보내기 위해 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 선택한 메일에서 메일 제목을 얻습니다. 앱이 선택한 전자 메일에서 정보를 얻을 수 있도록 허용하여 설명 필드를 작업 설명에 복사하고 메일이나 메일 자체의 첨부 파일을 작업에 저장할 수 있도록 허용합니다. 알림 보내기. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Tasks.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 로그인한 사용자를 Outlook To Do.Read를 업데이트하고 플래너 작업을 다운로드하고 플래그가 Outlook To Do 전자 메일을 업데이트합니다. 새 Planner 작업을 만들 수 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 로그인 및 사용자 프로필 읽기 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

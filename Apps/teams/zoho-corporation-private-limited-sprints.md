@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Zoho Sprints, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fc19b083312c4c8222b894ae6bb35b0bbdd5314e
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: cdc296898d2e9f6d18f01d9742ce8d0ca29c807b
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552679"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527514"
 ---
 # <a name="zoho-sprints"></a>Zoho Sprints
 
@@ -54,16 +54,16 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 위임 | alendar Folder Id는 Zoho Sprints의 연락처를 Microsoft와 동기화하기 위해 &amp; 저장됩니다. |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Contacts.ReadWrite | 위임 | 연락처 폴더 ID는 연락처를 동기화하기 위해 저장됩니다. |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.All | 위임 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| Files.Read.Selected | 위임 | UserPrincipalName은 사용자 식별을 위해 저장됩니다. | 사용자가 선택한 파일 읽기 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.Read | 위임 |  | 로그인 및 사용자 프로필 읽기 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| User.ReadBasic.All | 위임 |  | 사용자가 Office365 사용자를 Zoho Sprints로 가져올 수 있도록 허용합니다. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| 전자 메일 | 위임 |  |  | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
->| offline_access | 위임 |  | 액세스 권한이 부여된 데이터에 대한 액세스 권한 유지 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 | alendar Folder Id는 Zoho Sprints의 연락처를 Microsoft와 동기화하기 위해 &amp; 저장됩니다. |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Contacts.ReadWrite | 위임 | 연락처 폴더 ID는 연락처를 동기화하기 위해 저장됩니다. |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.All | 위임 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| Files.Read.Selected | 위임 | UserPrincipalName은 사용자 식별을 위해 저장됩니다. | 사용자가 선택한 파일 읽기 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.Read | 위임 |  | 로그인 및 사용자 프로필 읽기 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| User.ReadBasic.All | 위임 |  | 사용자가 Office365 사용자를 Zoho Sprints로 가져올 수 있도록 허용합니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 전자 메일 | 위임 |  |  | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| offline_access | 위임 |  | 액세스 권한이 부여된 데이터에 대한 액세스 권한 유지 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Soapbox, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6e2b43df38aac6307c36c4a2cc8d00fe1c3fb629
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 89151d495479f3390aa179f810325ab56f77337a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552779"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528284"
 ---
 # <a name="soapbox"></a>Soapbox
 
@@ -55,11 +55,11 @@ Soapbox에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 위임 | 동기화 토큰. | 일정 액세스는 SoapBox 모임을 일정 이벤트와 동기화하는 데 필요합니다. |  |
->| User.Read | 위임 | 이름, 전자 메일, Microsoft 사용자 ID. | 이름 및 전자 메일은 SoapBox 사용자를 만드는 데 사용됩니다. |  |
->| offline_access | 위임 |  | 동기화된 일정 이벤트와 관련된 SoapBox 알림 시간을 설정하려면 일정에 대한 오프라인 액세스가 필요합니다. |  |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 | 동기화 토큰. | 일정 액세스는 SoapBox 모임을 일정 이벤트와 동기화하는 데 필요합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 위임 | 이름, 전자 메일, Microsoft 사용자 ID. | 이름 및 전자 메일은 SoapBox 사용자를 만드는 데 사용됩니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | 위임 |  | 동기화된 일정 이벤트와 관련된 SoapBox 알림 시간을 설정하려면 일정에 대한 오프라인 액세스가 필요합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -73,7 +73,7 @@ Soapbox에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 앱이 팀/채팅의 구성원과 함께 SoapBox에서 팀 채널을 만드는 데 사용하는 팀 로스터 및 채팅 로스터에 액세스합니다. | Microsoft Teams 사용자를 위한 앱의 모양과 느낌을 개선하고 각 사용자가 모임 소프트웨어에 완전히 참여할 수 있도록 하는 사용자의 이름, 전자 메일, Microsoft 사용자 ID입니다. |  |
 
 

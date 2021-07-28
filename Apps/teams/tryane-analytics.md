@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Tryane Analytics에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d5b5119f0c9897b6d59163ad03580744a7f822f0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 2bfff7785dbad9398697aef468115cb8f7275acd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283574"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527554"
 ---
 # <a name="tryane-analytics"></a>Tryane Analytics
 
@@ -54,16 +54,16 @@ Tryane이 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ActivityFeed.Read | application |  | 팀의 모든 사용자 활동 읽기 | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Channel.ReadBasic.All | application |  | 모든 이름, 설명이 있는 모든 채널 나열 | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| ChannelMessage.Read.All | application |  | 메타데이터에 대한 모든 채널&#8217; 나열 | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Directory.Read.All | application |  | 테넌트에서 팀 라이선스가 있는 사용자 식별 | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Member.Read.Hidden | application |  | 모든 팀, 팀 구성원 및 숨겨진 구성원&#8217;목록 표시 | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Reports.Read.All | application |  | 팀의 모든 사용자 활동 읽기 | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| Team.ReadBasic.All | application |  | 모든 채널 및 팀 속성 나열 | 9b03f15d-1219-4b2f-9699-640be54e1319 |
->| User.Read | 위임 | 사용자 ID, 이름, 전자 메일 주소, 생성 날짜. 이 데이터는 사용자에 대한 사용 현황 분석을 제공하기 위해 Teams | 구독 중 현재 사용자 식별 | 9b03f15d-1219-4b2f-9699-640be54e1319 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ActivityFeed.Read | application |  | 팀의 모든 사용자 활동 읽기 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Channel.ReadBasic.All | application |  | 모든 이름, 설명이 있는 모든 채널 나열 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| ChannelMessage.Read.All | application |  | 메타데이터에 대한 모든 채널&#8217; 나열 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Directory.Read.All | application |  | 테넌트에서 팀 라이선스가 있는 사용자 식별 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Member.Read.Hidden | application |  | 모든 팀, 팀 구성원 및 숨겨진 구성원&#8217;목록 표시 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Reports.Read.All | application |  | 팀의 모든 사용자 활동 읽기 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| Team.ReadBasic.All | application |  | 모든 채널 및 팀 속성 나열 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
+>| User.Read | 위임 | 사용자 ID, 이름, 전자 메일 주소, 생성 날짜. 이 데이터는 사용자에 대한 사용 현황 분석을 제공하기 위해 Teams | 구독 중 현재 사용자 식별 | [9b03f15d-1219-4b2f-9699-640be54e1319](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b03f15d-1219-4b2f-9699-640be54e1319) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

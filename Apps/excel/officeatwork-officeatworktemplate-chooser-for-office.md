@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR 레지스트리의 Office, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 위한 템플릿 선택기입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c9bc3e8e62056582d37c7b1f4125cf29e35e9df1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 902198ce1bb7e3b805c2b6c20879a6b77b144954
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281100"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526012"
 ---
 # <a name="officeatwork--template-chooser-for-office"></a>officeatwork | 사용자용 템플릿 Office
 
@@ -52,24 +52,24 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | 즐겨찾기: 사용자가 데이터를 읽고 쓸 수 OneDrive. OneDrive: 사용자가 데이터를 읽고 쓸 수 OneDrive. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| Group.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 그룹에 데이터를 읽고 쓸 수 있습니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| GroupMember.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 읽을 수 있는 SharePoint 권한입니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| Sites.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 SharePoint. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| User.Read | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 사용자의 기본 속성을 읽을 수 있도록 합니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| User.Read.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 사용자가 속한 그룹을 찾아야 합니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| offline_access | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 새로 고침 토큰을 통해 자동 로그인을 사용하도록 설정하려면 사용자가 officeatwork 앱을 실행하기 전마다 수동으로 로그인해야 합니다. 이 범위는 SSO를 사용할 수 없는 호스트 응용 프로그램에만 필요합니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| openid | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 사용자가 조직 및/또는 Microsoft 계정을 사용하여 Officeatwork 앱에 로그인할 수 있도록 설정 | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| profile | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 로그인한 사용자를 표시하기 위한 것입니다. 이렇게 하면 officeatwork 앱에 로그인하는 데 사용된 계정을 사용자에게 확인/확인하는 데 도움이 됩니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | 즐겨찾기: 사용자가 데이터를 읽고 쓸 수 OneDrive. OneDrive: 사용자가 데이터를 읽고 쓸 수 OneDrive. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| Group.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 그룹에 데이터를 읽고 쓸 수 있습니다. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| GroupMember.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 읽을 수 있는 SharePoint 권한입니다. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| Sites.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 SharePoint. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| User.Read | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 사용자의 기본 속성을 읽을 수 있도록 합니다. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| User.Read.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 사용자가 속한 그룹을 찾아야 합니다. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| offline_access | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 새로 고침 토큰을 통해 자동 로그인을 사용하도록 설정하려면 사용자가 officeatwork 앱을 실행하기 전마다 수동으로 로그인해야 합니다. 이 범위는 SSO를 사용할 수 없는 호스트 응용 프로그램에만 필요합니다. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| openid | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 사용자가 조직 및/또는 Microsoft 계정을 사용하여 Officeatwork 앱에 로그인할 수 있도록 설정 | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| profile | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 로그인한 사용자를 표시하기 위한 것입니다. 이렇게 하면 officeatwork 앱에 로그인하는 데 사용된 계정을 사용자에게 확인/확인하는 데 도움이 됩니다. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| SharePoint REST API | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

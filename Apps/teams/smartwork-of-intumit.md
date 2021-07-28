@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SmartWork에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f6ed1a9278713153be2ef14d61ad56453ee03fa3
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 5a2b3bebbba3c089c32490c1bacac86b258be96c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283202"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528294"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -54,9 +54,9 @@ Microsoft에 Intumit의 SmartWork에서 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | userPrincipalName을 사용하여 사용자의 메일이 유효한 AAD에서 전송된 것인지 식별 | 로그인 및 사용자 프로필 읽기 | a938ae1e-a791-4751-9e6a-178c991fa0fa |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | userPrincipalName을 사용하여 사용자의 메일이 유효한 AAD에서 전송된 것인지 식별 | 로그인 및 사용자 프로필 읽기 | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -70,7 +70,7 @@ Microsoft에 Intumit의 SmartWork에서 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 유효한 AAD에서 온 것인지 여부에 따라 사용자의 메일을 식별하는 데 사용 | 사용자가 유효한 AAD에서 온 것인지 여부를 식별하기 위해 저장된 사용자의 메일 목록 |  |
 
 

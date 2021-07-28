@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Zoho Desk, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fd057117b21f9e99476356f1157301c19393a23d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8e76f0cce92e7aa5bac28df505613ec461a3fc06
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52550648"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528354"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -55,15 +55,15 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.Read | 위임 |  | 사용자 파일을 읽습니다. |  |
->| Files.Read.All | 위임 |  | 사용자가 액세스할 수 있는 모든 파일을 읽습니다. |  |
->| User.Read | 위임 |  | 로그인하고 사용자 프로필을 읽습니다. |  |
->| User.ReadBasic.All | 위임 |  | 모든 사용자의 기본 프로필을 읽습니다. |  |
->| 전자 메일 | 위임 |  | 사용자의 전자 메일 주소를 볼 수 있습니다. |  |
->| offline_access | 위임 |  | 액세스 권한을 부여한 데이터에 대한 액세스를 유지 관리합니다. |  |
->| profile | 위임 |  | 사용자의 기본 프로필을 시청하세요. |  |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.Read | 위임 |  | 사용자 파일을 읽습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.Read.All | 위임 |  | 사용자가 액세스할 수 있는 모든 파일을 읽습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 위임 |  | 로그인하고 사용자 프로필을 읽습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.ReadBasic.All | 위임 |  | 모든 사용자의 기본 프로필을 읽습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 전자 메일 | 위임 |  | 사용자의 전자 메일 주소를 볼 수 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | 위임 |  | 액세스 권한을 부여한 데이터에 대한 액세스를 유지 관리합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | 위임 |  | 사용자의 기본 프로필을 시청하세요. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

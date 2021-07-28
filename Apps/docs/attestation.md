@@ -6,12 +6,12 @@ description: Publisher 프로그램에 대한 자세한 정보
 keywords: 앱 증명 인증 365 설문지 앱소싱
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 1d3652bb2f0eab3f1f533ce4acf3d13104843eea
-ms.sourcegitcommit: 98b9f17063c7ada0890b37af405990ad5eedd0b9
+ms.openlocfilehash: 285fb4c74f2f5bdda3defee92dafa22f07d94314
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53466028"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526114"
 ---
 # <a name="complete-publisher-attestation"></a>전체 Publisher Attestation
 
@@ -20,7 +20,7 @@ Publisher Attestation은 앱의 보안, 데이터 처리 및 규정 준수 관�
 > [!IMPORTANT]
 > Microsoft는 제공한 정보를 확인하지 않습니다. 개발자는 자체 평가에서 제공하는 정보에 대해 전적으로 책임을 져야 합니다. 
 
-**Publisher Attestation은 Web Apps(파트너 센터의 상업용 마켓플레이스를 통해 게시된 SaaS 앱) 및 다음 Microsoft 제품과 통합되는 모든 앱에 적용됩니다.**
+Publisher 의거는 Web Apps(파트너 센터의 상업용 마켓플레이스를 통해 게시된 SaaS 앱)에 적용됩니다. SaaS 앱은 현재 비공개 미리 보기에 있습니다. 참여에 관심이 있는 경우 이 양식을 [작성하세요.](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu) 또한 Attestation에는 다음 Microsoft 제품과 통합되는 모든 앱이 포함됩니다.
 - Teams
 - Word
 - Excel

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: iPlanner에 사용할 수 있는 모든 보안 및 규정 Pro Office 365, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 41852c52286f1bbc9b3e8f7a2c8ea348b1e86bc6
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 614bdfc648f2f16d8c96c3ad699c5a022690c0d0
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282833"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527724"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -52,24 +52,24 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하면 특정 사용자의 버킷 및 스위빙 라인이 업데이트됩니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Contacts.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 작업 기한에 대한 사용자 일정에서 약속을 만들 수 있습니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Files.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 첨부 파일로 파일에 액세스하고 작업에 파일을 업로드하려면 | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 선택한 메일에서 메일 제목을 얻습니다. 앱이 선택한 전자 메일에서 정보를 얻을 수 있도록 허용하여 설명 필드를 작업 설명에 복사하고 메일이나 메일 자체의 첨부 파일을 작업에 저장할 수 있도록 허용합니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하여 특정 사용자의 버킷 및 스위빙 라인을 업데이트합니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하면 특정 사용자의 버킷 및 스위빙 라인이 업데이트됩니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| User.ReadBasic.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용 권한을 확인하고 플래너 작업을 다운로드하고 새 작업을 추가하여 특정 사용자에 대한 버킷 및 스위니어 라인을 업데이트합니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| profile | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하면 특정 사용자의 버킷 및 스위빙 라인이 업데이트됩니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하면 특정 사용자의 버킷 및 스위빙 라인이 업데이트됩니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Contacts.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 작업 기한에 대한 사용자 일정에서 약속을 만들 수 있습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 첨부 파일로 파일에 액세스하고 작업에 파일을 업로드하려면 | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 선택한 메일에서 메일 제목을 얻습니다. 앱이 선택한 전자 메일에서 정보를 얻을 수 있도록 허용하여 설명 필드를 작업 설명에 복사하고 메일이나 메일 자체의 첨부 파일을 작업에 저장할 수 있도록 허용합니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하여 특정 사용자의 버킷 및 스위빙 라인을 업데이트합니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하면 특정 사용자의 버킷 및 스위빙 라인이 업데이트됩니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| User.ReadBasic.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용 권한을 확인하고 플래너 작업을 다운로드하고 새 작업을 추가하여 특정 사용자에 대한 버킷 및 스위니어 라인을 업데이트합니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| profile | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하면 특정 사용자의 버킷 및 스위빙 라인이 업데이트됩니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange - EWS. AccessAsUser.All | 아니요 |  |  |  |  |
 >| Exchange - Mail.Read.All | 아니요 |  |  |  |  |
 >| SharePoint - AllSites.Manage | 아니요 |  |  |  |  |

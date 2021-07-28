@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Standup Alice, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 033d62db333db7029c82b0e7ec7916af64eaf3e2
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 150d837b130b6ad2e75ddc0f8da82a1b90c2621f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552359"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525872"
 ---
 # <a name="standup-alice"></a>Standup Alice
 
@@ -62,7 +62,7 @@ Bao Le Duc가 Microsoft에 제공한 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Google Cloud - Google 클라우드에서 봇을 호스트합니다. |  | 해당 없음 |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
@@ -70,7 +70,7 @@ Bao Le Duc가 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 표시 이름을 사용하여 웹앱 및 독립 실행형 보고서에 표시하여 의미를 더합니다. 무료 평가판 Teams 결제에 대해 관리자와 통신할 수 있습니다. | 표시 이름 및 전자 메일 주소입니다. |  |
 
 

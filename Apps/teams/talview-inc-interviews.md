@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Talview 인터뷰, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a641b49729a43c8b12339f162eeee395183f5859
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 38ab0472b84fc2b53c357bed1ad32ed4e3a6ad11
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282942"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528164"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -55,12 +55,12 @@ Microsoft에 Talview Inc에서 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
->| 전자 메일 | 위임 | 사용자 계정 매핑을 위한 사용자의 전자 메일 주소 보기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
->| openid | 위임 | 사용자 로그인, 플랫폼에 로그인하려면 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
->| profile | 위임 | 사용자의 기본 프로필 보기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
+>| 전자 메일 | 위임 | 사용자 계정 매핑을 위한 사용자의 전자 메일 주소 보기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
+>| openid | 위임 | 사용자 로그인, 플랫폼에 로그인하려면 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
+>| profile | 위임 | 사용자의 기본 프로필 보기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | [8b976ed7-cc69-482a-a020-19bdce1041c4](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b976ed7-cc69-482a-a020-19bdce1041c4) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

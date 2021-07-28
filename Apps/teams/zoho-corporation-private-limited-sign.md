@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Zoho Sign, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 356c8755ee40269ef4efe844d22ebbc20e53937d
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: f164b4afadb0d85971cdaa40ab1bb43828ecb290
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552719"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528334"
 ---
 # <a name="zoho-sign"></a>Zoho Sign
 
@@ -55,17 +55,17 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Contacts.ReadWrite | 위임 |  | 사용자 연락처에 대한 모든 권한이 있습니다. |  |
->| Contacts.ReadWrite.Shared | 위임 |  | 사용자 및 공유 연락처를 읽고 써야 합니다. |  |
->| Files.ReadWrite | 위임 |  | 사용자 파일에 대한 모든 권한이 있습니다. |  |
->| Files.ReadWrite.All | 위임 |  | 사용자가 액세스할 수 있는 모든 파일에 대한 모든 권한이 있습니다. |  |
->| Files.ReadWrite.Selected | 위임 |  | 사용자가 선택한 파일을 읽고 써야 합니다. |  |
->| User.ReadBasic.All | 위임 |  | 모든 사용자의 기본 프로필을 읽습니다. |  |
->| 전자 메일 | 위임 |  | 사용자의 전자 메일 주소를 볼 수 있습니다. |  |
->| offline_access | 위임 |  | 액세스 권한을 부여한 데이터에 대한 액세스를 유지 관리합니다. |  |
->| profile | 위임 |  | 사용자의 기본 프로필을 시청하세요. |  |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Contacts.ReadWrite | 위임 |  | 사용자 연락처에 대한 모든 권한이 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Contacts.ReadWrite.Shared | 위임 |  | 사용자 및 공유 연락처를 읽고 써야 합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite | 위임 |  | 사용자 파일에 대한 모든 권한이 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite.All | 위임 |  | 사용자가 액세스할 수 있는 모든 파일에 대한 모든 권한이 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.ReadWrite.Selected | 위임 |  | 사용자가 선택한 파일을 읽고 써야 합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.ReadBasic.All | 위임 |  | 모든 사용자의 기본 프로필을 읽습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 전자 메일 | 위임 |  | 사용자의 전자 메일 주소를 볼 수 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | 위임 |  | 액세스 권한을 부여한 데이터에 대한 액세스를 유지 관리합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | 위임 |  | 사용자의 기본 프로필을 시청하세요. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

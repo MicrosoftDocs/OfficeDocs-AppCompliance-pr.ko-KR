@@ -6,23 +6,24 @@ description: Microsoft 365 인증 세부 정보
 keywords: 앱 증명 Microsoft 365 인증 365 설문지 앱소스
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 4322695ea694e30d42925e8316c848b867394f3b
-ms.sourcegitcommit: 78dbace87a9b5027ea5aa23a6be9b8c613bd06ce
+ms.openlocfilehash: 64e4d36f58c36447c3af48cfde22de6ecc722998
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53315078"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526094"
 ---
 # <a name="what-is-microsoft-365-certification"></a>인증이란 Microsoft 365 무엇입니까?
 
 Microsoft 365 인증은 타사 앱을 사용할 때 데이터 및 개인 정보를 적절하게 보호하고 보호할 수 있도록 보장합니다. 인증을 통해 앱이 인증 제출 가이드의 Microsoft 365 [준수하는지 확인할 수 있습니다.](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide) 유효성 검사를 통과하는 응용 프로그램은 인증을 Microsoft 365 지정됩니다.
 앱 인증은 앱의 보안 및 규정 준수 프레임워크, 프로세스 및 절차를 중심으로 하는 포괄적인 평가에 대한 적격 분석가의 검토 및 승인을 통해 달성됩니다. 참여는 선택 사항이지만 인증을 받는 것은 응용 프로그램 및 운영 절차가 집중적인 보안 검토를 수행했다는 신호를 표시하는 가장 좋은 방법입니다.
 
-Microsoft 365 인증은 WebApps 및 다음 Microsoft 제품과 통합되는 모든 앱에 적용됩니다.
+Microsoft 365 인증은 웹앱(파트너 센터의 상업용 마켓플레이스를 통해 게시된 SaaS 앱)에 적용됩니다. SaaS 앱은 현재 비공개 미리 보기에 있습니다. 참여에 관심이 있는 경우 이 양식을 [작성하세요.](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR4cf3qxCU_RNtqjCSalFdSFUNDMzTVJKR0wzTEJRSFJVSk9OQUlOV0RJSyQlQCN0PWcu) 인증에는 다음 Microsoft 제품과 통합되는 모든 앱도 포함됩니다.
+
 - Teams
 - Word
 - Excel
-- PowerPoint
+- PowerPoint 
 - Outlook
 - SharePoint
 - Project

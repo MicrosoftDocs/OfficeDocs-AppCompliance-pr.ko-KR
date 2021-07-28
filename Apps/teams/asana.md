@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 아사나에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0f2e4ff08367c5b8694ca9b6f2cfce1a530a64c9
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 14ec3eee9b8ae673565ef91a017019d23d524619
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282051"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525882"
 ---
 # <a name="asana"></a>Asana
 
@@ -62,7 +62,7 @@ ms.locfileid: "53282051"
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| 추가 기능에서는 사용자가 요청한 경우 기본 전자 메일 정보(보낸 사람, 수신자, 제목, 본문) 및 첨부 파일을 Asana로 전송합니다. |  | 전자 메일 - 작업 창에 표시되는 경우 현재 열려 있는 전자 메일을 읽습니다. - 현재 열려 있는 전자 메일 첨부 파일을 읽어 아사나 작업에 업로드합니다. - 이를 통해 사용자는 전자 메일의 정보를 통해 아사나에서 작업을 신속하게 수행할 수 있습니다. |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

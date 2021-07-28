@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 Workboard, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 94ad01886baec72c516f5e32953d8a7cbea17204
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: 7b795de57f2acf2b75cc63699d7ae4c14510dadd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53265764"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527524"
 ---
 # <a name="workboard"></a>Workboard
 
@@ -54,9 +54,9 @@ Workboard에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | 전자 메일 주소 및 사용자의 ID.  사용자를 WorkBoard의 사용자 ID에 매핑하는 데 사용됩니다. | WorkBoard는 사용자의 ID만 데이터베이스에 저장 | User.Read |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | 전자 메일 주소 및 사용자의 ID.  사용자를 WorkBoard의 사용자 ID에 매핑하는 데 사용됩니다. | WorkBoard는 사용자의 ID만 데이터베이스에 저장 | [User.Read](https://docs.microsoft.com/microsoft-365-app-certification/azure/User.Read) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -70,7 +70,7 @@ Workboard에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 사용자 ID는 WorkBord에서 사용자 Teams 알림에 사용됩니다. | 사용자 전자 메일 주소 및 ID | 사용자를 WorkBoard의 사용자 ID에 매핑하는 데 사용됩니다. |
 
 

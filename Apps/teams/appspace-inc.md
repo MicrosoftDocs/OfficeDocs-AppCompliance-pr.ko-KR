@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 앱스페이스, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7171a8574efe7757d024f4d9dd93056e7c206519
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: 592194c022b276a07d7fb91d9c0253724d8f28e7
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53459569"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527644"
 ---
 # <a name="appspace"></a>Appspace
 
@@ -55,10 +55,10 @@ Appspace, Inc.에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Team.ReadBasic.All | 위임 | 사용자가 속한 팀을 얻습니다. | 응용 프로그램 캐시에는 사용자/서비스 계정이 액세스할 수 있는 팀과 ID가 포함될 수 있습니다. 이 데이터는 수명 주기 동안 암호화된 상태로 남아 있습니다. | a9a866c4-e5cf-47f2-932c-db14cb89008f |
->| User.ReadBasic.All | 위임 | 로그인한 사용자를 대신하여 조직의 다른 사용자의 기본 프로필 속성을 읽어 읽습니다. 여기에는 표시 이름, 이름 및 성, 전자 메일 주소, 확장명 열기 및 사진이 포함됩니다. 또한 앱에서 로그인한 사용자의 전체 프로필을 읽을 수 있습니다. | 로그인한 사용자의 사용자 이름은 사용자가 Appspace 플랫폼에 연결된 사용자 또는 서비스 계정을 식별할 수 있도록 유지됩니다. | a9a866c4-e5cf-47f2-932c-db14cb89008f |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Team.ReadBasic.All | 위임 | 사용자가 속한 팀을 얻습니다. | 응용 프로그램 캐시에는 사용자/서비스 계정이 액세스할 수 있는 팀과 ID가 포함될 수 있습니다. 이 데이터는 수명 주기 동안 암호화된 상태로 남아 있습니다. | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
+>| User.ReadBasic.All | 위임 | 로그인한 사용자를 대신하여 조직의 다른 사용자의 기본 프로필 속성을 읽어 읽습니다. 여기에는 표시 이름, 이름 및 성, 전자 메일 주소, 확장명 열기 및 사진이 포함됩니다. 또한 앱에서 로그인한 사용자의 전체 프로필을 읽을 수 있습니다. | 로그인한 사용자의 사용자 이름은 사용자가 Appspace 플랫폼에 연결된 사용자 또는 서비스 계정을 식별할 수 있도록 유지됩니다. | [a9a866c4-e5cf-47f2-932c-db14cb89008f](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9a866c4-e5cf-47f2-932c-db14cb89008f) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

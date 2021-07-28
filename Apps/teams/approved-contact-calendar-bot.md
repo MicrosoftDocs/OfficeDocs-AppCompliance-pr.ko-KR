@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 일정 BOT에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 597a368e36fab6036eb8aed34a1afe197d15d26c
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 9314d7712249dbbd8ad507e8c81eb47ddaa49ca9
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282061"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527654"
 ---
 # <a name="calendar-bot"></a>Calendar BOT
 
@@ -54,14 +54,14 @@ ms.locfileid: "53282061"
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 위임 | 일정 BOT의 경우 여러 사용자가 약속 있는 시간을 찾을 수 있는 약속이 있는 시간/약속이 있는 시간을 저장합니다.  | 모임을 예약하고, 무료/사용 시간 및 일정을 읽고 비교합니다. | adef9811-448f-4dd5-88d9-68734050fe58 |
->| Contacts.Read | 위임 | 예, 연락처 정보를 저장합니다. | 연락처 가져오기 및 동기화 | adef9811-448f-4dd5-88d9-68734050fe58 |
->| User.Read | 위임 | 예 | 기본 프로필 정보입니다. | adef9811-448f-4dd5-88d9-68734050fe58 |
->| User.ReadBasic.All | 위임 | 아니요 | 직장의 프로필을 보고, 무료 시간을 비교하고, 회의실을 예약하는 데 사용됩니다. | adef9811-448f-4dd5-88d9-68734050fe58 |
->| offline_access | 위임 | 예, 오프라인 사용자의 경우 사용 가능합니다. | 사용자가 Graph 사용하지 않는 경우 전화를 걸 수 있습니다. | adef9811-448f-4dd5-88d9-68734050fe58 |
->| openid | 위임 | 아니요 | Office 365 SSO. | adef9811-448f-4dd5-88d9-68734050fe58 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 | 일정 BOT의 경우 여러 사용자가 약속 있는 시간을 찾을 수 있는 약속이 있는 시간/약속이 있는 시간을 저장합니다.  | 모임을 예약하고, 무료/사용 시간 및 일정을 읽고 비교합니다. | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| Contacts.Read | 위임 | 예, 연락처 정보를 저장합니다. | 연락처 가져오기 및 동기화 | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| User.Read | 위임 | 예 | 기본 프로필 정보입니다. | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| User.ReadBasic.All | 위임 | 아니요 | 직장의 프로필을 보고, 무료 시간을 비교하고, 회의실을 예약하는 데 사용됩니다. | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| offline_access | 위임 | 예, 오프라인 사용자의 경우 사용 가능합니다. | 사용자가 Graph 사용하지 않는 경우 전화를 걸 수 있습니다. | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
+>| openid | 위임 | 아니요 | Office 365 SSO. | [adef9811-448f-4dd5-88d9-68734050fe58](https://docs.microsoft.com/microsoft-365-app-certification/azure/adef9811-448f-4dd5-88d9-68734050fe58) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -75,7 +75,7 @@ ms.locfileid: "53282061"
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 이 로스터를 사용하여 팀의 모든 사람이 열려 있는 시간의 모임을 예약하는 데 사용할 수 있는 무료/사용 시간을 비교합니다. | 전자 메일 주소를 저장하기만 합니다. | 전자 메일 주소를 저장하기만 하여 사용중인 시간/시간을 비교할 수 있습니다. |
 
 

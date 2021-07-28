@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: MyHub에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a45478d976bc03d682c1236d8f266bc7443973a0
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: ffca0a4df366662e86001bb3d685986d877e8cca
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282021"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527634"
 ---
 # <a name="myhub"></a>MyHub
 
@@ -54,16 +54,16 @@ AvePoint, inc.에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 디렉터리 데이터 읽기 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| Group.ReadWrite.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 그룹 읽기 및 쓰기 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| Mail.Send | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 사용자로 메일 보내기 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| Reports.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사용 현황 보고서 읽기 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| Sites.FullControl.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사이트 모음에 대한 모든 제어권 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| Sites.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사이트 모음의 항목 읽기  | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| Sites.ReadWrite.All | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사이트 모음의 항목 편집 또는 삭제 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
->| User.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 전체 프로필을&#8217; 모든 사용자 읽기 | 4d69a8e1-9c38-4b33-b76f-9d59b5ae051b |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 디렉터리 데이터 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.ReadWrite.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 그룹 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Mail.Send | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 사용자로 메일 보내기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Reports.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사용 현황 보고서 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.FullControl.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사이트 모음에 대한 모든 제어권 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사이트 모음의 항목 읽기  | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.ReadWrite.All | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사이트 모음의 항목 편집 또는 삭제 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 전체 프로필을&#8217; 모든 사용자 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

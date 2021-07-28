@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR Office 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 확인하는 검증자입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1b6a88ced5c394cc5ccbb801463edd418fae24e0
-ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
+ms.openlocfilehash: c8ac51b56ccec7e502d0fef3e680b335799ff83a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2021
-ms.locfileid: "53366197"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53527454"
 ---
 # <a name="officeatwork--verifier-for-office"></a>officeatwork | 테스트용 검증 Office
 
@@ -52,22 +52,22 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Files.Read | 위임 | 데이터가 저장되지 않습니다. | OneDrive: 로그인한 사용자의 파일을 읽을 수 있도록 설정 | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
->| Files.Read.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 로그인한 사용자가 액세스할 수 있는 모든 파일을 읽습니다. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
->| Sites.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: SharePoint 온라인에서 데이터를 읽을 수 있도록 로그인한 사용자가 액세스할 수 있습니다. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
->| User.Read | 위임 | 데이터가 저장되지 않습니다. | 로그인: officeatwork 앱에서 사용자의 기본 속성을 읽을 수 있도록 합니다. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
->| offline_access | 위임 | 데이터가 저장되지 않습니다. | 로그인: 새로 고침 토큰을 통해 자동 로그인을 사용하도록 설정하려면 사용자가 officeatwork 앱을 실행하기 전마다 수동으로 로그인해야 합니다. 이 범위는 SSO를 사용할 수 없는 호스트 응용 프로그램에만 필요합니다. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
->| openid | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 사용자가 조직 및/또는 Microsoft 계정을 사용하여 officeatwork 앱에 로그인할 수 있도록 합니다. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
->| profile | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 로그인한 사용자를 표시하기 위한 것입니다. 이렇게 하면 officeatwork 앱에 로그인하는 데 사용된 계정을 사용자에게 확인/확인하는 데 도움이 됩니다. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Files.Read | 위임 | 데이터가 저장되지 않습니다. | OneDrive: 로그인한 사용자의 파일을 읽을 수 있도록 설정 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Files.Read.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 로그인한 사용자가 액세스할 수 있는 모든 파일을 읽습니다. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Sites.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: SharePoint 온라인에서 데이터를 읽을 수 있도록 로그인한 사용자가 액세스할 수 있습니다. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| User.Read | 위임 | 데이터가 저장되지 않습니다. | 로그인: officeatwork 앱에서 사용자의 기본 속성을 읽을 수 있도록 합니다. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| offline_access | 위임 | 데이터가 저장되지 않습니다. | 로그인: 새로 고침 토큰을 통해 자동 로그인을 사용하도록 설정하려면 사용자가 officeatwork 앱을 실행하기 전마다 수동으로 로그인해야 합니다. 이 범위는 SSO를 사용할 수 없는 호스트 응용 프로그램에만 필요합니다. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| openid | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 사용자가 조직 및/또는 Microsoft 계정을 사용하여 officeatwork 앱에 로그인할 수 있도록 합니다. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| profile | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 로그인한 사용자를 표시하기 위한 것입니다. 이렇게 하면 officeatwork 앱에 로그인하는 데 사용된 계정을 사용자에게 확인/확인하는 데 도움이 됩니다. | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| SharePoint REST API | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

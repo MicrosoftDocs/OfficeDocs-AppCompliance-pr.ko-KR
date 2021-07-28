@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: EngageWith, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bc9d21c1c39cb3a5919024bccd077a1e31469bf2
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 9cd618fb9ee580936f33beed27dfc2a39934d1f0
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53279120"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53528254"
 ---
 # <a name="engagewith"></a>EngageWith
 
@@ -63,7 +63,7 @@ SpringRole에서 Microsoft에 제공한 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| AWS, Mailchimp, Stripe. 고객 이름, 전자 메일, IP, 결제 정보. 이러한 타사를 사용하여 고객에게 최상의 고객 환경을 제공합니다. | 이름, 전자 메일 | 이 추가 기능에서는 추가 API를 사용하지 않습니다. |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
@@ -71,7 +71,7 @@ SpringRole에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 이 데이터는 보상 포인트 상금 기록을 &amp; 표시하고 저장하는 데 사용됩니다. 또한 앱의 주요 기능에 사용되어 피어에게 Kudos 및 Shoutout을 제공합니다. | 이름, 전자 메일, 생일 및 직장 기념일입니다. | 이 데이터는 보상 포인트 상한 기록을 &amp; 표시하고 저장하는 데 사용됩니다. |
 
 

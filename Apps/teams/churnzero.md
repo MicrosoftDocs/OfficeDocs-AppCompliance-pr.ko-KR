@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 ChurnZero, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0e92bdd9440e20ebf30cece47ee17e675b35656
-ms.sourcegitcommit: bb013192ff1a6db66c2ffe05cc83afc1d4140e76
+ms.openlocfilehash: 18ebf804bfc99fe0d31043aee77fa856f42dda7a
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52852102"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525802"
 ---
 # <a name="churnzero"></a>ChurnZero
 
@@ -54,9 +54,9 @@ ChurnZero가 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | ChurnZero 사용자와 상관 관계가 있는 위임 사용자의 Azure 개체 ID로, 향후 봇 세션 동안 해당 사용자를 식별하고 권한을 승인합니다. | ChurnZero 사용자와 상관 관계가 있는 위임 사용자의 Azure 개체 ID로, 향후 봇 세션 동안 해당 사용자를 식별하고 권한을 승인합니다. | c2e66b59-725d-4c56-8a0e-ee2587031d9f |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | ChurnZero 사용자와 상관 관계가 있는 위임 사용자의 Azure 개체 ID로, 향후 봇 세션 동안 해당 사용자를 식별하고 권한을 승인합니다. | ChurnZero 사용자와 상관 관계가 있는 위임 사용자의 Azure 개체 ID로, 향후 봇 세션 동안 해당 사용자를 식별하고 권한을 승인합니다. | [c2e66b59-725d-4c56-8a0e-ee2587031d9f](https://docs.microsoft.com/microsoft-365-app-certification/azure/c2e66b59-725d-4c56-8a0e-ee2587031d9f) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -70,7 +70,7 @@ ChurnZero가 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 클라이언트가 이름으로 연락처를 식별하고 정상적인 비즈니스 운영 수행의 일부로 전자 메일을 보낼 수 있도록 허용합니다. ChurnZero는 수집기가 아니라 데이터 프로세서입니다. | 클라이언트에서 제공한 연락처의 이름, 성, 전자 메일 주소입니다. | 클라이언트가 이름으로 연락처를 식별하고 정상적인 비즈니스 운영 수행의 일부로 전자 메일을 보낼 수 있도록 허용합니다. ChurnZero는 수집기가 아니라 데이터 프로세서입니다. |
 
 
@@ -90,7 +90,7 @@ ChurnZero가 Microsoft에 제공한 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요.
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
