@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: eTeamer, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 61646392953ecd8ed21de5ba7029f8ec0d11db2f
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 149cc78306c01d767de2a646a67d4d2848bf95db
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282678"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525472"
 ---
 # <a name="eteamer"></a>eTeamer
 
@@ -54,9 +54,9 @@ Microsoft에 &#28145;&#22323;&#20234;&#30331;&#36719;&#20214;&#26377;&#38480;&#2
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMember.ReadWrite.All | 둘 다 | 사용자 정보를 동기화하기 위한 OAuth 2.0 암시적 권한 부여를 위해 테넌트 응용 프로그램 ID 및 응용 프로그램 암호가 수집됩니다. | 테넌트 ID, 테넌트 응용 프로그램 ID, 응용 프로그램 암호 및 사용자 정보는 데이터베이스에 저장되는데, 이 정보는 데이터베이스에 저장됩니다. 이 정보는 데이터베이스에 저장되어 파일에 대해 작동하고 Teams 사용자의 채널 파일 정보를 얻는 데 사용됩니다. | 3407e97c-3eed-4eca-add5-2549ed881269 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMember.ReadWrite.All | 둘 다 | 사용자 정보를 동기화하기 위한 OAuth 2.0 암시적 권한 부여를 위해 테넌트 응용 프로그램 ID 및 응용 프로그램 암호가 수집됩니다. | 테넌트 ID, 테넌트 응용 프로그램 ID, 응용 프로그램 암호 및 사용자 정보는 데이터베이스에 저장되는데, 이 정보는 데이터베이스에 저장됩니다. 이 정보는 데이터베이스에 저장되어 파일에 대해 작동하고 Teams 사용자의 채널 파일 정보를 얻는 데 사용됩니다. | [3407e97c-3eed-4eca-add5-2549ed881269](https://docs.microsoft.com/microsoft-365-app-certification/azure/3407e97c-3eed-4eca-add5-2549ed881269) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

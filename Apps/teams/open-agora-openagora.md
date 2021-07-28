@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: OpenAgora, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: e078e126a4d155fedc2cda86e12ff1341722962c
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: c1538e5ad361469b5c8b3c07a085ed91d45a70dd
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551868"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525412"
 ---
 # <a name="openagora"></a>OpenAgora
 
@@ -55,9 +55,9 @@ Open Agora에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | 사용자&#8217;Azure Active Directory ID입니다. | 사용자에게 표시되는 데이터만 보고 관리할 수 있도록 하는 사용자 ID입니다. |  |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | 사용자&#8217;Azure Active Directory ID입니다. | 사용자에게 표시되는 데이터만 보고 관리할 수 있도록 하는 사용자 ID입니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -71,7 +71,7 @@ Open Agora에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| **이름** - 투표자 이름을 표시하는 데 사용됩니다. **전자 메일** - 팀과 채팅에서 사용자를 식별하는 데 사용됩니다. 투표자 고유 식별자로 사용됩니다. 는 사용자 의견에 응답하는 데 Teams. 사용자에게 원치 않는 전자 메일이 전송되지 않습니다. | 이름 및 성, 표시 이름, 전자 메일 주소 |  |
 
 

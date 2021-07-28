@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MIPA - 내 지능형 개인 도우미, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 684cd61aec216db5bc60bb92abd2d93963c2138a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: b57d64361c4e89d3f0e1d2c4eda908c8b56f3b08
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282718"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524571"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA - 내 지능형 개인 도우미
 
@@ -52,33 +52,33 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Contacts.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 읽기, 업데이트, Panner 작업 만들기, 최근 및 공유 파일을 읽습니다. 사용자의 동의를 확인하고 API를 사용할 수 있는 액세스 권한을 습니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. iGlobe CRM에 Office 365 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Mail.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 읽기 및 업데이트 플래그가 지정 된 메일 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| MailboxSettings.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 플래그가 지정 된 메일, 읽기 및 업데이트 Outlook To Do 전체 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Tasks.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 작업 수행, 읽기, 업데이트, Panner 작업 만들기 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.ReadBasic.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 작업 수행, 읽기, 업데이트, Panner 작업 만들기 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| 전자 메일 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 앱에서 사용자의 기본 전자 메일 주소(SSO의 경우)를 읽을 수 있도록 허용합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| offline_access | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 현재 앱을 사용하지 않는 경우에도 앱에서 액세스 권한을 부여한 데이터를 보고 업데이트할 수 있습니다. 이렇게 해서 앱에 SSO에 대한 추가 사용 권한()은 부여되지 않습니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| openid | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 자신의 직장 또는 학교 계정으로 앱에 로그인할 수 있도록 허용하고 앱에서 SSO의 기본 사용자 프로필 정보()를 볼 수 있도록 합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| profile | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 작업 수행, 읽기, 업데이트, Panner 작업 만들기 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Contacts.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 읽기, 업데이트, Panner 작업 만들기, 최근 및 공유 파일을 읽습니다. 사용자의 동의를 확인하고 API를 사용할 수 있는 액세스 권한을 습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. iGlobe CRM에 Office 365 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Mail.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 읽기 및 업데이트 플래그가 지정 된 메일 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| MailboxSettings.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 플래그가 지정 된 메일, 읽기 및 업데이트 Outlook To Do 전체 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Tasks.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 작업 수행, 읽기, 업데이트, Panner 작업 만들기 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.ReadBasic.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 작업 수행, 읽기, 업데이트, Panner 작업 만들기 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| User.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| 전자 메일 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 앱에서 사용자의 기본 전자 메일 주소(SSO의 경우)를 읽을 수 있도록 허용합니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| offline_access | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 현재 앱을 사용하지 않는 경우에도 앱에서 액세스 권한을 부여한 데이터를 보고 업데이트할 수 있습니다. 이렇게 해서 앱에 SSO에 대한 추가 사용 권한()은 부여되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| openid | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 자신의 직장 또는 학교 계정으로 앱에 로그인할 수 있도록 허용하고 앱에서 SSO의 기본 사용자 프로필 정보()를 볼 수 있도록 합니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| profile | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 작업 수행, 읽기, 업데이트, Panner 작업 만들기 | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange - Calendars.ReadWrite.All | 아니요 |  |  |  |  |
 >| Exchange - EWS. AccessAsUser.All | 아니요 |  |  |  |  |
 >| Exchange - Mail.Read | 아니요 |  |  |  |  |

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wunder365에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9ef4f9f97964d1d099676654ff2cfaaa11532167
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 71d163c9dc86fbd21fc9032abcc732168b8210eb
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281821"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525552"
 ---
 # <a name="wunder365"></a>Wunder365
 
@@ -55,20 +55,20 @@ JiJi Technologies Pvt Ltd에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Group.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | Planner 작업을 다운로드/업데이트하기 위해 팀 채널에서 작업 업데이트를 게시합니다. | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| Mail.Send | 위임 | 데이터가 저장되지 않습니다. | 앱에서 사용자에게 전자 메일 알림을 보낼 수 있도록 허용 | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| offline_access | 위임 | 데이터가 저장되지 않습니다. | 사용자 로그인을 계속합니다. | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| openid | 위임 | 데이터가 저장되지 않습니다. | 사용자가 관리 계정으로 로그인할 수 있도록 허용 | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
->| profile | 위임 | UPN, 사용자 ID, 전자 메일 ID, 라이선스 확인을 위한 테넌트 ID, 무료 라이선스. | 사용자가 관리 계정으로 로그인할 수 있도록 허용 | 3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Group.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | Planner 작업을 다운로드/업데이트하기 위해 팀 채널에서 작업 업데이트를 게시합니다. | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| Mail.Send | 위임 | 데이터가 저장되지 않습니다. | 앱에서 사용자에게 전자 메일 알림을 보낼 수 있도록 허용 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| offline_access | 위임 | 데이터가 저장되지 않습니다. | 사용자 로그인을 계속합니다. | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| openid | 위임 | 데이터가 저장되지 않습니다. | 사용자가 관리 계정으로 로그인할 수 있도록 허용 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| profile | 위임 | UPN, 사용자 ID, 전자 메일 ID, 라이선스 확인을 위한 테넌트 ID, 무료 라이선스. | 사용자가 관리 계정으로 로그인할 수 있도록 허용 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| SharePoint REST API | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

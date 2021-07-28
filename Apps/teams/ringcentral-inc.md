@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: RingCentral, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2035f615146f8809d6113192d796d2760d87f50e
-ms.sourcegitcommit: e184ba4652113b5dbae917f1e9ccbe4879a67395
+ms.openlocfilehash: bb0787720195363368e3d822e45f173acee67870
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52987873"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525402"
 ---
 # <a name="ringcentral"></a>RingCentral
 
@@ -55,12 +55,12 @@ RingCentral, Inc.에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 위임 |  응용 프로그램에서 일정을 통해 모임 초대 이벤트를 보낼 수 있도록 허용 | 없음 |  0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| offline_access | 위임 |  응용 프로그램에서 oauth 토큰을 다운로드하고 업데이트할 수 있습니다. |  MS Graph API에 액세스하기 위한 액세스 토큰, 새로 고침 토큰 |  0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| User.Read | 위임 |  앱에서 기본 프로필(전자 메일&#8217;이름)을 통해 사용자에게 연락처 일치를 할 수 있도록 허용합니다. 또한 사용자가 링 센터 계정으로 로그인하고 O365 계정을 연결하도록 허용합니다. |  전자 메일, 이름, 성 | 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
->| User.Read.All | 위임 | 응용 프로그램에서 서비스에서 전화를 걸기 위해 전화 번호가 있는 사용자의 전체 프로필을 읽을 수 있도록 허용합니다. | 없음 | 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 |  응용 프로그램에서 일정을 통해 모임 초대 이벤트를 보낼 수 있도록 허용 | 없음 | [ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| offline_access | 위임 |  응용 프로그램에서 oauth 토큰을 다운로드하고 업데이트할 수 있습니다. |  MS Graph API에 액세스하기 위한 액세스 토큰, 새로 고침 토큰 | [ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/ 0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| User.Read | 위임 |  앱에서 기본 프로필(전자 메일&#8217;이름)을 통해 사용자에게 연락처 일치를 할 수 있도록 허용합니다. 또한 사용자가 링 센터 계정으로 로그인하고 O365 계정을 연결하도록 허용합니다. |  전자 메일, 이름, 성 | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
+>| User.Read.All | 위임 | 응용 프로그램에서 서비스에서 전화를 걸기 위해 전화 번호가 있는 사용자의 전체 프로필을 읽을 수 있도록 허용합니다. | 없음 | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](https://docs.microsoft.com/microsoft-365-app-certification/azure/0dd4bfdf-dc86-4f05-9991-a14bc0144ebf) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

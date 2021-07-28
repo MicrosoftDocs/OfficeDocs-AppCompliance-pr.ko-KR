@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TeamGether에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1c992ffe3240ed8775832240ab9107debe12b9f2
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 6d52f732a372663b3bb089ee57d43fb5f46299ca
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281911"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525692"
 ---
 # <a name="teamgether"></a>TeamGether
 
@@ -69,7 +69,7 @@ EFFENCY에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 사용자의 이름을 사용하여 메시지를 개인 설정하고 사용자의 전자 메일 주소는 필요한 경우 전자 메일을 보낼 수 있도록 데이터베이스에 저장됩니다. | 이름, 성 및 전자 메일 주소 | 사용자의 이름을 사용하여 메시지를 개인 설정하고 사용자의 전자 메일 주소는 필요한 경우 전자 메일을 보낼 수 있도록 데이터베이스에 저장됩니다. |
 
 

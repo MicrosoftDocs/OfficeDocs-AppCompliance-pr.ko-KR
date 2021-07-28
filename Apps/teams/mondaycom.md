@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 monday.com, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1252ff537b354a1a8bc068e9c6ac6779c7af3fc4
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7d929b4d9c66aea657d2beb64fa77f31921f59ac
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281220"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525462"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -62,7 +62,7 @@ Microsoft에 monday.com 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| monday.com 서비스 성능에 대해 다음과 같은 하위 프로세서를 &#160;https://monday.com/terms/subprocessors |  | monday.com API를 사용하지 않습니다. Microsoft는 서비스 성능에 대해 다음 Microsoft 프레임워크를 사용(위의 응답에 자세히 설명됨): &#8216;botbuilder&#8217; &#8216;botframework-connector&#8217; &#8216;@micorosft/teams-js&#8217; |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindMeister, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bc3c15dabdcf5b01503d835f8cc45dccf8909539
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 75177ef60be80889a14c75fbb76bc1d4aaa9aa49
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282972"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525482"
 ---
 # <a name="mindmeister"></a>MindMeister
 
@@ -55,9 +55,9 @@ MeisterLabs GmbH에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | AAD ID, 테넌트 ID, 전자 메일, displayName - 응용 프로그램 내에서 각 사용자를 식별하고 MindMeister 특정 데이터를 Microsoft 사용자(예: 어느 사용자에게 속하는 지도)와 연결하는 데 사용할 수 있습니다. | 사용자가 로그인할 수 있도록 허용하고 자동 로그인을 사용하도록 설정하기 위해 앱에 UPN에 대한 액세스 권한을 부여합니다. | d312ff80-0c2b-42ad-887b-c6392bcf6353 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | AAD ID, 테넌트 ID, 전자 메일, displayName - 응용 프로그램 내에서 각 사용자를 식별하고 MindMeister 특정 데이터를 Microsoft 사용자(예: 어느 사용자에게 속하는 지도)와 연결하는 데 사용할 수 있습니다. | 사용자가 로그인할 수 있도록 허용하고 자동 로그인을 사용하도록 설정하기 위해 앱에 UPN에 대한 액세스 권한을 부여합니다. | [d312ff80-0c2b-42ad-887b-c6392bcf6353](https://docs.microsoft.com/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -71,7 +71,7 @@ MeisterLabs GmbH에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| MindMeister에 Teams 이미 있는 사용자를 식별하고 봇이 설치되었습니다. | 팀명단의 데이터는 저장하지 않습니다. |  |
 
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AtBot에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3f56d0b3eb19f5bed8f7092507c8605af936b911
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 94cc732dc5f6cf6416fd1b386271b3694d6f3698
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552139"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525622"
 ---
 # <a name="atbot"></a>AtBot
 
@@ -55,16 +55,16 @@ H3 Solutions, Inc.에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | application | AAD 그룹 이름, AAD 그룹 GUID, UPN | 봇 기술의 보안 트리밍을 허용하도록 AAD 그룹을 열00개합니다. 사용자가 라이선스를 적용할 수 있도록 열세합니다. 관리자/참가자로 추가할 사용자 열기 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| Directory.Read.All | 위임 | AAD 그룹 이름, AAD 그룹 GUID, UPN | 봇 기술의 보안 트리밍을 허용하도록 AAD 그룹을 열00개합니다. 사용자가 라이선스를 적용할 수 있도록 열세합니다. 관리자/참가자로 추가할 사용자 열기 | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| People.Read | 위임 | 아니요 | Flow.  봇이 Microsoft 365의 /People 끝점에서 사용자 검색을 Graph. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| User.Read | 위임 | 테넌트 ID, UPN | 사용자가 테넌트 ID 및 UPN을&#8217;액세스 권한을 부여하여 만든 흐름/논리 앱을 해당 앱을 만든 사용자에게 에일 수 있도록 합니다. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| 전자 메일 | 위임 | 아니요 | 사용자의 전자 메일 주소에 대한 액세스 권한을 부여합니다. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| offline_access | 위임 | 토큰 액세스/새로 고침 | 사용자가 로그인된 유지를 위해 새로 고침 토큰을 사용할 수 있습니다. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| openid | 위임 | 아니요 | 사용자가 로그인할 수 있습니다. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
->| profile | 위임 | UPN | 사용자의 UPN에 액세스합니다. | 066a6b3a-f7a0-450a-98c7-34db1da31594 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | application | AAD 그룹 이름, AAD 그룹 GUID, UPN | 봇 기술의 보안 트리밍을 허용하도록 AAD 그룹을 열00개합니다. 사용자가 라이선스를 적용할 수 있도록 열세합니다. 관리자/참가자로 추가할 사용자 열기 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| Directory.Read.All | 위임 | AAD 그룹 이름, AAD 그룹 GUID, UPN | 봇 기술의 보안 트리밍을 허용하도록 AAD 그룹을 열00개합니다. 사용자가 라이선스를 적용할 수 있도록 열세합니다. 관리자/참가자로 추가할 사용자 열기 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| People.Read | 위임 | 아니요 | Flow.  봇이 Microsoft 365의 /People 끝점에서 사용자 검색을 Graph. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| User.Read | 위임 | 테넌트 ID, UPN | 사용자가 테넌트 ID 및 UPN을&#8217;액세스 권한을 부여하여 만든 흐름/논리 앱을 해당 앱을 만든 사용자에게 에일 수 있도록 합니다. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| 전자 메일 | 위임 | 아니요 | 사용자의 전자 메일 주소에 대한 액세스 권한을 부여합니다. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| offline_access | 위임 | 토큰 액세스/새로 고침 | 사용자가 로그인된 유지를 위해 새로 고침 토큰을 사용할 수 있습니다. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| openid | 위임 | 아니요 | 사용자가 로그인할 수 있습니다. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| profile | 위임 | UPN | 사용자의 UPN에 액세스합니다. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -78,7 +78,7 @@ H3 Solutions, Inc.에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 봇 생성 채팅 메시지에서 메시지 생성 | 아니요 |  |
 
 
@@ -86,7 +86,7 @@ H3 Solutions, Inc.에서 Microsoft에 제공하는 정보:
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->테넌트 ID, UPN Application Insights를 사용하며 로그는 자동으로 보관되기 전에 90일 동안 지속됩니다. (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
+>테넌트 ID, UPN 응용 프로그램 Insights 로그는 자동으로 보관되기 전에 90일 동안 지속됩니다. (https://docs.microsoft.com/azure/azure-monitor/app/data-retention-privacy)
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 

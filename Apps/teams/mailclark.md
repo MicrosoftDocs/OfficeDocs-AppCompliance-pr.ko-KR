@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MailClark, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9d21ca3fe09b49a66725b0e7195fe08836d3d125
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 3e9c01b76c513fd0786b27a0447a70c1f9c9d7e0
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552959"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525502"
 ---
 # <a name="mailclark"></a>MailClark
 
@@ -55,14 +55,14 @@ MailClark에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Mail.ReadWrite | application |  | 읽기: 받는 전자 메일에 대한 푸시 알림을 구독합니다. 쓰기: 초안을 만들 수 있습니다. |  |
->| Mail.Send | application |  | 초안을 보내기 위해 |  |
->| User.Read | application | 계정 세부 정보(예: 전자 메일 주소) | 계정을 식별합니다. |  |
->| offline_access | application | 새로 고침 토큰 | 계정의 연결이 끊어질 때까지 인증을 갱신합니다. |  |
->| openid | application |  | 인증에 필요합니다. |  |
->| profile | application |  | 사용자를 인증합니다. |  |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Mail.ReadWrite | application |  | 읽기: 받는 전자 메일에 대한 푸시 알림을 구독합니다. 쓰기: 초안을 만들 수 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Mail.Send | application |  | 초안을 보내기 위해 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | application | 계정 세부 정보(예: 전자 메일 주소) | 계정을 식별합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| offline_access | application | 새로 고침 토큰 | 계정의 연결이 끊어질 때까지 인증을 갱신합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| openid | application |  | 인증에 필요합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | application |  | 사용자를 인증합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -76,7 +76,7 @@ MailClark에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 대화에 사용자 할당 | 이름, 성, 표시 이름, 전자 메일 주소 |  |
 
 

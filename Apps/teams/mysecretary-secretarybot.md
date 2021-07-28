@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 에 대한 모든 보안 및 규정 준수 정보로, 이 정보의 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 확인할 수 있습니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bff3e6ebffc94861dc4112375ac943124b4fe386
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 8d7e2fce37cf43fe52cb050e85aa9e4fd5e00802
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52551888"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525452"
 ---
 # <a name="secretarybot"></a>SecretaryBot
 
@@ -55,16 +55,16 @@ MySecretary에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read.Shared | 위임 |  | 사용자 및 해당 동료의 무료 시간 정보를 페치합니다. |  |
->| Calendars.ReadWrite | 위임 |  | 사용자 대신 모임 요청을 전송합니다. |  |
->| MailboxSettings.Read | 위임 | 올바른 언어 표시를 위한 저장소 언어입니다. MS Graph API를 올바르게 호출하기 위해 타임존 저장 | 사용자의 언어 및 시간제어 설정을 페치합니다. |  |
->| People.Read | 위임 |  | 사용자와 강력한 관계가 있는 동료를 찾아보아야 합니다. |  |
->| User.Read | 위임 | 사용자 분석을 위한 사용자 이름, 도시, 국가 및 langauge를 저장합니다. 고객에게 연락하기 위한 전자 메일을 저장합니다. 전자 메일 주소를 사용한 적이 없지만 지원에 사용할 수 있습니다. | 사용자의 국가 및 기본 설정 언어를 찾으려고 합니다. MailboxSettings.Read에 대한 백업에 사용됩니다. |  |
->| 전자 메일 | 위임 | 위 내용을 참조하세요. | 전자 메일을 저장합니다. |  |
->| openid | 위임 |  | OpenID 인증의 경우 |  |
->| profile | 위임 | MS ID 시스템에서 사용자의 고유 ID를 식별하기 위해 OID를 저장합니다. | 사용자 이름 및 OID를 들이기. OID를 사용하여 향후 추가 Outlook 연결해 보아야 합니다. |  |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read.Shared | 위임 |  | 사용자 및 해당 동료의 무료 시간 정보를 페치합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Calendars.ReadWrite | 위임 |  | 사용자 대신 모임 요청을 전송합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| MailboxSettings.Read | 위임 | 올바른 언어 표시를 위한 저장소 언어입니다. MS Graph API를 올바르게 호출하기 위해 타임존 저장 | 사용자의 언어 및 시간제어 설정을 페치합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| People.Read | 위임 |  | 사용자와 강력한 관계가 있는 동료를 찾아보아야 합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| User.Read | 위임 | 사용자 분석을 위한 사용자 이름, 도시, 국가 및 langauge를 저장합니다. 고객에게 연락하기 위한 전자 메일을 저장합니다. 전자 메일 주소를 사용한 적이 없지만 지원에 사용할 수 있습니다. | 사용자의 국가 및 기본 설정 언어를 찾으려고 합니다. MailboxSettings.Read에 대한 백업에 사용됩니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 전자 메일 | 위임 | 위 내용을 참조하세요. | 전자 메일을 저장합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| openid | 위임 |  | OpenID 인증의 경우 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| profile | 위임 | MS ID 시스템에서 사용자의 고유 ID를 식별하기 위해 OID를 저장합니다. | 사용자 이름 및 OID를 들이기. OID를 사용하여 향후 추가 Outlook 연결해 보아야 합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -78,7 +78,7 @@ MySecretary에서 Microsoft에 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 이 정보를 사용하여 팀 모임 예약 | 아니요 |  |
 
 

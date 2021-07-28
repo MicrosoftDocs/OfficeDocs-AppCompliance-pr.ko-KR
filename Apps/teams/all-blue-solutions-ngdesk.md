@@ -1,45 +1,45 @@
 ---
-title: KAKEAI의 응용 프로그램 정보
+title: 모든 Blue 솔루션의 ngDesk에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/17/2021
+ms.date: 06/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: KAKEAI에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+description: CSA STAR 레지스트리의 ngDesk, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a2c65a78c07d2724b73757df909c1a75262a02c6
+ms.openlocfilehash: b361541352b4fb5c21431403aaea8d7b13a0e104
 ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525542"
+ms.locfileid: "53526461"
 ---
-# <a name="kakeai"></a>KAKEAI
+# <a name="ngdesk"></a>ngDesk
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 5월 17일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 30일</p>
 
-* <a href="https://teams.microsoft.com/l/app/714dce8d-d78a-470d-9d4a-8db9118a2106" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200001902" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/64d24486-30aa-4fae-8bdc-2680a85dcbb5" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002968" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-KAKEAI에서 Microsoft에 제공한 정보:
+모든 Blue 솔루션에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | KAKEAI |
-| ID | WA200001902 |
+| 앱 이름 | ngDesk |
+| ID | WA200002968 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | KAKEAI |
-| 파트너 웹 사이트의 URL | [https://kakeai.co.jp](https://kakeai.co.jp) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://help.kakeai.com/ja/articles/4230882](https://help.kakeai.com/ja/articles/4230882) |
-| 개인 정보 취급 방침의 URL | [https://kakeai.com/terms#privacy-policy](https://kakeai.com/terms#privacy-policy) |
-| 사용 약관 URL | [https://kakeai.com/terms](https://kakeai.com/terms) |
+| 파트너 회사 이름 | 모든 파란색 솔루션 |
+| 파트너 웹 사이트의 URL | [https://ngdesk.com](https://ngdesk.com) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://ngdesk.com](https://ngdesk.com) |
+| 개인 정보 취급 방침의 URL | [https://ngdesk.com/privacy-policy](https://ngdesk.com/privacy-policy) |
+| 사용 약관 URL | [https://ngdesk.com/terms-of-service/](https://ngdesk.com/terms-of-service/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ KAKEAI에서 Microsoft에 제공한 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 KAKEAI에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 조직에서 수집하는 데이터를 통해 조직이 제공하는 컨트롤에 대해 제공됩니다.
+이 정보는 모든 Blue Solutions에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 가지는 컨트롤에 대해 제공됩니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
@@ -57,13 +57,6 @@ KAKEAI에서 Microsoft에 제공한 정보:
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 
-#### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
-
-기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
-
->| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Microsoft Bot Framework | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
@@ -88,7 +81,7 @@ KAKEAI에서 Microsoft에 제공한 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->파트너 시스템의 데이터를 사용하지 않습니다.
+>다른 파트너 시스템으로 데이터를 보내지 않습니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -104,9 +97,9 @@ KAKEAI에서 Microsoft에 제공한 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/39733' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/39733" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -116,7 +109,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 KAKEAI에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+이 정보는 All Blue Solutions에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|

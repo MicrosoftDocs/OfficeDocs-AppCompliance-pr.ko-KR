@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Evocom에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1a3be83c266ee993ad377a2489a85248bdafab67
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d83f806bcca3b0012dbe062763ec8118281cb995
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281290"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525652"
 ---
 # <a name="evocom"></a>Evocom
 
@@ -55,10 +55,10 @@ Microsoft에 Evocom Informationssysteme GmbH에서 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | 이름, 전자 메일 주소, 그림, ID. 성능 | 이름, 전자 메일 주소, 그림, ID. 성능 | 3e745135-a761-48a7-ab54-5c0277b2e642 |
->| User.ReadBasic.All | 위임 | 이름, 전자 메일 주소, 그림, ID. 성능 | 이름, 전자 메일 주소, 그림, ID. 성능 | 3e745135-a761-48a7-ab54-5c0277b2e642 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | 이름, 전자 메일 주소, 그림, ID. 성능 | 이름, 전자 메일 주소, 그림, ID. 성능 | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
+>| User.ReadBasic.All | 위임 | 이름, 전자 메일 주소, 그림, ID. 성능 | 이름, 전자 메일 주소, 그림, ID. 성능 | [3e745135-a761-48a7-ab54-5c0277b2e642](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e745135-a761-48a7-ab54-5c0277b2e642) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -72,7 +72,7 @@ Microsoft에 Evocom Informationssysteme GmbH에서 제공하는 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 개인화. 개인 알림, 전자 메일 메시지. | Name, E-Mail-Adress, Picture, ID | 성능. |
 
 

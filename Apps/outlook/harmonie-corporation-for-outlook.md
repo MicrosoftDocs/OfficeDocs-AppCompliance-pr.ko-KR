@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 harmon.ie, Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 90b5ce81e0b2a0b0d0c9568facb456c5e87aad62
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: e63a6614f0e0d6fb62cae5343982f4118a4c9168
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281630"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526484"
 ---
 # <a name="harmonie-for-outlook"></a>harmon.ie 대한 Outlook
 
@@ -53,12 +53,12 @@ Microsoft에서 harmon.ie 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | 위임 | 사용자가 harmon.ie 및 Outlook 수 있도록 허용하는 데 필요한 요구 | 없음 | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| Files.ReadWrite.All | 위임 | 전자 메일 harmon.ie Outlook 전자 메일 첨부 파일을 전송하고 전자 메일 첨부 Outlook 전송하도록 허용하는 데 &amp; SharePoint | 없음 | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| Mail.ReadWrite | 위임 | 전자 메일 harmon.ie Outlook 전자 메일 첨부 파일을 전송하고 전자 메일 첨부 Outlook 전송하도록 허용하는 데 &amp; SharePoint | 없음 | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
->| User.Read | 위임 | 사용자 프로필 harmon.ie Outlook 확인에 필요한 정보 | 없음 | 170cef4c-862a-443c-b02a-c5ba04ecc7f3 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | 위임 | 사용자가 harmon.ie 및 Outlook 수 있도록 허용하는 데 필요한 요구 | 없음 | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
+>| Files.ReadWrite.All | 위임 | 전자 메일 harmon.ie Outlook 전자 메일 첨부 파일을 전송하고 전자 메일 첨부 Outlook 전송하도록 허용하는 데 &amp; SharePoint | 없음 | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
+>| Mail.ReadWrite | 위임 | 전자 메일 harmon.ie Outlook 전자 메일 첨부 파일을 전송하고 전자 메일 첨부 Outlook 전송하도록 허용하는 데 &amp; SharePoint | 없음 | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
+>| User.Read | 위임 | 사용자 프로필 harmon.ie Outlook 확인에 필요한 정보 | 없음 | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](https://docs.microsoft.com/microsoft-365-app-certification/azure/170cef4c-862a-443c-b02a-c5ba04ecc7f3) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Droplr에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 0ee1f120569a50bb475cd525b3ae1ba70e6b60b5
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: a15e235b7f604ba4b5c73c74eef50d4bc1a49e65
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553949"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525702"
 ---
 # <a name="droplr"></a>Droplr
 
@@ -55,9 +55,9 @@ Droplr에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | 데이터베이스에 `user_id` 값을 저장합니다. | 이 사용 권한을 사용하여 인증된 사용자를 식별하고 Droplr 계정과 연결합니다. |  |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | 데이터베이스에 `user_id` 값을 저장합니다. | 이 사용 권한을 사용하여 인증된 사용자를 식별하고 Droplr 계정과 연결합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

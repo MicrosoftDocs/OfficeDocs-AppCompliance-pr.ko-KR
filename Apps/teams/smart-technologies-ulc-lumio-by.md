@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: SMART로 Lumio에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 50cde4ecae9abf39b199b381bcf8e5da33b345e6
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 7f97e53eb5b4c27aa8bf2be4c97760f8a536cd06
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53283309"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53520991"
 ---
-# <a name="lumio-by-smart"></a>SMART로 Lumio
+# <a name="lumio-by-smart"></a>Lumio by SMART
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ SMART Technologies ULC에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | SMART로 Lumio |
+| 앱 이름 | Lumio by SMART |
 | ID | WA200001874 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | SMART Technologies ULC |
@@ -55,10 +55,10 @@ SMART Technologies ULC에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.Read.All | 위임 | 데이터는 수집된 데이터가 없는 그룹 권한을 확인하는 데 사용됩니다.  | 디렉터리 데이터가 데이터베이스에 저장되지 않습니다. | 14cf575a-fae2-48e2-af39-e3448d3a48bb |
->| Group.Read.All | 위임 | 어떤 그룹이 각자 어떤 그룹인지, 이 그룹은 기능을 확인하기 위해 학생 또는 교사 그룹의 일부인지 확인하는 데 사용됩니다. 데이터가 수집되지 않습니다.  | 저장된 데이터만 클라이언트 고유 ID입니다. | 14cf575a-fae2-48e2-af39-e3448d3a48bb |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.Read.All | 위임 | 데이터는 수집된 데이터가 없는 그룹 권한을 확인하는 데 사용됩니다.  | 디렉터리 데이터가 데이터베이스에 저장되지 않습니다. | [14cf575a-fae2-48e2-af39-e3448d3a48bb](https://docs.microsoft.com/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb) |
+>| Group.Read.All | 위임 | 어떤 그룹이 각자 어떤 그룹인지, 이 그룹은 기능을 확인하기 위해 학생 또는 교사 그룹의 일부인지 확인하는 데 사용됩니다. 데이터가 수집되지 않습니다.  | 저장된 데이터만 클라이언트 고유 ID입니다. | [14cf575a-fae2-48e2-af39-e3448d3a48bb](https://docs.microsoft.com/microsoft-365-app-certification/azure/14cf575a-fae2-48e2-af39-e3448d3a48bb) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

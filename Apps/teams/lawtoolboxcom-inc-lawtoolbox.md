@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LawToolBox에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2e97d65822a5baeb0cd78101660084e4142e98ea
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 9023d2321d5c6a6a62c8480538cc5bf8315b2fc9
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553009"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525522"
 ---
 # <a name="lawtoolbox"></a>LawToolBox
 
@@ -55,30 +55,30 @@ Microsoft에 LawToolBox.com 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.Read | 위임 |  | [선택 사항] 사용자의 일정을 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Calendars.ReadWrite | 위임 |  | 사용자의 일정에 일정 초대를 만들 수 있습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Calendars.ReadWrite.Shared | 위임 |  | 공유 일정에 일정 초대를 만들 수 있습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Contacts.ReadWrite | 위임 |  | [선택 사항]- 사용자 연락처를 읽고 연락처 목록에서 그룹으로 사용자를 연결합니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Contacts.ReadWrite.Shared | 위임 |  | [선택 사항]- 사례와 관련된 연락처 목록을 지원할 사용자 공유 연락처를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Directory.AccessAsUser.All | 위임 |  | [선택 사항] 사용자로 그룹 및 사용자 정보를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Directory.ReadWrite.All | 위임 |  | [선택 사항] 사용자로 그룹 및 사용자 정보를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.Read | 위임 |  | [선택 사항] 사용자의 사용자 OneDrive. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.Read.All | 위임 |  | [선택 사항]-사용자의 사용자 OneDrive. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.ReadWrite | 위임 |  | [선택 사항]-사용자 계정의 파일을 읽고 OneDrive. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Files.ReadWrite.All | 위임 |  | [선택 사항] 문제와 관련된 읽기/OneDrive 사용자의 파일입니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Group.ReadWrite.All | 위임 | GroupID, GroupName, GroupEmail | 시스템에서 만든 각 사안에 대한 그룹을 만들 수 있습니다. 이렇게 하면 사용자가 중요한 관련 정보를 그룹에 저장하면 해당 데이터가 자신의 테넌트에 저장됩니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.Read | 위임 |  | [선택 사항] [InProgress] 중요에 대한 사용자의 전자 메일을 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.ReadWrite | 위임 |  | [선택 사항] [InProgress] 사용자에 대한 읽기/쓰기 전자 메일입니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.ReadWrite.Shared | 위임 |  | [선택 사항] [InProgress] 사용자에 대한 읽기/쓰기 전자 메일입니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Mail.Send | 위임 |  | [선택 사항] [InProgress] 사용자로 전자 메일에 기한 보내기. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| Tasks.ReadWrite.Shared | 위임 |  | [Optional]-[InProgress] Read Write Deadlines as Task for users. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.Read | 위임 |  | 사용자의 정보를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.ReadWrite | 위임 |  | 읽기/쓰기가 필요한 사용자의 정보입니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| User.ReadWrite.All | 위임 |  | 읽기/쓰기가 필요한 사용자의 정보입니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| 전자 메일 | 위임 | Email, Office365 UserID, ObjectID, TenantID. | 사용자의 전자 메일 주소를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
->| profile | 위임 |  | 사용자 프로필 정보를 읽습니다. | 3ee373aa-62fa-4fc6-b11f-9627d5b4a73d |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.Read | 위임 |  | [선택 사항] 사용자의 일정을 읽습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite | 위임 |  | 사용자의 일정에 일정 초대를 만들 수 있습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite.Shared | 위임 |  | 공유 일정에 일정 초대를 만들 수 있습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite | 위임 |  | [선택 사항]- 사용자 연락처를 읽고 연락처 목록에서 그룹으로 사용자를 연결합니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite.Shared | 위임 |  | [선택 사항]- 사례와 관련된 연락처 목록을 지원할 사용자 공유 연락처를 읽습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.AccessAsUser.All | 위임 |  | [선택 사항] 사용자로 그룹 및 사용자 정보를 읽습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.ReadWrite.All | 위임 |  | [선택 사항] 사용자로 그룹 및 사용자 정보를 읽습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read | 위임 |  | [선택 사항] 사용자의 사용자 OneDrive. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read.All | 위임 |  | [선택 사항]-사용자의 사용자 OneDrive. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite | 위임 |  | [선택 사항]-사용자 계정의 파일을 읽고 OneDrive. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite.All | 위임 |  | [선택 사항] 문제와 관련된 읽기/OneDrive 사용자의 파일입니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Group.ReadWrite.All | 위임 | GroupID, GroupName, GroupEmail | 시스템에서 만든 각 사안에 대한 그룹을 만들 수 있습니다. 이렇게 하면 사용자가 중요한 관련 정보를 그룹에 저장하면 해당 데이터가 자신의 테넌트에 저장됩니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Read | 위임 |  | [선택 사항] [InProgress] 중요에 대한 사용자의 전자 메일을 읽습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite | 위임 |  | [선택 사항] [InProgress] 사용자에 대한 읽기/쓰기 전자 메일입니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite.Shared | 위임 |  | [선택 사항] [InProgress] 사용자에 대한 읽기/쓰기 전자 메일입니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Send | 위임 |  | [선택 사항] [InProgress] 사용자로 전자 메일에 기한 보내기. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Tasks.ReadWrite.Shared | 위임 |  | [Optional]-[InProgress] Read Write Deadlines as Task for users. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.Read | 위임 |  | 사용자의 정보를 읽습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite | 위임 |  | 읽기/쓰기가 필요한 사용자의 정보입니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite.All | 위임 |  | 읽기/쓰기가 필요한 사용자의 정보입니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| 전자 메일 | 위임 | Email, Office365 UserID, ObjectID, TenantID. | 사용자의 전자 메일 주소를 읽습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| profile | 위임 |  | 사용자 프로필 정보를 읽습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -92,7 +92,7 @@ Microsoft에 LawToolBox.com 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 팀에 새로 추가된 사용자를 식별하고 잠재적인 잠재 사용자를 확인 | Email, UserId |  |
 
 

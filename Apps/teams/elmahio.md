@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 elmah.io, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1a4d52ae44362914c3e2094d39f7b109948986a2
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 2761f22f1b41c208d7dce1589ac3d62ab41efc54
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553199"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525682"
 ---
 # <a name="elmahio"></a>elmah.io
 
@@ -63,7 +63,7 @@ Microsoft에 elmah.io 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Intercom, Stripe, Mailchimp, Amazon Web Services | 회사 이름, 이름, 전자 메일 | 전자 메일을 개인 설정하기 위해 사용자 이름과 전자 메일을 Intercom, Mailchimp 및 AWS와 공유합니다. 회사 이름은 송장 등에 대해 줄무늬와 공유합니다. |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

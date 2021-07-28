@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Board 커넥트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7c67ece1e55b265152c8a7664b8f714926d9caff
-ms.sourcegitcommit: 419dd3878fdef5fdf3bc5a36d73a9c6b12eed6f9
+ms.openlocfilehash: c04b8be94b4d9a6367c8baa2b3370d82c2bdff5c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53456606"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525672"
 ---
 # <a name="board-connect"></a>Board Connect
 
@@ -55,14 +55,14 @@ Microsoft에 제곱하여 제공되는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 위임 | 앱이 앱을 통해 제출된 보드 모임 참석 응답을 반영하도록 사용자 일정을 업데이트할 수 있도록 허용합니다. | Azure 테이블 저장소 내에 데이터가 저장되지 않습니다. | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| Group.ReadWrite.All | 위임 | 앱에서 그룹 일정 이벤트를 만들고 업데이트하고 삭제할 수 있도록 허용합니다. | 테넌트 ID와 함께 그룹의 ID를 저장합니다. 이 ID는 라이선스 관점에서 저장되고 사용되어 조직이 보드 라이선스를 취득할 수 커넥트. 또한 이 라이선스 모델에 인라인으로 테넌트 내에 있는 응용 프로그램의 설치 수를 추적하는 데도 사용됩니다. | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| Sites.Manage.All | 위임 | 앱에서 목록 및 라이브러리를 만들 수 있도록 허용하기 위해 목록 항목을 관리하고 팀 사이트 모음에서 문서를 관리합니다. | 없음 | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| User.Read | 위임 | 사용자가 앱에 로그인하고 앱이 현재 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. | 이 끝점의 데이터가 Azure 테이블 저장소에 저장되지 않습니다. | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| User.ReadBasic.All | 위임 | 앱에서 로그인한 사용자를 대신하여 다른 사용자의 기본 프로필 속성 집합을 읽을 수 있도록 허용하려면 이 속성을 앱에 표시합니다. 여기에는 표시 이름, 이름 및 성, 전자 메일 주소 및 사진이 포함됩니다. | 없음, 데이터가 Azure 테이블 저장소에 저장되지 않습니다. | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
->| offline_access | 위임 | 앱이 새로 고침 토큰을 얻을 수 있도록 설정하려면 현재 액세스 토큰이 만료될 때 새 액세스 토큰을 다운로드하는 데 사용할 수 있습니다. | 없음, 데이터가 Azure 테이블 저장소 내에 저장되지 않습니다. | 4a6873f6-8360-4023-bd6f-2923d1eb2e94 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 | 앱이 앱을 통해 제출된 보드 모임 참석 응답을 반영하도록 사용자 일정을 업데이트할 수 있도록 허용합니다. | Azure 테이블 저장소 내에 데이터가 저장되지 않습니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| Group.ReadWrite.All | 위임 | 앱에서 그룹 일정 이벤트를 만들고 업데이트하고 삭제할 수 있도록 허용합니다. | 테넌트 ID와 함께 그룹의 ID를 저장합니다. 이 ID는 라이선스 관점에서 저장되고 사용되어 조직이 보드 라이선스를 취득할 수 커넥트. 또한 이 라이선스 모델에 인라인으로 테넌트 내에 있는 응용 프로그램의 설치 수를 추적하는 데도 사용됩니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| Sites.Manage.All | 위임 | 앱에서 목록 및 라이브러리를 만들 수 있도록 허용하기 위해 목록 항목을 관리하고 팀 사이트 모음에서 문서를 관리합니다. | 없음 | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| User.Read | 위임 | 사용자가 앱에 로그인하고 앱이 현재 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. | 이 끝점의 데이터가 Azure 테이블 저장소에 저장되지 않습니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| User.ReadBasic.All | 위임 | 앱에서 로그인한 사용자를 대신하여 다른 사용자의 기본 프로필 속성 집합을 읽을 수 있도록 허용하려면 이 속성을 앱에 표시합니다. 여기에는 표시 이름, 이름 및 성, 전자 메일 주소 및 사진이 포함됩니다. | 없음, 데이터가 Azure 테이블 저장소에 저장되지 않습니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| offline_access | 위임 | 앱이 새로 고침 토큰을 얻을 수 있도록 설정하려면 현재 액세스 토큰이 만료될 때 새 액세스 토큰을 다운로드하는 데 사용할 수 있습니다. | 없음, 데이터가 Azure 테이블 저장소 내에 저장되지 않습니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

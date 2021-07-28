@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: DisasterTech DICE에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: c9aceaf48c36012ad8c6eb062c1161746d55da6a
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d8eec2ad9c7047a33dae446943c3ab2d934cc78c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281923"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525712"
 ---
 # <a name="disastertech-dice"></a>DisasterTech DICE
 
@@ -54,13 +54,13 @@ DisasterTech에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| User.Read | 위임 | 사용자 이름으로 사용자를 식별하기 위해 액세스 권한 및 사용자 이름을 설정하기 위해 저장된 사용자 전자 메일 주소 | 사용자가 로그인할 수 있도록 허용하고 UPN에 대한 액세스 권한을 부여하여 사용자 이름 및 전자 메일 주소를 설정하기 위해 자동 로그인을 Teams 수 있습니다. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| 전자 메일 | 위임 | 없음 | 단일 Teams 필수 Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| offline_access | 위임 | 없음 | 단일 Teams 필수 Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| openid | 위임 | 없음 | 단일 Teams 필수 Sign-On | 36d23b76-c58b-4a34-a60f-dceac6962bad |
->| profile | 위임 | 없음 | Single Teams 로그인에 필요합니다. | 36d23b76-c58b-4a34-a60f-dceac6962bad |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | 사용자 이름으로 사용자를 식별하기 위해 액세스 권한 및 사용자 이름을 설정하기 위해 저장된 사용자 전자 메일 주소 | 사용자가 로그인할 수 있도록 허용하고 UPN에 대한 액세스 권한을 부여하여 사용자 이름 및 전자 메일 주소를 설정하기 위해 자동 로그인을 Teams 수 있습니다. | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| 전자 메일 | 위임 | 없음 | 단일 Teams 필수 Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| offline_access | 위임 | 없음 | 단일 Teams 필수 Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| openid | 위임 | 없음 | 단일 Teams 필수 Sign-On | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
+>| profile | 위임 | 없음 | Single Teams 로그인에 필요합니다. | [36d23b76-c58b-4a34-a60f-dceac6962bad](https://docs.microsoft.com/microsoft-365-app-certification/azure/36d23b76-c58b-4a34-a60f-dceac6962bad) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

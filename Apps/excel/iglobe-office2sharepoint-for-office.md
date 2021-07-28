@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 Office Office2SharePoint, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 85198f216bb99ab5d172886d7852878d0cf61be1
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: ccf31f36f748348a01a798c3222c3fcdd6cb4606
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281140"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526564"
 ---
 # <a name="office2sharepoint-for-office"></a>Office2SharePoint for Office
 
@@ -52,25 +52,25 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Directory.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자 그룹 사이트를 얻습니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 선택한 메일/s에 액세스하고 첨부 파일을 얻습니다. 메일 또는 그룹 SharePoint 메일에 추가합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Mail.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 선택한 메일/s에 액세스하고 첨부 파일을 얻습니다. 메일 또는 그룹 SharePoint 메일에 추가합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.Manage.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 응용 프로그램에서 로그인한 사용자를 대신하여 모든 사이트 모음의 문서 라이브러리 및 목록을 만들거나 삭제할 수 있도록 합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 사이트를 SharePoint. 선택한 메일에서 파일을 다운로드하고 첨부 파일을 저장합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 목록, SharePoint 및 파일을 다운로드합니다. 파일을 목록에 SharePoint 저장합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 사이트, SharePoint, 그룹 OneDrive 사이트를 검색할 수 있도록 합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자 그룹 사이트를 얻습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 선택한 메일/s에 액세스하고 첨부 파일을 얻습니다. 메일 또는 그룹 SharePoint 메일에 추가합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Mail.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 선택한 메일/s에 액세스하고 첨부 파일을 얻습니다. 메일 또는 그룹 SharePoint 메일에 추가합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Manage.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 응용 프로그램에서 로그인한 사용자를 대신하여 모든 사이트 모음의 문서 라이브러리 및 목록을 만들거나 삭제할 수 있도록 합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 사이트를 SharePoint. 선택한 메일에서 파일을 다운로드하고 첨부 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 목록, SharePoint 및 파일을 다운로드합니다. 파일을 목록에 SharePoint 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 사이트, SharePoint, 그룹 OneDrive 사이트를 검색할 수 있도록 합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| Exchange - EWS. AccessAsUser.All | 아니요 |  |  |  |  |
 >| Exchange - Mail.ReadWrite | 아니요 |  |  |  |  |
 >| Exchange - MailboxSettings.ReadWrite | 아니요 |  |  |  |  |

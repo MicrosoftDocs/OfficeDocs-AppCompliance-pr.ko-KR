@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sheetgo, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 9441bc0dcf4b2041b524db3715258caecfaa9aec
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: 77da98d015480716b848a47f4d6d04d35035f5fb
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281090"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53526534"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -61,7 +61,7 @@ SHEETGO EUROPE SL에서 Microsoft에 제공하는 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| MongoDB: 작동하기 위해 시스템 및 사용자 데이터를 기록합니다. Google BigQuery: 기록 시스템 로그 사용법, Google Firestore: 마이크로 서비스, 줄무늬: 결제 시스템의 상태를 유지 관리하고 오케스트레이션하는 시스템 |  | 이러한 응용 프로그램은 추가 Microsoft API를 사용하지 않습니다. |
 
 

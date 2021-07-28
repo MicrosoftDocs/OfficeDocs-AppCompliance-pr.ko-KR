@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindManager, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 69efbc45560d3271f03f8af8e9cfeb1aa7c89e5d
-ms.sourcegitcommit: 41be194e2be4de3cdb686daee7a8f6e4d1fc765a
+ms.openlocfilehash: 7a431ae7736e2efa22a2d75ff3a1cfc2e1e2234f
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52904544"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525742"
 ---
 # <a name="mindmanager"></a>MindManager
 
@@ -54,14 +54,14 @@ Corel에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| ChannelMessage.Send | 위임 | MindManager 파일 내에서 메시지로 게시할 수 있는 변경 내용에 대한 정보 | 파일 메타데이터, 파일 콘텐츠 - 파일 브라우저의 경우 사용자는 파일을 탐색하여 MindManager(.mmap) 파일을 열 수 있습니다. | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| Chat.Send | 위임 | MindManager 파일 내에서 메시지로 게시할 수 있는 변경 내용에 대한 정보 | 파일 메타데이터, 파일 콘텐츠 - 파일 브라우저의 경우 사용자는 파일을 탐색하여 MindManager(.mmap) 파일을 열 수 있습니다. | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| Files.ReadWrite | 위임 | 사이트 목록, 폴더 목록, 파일 메타데이터, 파일 콘텐츠 - 파일 브라우저의 경우 사용자는 파일을 탐색하여 MindManager(.mmap) 파일을 열 수 있습니다. | - 프로필 데이터: 사용자를 식별하고 프로필을 표시하려면 - 파일 콘텐츠: 공동 편집 세션 중(MindManager .mmap 파일의 실시간 공동 작업 편집) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| Sites.ReadWrite.All | 위임 | 사이트 목록, 폴더 목록, 파일 메타데이터, 파일 콘텐츠 - 파일 브라우저의 경우 사용자는 파일을 탐색하여 MindManager(.mmap) 파일을 열 수 있습니다. | 파일 콘텐츠: 공동 편집 세션 중(MindManager .mmap 파일의 실시간 공동 작업 편집) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| User.Read | 위임 | 프로필 데이터: 사용자를 식별하고 프로필을 표시하려면 | 프로필 데이터: 사용자를 식별하고 프로필을 표시하려면 | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
->| offline_access | 위임 | 따라서 필요한 경우 나중에 사용자를 대신하여 파일을 원래 위치에 다시 저장할 수 있습니다. | 파일 콘텐츠: 공동 편집 세션 중(MindManager .mmap 파일의 실시간 공동 작업 편집) | 51e2b67d-9854-446a-8da1-cdd89ef0b987 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| ChannelMessage.Send | 위임 | MindManager 파일 내에서 메시지로 게시할 수 있는 변경 내용에 대한 정보 | 파일 메타데이터, 파일 콘텐츠 - 파일 브라우저의 경우 사용자는 파일을 탐색하여 MindManager(.mmap) 파일을 열 수 있습니다. | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| Chat.Send | 위임 | MindManager 파일 내에서 메시지로 게시할 수 있는 변경 내용에 대한 정보 | 파일 메타데이터, 파일 콘텐츠 - 파일 브라우저의 경우 사용자는 파일을 탐색하여 MindManager(.mmap) 파일을 열 수 있습니다. | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| Files.ReadWrite | 위임 | 사이트 목록, 폴더 목록, 파일 메타데이터, 파일 콘텐츠 - 파일 브라우저의 경우 사용자는 파일을 탐색하여 MindManager(.mmap) 파일을 열 수 있습니다. | - 프로필 데이터: 사용자를 식별하고 프로필을 표시하려면 - 파일 콘텐츠: 공동 편집 세션 중(MindManager .mmap 파일의 실시간 공동 작업 편집) | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| Sites.ReadWrite.All | 위임 | 사이트 목록, 폴더 목록, 파일 메타데이터, 파일 콘텐츠 - 파일 브라우저의 경우 사용자는 파일을 탐색하여 MindManager(.mmap) 파일을 열 수 있습니다. | 파일 콘텐츠: 공동 편집 세션 중(MindManager .mmap 파일의 실시간 공동 작업 편집) | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| User.Read | 위임 | 프로필 데이터: 사용자를 식별하고 프로필을 표시하려면 | 프로필 데이터: 사용자를 식별하고 프로필을 표시하려면 | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
+>| offline_access | 위임 | 따라서 필요한 경우 나중에 사용자를 대신하여 파일을 원래 위치에 다시 저장할 수 있습니다. | 파일 콘텐츠: 공동 편집 세션 중(MindManager .mmap 파일의 실시간 공동 작업 편집) | [51e2b67d-9854-446a-8da1-cdd89ef0b987](https://docs.microsoft.com/microsoft-365-app-certification/azure/51e2b67d-9854-446a-8da1-cdd89ef0b987) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -69,7 +69,7 @@ Corel에서 Microsoft에 제공하는 정보:
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-------------------|:--------------------------|:--------------------------|
+>|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
 >| Amazon Web Services | 조직 이름, 조직 도메인 | 조직에서 응용 프로그램을 사용하려면 응용 프로그램 인프라 내의 계정 설정이 Teams |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스

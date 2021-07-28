@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Studi.ly, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: bc3307db955cf9f124442f08fc315c1cd8158659
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.openlocfilehash: d682e758d9632a2c3ac19296dda7083dc8379689
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53281240"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525572"
 ---
 # <a name="studily"></a>Studi.ly
 
@@ -54,21 +54,21 @@ inLogic-Office Microsoft에 제공되는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Calendars.ReadWrite | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. |  | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Directory.Read.All | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 배정 및 자료에 대한 디렉터리를 그룹에 써야 합니다. | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Directory.ReadWrite.All | application | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 배정 및 자료에 대한 디렉터리를 그룹에 써야 합니다. | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| EduRoster.Read.All | application | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 교육 수업, 학교, 구성원 및 용어를 읽습니다. 앱 데이터베이스에 동기화하기 위해 테넌트의 모든 클래스 및 학교를 다운로드합니다. | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| EduRoster.ReadBasic | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 교육 수업, 학교, 구성원 및 용어를 읽습니다. 앱 데이터베이스에 동기화하기 위해 테넌트의 모든 클래스 및 학교를 다운로드합니다. | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| EduRoster.ReadWrite.All | application | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 교육 수업, 학교, 구성원 및 용어를 읽습니다. 앱 데이터베이스에 동기화하기 위해 테넌트의 모든 클래스 및 학교를 다운로드합니다. | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Files.ReadWrite.All | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | One Drive에서 읽기Write 파일 | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Group.Read.All | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 이 사용 권한은 앱이 테넌트 그룹의 다른 클레더 이벤트를 받을 수 있도록 허용했습니다.,subject,start,end,extensions | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Group.ReadWrite.All | 둘 다 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 이 사용 권한은 앱이 테넌트 그룹의 다른 클레더 이벤트를 받을 수 있도록 허용했습니다.,subject,start,end,extensions | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Member.Read.Hidden | application |  |  | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| Sites.ReadWrite.All | 둘 다 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | One Drive에서 읽기Write 파일 | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| User.Read | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 사용자 정보 읽기 | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
->| User.ReadBasic.All | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 사용자 정보 읽기 | 917edb36-f047-45cf-ad96-0e7e9ec7d8af |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. |  | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Directory.Read.All | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 배정 및 자료에 대한 디렉터리를 그룹에 써야 합니다. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Directory.ReadWrite.All | application | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 배정 및 자료에 대한 디렉터리를 그룹에 써야 합니다. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| EduRoster.Read.All | application | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 교육 수업, 학교, 구성원 및 용어를 읽습니다. 앱 데이터베이스에 동기화하기 위해 테넌트의 모든 클래스 및 학교를 다운로드합니다. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| EduRoster.ReadBasic | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 교육 수업, 학교, 구성원 및 용어를 읽습니다. 앱 데이터베이스에 동기화하기 위해 테넌트의 모든 클래스 및 학교를 다운로드합니다. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| EduRoster.ReadWrite.All | application | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 교육 수업, 학교, 구성원 및 용어를 읽습니다. 앱 데이터베이스에 동기화하기 위해 테넌트의 모든 클래스 및 학교를 다운로드합니다. | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Files.ReadWrite.All | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | One Drive에서 읽기Write 파일 | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Group.Read.All | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 이 사용 권한은 앱이 테넌트 그룹의 다른 클레더 이벤트를 받을 수 있도록 허용했습니다.,subject,start,end,extensions | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Group.ReadWrite.All | 둘 다 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 이 사용 권한은 앱이 테넌트 그룹의 다른 클레더 이벤트를 받을 수 있도록 허용했습니다.,subject,start,end,extensions | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Member.Read.Hidden | application |  |  | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| Sites.ReadWrite.All | 둘 다 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | One Drive에서 읽기Write 파일 | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| User.Read | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 사용자 정보 읽기 | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
+>| User.ReadBasic.All | 위임 | Api에 교육 api의 수업, 학교 및 구성원 및 용어 정보를 저장하고 있으며, 응용 프로그램의 작동을 느리게 만드는 그래프 api에서 매시간 정보를 얻게 될 경우 이 정보가 필요하기 때문에 필요합니다. 교육 api에서 데이터베이스로 시간 기반 이벤트에 동기화합니다. | 사용자 정보 읽기 | [917edb36-f047-45cf-ad96-0e7e9ec7d8af](https://docs.microsoft.com/microsoft-365-app-certification/azure/917edb36-f047-45cf-ad96-0e7e9ec7d8af) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 ezTeam, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: da54d5a540fd43c2bdc25a6f4e31ba88520ecbc3
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.openlocfilehash: 6c4ad813b21963005857c69a05727ca261a73f9c
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52553179"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53525662"
 ---
 # <a name="ezteam"></a>ezTeam
 
@@ -55,32 +55,32 @@ EnterprizID Inc에서 Microsoft에 제공한 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| AppCatalog.Read.All | 위임 | 요청 생성 프로세스에서 Teams 수 있도록 앱에서 사용할 수 있는 Teams 목록 | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Application.Read.All | 위임 | 앱이 로그인한 사용자를 대신하여 응용 프로그램 및 서비스 사용자를 읽을 수 있도록 허용합니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Directory.AccessAsUser.All | 위임 | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Directory.Read.All | 위임 | 앱이 사용자, 그룹 및 앱과 같은 조직의 디렉터리에서 데이터를 읽을 수 있도록 허용합니다. | Teams 소유권 및 구성원 정보  | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Directory.Read.All | application | 앱이 로그인한 사용자 없이 사용자, 그룹 및 앱과 같은 조직의 디렉터리의 데이터를 읽을 수 있도록 허용합니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Directory.ReadWrite.All | 위임 | 앱이 사용자 및 그룹과 같은 조직의 디렉터리에서 데이터를 읽고 쓸 수 있도록 허용합니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Directory.ReadWrite.All | application | 앱이 로그인한 사용자 없이 사용자 및 그룹과 같은 조직의 디렉터리에서 데이터를 읽고 쓸 수 있도록 허용합니다. 사용자 또는 그룹은 지우는 것이 허용되지 않습니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Files.Read.All | application | 앱에서 로그인한 사용자 없이 모든 사이트 모음의 모든 파일을 읽을 수 있습니다. | 최종 사용자 거버넌스에 따라 GB의 데이터 양 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Group.Create | application | 앱에서 로그인한 사용자 없이 그룹을 만들 수 있습니다. | 새 그룹 속성 세부 정보 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Group.Read.All | 위임 | 앱이 그룹을 나열하고 로그인한 사용자를 대신하여 해당 속성 및 모든 그룹 구성원 자격을 읽을 수 있도록 허용합니다. 내 데이터 열을 확인하는 Teams  | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Group.Read.All | application | 앱에서 로그인한 사용자 없이 그룹 속성 및 구성원을 읽고 모든 그룹의 일정 및 대화를 읽을 수 있습니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Group.ReadWrite.All | 위임 | 앱이 로그인한 사용자를 대신하여 그룹을 만들고 모든 그룹 속성 및 구성원 자격을 읽을 수 있도록 허용합니다.  | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Group.ReadWrite.All | application | 앱에서 그룹을 만들고, 모든 그룹 속성 및 구성원을 읽고, 그룹 속성 및 구성원을 업데이트하고, 그룹을 삭제할 수 있습니다. 또한 앱에서 그룹 일정 및 대화를 읽고 쓸 수 있습니다.  | 팀의 마지막 활동입니다. | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| GroupMember.Read.All | application | 앱에서 로그인한 사용자가 없는 모든 그룹의 구성원 자격 및 기본 그룹 속성을 읽을 수 있도록 허용합니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| GroupMember.ReadWrite.All | application | 앱에서 그룹을 나열하고, 기본 속성을 읽고, 이 앱이 로그인한 사용자 없이 액세스할 수 있는 그룹의 구성원 자격을 읽고 업데이트할 수 있습니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| People.Read.All | application | 앱에서 로그인한 사용자 없이 사용자의 점수가 책정된 관련 사용자 목록을 읽을 수 있습니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Reports.Read.All | 위임 | 앱에서 로그인한 사용자를 대신하여 모든 서비스 사용 현황 보고서를 읽을 수 있습니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Reports.Read.All | application | 앱에서 로그인한 사용자 없이 모든 서비스 사용 현황 보고서를 읽을 수 있습니다. | 그룹당 마지막 사용자 활동 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| Sites.ReadWrite.All | application | 앱에서 로그인한 사용자 없이 모든 사이트 모음에서 문서 및 목록 항목을 만들고, 읽고, 업데이트하고, 삭제할 수 있습니다. | 각 사용자에 대한 크기별로 상위 10개 사이트 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| User.Read | 위임 | 사용자가 앱에 로그인할 수 있도록 허용하고 앱에서 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| User.Read.All | application | 앱에서 로그인한 사용자 없이 사용자 프로필을 읽을 수 있도록 허용합니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| offline_access | 위임 | 사용자가 현재 앱을 사용하지 않는 경우에도 앱에서 액세스 권한을 부여한 데이터를 보고 업데이트할 수 있습니다.  | 봇 알림 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| openid | 위임 | 사용자가 자신의 직장 또는 학교 계정으로 앱에 로그인할 수 있도록 허용하고 앱에서 기본 사용자 프로필 정보를 볼 수 있습니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
->| profile | 위임 | 앱에서 사용자의 기본 프로필(이름, 사진, 사용자 이름)을 볼 수 있도록 허용합니다. | 해당 없음 | 2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| AppCatalog.Read.All | 위임 | 요청 생성 프로세스에서 Teams 수 있도록 앱에서 사용할 수 있는 Teams 목록 | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Application.Read.All | 위임 | 앱이 로그인한 사용자를 대신하여 응용 프로그램 및 서비스 사용자를 읽을 수 있도록 허용합니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.AccessAsUser.All | 위임 | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.Read.All | 위임 | 앱이 사용자, 그룹 및 앱과 같은 조직의 디렉터리에서 데이터를 읽을 수 있도록 허용합니다. | Teams 소유권 및 구성원 정보  | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.Read.All | application | 앱이 로그인한 사용자 없이 사용자, 그룹 및 앱과 같은 조직의 디렉터리의 데이터를 읽을 수 있도록 허용합니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.ReadWrite.All | 위임 | 앱이 사용자 및 그룹과 같은 조직의 디렉터리에서 데이터를 읽고 쓸 수 있도록 허용합니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Directory.ReadWrite.All | application | 앱이 로그인한 사용자 없이 사용자 및 그룹과 같은 조직의 디렉터리에서 데이터를 읽고 쓸 수 있도록 허용합니다. 사용자 또는 그룹은 지우는 것이 허용되지 않습니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Files.Read.All | application | 앱에서 로그인한 사용자 없이 모든 사이트 모음의 모든 파일을 읽을 수 있습니다. | 최종 사용자 거버넌스에 따라 GB의 데이터 양 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.Create | application | 앱에서 로그인한 사용자 없이 그룹을 만들 수 있습니다. | 새 그룹 속성 세부 정보 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.Read.All | 위임 | 앱이 그룹을 나열하고 로그인한 사용자를 대신하여 해당 속성 및 모든 그룹 구성원 자격을 읽을 수 있도록 허용합니다. 내 데이터 열을 확인하는 Teams  | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.Read.All | application | 앱에서 로그인한 사용자 없이 그룹 속성 및 구성원을 읽고 모든 그룹의 일정 및 대화를 읽을 수 있습니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.ReadWrite.All | 위임 | 앱이 로그인한 사용자를 대신하여 그룹을 만들고 모든 그룹 속성 및 구성원 자격을 읽을 수 있도록 허용합니다.  | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Group.ReadWrite.All | application | 앱에서 그룹을 만들고, 모든 그룹 속성 및 구성원을 읽고, 그룹 속성 및 구성원을 업데이트하고, 그룹을 삭제할 수 있습니다. 또한 앱에서 그룹 일정 및 대화를 읽고 쓸 수 있습니다.  | 팀의 마지막 활동입니다. | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| GroupMember.Read.All | application | 앱에서 로그인한 사용자가 없는 모든 그룹의 구성원 자격 및 기본 그룹 속성을 읽을 수 있도록 허용합니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| GroupMember.ReadWrite.All | application | 앱에서 그룹을 나열하고, 기본 속성을 읽고, 이 앱이 로그인한 사용자 없이 액세스할 수 있는 그룹의 구성원 자격을 읽고 업데이트할 수 있습니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| People.Read.All | application | 앱에서 로그인한 사용자 없이 사용자의 점수가 책정된 관련 사용자 목록을 읽을 수 있습니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Reports.Read.All | 위임 | 앱에서 로그인한 사용자를 대신하여 모든 서비스 사용 현황 보고서를 읽을 수 있습니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Reports.Read.All | application | 앱에서 로그인한 사용자 없이 모든 서비스 사용 현황 보고서를 읽을 수 있습니다. | 그룹당 마지막 사용자 활동 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| Sites.ReadWrite.All | application | 앱에서 로그인한 사용자 없이 모든 사이트 모음에서 문서 및 목록 항목을 만들고, 읽고, 업데이트하고, 삭제할 수 있습니다. | 각 사용자에 대한 크기별로 상위 10개 사이트 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| User.Read | 위임 | 사용자가 앱에 로그인할 수 있도록 허용하고 앱에서 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| User.Read.All | application | 앱에서 로그인한 사용자 없이 사용자 프로필을 읽을 수 있도록 허용합니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| offline_access | 위임 | 사용자가 현재 앱을 사용하지 않는 경우에도 앱에서 액세스 권한을 부여한 데이터를 보고 업데이트할 수 있습니다.  | 봇 알림 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| openid | 위임 | 사용자가 자신의 직장 또는 학교 계정으로 앱에 로그인할 수 있도록 허용하고 앱에서 기본 사용자 프로필 정보를 볼 수 있습니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| profile | 위임 | 앱에서 사용자의 기본 프로필(이름, 사진, 사용자 이름)을 볼 수 있도록 허용합니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -94,7 +94,7 @@ EnterprizID Inc에서 Microsoft에 제공한 정보:
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:--------------------------------|:---------------------|:--------------------------|
+>|:---------------------------------------|:-----------------------------------|:------------------------------------|
 >| 환영 메시지, 승인 및 attestation 프로세스 알림 | ID의 표시 이름을 저장합니다.  | 이 도구를 사용하면 최종 사용자가 서로 다른 서비스 항목에 대한 요청을 만들 수 있으며 요청자 표시 이름을 저장합니다. 요청은 승인 워크플로를 따르며 요청 세부 정보를 표시하려면 승인자 표시 이름이 필요합니다. 또한 팀 인증 프로세스의 구성원에 구성원의 표시 이름을 나열합니다. |
 
 

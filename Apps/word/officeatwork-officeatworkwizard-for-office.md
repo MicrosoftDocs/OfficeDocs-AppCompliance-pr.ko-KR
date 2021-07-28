@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR Office, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 위한 마법사.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 5f60147ff25c431c6aab050894a5dbea46347a50
-ms.sourcegitcommit: 758b31a15dcb9224b8a3b6f367d501438c6e422c
+ms.openlocfilehash: fca062057628da497d05f66eb33afb4f53831551
+ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2021
-ms.locfileid: "53366200"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53524699"
 ---
 # <a name="officeatwork--wizard-for-office"></a>officeatwork | Office
 
@@ -52,26 +52,26 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
->| Contacts.Read | 위임 | 데이터가 저장되지 않습니다. | 연락처: 로그인한 사용자의 모든 연락처를 읽을 수 있도록 합니다. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Files.Read | 위임 | 데이터가 저장되지 않습니다. | OneDrive - 파일(내용): 로그인한 사용자의 파일을 읽을 수 있도록 합니다. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Files.Read.All | 위임 | 데이터가 저장되지 않습니다. | Teams - 파일(내용): 로그인한 사용자의 모든 파일을 읽을 수 있도록 합니다. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Group.Read.All | 위임 | 데이터가 저장되지 않습니다. | Office 365 사용자 - 그룹으로 제한: 로그인한 사용자의 모든 그룹을 읽을 수 있도록 합니다. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| Sites.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 SharePoint. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.Read | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 사용자의 기본 속성을 읽을 수 있도록 합니다. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.Read.All | 위임 | 데이터가 저장되지 않습니다. | Office 365 사용자 - 모든 속성: 모든 사용자의 모든 속성을 읽을 수 있도록 합니다. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| User.ReadBasic.All | 위임 | 데이터가 저장되지 않습니다. | Office 365 사용자 - 기본 속성: 모든 사용자의 기본 속성을 읽을 수 있도록 설정 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| offline_access | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 새로 고침 토큰을 통해 자동 로그인을 사용하도록 설정하려면 사용자가 officeatwork 앱을 실행하기 전마다 수동으로 로그인해야 합니다. 이 범위는 SSO를 사용할 수 없는 호스트 응용 프로그램에만 필요합니다. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| openid | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 사용자가 조직 및/또는 Microsoft 계정을 사용하여 Officeatwork 앱에 로그인할 수 있도록 설정 | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
->| profile | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 로그인한 사용자를 표시하기 위한 것입니다. 이렇게 하면 officeatwork 앱에 로그인하는 데 사용된 계정을 사용자에게 확인/확인하는 데 도움이 됩니다. | 0c67871c-ffbc-4b37-bd61-afce12b299f9 |
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| Contacts.Read | 위임 | 데이터가 저장되지 않습니다. | 연락처: 로그인한 사용자의 모든 연락처를 읽을 수 있도록 합니다. | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Files.Read | 위임 | 데이터가 저장되지 않습니다. | OneDrive - 파일(내용): 로그인한 사용자의 파일을 읽을 수 있도록 합니다. | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Files.Read.All | 위임 | 데이터가 저장되지 않습니다. | Teams - 파일(내용): 로그인한 사용자의 모든 파일을 읽을 수 있도록 합니다. | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Group.Read.All | 위임 | 데이터가 저장되지 않습니다. | Office 365 사용자 - 그룹으로 제한: 로그인한 사용자의 모든 그룹을 읽을 수 있도록 합니다. | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Sites.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 SharePoint. | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.Read | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 사용자의 기본 속성을 읽을 수 있도록 합니다. | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.Read.All | 위임 | 데이터가 저장되지 않습니다. | Office 365 사용자 - 모든 속성: 모든 사용자의 모든 속성을 읽을 수 있도록 합니다. | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.ReadBasic.All | 위임 | 데이터가 저장되지 않습니다. | Office 365 사용자 - 기본 속성: 모든 사용자의 기본 속성을 읽을 수 있도록 설정 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| offline_access | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 새로 고침 토큰을 통해 자동 로그인을 사용하도록 설정하려면 사용자가 officeatwork 앱을 실행하기 전마다 수동으로 로그인해야 합니다. 이 범위는 SSO를 사용할 수 없는 호스트 응용 프로그램에만 필요합니다. | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| openid | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 사용자가 조직 및/또는 Microsoft 계정을 사용하여 Officeatwork 앱에 로그인할 수 있도록 설정 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| profile | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 로그인한 사용자를 표시하기 위한 것입니다. 이렇게 하면 officeatwork 앱에 로그인하는 데 사용된 계정을 사용자에게 확인/확인하는 데 도움이 됩니다. | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
 기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
 >| SharePoint REST API | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
