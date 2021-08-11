@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Project 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 0bf22d14bded882899e70c2fb14ca8f32e552624
-ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
+ms.openlocfilehash: 5a6913df4fb7433283637b95474886042d58690c18bc9018469c3aa0d36b3a0e
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53547887"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54802934"
 ---
 # <a name="microsoft-project-apps-security-and-compliance"></a>Microsoft Project 앱 보안 및 규정 준수
 

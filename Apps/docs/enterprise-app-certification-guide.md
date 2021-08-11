@@ -6,12 +6,12 @@ description: Microsoft 365 인증 세부 정보
 keywords: 앱 증명 Microsoft 365 인증 365 설문지 앱소스
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 64e4d36f58c36447c3af48cfde22de6ecc722998
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 95fcd8707e7c485fb113d10ce9bb2e6091c6e4a2d2a3864082d1e493db9d3076
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53526094"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54801924"
 ---
 # <a name="what-is-microsoft-365-certification"></a>인증이란 Microsoft 365 무엇입니까?
 
@@ -60,7 +60,7 @@ Microsoft 365 인증 로고는 데이터 보안 및 개인 정보 보호 관행�
 "인증 로고가 Microsoft 365 앱은 이 앱이 인증을 Microsoft 365 문을 따라야 합니다. 이 프로그램은 앱 보안 외에도 앱 게시자가 사용 하는 사례 및 절차를 검토합니다. 고객 데이터가 앱 게시자를 제어하는 동안 Microsoft가 앱이 안전하고 안전한 방식으로 처리할 것임이 확인된 것으로 확신할 수 있습니다."
 
 
-### <a name="learn-more"></a>자세한 정보
+### <a name="learn-more"></a>자세히 알아보기
 * [Microsoft 365 앱 준수 프로그램 개요](~/overview.md)  
 * [인증 Microsoft 365 완료](~/docs/certification.md)  
 * [확인이란 Publisher 무엇입니까?](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)

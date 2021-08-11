@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 0016e4102d0c26bc5c57e657eaa5d635425df511
-ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
+ms.openlocfilehash: 48815c31a70ab8d5ccc357c9069433132ba5a76018ebcd523ddcdb87a34449ab
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53547876"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54802164"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
