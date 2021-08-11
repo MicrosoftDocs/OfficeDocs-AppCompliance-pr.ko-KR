@@ -6,16 +6,16 @@ description: 앱 준수 Microsoft 365 SaaS용 ISV 사용자 가이드
 keywords: 앱 준수 Microsoft 365 SaaS용 ISV 사용자 가이드
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: b3b8c37a1babf2f941f5764fddd30523319d9a34
-ms.sourcegitcommit: f6f3551bf1c00013efb6313ca3dc280de697137d
+ms.openlocfilehash: 39eed9158ab9cbaa5e26efe036c98fc2ab2b1695d615d8b28930f0d8d4735430
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "53202779"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54801494"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>앱 준수 프로그램에 대한 파트너의 Microsoft 365 가이드 - SaaS
 
-|작업 단계|제목|
+|단계|제목|
 |---|---|
 |1단계| 게시자 증명|
 |2단계| Microsoft 365 인증|
@@ -30,7 +30,7 @@ ms.locfileid: "53202779"
 |[PC(파트너 센터)](https://partner.microsoft.com/)|모든 Microsoft 파트너를 위한 포털입니다. 파트너는 파트너 센터에 로그인하고 자체 평가 설문서를 제출합니다. 앱 준수를 [Microsoft 365 파트너 센터](https://partner.microsoft.com/dashboard/home)|
 |ISV | Independent Software Vendor a.k.a. 파트너 또는 개발자 |
 |앱 원본 | 앱 카탈로그 |
-|예시 |[이제 가상 에이전트](https://appsource.microsoft.com/product/office/WA104381816)|
+|예제 |[이제 가상 에이전트](https://appsource.microsoft.com/product/office/WA104381816)|
 
 ## <a name="3-publisher-attestation-workflow"></a>3. Publisher 워크플로
 

@@ -1,43 +1,45 @@
 ---
-title: 모든 Blue 솔루션의 ngDesk에 대한 응용 프로그램 정보
+title: Wired2Perform의 Wired2Perform에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/28/2021
+ms.date: 06/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 ngDesk, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: Wired2Perform에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0d3f507338a8ef504df171542d0fa8c25c37efc
+ms.openlocfilehash: 53e25098f069130505add53c3e7b0d39d287e1ac
 ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/05/2021
-ms.locfileid: "53772115"
+ms.locfileid: "53774968"
 ---
-# <a name="ngdesk"></a>ngDesk
+# <a name="wired2perform"></a>Wired2Perform
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 7월 28일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 1일</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200002505" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/b08f369e-4927-4c66-b997-e1086df7970d" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002935" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-모든 Blue 솔루션에서 Microsoft에 제공하는 정보:
+Wired2Perform에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | ngDesk |
-| ID | WA200002505 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상은 Mac, Windows Outlook 2016 이상에서 웹용 Outlook |
-| 파트너 회사 이름 | 모든 파란색 솔루션 |
-| 파트너 웹 사이트의 URL | [https://ngdesk.com](https://ngdesk.com) |
-| 개인 정보 취급 방침의 URL | [https://ngdesk.com/privacy-policy-office-365/](https://ngdesk.com/privacy-policy-office-365/) |
-| 사용 약관 URL | [https://ngdesk.com/terms-of-service/](https://ngdesk.com/terms-of-service/) |
+| 앱 이름 | Wired2Perform |
+| ID | WA200002935 |
+| Office 365 클라이언트 지원 | Microsoft Teams |
+| 파트너 회사 이름 | Wired2Perform |
+| 파트너 웹 사이트의 URL | [https://wired2perform.com](https://wired2perform.com) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://wired2perform.com](https://wired2perform.com) |
+| 개인 정보 취급 방침의 URL | [https://wired2perform.com/privacy-for-humans](https://wired2perform.com/privacy-for-humans) |
+| 사용 약관 URL | [https://wired2perform.com/terms-conditions](https://wired2perform.com/terms-conditions) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -47,7 +49,7 @@ ms.locfileid: "53772115"
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 모든 Blue Solutions에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 가지는 컨트롤에 대해 제공됩니다.
+이 정보는 Wired2Perform에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 사용할 컨트롤에 대해 제공됩니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
@@ -55,6 +57,13 @@ ms.locfileid: "53772115"
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 
+#### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
+
+기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
+
+>| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
+>|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
+>| Microsoft Teams API | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
@@ -62,6 +71,11 @@ ms.locfileid: "53772115"
 
 >비영구 Microsoft 서비스 사용되지 않습니다.
 
+#### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
+
+이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
+
+>EUII에 액세스하지 않습니다.
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -74,7 +88,7 @@ ms.locfileid: "53772115"
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->다른 파트너 시스템으로 데이터를 보내지 않습니다.
+>이 정보는 공유되지 않는 것이고 내부 전용입니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -90,9 +104,9 @@ ms.locfileid: "53772115"
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/42198' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36559" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/42198" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -102,7 +116,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 All Blue Solutions에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+이 정보는 Wired2Perform에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|

@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 웹앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 3446acbd1f5908aa6d8e94278b74a51dfc4a5ea9
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.openlocfilehash: c9aa27bbf2532f19d59b93782887767bd88cc79b03163f063f4bc422712e8b80
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275468"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54751288"
 ---
 # <a name="web-app-security-and-compliance"></a>Web App 보안 및 규정 준수
 

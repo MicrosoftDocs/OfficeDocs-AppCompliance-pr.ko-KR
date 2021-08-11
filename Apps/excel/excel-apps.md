@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Excel 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: f630984d82de748e01559058f4d916942a4fed0a
-ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
+ms.openlocfilehash: 708661d07e98e4eaa99ca9b28aafaa65006b944ef712e6222d0e4424ea5b9ce4
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53547796"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54801854"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 앱 보안 및 규정 준수
 

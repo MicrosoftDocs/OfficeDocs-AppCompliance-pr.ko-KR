@@ -6,12 +6,12 @@ description: 2020년 12월 뉴스레터
 keywords: 규정 준수 뉴스레터
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 95453bc1c7a79c73d7c81d99beb9dd7384c00806
-ms.sourcegitcommit: e97156a6eaf1d5ec5c26fd14add210a92bacd944
+ms.openlocfilehash: 445dd92b487d463bb1e356a9ccd3a726ba1040c5a8aecaecb38c09c68ba477b2
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52071542"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54751538"
 ---
 # <a name="december-2020-microsoft-365-app-compliance-newsletter"></a>2020년 12월 Microsoft 365 앱 준수 뉴스레터
 
