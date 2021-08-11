@@ -2,17 +2,17 @@
 title: Microsoft Word 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/22/2021
+ms.date: 08/04/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Word 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 2c09482ad400f5af899f1b61d87968b0ba311a07
-ms.sourcegitcommit: 2785ea8a6c1b1af129dea2cbe833de98659e3b2d
+ms.openlocfilehash: 2ebfb70a47886b0d05c7d3c54e1e7624f65385f8ec575db816e76d4050c13390
+ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53547816"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54748038"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word 앱 보안 및 규정 준수
 
@@ -32,5 +32,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [officeatwork | uploader for Office](./officeatwork-officeatworkuploader-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office](./officeatwork-officeatworkverifier-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Office 마법사](./officeatwork-officeatworkwizard-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Papers용 SmartCite](./digital-science-smartcite-for-papers.md) | 디지털 과학 | **✓** |  |
 | [Wunder365 for Office](./jiji-technologies-private-limited-wunder365-for-office.md) | Ji Technologies Private Limited | **✓** |  |
 | [xLaw - 지식 관리 시스템](./evertn-xlaw-knowledge-management-system.md) | evertn | **✓** |  |
