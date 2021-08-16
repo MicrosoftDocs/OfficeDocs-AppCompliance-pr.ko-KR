@@ -2,24 +2,24 @@
 title: Lundano의 Org@Work 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/22/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Org@Work, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2c1cfec539c8db4ddd597b8125079521d40615c4
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 81e59d53704529ed26aa6760f3cd00799f77deaa
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521421"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58241254"
 ---
 # <a name="orgwork"></a>Org@Work
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 3월 22일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 10일</p>
 
 * <a href="https://teams.microsoft.com/l/app/b9f5d3b0-424e-473d-bcbe-dd01f17f9a41" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002461" target="_blank">AppSource의 보기</a>
@@ -61,7 +61,7 @@ Lundano에서 Microsoft에 제공한 정보:
 >| 전자 메일 | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 >| offline_access | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 >| openid | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
->| profile | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
+>| 프로필 | 위임 | 데이터를 저장하고 있습니다. 데이터를 사용하여 사용자를 로그인할 수 Org@work | 없음 | [aa1c54a1-f482-424d-9389-dbd131233483](https://docs.microsoft.com/microsoft-365-app-certification/azure/aa1c54a1-f482-424d-9389-dbd131233483) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -123,13 +123,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니오 |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
 | 지원되는 정책 유형 나열 | 직원, 계획 관리자 및 관리자 |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 아니요 |
+| 앱에 기밀 클라이언트가 있나요? | 아니오 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
 | 앱에서 웹 API를 노출하나요? | 아니요 |

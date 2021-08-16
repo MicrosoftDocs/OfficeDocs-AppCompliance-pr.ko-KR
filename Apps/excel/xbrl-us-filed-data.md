@@ -1,45 +1,43 @@
 ---
-title: Smartnotation B.V로 Smartnotation에 대한 응용 프로그램 정보
+title: XBRL US로 제출된 XBRL 데이터에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/09/2021
+ms.date: 08/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Smartnotation, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: XBRL Filed Data, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4b64237390587a005373b02901a11694f15c37d6
+ms.openlocfilehash: 71c06644f03598cb265554891a8dc33632be32da
 ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58239757"
+ms.locfileid: "58245320"
 ---
-# <a name="smartnotation"></a>Smartnotation
+# <a name="xbrl-filed-data"></a>XBRL 파일 데이터
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 9일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 2일</p>
 
-* <a href="https://teams.microsoft.com/l/app/424b1333-fbf0-4941-acbe-336bf1f316ae" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000681" target="_blank">AppSource의 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002591" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-Smartnotation B.V에서 제공하는 정보입니다. Microsoft에:
+XBRL US에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Smartnotation |
-| ID | WA200000681 |
-| Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | Smartnotation B.V. |
-| 파트너 웹 사이트의 URL | [https://www.smartnotation.com/landing/](https://www.smartnotation.com/landing/) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.smartnotation.com/landing/integrations/](https://www.smartnotation.com/landing/integrations/) |
-| 개인 정보 취급 방침의 URL | [https://www.smartnotation.com/public/privacy_policy.pdf](https://www.smartnotation.com/public/privacy_policy.pdf) |
-| 사용 약관 URL | [https://www.smartnotation.com/public/tos.pdf](https://www.smartnotation.com/public/tos.pdf) |
+| 앱 이름 | XBRL 파일 데이터 |
+| ID | WA200002591 |
+| Office 365 클라이언트 지원 | Excel 2016 Mac, Excel 2016 이상, Windows 웹용 Excel |
+| 파트너 회사 이름 | XBRL US |
+| 파트너 웹 사이트의 URL | [https://xbrl.us](https://xbrl.us) |
+| 개인 정보 취급 방침의 URL | [https://xbrl.us/privacy](https://xbrl.us/privacy) |
+| 사용 약관 URL | [https://xbrl.us/terms-of-agreement](https://xbrl.us/terms-of-agreement) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +47,7 @@ Smartnotation B.V에서 제공하는 정보입니다. Microsoft에:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 Smartnotation B.V에서 제공됩니다. 이 앱이 조직 데이터를 수집하고 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
+이 정보는 XBRL US에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 제공됩니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
@@ -64,30 +62,25 @@ Smartnotation B.V에서 제공하는 정보입니다. Microsoft에:
 
 >비영구 Microsoft 서비스 사용되지 않습니다.
 
-#### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
-
-이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
-
->EUII에 액세스하지 않습니다.
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->해당 없음
+>응용 프로그램 원격 분석 또는 로그에 OII 또는 EUII가 나타나지 않습니다.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->데이터가 암호화됩니다. 관리자 2명만 액세스할 수 있습니다. 모든 관리자에 대해 2FA가 설정되어 암호 수명 정책이 설정됩니다.
+>해당 없음
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요
+>아니오
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -97,9 +90,9 @@ Smartnotation B.V에서 제공하는 정보입니다. Microsoft에:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35839' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/42548' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35839" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/42548" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -109,7 +102,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 Smartnotation B.V에서 제공됩니다. 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 기준을 처리하는 방법에 대한 정보를 제공합니다.
+이 정보는 XBRL US에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|

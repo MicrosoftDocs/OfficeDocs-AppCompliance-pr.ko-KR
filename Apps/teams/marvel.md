@@ -1,45 +1,45 @@
 ---
-title: 공유 의도로 라이브 채팅에 대한 응용 프로그램 정보
+title: 선구자에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/09/2021
+ms.date: 06/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Live Chat, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: CSA STAR 레지스트리의 안전/규정 준수 정보, 지민, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 52b8aa65ce11acbe157d61bd46a6f0fee67f9bc6
+ms.openlocfilehash: 8ba6c9b80db76c43793c42d2265fc563402e39cd
 ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243543"
+ms.locfileid: "58239739"
 ---
-# <a name="live-chat"></a>Live Chat
+# <a name="marvel"></a>Marvel
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 9일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 22일</p>
 
-* <a href="https://teams.microsoft.com/l/app/a55635a5-8def-48e7-bcff-230cd43d3405" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200000440" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/2e7fb70e-f75d-4e85-997e-90ce89000f43" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA104381801" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-Microsoft에 대한 공유 의도에서 제공하는 정보:
+Microsoft에 지민이 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Live Chat |
-| ID | WA200000440 |
+| 앱 이름 | Marvel |
+| ID | WA104381801 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | Social Intents |
-| 파트너 웹 사이트의 URL | [https://www.socialintents.com](https://www.socialintents.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.socialintents.com/teams-live-chat.jsp](https://www.socialintents.com/teams-live-chat.jsp) |
-| 개인 정보 취급 방침의 URL | [https://www.socialintents.com/privacy.html](https://www.socialintents.com/privacy.html) |
-| 사용 약관 URL | [https://www.socialintents.com/tos.html](https://www.socialintents.com/tos.html) |
+| 파트너 회사 이름 | Marvel |
+| 파트너 웹 사이트의 URL | [https://marvelapp.com](https://marvelapp.com) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://marvelapp.com](https://marvelapp.com) |
+| 개인 정보 취급 방침의 URL | [https://marvelapp.com/privacy/](https://marvelapp.com/privacy/) |
+| 사용 약관 URL | [https://marvelapp.com/terms/](https://marvelapp.com/terms/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +49,7 @@ Microsoft에 대한 공유 의도에서 제공하는 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대한 소셜 의도에서 제공했습니다.
+이 정보는 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 경비에 의해 제공됩니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
@@ -68,22 +68,20 @@ Microsoft에 대한 공유 의도에서 제공하는 정보:
 
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
->| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 팀 구성원이 채팅 참가를 클릭하면 구성원 전자 메일을 사용하여 채팅을 수락한 에이전트 프로필을 식별합니다. | 팀 구성원의 전자 메일과 라이브 채팅을 수락한 이름은 채팅 기록 데이터베이스에 저장됩니다. | 선택적으로 고객의 사용을 위해 정보가 수집되고 채팅 사전 판매 질문 설정에서 고객이 완전히 사용하지 않도록 설정할 수 있습니다. |
+>EUII에 액세스하지 않습니다.
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->전자 메일 및 이름은 매일 제거/삭제되는 일별 로그에 표시될 수 있습니다.
+>응용 프로그램 원격 분석 또는 로그에 OII 또는 EUII가 나타나지 않습니다.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->데이터는 IP 및 2FA에서 제한된 보안 RDS 인스턴스에 저장됩니다.
+>고객 팀에서 관리하는 자동화된 스크립트 및 통합을 통해 모든 파트너 시스템을 GDPR 책임과 동기화합니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -99,9 +97,9 @@ Microsoft에 대한 공유 의도에서 제공하는 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35754' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/32883' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35754" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/32883" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -111,11 +109,23 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대한 공유 의도에서 제공했습니다.
+이 정보는 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 기준을 처리하는 방법에 대한 후속 정보로 제공됩니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 아니요 |
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
+| 앱에서 다중 테넌시를 지원하나요? | 예 |
+| 앱에 기밀 클라이언트가 있나요? | 예 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
+| 앱에서 웹 API를 노출하나요? | 예 |
+| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
+| 앱에서 미리 보기 API를 사용하나요? | 예 |
+| 앱에서 사용되지 않는 API를 사용하나요? | 예 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

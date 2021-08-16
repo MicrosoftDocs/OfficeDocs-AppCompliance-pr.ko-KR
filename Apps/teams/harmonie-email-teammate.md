@@ -2,24 +2,24 @@
 title: 팀원의 전자 메일 팀원에 대한 응용 프로그램 harmon.ie
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Email TeamMate, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a5d84cc70ee039a4b2973fb5ec9bfd9f20a9a179
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 1aecf8fedde78acae86eb654f066bb443ff387ed
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521661"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58239770"
 ---
 # <a name="email-teammate"></a>Email TeamMate
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 1월 4일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 10일</p>
 
 * <a href="https://teams.microsoft.com/l/app/3ae27f31-ceea-4d13-a212-cdc9d786eae1" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200002338" target="_blank">AppSource의 보기</a>
@@ -37,7 +37,7 @@ Microsoft에 harmon.ie 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | harmon.ie |
 | 파트너 웹 사이트의 URL | [https://harmon.ie](https://harmon.ie) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://emailteammate.com](https://emailteammate.com) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://harmon.ie](https://harmon.ie) |
 | 개인 정보 취급 방침의 URL | [https://harmon.ie/legal/privacy-policy](https://harmon.ie/legal/privacy-policy) |
 | 사용 약관 URL | [https://harmon.ie/legal/teammate-eula](https://harmon.ie/legal/teammate-eula) |
 

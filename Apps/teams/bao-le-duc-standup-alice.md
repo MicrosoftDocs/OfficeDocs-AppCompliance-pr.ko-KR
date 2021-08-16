@@ -2,24 +2,24 @@
 title: Bao Le Duc의 Standup Alice에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Standup Alice, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 150d837b130b6ad2e75ddc0f8da82a1b90c2621f
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 5d1d075f16fed6e0a0029e3c90050068ca5bf9b5
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525872"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58243529"
 ---
 # <a name="standup-alice"></a>Standup Alice
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2019년 12월 16일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 10일</p>
 
 * <a href="https://teams.microsoft.com/l/app/724b774e-aa53-4d2d-885b-6008c114cb37" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000758" target="_blank">AppSource의 보기</a>
@@ -37,6 +37,7 @@ Bao Le Duc가 Microsoft에 제공한 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Bao Le Duc |
 | 파트너 웹 사이트의 URL | [https://www.standupalice.com](https://www.standupalice.com) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.standupalice.com](https://www.standupalice.com) |
 | 개인 정보 취급 방침의 URL | [https://www.standupalice.com/privacy](https://www.standupalice.com/privacy) |
 | 사용 약관 URL | [https://www.standupalice.com/terms](https://www.standupalice.com/terms) |
 
@@ -63,7 +64,7 @@ Bao Le Duc가 Microsoft에 제공한 정보:
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Google Cloud - Google 클라우드에서 봇을 호스트합니다. |  | 해당 없음 |
+>| Google Cloud - Google 클라우드에서 봇을 호스트합니다. | Microsoft Teams TeamId | 팀이 어떤 팀에 Microsoft Teams &quot; &quot; 필요 |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
 
@@ -71,14 +72,14 @@ Bao Le Duc가 Microsoft에 제공한 정보:
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 표시 이름을 사용하여 웹앱 및 독립 실행형 보고서에 표시하여 의미를 더합니다. 무료 평가판 Teams 결제에 대해 관리자와 통신할 수 있습니다. | 표시 이름 및 전자 메일 주소입니다. |  |
+>| 표시 이름을 사용하여 웹앱 및 독립 실행형 보고서에 표시하여 의미를 더합니다. 무료 평가판 Teams 결제에 대해 관리자와 통신할 수 있습니다. | 표시 이름 및 전자 메일 주소입니다. | 표시 이름 및 전자 메일 주소를 사용하여 일별 대기형 보고서를 생성합니다.  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->아니요, 이러한 종류의 데이터를 기록하지 않습니다.
+>응용 프로그램 원격 분석 또는 로그에 OII 또는 EUII가 나타나지 않습니다.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 
@@ -108,3 +109,16 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 정보
+
+이 정보는 Bao Le Duc가 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

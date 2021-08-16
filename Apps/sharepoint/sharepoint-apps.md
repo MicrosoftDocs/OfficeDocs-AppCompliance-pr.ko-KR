@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/05/2021
+ms.date: 08/06/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft SharePoint 보안 및 규정 준수 정보
 localization_priority: Normal
-ms.openlocfilehash: f1cd651728f42db27b312ce27aa9b1213ae649f1f977461222edb138038a8957
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: f5feb7de008c94feeec4affd89d54b78d057847c
+ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54803024"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58241370"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 앱 보안 및 규정 준수
 
@@ -21,7 +21,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Agile Task Board for SharePoint Online](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
-| [ArcGIS 지도](./esri-inc-arcgis-maps.md) | Esri, Inc. | **✓** |  |
+| [ArcGIS Maps](./esri-inc-arcgis-maps.md) | Esri, Inc. | **✓** |  |
 | [FormMachines Connector for SharePoint](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | 엔터프라이즈 디지털 컴퓨터 PTY LTD | **✓** |  |
 | [2016에 대한 SharePoint](./gagglenet-inc-gaggle-for-sharepoint.md) | Gaggle.net, Inc. | **✓** |  |
 | [iGlobe CRM 추가 기능](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
