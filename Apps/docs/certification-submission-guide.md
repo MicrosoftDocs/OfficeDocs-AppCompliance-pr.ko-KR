@@ -6,16 +6,16 @@ description: Microsoft 365 인증 제출 가이드 세분화 보기
 keywords: 앱 인증 팀 Microsoft 365 준수 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 31c974a20e17daa0436826432429bd664a9a1f59dee6b351b587ae0b30cc6bac
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: b0a207bd8fbe1834e03c08eecb82d3552c75a182
+ms.sourcegitcommit: f33609288c6c59af423367dce2eac3e261c1d297
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54750544"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58373782"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 인증 제출 가이드
 
-**이 문서에서는:**
+**이 문서의 내용**
 - [소개](#introduction)
 - [필수 구성 요소](#prerequisites) 
 - [Microsoft 365 인증 사양 업데이트](#microsoft-365-certification-specification-updates)
@@ -54,7 +54,7 @@ Microsoft 365 인증 프로그램에 참여하면 귀하는 이러한 추가 약
 >* Office 추가 기능(Word, Excel, PowerPoint, Outlook, Project, OneNote)
 >* WebApps
 
-## <a name="prerequisites"></a>필수 조건
+## <a name="prerequisites"></a>필수 구성 요소
 
 ### <a name="publisher-attestation"></a>게시자 증명
 
@@ -115,11 +115,7 @@ IaaS 또는 PaaS가 배포되는 경우 이러한 배포 유형 내에서 호스
 
 ## <a name="certification-process"></a>인증 프로세스
 
-인증 프로세스를 시작하기 전에 인증서 증명을 성공적으로 Publisher 합니다. 증명 응답은 인증 Microsoft 365 지원에 사용되어 다음과 같이 진행됩니다.
-
-## <a name="certification-process"></a>인증 프로세스
-
-인증 프로세스를 시작하기 전에 인증 증명을 Publisher 합니다. 게시자 증명이 승인되면 Microsoft 365 인증에 참여할 수 있는 소개 전자 메일을 받게 됩니다.
+인증 프로세스를 시작하기 전에 인증 증명을 성공적으로 Publisher 합니다. 완료되면 Microsoft 365 인증 프로세스가 다음과 같이 진행됩니다.
 
 ### <a name="preparation"></a>준비
 1. 파트너 센터로 이동하여 완료된 Publisher [문서를 검토합니다.]( https://docs.microsoft.com/microsoft-365-app-certification/docs/attestation) 필요한 경우 응답을 편집하고 업데이트할 수 있습니다. 그러나 이 경우 승인을 위해 의거 문서를 다시 제출해야 합니다. 제출이 3개월보다 오래된 경우 검토 및 유효성 검사를 위해 Publisher 제출해야 합니다. 
@@ -1006,7 +1002,7 @@ Microsoft는 응용 프로그램을 배포하고 다른 호스팅 환경 내에 
 
 ![워크플로](ProcessFlow.jpg)
 
-## <a name="learn-more"></a>자세한 정보
+## <a name="learn-more"></a>자세히 알아보기
 
 [Microsoft 365 앱 준수 프로그램 개요](~/overview.md)  
 [앱 Microsoft 365 는 Publisher 무엇입니까?](~/docs/attestation.md)  
