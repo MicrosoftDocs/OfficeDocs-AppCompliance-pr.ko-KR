@@ -6,12 +6,12 @@ description: Publisher 프로그램에 대한 자세한 정보
 keywords: 앱 증명 인증 365 설문지 앱소싱
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: ad059066c4685cf72e5d0b76b10b5d9ca22b6df9
-ms.sourcegitcommit: dc086ac579e488a38bad3dad10037d43af7efd55
+ms.openlocfilehash: 286d14e580bdb9f24ccf1754685ebeeaef6d0c11
+ms.sourcegitcommit: eae0e45c87fa8f1a87257e1e38122228e6970ba9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 08/18/2021
-ms.locfileid: "58385874"
+ms.locfileid: "58390462"
 ---
 # <a name="complete-publisher-attestation"></a>전체 Publisher Attestation
 
@@ -32,12 +32,12 @@ Publisher 의거는 Web Apps(파트너 센터의 상업용 마켓플레이스를
 
 
 ## <a name="program-benefits"></a>프로그램 혜택
-- 시간 절약. 고객에게 응용 프로그램에 대한 자주 묻는 질문에 대한 응답을 찾을 수 있는 Docs 페이지를 참조하세요.
-- 엔터프라이즈 조직의 보안 및 규정 준수 내부 검토 타임라인 가속화
-- 투명도 증가
-- 스토어의 다른 앱과의 차별화 
-- AppSource, Teams 관리 센터, Microsoft 관리 센터 및 Teams 스토어의 항목에서 사용자 Teams 링크 
-- 인증 시작 자격 Microsoft 365 자격
+- 시간 절약. 고객이 응용 프로그램에 대한 자주 묻는 질문에 대한 응답을 찾을 수 있는 docs 페이지를 방문하세요.
+- 엔터프라이즈 조직의 보안 및 규정 준수 내부 검토 타임라인을 가속화합니다.
+- 투명도가 증가합니다.
+- 스토어의 다른 앱과의 차별화. 
+- AppSource, Teams 관리 센터, Microsoft 관리 센터 및 Teams 스토어의 항목에서 docs 페이지에 연결합니다. 
+- 인증 자격을 Microsoft 365 자격.
  
 
 ## <a name="publisher-attestation-process"></a>Publisher 의거 프로세스
