@@ -2,17 +2,17 @@
 title: Microsoft Excel 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/11/2021
+ms.date: 08/27/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Excel 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: d8030712f76cdff731c7ff17c94e2e89c5def494
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.openlocfilehash: b039a772748821cad11fbb8d0f9d65e94b544cc5
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58243465"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672885"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 앱 보안 및 규정 준수
 
@@ -20,6 +20,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [B2B 파트너용 Canon EMEA 서비스 비용 계산기](./canon-emea-service-cost-calculator-for-b2b-partners.md) | Canon EMEA | **✓** |  |
 | [NetSuite용 CloudExtend Analytics](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel 문서 자동화](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [harmon.ie 대한 Office](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |

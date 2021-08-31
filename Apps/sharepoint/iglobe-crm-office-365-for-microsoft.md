@@ -2,23 +2,23 @@
 title: iGlobe의 iGlobe CRM Office 365 Microsoft Office 365 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 08/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: cSA STAR 레지스트리의 iGlobe CRM Office 365 Microsoft Office 365, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 99dc4a9418362f16ed95303c139133991b8102eb
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 3c2b7896210bc12a9b93ca9baed0a367db9a0fba
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527694"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672455"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-office-365"></a>iGlobe CRM Office 365 Microsoft Office 365
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>개발자가 마지막으로 업데이트한 날짜: 2020년 11월 17일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 12일</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104379222" target="_blank">AppSource의 보기</a>
 
@@ -74,21 +74,21 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Exchange - Calendars.ReadWrite.All | 아니요 |  |  |  |  |
->| Exchange - Mail.Read.All | 아니요 |  |  |  |  |
->| Exchange - Contacts.Read | 아니요 |  |  |  |  |
->| Exchange - EWS. AccessAsUser.All | 아니요 |  |  |  |  |
->| Exchange - Tasks.ReadWrite | 아니요 |  |  |  |  |
->| SharePoint - AllSites.Manage | 아니요 |  |  |  |  |
->| SharePoint - AllSites.Read | 아니요 |  |  |  |  |
->|  SharePoint -AllSites.Write | 아니요 |  |  |  |  |
->| SharePoint - MyFiles.Write | 아니요 |  |  |  |  |
->| SharePoint - Sites.Manage.All | 아니요 |  |  |  |  |
->| SharePoint - Sites.Read.All | 아니요 |  |  |  |  |
->| SharePoint - Sites.ReadWrite.All | 아니요 |  |  |  |  |
->| SharePoint - Sites.Search.All | 아니요 |  |  |  |  |
->|  SharePoint - TermStore.Read.All | 아니요 |  |  |  |  |
->| SharePoint - TermStore.ReadWrite.All | 아니요 |  |  |  |  |
+>| Exchange - Calendars.ReadWrite.All | 아니오 |  |  |  |  |
+>| Exchange - Mail.Read.All | 아니오 |  |  |  |  |
+>| Exchange - Contacts.Read | 아니오 |  |  |  |  |
+>| Exchange - EWS. AccessAsUser.All | 아니오 |  |  |  |  |
+>| Exchange - Tasks.ReadWrite | 아니오 |  |  |  |  |
+>| SharePoint - AllSites.Manage | 아니오 |  |  |  |  |
+>| SharePoint - AllSites.Read | 아니오 |  |  |  |  |
+>|  SharePoint -AllSites.Write | 아니오 |  |  |  |  |
+>| SharePoint - MyFiles.Write | 아니오 |  |  |  |  |
+>| SharePoint - Sites.Manage.All | 아니오 |  |  |  |  |
+>| SharePoint - Sites.Read.All | 아니오 |  |  |  |  |
+>| SharePoint - Sites.ReadWrite.All | 아니오 |  |  |  |  |
+>| SharePoint - Sites.Search.All | 아니오 |  |  |  |  |
+>|  SharePoint - TermStore.Read.All | 아니오 |  |  |  |  |
+>| SharePoint - TermStore.ReadWrite.All | 아니오 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
@@ -116,7 +116,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요
+>아니오
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -153,7 +153,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에 기밀 클라이언트가 있나요? | 예 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱에서 웹 API를 노출하나요? | 아니요 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니오 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

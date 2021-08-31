@@ -2,17 +2,17 @@
 title: SaaS 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/11/2021
+ms.date: 08/27/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 966248f8beca85ba64ab3eb38082218f1a73001f
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.openlocfilehash: 567c93c64f94ed6721b7a9d62793c768035301ae
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58239729"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672875"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 

@@ -2,23 +2,23 @@
 title: ELEARNINGFORCE International의 LMS365에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/18/2021
+ms.date: 07/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: LMS365에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4a4690496c4da8fd31de70bfa796d15d73dba844
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: 5a88349d6fa62769d528c66baeb428b791a007b0
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521771"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672745"
 ---
 # <a name="lms365"></a>LMS365
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 3월 18일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 7월 28일</p>
 
 * <a href="https://teams.microsoft.com/l/app/d136f17e-df84-47f2-97a4-13aa24c0c647" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381467" target="_blank">AppSource의 보기</a>
@@ -58,12 +58,13 @@ ELEARNINGFORCE International에서 Microsoft에 제공하는 정보:
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| GroupMember.Read.All | application | 없음 | 앱이 AD 그룹 구성원을 확장할 수 있도록 허용합니다. 이 경우 사용자 그룹을 과정에 등록해야 합니다. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| Mail.Send | 위임 | 없음 | 알림에 대한 전자 메일 계정을 구성하는 동안 사용 권한이 동적으로 요청됩니다. 앱에서 알림 전자 메일을 보낼 수 있습니다. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| OnlineMeetings.ReadWrite | 위임 | 알림에 대한 전자 메일 계정을 구성하는 동안 사용 권한이 동적으로 요청됩니다. 앱에서 온라인 모임을 만들고 읽을 수 있습니다. | 온라인 모임 URL은 과정 세션 엔터티에 참조로 저장됩니다. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| RoleManagement.Read.Directory | application | 없음 | 테넌트 프로비전 중에 SharePoint 도메인을 다운로드할 수 있습니다. 도메인은 URL 생성에 사용됩니다. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| User.Invite.All | 위임 | 없음 | 앱이 현재 로그인한 사용자 대신 외부 사용자를 초대할 수 있도록 허용 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| User.Read | 위임 | 없음 | 로그인하고 사용자 프로필을 읽습니다. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| User.Read.All | 위임 | 없음 | 앱에서 현재 로그인한 사용자의 전체 프로필을 읽을 수 있도록 허용합니다. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 >| User.Read.All | application | 앱에서 전체 사용자 프로필을 읽을 수 있도록 허용합니다. 계층&#8217;작성하기 위해 관리자에게&#8217; 읽기 위해 필요한 정보를 제공합니다. | 다음 개인 데이터는 응용 프로그램 내의 학습자 관리 관리자 대시보드 기능에 사용되는 각 고객의 전용 데이터베이스에 &amp; 저장됩니다. 계정 이름, 사용자 표시 이름, 전자 메일 주소, 부서, 직위, Office, 국가, 구/시, 관리자 ID/전자 메일 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
->| profile | 위임 | 없음 | 사용자의 기본 프로필을 시청하세요. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
+>| 프로필 | 위임 | 없음 | 사용자의 기본 프로필을 시청하세요. | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](https://docs.microsoft.com/microsoft-365-app-certification/azure/a1a0b277-0efb-4f00-9661-6d1a3df3cddc) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
@@ -71,7 +72,7 @@ ELEARNINGFORCE International에서 Microsoft에 제공하는 정보:
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| SharePoint | 아니요 |  |  |  |  |
+>| SharePoint | 아니오 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
@@ -138,11 +139,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 아니요 |
+| 앱에 기밀 클라이언트가 있나요? | 아니오 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱에서 웹 API를 노출하나요? | 예 |
 | 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니오 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

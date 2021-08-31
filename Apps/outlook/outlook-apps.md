@@ -2,17 +2,17 @@
 title: Microsoft Outlook 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/14/2021
+ms.date: 08/27/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Outlook 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: bb4239929cb153ccc62221c7a44db6921743080b
-ms.sourcegitcommit: bdc1c8f8fdd6592cfbb59c8a7cf38477bca26e2a
+ms.openlocfilehash: fa24ddc3a0dd384f5ab6b4835ffd23e7981f0b14
+ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58377532"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58672845"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 앱 보안 및 규정 준수
 
@@ -36,7 +36,9 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Office2SharePoint for Outlook](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork | Outlook](./officeatwork-officeatworkcontent-chooser-for-outlook.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [OnePlaceMail for Outlook](./oneplace-solutions-oneplacemail-for-outlook.md) | OnePlace 솔루션 | **✓** |  |
+| [Outreach Sales Engagement for Outlook](./outreach-sales-engagement-for-outlook.md) | 아웃리치 | **✓** |  |
 | [우선 순위 매트릭스 - 전자 메일을 작업으로 전환](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [ServiceDesk Plus for Email](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
 | [사용자용 StarLeaf 추가 Outlook](./starleaf-add-in-for-outlook.md) | StarLeaf | **✓** |  |
