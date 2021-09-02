@@ -6,16 +6,16 @@ description: Microsoft 365 인증 세부 정보
 keywords: 앱 증명 Microsoft 365 인증 365 설문지 앱소스
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 51f85b71a04cb64159b228cdb881345fecaad36c
-ms.sourcegitcommit: 7ef4a79aa28ac4dcce067b1f6f8693eeec6335e9
+ms.openlocfilehash: 49bb08fa252a3907df67766dce39ef810381be27
+ms.sourcegitcommit: 44c92cbf86ee358e4fcdf2a51dae5be001345029
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58241821"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "58862041"
 ---
 # <a name="what-is-microsoft-365-certification"></a>인증이란 Microsoft 365 무엇입니까?
 
-Microsoft 365 인증은 업계 표준 프레임워크에 대해 앱이 테스트되고 고객 데이터를 보호하기 위해 강력한 보안 및 규정 준수 관행이 마련되고 있는 것을 고객에게 보여주기 위해 고안된 인증입니다. 
+Microsoft 365 인증은 업계 최고의 표준 프레임워크에서 파생된 컨트롤에 대해 앱이 테스트되고 고객 데이터를 보호하기 위해 강력한 보안 및 규정 준수 관행이 마련되고 있는 것을 고객에게 보여주기 위해 고안된 인증입니다. 
 
 >[!VIDEO https://www.youtube.com/embed/Aff_35f10B8]
 
