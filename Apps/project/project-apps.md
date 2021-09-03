@@ -2,17 +2,17 @@
 title: Microsoft Project 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Project 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 814c7f997738ed036f52a9f59affaa1209e494ca
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.openlocfilehash: f6a0b6359d9d91ac29729d6990c0bc575e986443
+ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58672895"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58873563"
 ---
 # <a name="microsoft-project-apps-security-and-compliance"></a>Microsoft Project 앱 보안 및 규정 준수
 

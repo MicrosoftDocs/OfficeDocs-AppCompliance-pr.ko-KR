@@ -2,24 +2,24 @@
 title: Application Information for Salesforce by salesforce.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 08/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Salesforce에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: d0490ea422179e064443f7fad12abb64bc6efa47
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: a2a4cb54f96d35bfd12b3396da3cf5e9c63b1c96
+ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527914"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58873463"
 ---
 # <a name="salesforce"></a>Salesforce
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2019년 12월 16일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 24일</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104379334" target="_blank">AppSource의 보기</a>
 
@@ -37,7 +37,7 @@ Microsoft에 salesforce.com 정보:
 | 파트너 회사 이름 | salesforce.com |
 | 파트너 웹 사이트의 URL | [https://www.salesforce.com](https://www.salesforce.com) |
 | 개인 정보 취급 방침의 URL | [https://www.salesforce.com/company/privacy/](https://www.salesforce.com/company/privacy/) |
-| 사용 약관 URL | [https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC...](https://store.office.com/en-us/WebAppLandingPage.aspx?p4=TC&amp;p5=WA104379334&amp;cmu=en-US) |
+| 사용 약관 URL | [https://www.salesforce.com/content/dam/web/en_us/www/docume...](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/software-order-form-supplements/Salesforce_Outlook_TOU_Order_Form_Addendum.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -61,8 +61,8 @@ Microsoft에 salesforce.com 정보:
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| JavaScript API for Office | 예 | 추가 기능은 Office.js 및 EWS의 기능을 사용하여 사용자가 Salesforce에 로그인하기로 결정한 전자 메일에 대한 Outlook 첨부 파일을 복사합니다. 일정 쪽에서 유사한 기능을 사용하여 약속을 Salesforce에 기록합니다. |  | 추가 기능은 getUserIdentityTokenAsync와 같은 함수를 사용하여 현재 Outlook 사용자 ID, GetItem(.js 및 EWS)을 사용하여 Salesforce 레코드에 저장하는 경우 현재 전자 메일 메시지의 내용과 AdditionalProperties를 구하고 설정하며, EWS(GetAttachment)를 사용하여 Exchange 첨부 파일을 검색하고 쌍을 이루는 Salesforce 전자 메일인 UpdateItem(.js), GetFolder(.js)에 추가하여 초안 메시지를 만드는 데 사용되는 CreateItem(.js)을 가져올 수 있습니다. |  |
->| EWS(Exchange 웹 서비스) | 예 | 추가 기능은 Office.js 및 EWS의 기능을 사용하여 사용자가 Salesforce에 로그인하기로 결정한 전자 메일에 대한 Outlook 첨부 파일을 복사합니다. 일정 쪽에서 유사한 기능을 사용하여 약속을 Salesforce에 기록합니다. |  | 추가 기능은 getUserIdentityTokenAsync와 같은 함수를 사용하여 현재 Outlook 사용자 ID, GetItem(.js 및 EWS)을 사용하여 Salesforce 레코드에 저장하는 경우 현재 전자 메일 메시지의 내용과 AdditionalProperties를 구하고 설정하며, EWS(GetAttachment)를 사용하여 Exchange 첨부 파일을 검색하고 쌍을 이루는 Salesforce 전자 메일인 UpdateItem(.js), GetFolder(.js)에 추가하여 초안 메시지를 만드는 데 사용되는 CreateItem(.js)을 가져올 수 있습니다. |  |
+>| JavaScript API for Office | 예 | 추가 기능은 Office.js 및 EWS의 기능을 사용하여 사용자가 Salesforce에 로그인하기로 결정한 전자 메일에 대한 Outlook 첨부 파일을 복사합니다. 일정 쪽에서 유사한 기능을 사용하여 약속을 Salesforce에 기록합니다. | 추가 기능은 Office.js 및 EWS의 기능을 사용하여 사용자가 Salesforce에 로그인하기로 결정한 전자 메일에 대한 Outlook 첨부 파일을 복사합니다. 일정 쪽에서 유사한 기능을 사용하여 약속을 Salesforce에 기록합니다. | 추가 기능은 getUserIdentityTokenAsync와 같은 함수를 사용하여 현재 Outlook 사용자 ID, GetItem(.js 및 EWS)을 사용하여 Salesforce 레코드에 저장하는 경우 현재 전자 메일 메시지의 내용과 AdditionalProperties를 구하고 설정하며, EWS(GetAttachment)를 사용하여 Exchange 첨부 파일을 검색하고 쌍을 이루는 Salesforce 전자 메일인 UpdateItem(.js), GetFolder(.js)에 추가하여 초안 메시지를 만드는 데 사용되는 CreateItem(.js)을 가져올 수 있습니다. | 추가 기능은 getUserIdentityTokenAsync와 같은 함수를 사용하여 현재 Outlook 사용자 ID, GetItem(.js 및 EWS)을 사용하여 Salesforce 레코드에 저장하는 경우 현재 전자 메일 메시지의 내용과 AdditionalProperties를 구하고 설정하며, EWS(GetAttachment)를 사용하여 Exchange 첨부 파일을 검색하고 쌍을 이루는 Salesforce 전자 메일인 UpdateItem(.js), GetFolder(.js)에 추가하여 초안 메시지를 만드는 데 사용되는 CreateItem(.js)을 가져올 수 있습니다. |
+>| EWS(Exchange 웹 서비스) | 예 | 추가 기능은 Office.js 및 EWS의 기능을 사용하여 사용자가 Salesforce에 로그인하기로 결정한 전자 메일에 대한 Outlook 첨부 파일을 복사합니다. 일정 쪽에서 유사한 기능을 사용하여 약속을 Salesforce에 기록합니다. | 추가 기능은 Office.js 및 EWS의 기능을 사용하여 사용자가 Salesforce에 로그인하기로 결정한 전자 메일에 대한 Outlook 첨부 파일을 복사합니다. 일정 쪽에서 유사한 기능을 사용하여 약속을 Salesforce에 기록합니다. | 추가 기능은 getUserIdentityTokenAsync와 같은 함수를 사용하여 현재 Outlook 사용자 ID, GetItem(.js 및 EWS)을 사용하여 Salesforce 레코드에 저장하는 경우 현재 전자 메일 메시지의 내용과 AdditionalProperties를 구하고 설정하며, EWS(GetAttachment)를 사용하여 Exchange 첨부 파일을 검색하고 쌍을 이루는 Salesforce 전자 메일인 UpdateItem(.js), GetFolder(.js)에 추가하여 초안 메시지를 만드는 데 사용되는 CreateItem(.js)을 가져올 수 있습니다. | 추가 기능은 getUserIdentityTokenAsync와 같은 함수를 사용하여 현재 Outlook 사용자 ID, GetItem(.js 및 EWS)을 사용하여 Salesforce 레코드에 저장하는 경우 현재 전자 메일 메시지의 내용과 AdditionalProperties를 구하고 설정하며, EWS(GetAttachment)를 사용하여 Exchange 첨부 파일을 검색하고 쌍을 이루는 Salesforce 전자 메일인 UpdateItem(.js), GetFolder(.js)에 추가하여 초안 메시지를 만드는 데 사용되는 CreateItem(.js)을 가져올 수 있습니다. |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
@@ -106,3 +106,16 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 정보
+
+이 정보는 salesforce.com, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대한 정보를 제공합니다.
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
