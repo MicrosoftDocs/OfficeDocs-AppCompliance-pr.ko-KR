@@ -6,14 +6,16 @@ description: 준수 뉴스레터 보관
 keywords: 규정 준수 뉴스레터
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: a69495d35eaf69bee341efa7b15f479aa53e2ac0043e1aa8a422e1adc97cd83c
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 72d288c7409dea138e6150537f7f90df7be597ae
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54751708"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59274902"
 ---
 # <a name="newsletter-archive"></a>뉴스레터 보관
+
+[2021년 5월](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/may2021)
 
 [2021년 3월](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/March21%20NL)
 
