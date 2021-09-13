@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 10xGoals, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 52b806ec307e396e67d9d91624e8be80c94142bb
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407602"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284962"
 ---
 # <a name="10xgoals"></a>10xGoals
 
@@ -35,7 +35,7 @@ xto10x 기술에서 Microsoft에 제공하는 정보:
 | 앱 이름 | 10xGoals |
 | ID | WA200003122 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | xto10x 기술 |
+| 파트너 회사 이름 | xto10x Technologies |
 | 파트너 웹 사이트의 URL | [https://www.xto10x.com/10xgoals/](https://www.xto10x.com/10xgoals/) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.xto10x.com/10xgoals/](https://www.xto10x.com/10xgoals/) |
 | 개인 정보 취급 방침의 URL | [https://www.xto10x.com/security/privacy-policy/](https://www.xto10x.com/security/privacy-policy/) |
@@ -75,7 +75,7 @@ xto10x 기술에서 Microsoft에 제공하는 정보:
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 이 앱을 사용하려면 먼저 10xGoals 서비스 구독이 필요하기 때문에 사용자 전자 메일 및 사용자의 Azure ID가 10xGoals 서비스로 전송될 수 있으므로 해당 사용자와 관련된 일부 활동이 발생할 때 사용자의 팀 앱에 사전 알림을 보낼 수 있습니다. | 아니오 |  |
+>| 이 앱을 사용하려면 먼저 10xGoals 서비스 구독이 필요하기 때문에 사용자 전자 메일 및 사용자의 Azure ID가 10xGoals 서비스로 전송될 수 있으므로 해당 사용자와 관련된 일부 활동이 발생할 때 사용자의 팀 앱에 사전 알림을 보낼 수 있습니다. | 아니요 |  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -94,7 +94,7 @@ xto10x 기술에서 Microsoft에 제공하는 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니오
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -127,7 +127,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 아니요 |
-| 앱에 기밀 클라이언트가 있나요? | 아니오 |
+| 앱에 기밀 클라이언트가 있나요? | 아니요 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱에서 웹 API를 노출하나요? | 예 |
 | 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |

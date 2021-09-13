@@ -9,11 +9,11 @@ certification_type: certified
 description: LMS365에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 2fa9fb2637b40b439bc6450514e194e222415ec0
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275456"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284901"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -60,7 +60,7 @@ ELEARNINGFORCE International Aps에서 Microsoft에 제공하는 정보:
 >| User.Read | 위임 | 없음 | 로그인하고 사용자 프로필을 읽습니다. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| User.Read.All | 위임 | 없음 | 앱에서 현재 로그인한 사용자의 전체 프로필을 읽을 수 있도록 허용합니다. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| User.Read.All | application | 앱에서 전체 사용자 프로필을 읽을 수 있도록 허용합니다. 계층&#8217;작성하기 위해 관리자에게&#8217; 읽기 위해 필요한 정보를 제공합니다. | 다음 개인 데이터는 응용 프로그램 내의 학습자 관리 관리자 대시보드 기능에 사용되는 각 고객의 전용 데이터베이스에 &amp; 저장됩니다. 계정 이름, 사용자 표시 이름, 전자 메일 주소, 부서, 직위, Office, 국가, 구/시, 관리자 ID/전자 메일 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| profile | 위임 | 없음 | 사용자의 기본 프로필을 시청하세요. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| 프로필 | 위임 | 없음 | 사용자의 기본 프로필을 시청하세요. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
@@ -68,7 +68,7 @@ ELEARNINGFORCE International Aps에서 Microsoft에 제공하는 정보:
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
->| SharePoint를 입력하세요. | 아니요 |  |  |  |  |
+>| SharePoint | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 

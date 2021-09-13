@@ -9,11 +9,11 @@ certification_type: attested
 description: 365Projects에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: aad8e35ad1e02212c23ef2a892412ba3c0ce1312
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53522191"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284181"
 ---
 # <a name="365projects"></a>365Projects
 

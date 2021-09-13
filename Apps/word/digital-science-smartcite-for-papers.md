@@ -9,11 +9,11 @@ certification_type: attested
 description: Papers용 SmartCite, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: f039eb5f2fd2cedc6110e380a5830a71472d600e
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53775033"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59283922"
 ---
 # <a name="smartcite-for-papers"></a>Papers용 SmartCite
 

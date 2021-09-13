@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 Zoho Sign, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: f164b4afadb0d85971cdaa40ab1bb43828ecb290
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528334"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284914"
 ---
 # <a name="zoho-sign"></a>Zoho Sign
 
@@ -65,7 +65,7 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 >| User.ReadBasic.All | 위임 |  | 모든 사용자의 기본 프로필을 읽습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| 전자 메일 | 위임 |  | 사용자의 전자 메일 주소를 볼 수 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| offline_access | 위임 |  | 액세스 권한을 부여한 데이터에 대한 액세스를 유지 관리합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| profile | 위임 |  | 사용자의 기본 프로필을 시청하세요. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 프로필 | 위임 |  | 사용자의 기본 프로필을 시청하세요. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

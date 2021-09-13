@@ -1,44 +1,44 @@
 ---
-title: Application Information for Bigfish by Breathe India Advisors Pvt. Ltd.
+title: SysAid의 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2021
+ms.date: 07/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Bigfish에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+description: SysAid에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 1d156c5b08b9c8e9a22c9a0c40c4a6492610cd8f
+ms.openlocfilehash: 359d8c291f327d4f46903d3a1e5b2bddcd8d84a8
 ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284029"
+ms.locfileid: "59285626"
 ---
-# <a name="bigfish"></a>Bigfish
+# <a name="sysaid"></a>SysAid
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 23일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 7월 4일</p>
 
-* <a href="https://teams.microsoft.com/l/app/04e306e7-e799-4817-8206-dbfaf1fcefa6" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002985" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/932c8be4-fac6-4df3-9e15-bc542f4ef88e" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003221" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-Breathe India Advisors Pvt가 제공하는 정보입니다. Ltd. to Microsoft:
+SysAid에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Bigfish |
-| ID | WA200002985 |
+| 앱 이름 | SysAid |
+| ID | WA200003221 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | Breathe India Advisors Pvt. Ltd. |
-| 파트너 웹 사이트의 URL | [https://www.bigfishbenefits.com](https://www.bigfishbenefits.com) |
-| 개인 정보 취급 방침의 URL | [https://bigfishbenefits.com/policy.html](https://bigfishbenefits.com/policy.html) |
-| 사용 약관 URL | [https://www.bigfishbenefits.com/termsOfUse.html](https://www.bigfishbenefits.com/termsOfUse.html) |
+| 파트너 회사 이름 | SysAid |
+| 파트너 웹 사이트의 URL | [https://www.sysaid.com](https://www.sysaid.com) |
+| 개인 정보 취급 방침의 URL | [https://www.sysaid.com/privacy](https://www.sysaid.com/privacy) |
+| 사용 약관 URL | [https://www.sysaid.com/wp-content/uploads/service-agreement...](https://www.sysaid.com/wp-content/uploads/service-agreement-cloud.pdf) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,7 +48,7 @@ Breathe India Advisors Pvt가 제공하는 정보입니다. Ltd. to Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 Breathe India Advisors Pvt가 제공합니다. Ltd. 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 컨트롤에 대해 다수 제공합니다.
+이 정보는 SysAid에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 제공됩니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
@@ -80,7 +80,7 @@ Breathe India Advisors Pvt가 제공하는 정보입니다. Ltd. to Microsoft:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->해당 없음
+>데이터 재구성 정책 및 다음과 같은 업계 모범 사례에 따라 데이터를 관리합니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -108,11 +108,23 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 Breathe India Advisors Pvt가 제공합니다. Ltd. 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 기준을 처리하는 방법에 대해 다루고 있습니다.
+이 정보는 SysAid에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 아니요 |
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
+| 앱에서 다중 테넌시를 지원하나요? | 예 |
+| 앱에 기밀 클라이언트가 있나요? | 아니요 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
+| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

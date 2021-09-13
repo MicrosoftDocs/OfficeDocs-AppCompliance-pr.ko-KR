@@ -9,11 +9,11 @@ certification_type: attested
 description: isLucid, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: d29616471c22a2fd4f01a849d14b965ae106aa80
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58872083"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285554"
 ---
 # <a name="islucid"></a>isLucid
 
@@ -35,7 +35,7 @@ Microsoft에 대한 UAB Lucid 계약에서 제공하는 정보:
 | 앱 이름 | isLucid |
 | ID | WA200002385 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | UAB Lucid Agreements |
+| 파트너 회사 이름 | UAB Lucid 계약 |
 | 파트너 웹 사이트의 URL | [https://islucid.com](https://islucid.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://islucid.com](https://islucid.com) |
 | 개인 정보 취급 방침의 URL | [https://islucid.com/privacy-policy/](https://islucid.com/privacy-policy/) |

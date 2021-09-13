@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 Trivia, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: e22205d2584abd257a6fdff585f129fb915ff6b2
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528364"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284978"
 ---
 # <a name="trivia"></a>Trivia
 
@@ -61,7 +61,7 @@ Springworks HR Tech에서 Microsoft에 제공하는 정보:
 >| Team.ReadBasic.All | 위임 | 예, 봇이 추가된 팀 목록을 저장합니다. | 작업 영역의 모든 팀에 대한 기본 정보를 수집하기 위해 | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
 >| User.Read.All | 위임 | 예. 사용자의 고유한 aadObjectId를 저장합니다. 사용자 이름, 전자 메일 등 사용자의 다양한 세부 정보도 표시하고 Trivia 대시보드에 표시합니다. | 작업 영역의 모든 사용자에 대한 세부 정보를 얻습니다. | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
 >| openid | 위임 | 예. 앱에 로그인한 사용자를 저장합니다. |  사용자가 계정과 앱에서 모두 앱을 사용하여 사용자 데이터를 사용할 수 있도록 허용하려면 | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
->| profile | 위임 | 예. 퀴즈 호스트 및 기타 기능의 사용자 ID와 이름을 저장하고 고유하게 식별 | 사용자 이름, 전자 메일과 같은 사용자의 기본 프로필 정보를 읽으면 | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
+>| 프로필 | 위임 | 예. 퀴즈 호스트 및 기타 기능의 사용자 ID와 이름을 저장하고 고유하게 식별 | 사용자 이름, 전자 메일과 같은 사용자의 기본 프로필 정보를 읽으면 | [43bc466a-7678-476f-b904-2d933c5bbfc3](https://docs.microsoft.com/microsoft-365-app-certification/azure/43bc466a-7678-476f-b904-2d933c5bbfc3) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

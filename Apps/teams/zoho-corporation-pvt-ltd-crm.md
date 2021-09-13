@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 Zoho CRM, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 5408c7dd2ce3a7cd27c98905156bdbb45c6edede
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528014"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284877"
 ---
 # <a name="zoho-crm"></a>Zoho CRM
 
@@ -65,7 +65,7 @@ Zoho Corporation Pvt Ltd에서 Microsoft에 제공한 정보:
 >| User.ReadBasic.All | 위임 | 사용자 속성(first_name, last_name, 전자 메일 주소) | 모든 사용자의 기본 프로필 읽기 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 >| 전자 메일 | 위임 | UserPrincipaName은 사용자 입력을 위해 저장됩니다. | 사용자의 전자 메일 주소 보기 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 >| offline_access | 위임 |  | 액세스 권한이 부여된 데이터에 대한 액세스 권한 유지 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| profile | 위임 |  | 사용자의 기본 프로필 보기 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 프로필 | 위임 |  | 사용자의 기본 프로필 보기 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

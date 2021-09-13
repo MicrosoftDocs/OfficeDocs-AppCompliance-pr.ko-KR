@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 평가, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: baebeaa3079fbe38cc9c1fb76f1841059346be9c
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407635"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59284109"
 ---
 # <a name="appraisd"></a>Appraisd
 
@@ -35,7 +35,7 @@ Microsoft에 대한 Appraisd ltd.에서 제공하는 정보:
 | 앱 이름 | Appraisd |
 | ID | WA200003123 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | Appraisd ltd. |
+| 파트너 회사 이름 | Appraisd Ltd. |
 | 파트너 웹 사이트의 URL | [https://www.appraisd.com](https://www.appraisd.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.appraisd.com](https://www.appraisd.com) |
 | 개인 정보 취급 방침의 URL | [https://help.appraisd.com/hc/en-us/articles/360007779298-Pr...](https://help.appraisd.com/hc/en-us/articles/360007779298-Privacy-Policy) |
@@ -122,15 +122,15 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
 | 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니오 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
 | 앱에 기밀 클라이언트가 있나요? | 예 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
-| 앱에서 웹 API를 노출하나요? | 아니오 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니오 |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

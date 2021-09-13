@@ -9,11 +9,11 @@ certification_type: attested
 description: 휴가 추적기, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 55d54fbb94141dec562a829fdc647279a3cc006e
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527544"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285533"
 ---
 # <a name="vacation-tracker"></a>Vacation Tracker
 
@@ -65,7 +65,7 @@ ms.locfileid: "53527544"
 >| 전자 메일 | 위임 | 사용자가 Microsoft AAD를 사용하여 로그인하면 전자 메일 주소가 고유 식별자로 저장됩니다. | 사용자의 전자 메일을 고유 식별자으로 저장합니다. 통신에는 이 전자 메일을 사용하지 않습니다. 사용자는 등록 중에 통신에 사용하는 비즈니스 전자 메일 주소를 입력합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| offline_access | 위임 | 이 사용 권한이 있는 데이터는 수집하지 않습니다. 액세스 권한이 있는 데이터에 대한 액세스를 유지 관리하는 데 사용됩니다. | 이 사용 권한이 있는 데이터는 저장하지 않습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| openid | 위임 | 이 사용 권한을 사용하여 사용자를 휴가 추적에 로그인하거나 등록합니다. 이 사용 권한이 있는 특정 데이터는 수집하지 않습니다. | 이 사용 권한을 사용하여 사용자를 휴가 추적에 로그인하거나 등록합니다. 이 사용 권한이 있는 특정 데이터는 저장하지 않습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| profile | 위임 | 이름, ID 및 테넌트 ID를 포함하여 기본 사용자 정보를 수집합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | 사용자의 이름, ID 및 테넌트 ID를 저장합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| 프로필 | 위임 | 이름, ID 및 테넌트 ID를 포함하여 기본 사용자 정보를 수집합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | 사용자의 이름, ID 및 테넌트 ID를 저장합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

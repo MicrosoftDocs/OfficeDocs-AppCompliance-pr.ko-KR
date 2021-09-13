@@ -1,44 +1,45 @@
 ---
-title: Application Information for Bigfish by Breathe India Advisors Pvt. Ltd.
+title: Totara의 Totara에 대한 응용 프로그램 Learning
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2021
+ms.date: 07/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Bigfish에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+description: Totara, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 1d156c5b08b9c8e9a22c9a0c40c4a6492610cd8f
+ms.openlocfilehash: 5537ae869e4003664d71d4f04036548c432a1b8b
 ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284029"
+ms.locfileid: "59285597"
 ---
-# <a name="bigfish"></a>Bigfish
+# <a name="totara"></a>토타라
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 23일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 7월 1일</p>
 
-* <a href="https://teams.microsoft.com/l/app/04e306e7-e799-4817-8206-dbfaf1fcefa6" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002985" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/5022e09d-d2f9-499f-8925-554c324ad23a" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003222" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-Breathe India Advisors Pvt가 제공하는 정보입니다. Ltd. to Microsoft:
+Totara에서 Microsoft에 Learning 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Bigfish |
-| ID | WA200002985 |
+| 앱 이름 | 토타라 |
+| ID | WA200003222 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | Breathe India Advisors Pvt. Ltd. |
-| 파트너 웹 사이트의 URL | [https://www.bigfishbenefits.com](https://www.bigfishbenefits.com) |
-| 개인 정보 취급 방침의 URL | [https://bigfishbenefits.com/policy.html](https://bigfishbenefits.com/policy.html) |
-| 사용 약관 URL | [https://www.bigfishbenefits.com/termsOfUse.html](https://www.bigfishbenefits.com/termsOfUse.html) |
+| 파트너 회사 이름 | 토타라 Learning |
+| 파트너 웹 사이트의 URL | [https://www.totaralearning.com](https://www.totaralearning.com) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.totaralearning.com/products/totara-talent-exper...](https://www.totaralearning.com/products/totara-talent-experience-platform) |
+| 개인 정보 취급 방침의 URL | [https://www.totaralearning.com/en/privacy-policy](https://www.totaralearning.com/en/privacy-policy) |
+| 사용 약관 URL | [https://www.totaralearning.com/en/solutions/totara-cloud/te...](https://www.totaralearning.com/en/solutions/totara-cloud/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,13 +49,15 @@ Breathe India Advisors Pvt가 제공하는 정보입니다. Ltd. to Microsoft:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 Breathe India Advisors Pvt가 제공합니다. Ltd. 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 컨트롤에 대해 다수 제공합니다.
+이 정보는 Totara에서 Learning 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터에 대해 조직에서 제어할 수 있는 방법에 대해 제공합니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
->이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
+>| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
+>|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
+>| User.Read | 위임 | 전자 메일 주소를 통해 팀 사용자를 로컬 시스템 사용자에 연결 | teams_id / mschannelid - 로컬 사용자를 팀 사용자에게 연결합니다. 이 데이터는 서버가 아니라 고객의 호스팅된 인스턴스에 저장됩니다. | [5022e09d-d2f9-499f-8925-554c324ad23a](https://docs.microsoft.com/microsoft-365-app-certification/azure/5022e09d-d2f9-499f-8925-554c324ad23a) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -80,7 +83,7 @@ Breathe India Advisors Pvt가 제공하는 정보입니다. Ltd. to Microsoft:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->해당 없음
+>당사의 앱은 당사 또는 파트너에 속한 서비스가 아니라 고객의 호스트된 인스턴스와 직접 상호 작용합니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -108,7 +111,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 Breathe India Advisors Pvt가 제공합니다. Ltd. 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 기준을 처리하는 방법에 대해 다루고 있습니다.
+이 정보는 Totara에서 Learning, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|

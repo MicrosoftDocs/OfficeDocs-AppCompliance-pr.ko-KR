@@ -9,11 +9,11 @@ certification_type: attested
 description: Vizito에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 7a21260abb9afb77c5a95cdc3499eda4179fba42
-ms.sourcegitcommit: 3621f286e5bbd52acf5e0d9c8e4287fcc8c15e38
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58563475"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285525"
 ---
 # <a name="vizito"></a>Vizito
 
@@ -65,7 +65,7 @@ Vizito BV에서 Microsoft에 제공하는 정보:
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Teams 로그인할 때 사용자에게 사전 메시지를 보내기 위한 봇 API를 제공합니다. | 아니오 |  |  |  |  |
+>| Teams 로그인할 때 사용자에게 사전 메시지를 보내기 위한 봇 API를 제공합니다. | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
