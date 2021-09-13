@@ -9,13 +9,13 @@ certification_type: attested
 description: Brochesia, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: b23afa2d040eb71d2bc15b4931b2bed386148a2d
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53609608"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287093"
 ---
-# <a name="brochesia"></a>브로체시아
+# <a name="brochesia"></a>Brochesia
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Brochesia에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 브로체시아 |
+| 앱 이름 | Brochesia |
 | ID | WA200002876 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 브로체시아 |
+| 파트너 회사 이름 | Brochesia |
 | 파트너 웹 사이트의 URL | [https://www.brochesia.com](https://www.brochesia.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.brochesia.com/ar-software-services/](https://www.brochesia.com/ar-software-services/) |
 | 개인 정보 취급 방침의 URL | [https://www.brochesia.com/privacy-cookie-policy-en](https://www.brochesia.com/privacy-cookie-policy-en) |

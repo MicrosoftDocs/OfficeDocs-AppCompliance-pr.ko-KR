@@ -9,11 +9,11 @@ certification_type: attested
 description: cSA STAR 레지스트리의 qChange 리더 환경, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: efa6d9c9165a852ff45f1d6c68d8aeb3343a18e3
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521169"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286378"
 ---
 # <a name="qchange-leader-experience"></a>qChange Leader 환경
 

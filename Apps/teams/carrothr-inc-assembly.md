@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 어셈블리, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: f8d63c77c3fd9b52353ce22954dfa4dadb8dea2f
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53522058"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289407"
 ---
 # <a name="assembly"></a>어셈블리
 
@@ -63,7 +63,7 @@ CarrotHR Inc.에서 Microsoft에 제공한 정보:
 >| Teams. ReadBasic.All | application | 올바른 팀 탭에 앱을 할당하는 능력 | 팀이 추가된 팀을 저장할 수 없습니다.  | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
 >| TeamsTab.Create | application | 이 기능을 사용하여 앱을 채널/팀에 올바르게 추가하도록 허용합니다. | 탭 데이터를 수집하거나 저장하지 않습니다. | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
 >| 전자 메일 | 위임 | 특정 계정에 대한 액세스 권한을 부여할 수 있도록 사용자의 전자 메일 | 특정 계정 및 일치 ID에 대한 액세스 권한을 부여할 수 있도록 사용자의 전자 메일 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
->| profile | 위임 | 어셈블리를 자동으로 입력하고 변경 내용과 동기화를 유지할 사용자 Microsoft Teams | 사용자의 전체 이름 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
+>| 프로필 | 위임 | 어셈블리를 자동으로 입력하고 변경 내용과 동기화를 유지할 사용자 Microsoft Teams | 사용자의 전체 이름 | [0a1b7ca8-390e-4f55-a7b5-eee089c5a905](https://docs.microsoft.com/microsoft-365-app-certification/azure/0a1b7ca8-390e-4f55-a7b5-eee089c5a905) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

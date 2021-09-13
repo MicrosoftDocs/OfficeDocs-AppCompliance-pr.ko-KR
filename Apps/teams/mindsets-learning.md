@@ -9,11 +9,11 @@ certification_type: attested
 description: Mindsets, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 95f3d60efa1c9cb8cb238fb51af9fa927c17a961
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58405055"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288573"
 ---
 # <a name="mindsets"></a>Mindsets
 
@@ -35,7 +35,7 @@ Mindsets가 Microsoft에 Learning 정보:
 | 앱 이름 | Mindsets |
 | ID | WA200003000 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 마인드셋 Learning |
+| 파트너 회사 이름 | Mindsets Learning |
 | 파트너 웹 사이트의 URL | [https://www.mindsets.com](https://www.mindsets.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.mindsets.com](https://www.mindsets.com) |
 | 개인 정보 취급 방침의 URL | [https://www.mindsets.com/terms](https://www.mindsets.com/terms) |

@@ -9,11 +9,11 @@ certification_type: attested
 description: Enboarder에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 458767ad233454f08036dacfa5cf418505be4922
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404716"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289138"
 ---
 # <a name="enboarder"></a>Enboarder
 
@@ -77,7 +77,7 @@ Enboarder가 Microsoft에 제공하는 정보:
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 대화를 만들고 메시지를 보내기 위해 | 아니오 |  |
+>| 대화를 만들고 메시지를 보내기 위해 | 아니요 |  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터

@@ -9,11 +9,11 @@ certification_type: attested
 description: Lucidspark, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: e79bed420b3081ae31a0abda25299610eeb1bc5f
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525512"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287437"
 ---
 # <a name="lucidspark"></a>Lucidspark
 
@@ -59,7 +59,7 @@ Lucid Software에서 Microsoft에 제공하는 정보:
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 전자 메일 | 위임 | 이름 및 전자 메일 주소입니다. | 전자 메일, openid 및 프로필 권한을 통해 Lucidspark는 사용자의 열린 토큰을 생성하고 필요한 경우 Lucidspark 계정을 등록할 수 있는 충분한 기본 정보를 얻을 수 있습니다. Microsoft에서 제공된 데이터를 확인하기 위해 응답이 서명된 공개 키를 요청합니다. SSO 흐름의 일부로 다른 데이터는 Microsoft로부터 수신되거나 Microsoft로 전송되지 않습니다. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
 >| openid | 위임 | 이름 및 전자 메일 주소입니다. | 전자 메일, openid 및 프로필 권한을 통해 Lucidspark는 사용자의 열린 토큰을 생성하고 필요한 경우 Lucidspark 계정을 등록할 수 있는 충분한 기본 정보를 얻을 수 있습니다. Microsoft에서 제공된 데이터를 확인하기 위해 응답이 서명된 공개 키를 요청합니다. SSO 흐름의 일부로 다른 데이터는 Microsoft로부터 수신되거나 Microsoft로 전송되지 않습니다. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
->| profile | 위임 | 이름 및 전자 메일 주소입니다. | 전자 메일, openid 및 프로필 권한을 통해 Lucidspark는 사용자의 열린 토큰을 생성하고 필요한 경우 Lucidspark 계정을 등록할 수 있는 충분한 기본 정보를 얻을 수 있습니다. Microsoft에서 제공된 데이터를 확인하기 위해 응답이 서명된 공개 키를 요청합니다. SSO 흐름의 일부로 다른 데이터는 Microsoft로부터 수신되거나 Microsoft로 전송되지 않습니다. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
+>| 프로필 | 위임 | 이름 및 전자 메일 주소입니다. | 전자 메일, openid 및 프로필 권한을 통해 Lucidspark는 사용자의 열린 토큰을 생성하고 필요한 경우 Lucidspark 계정을 등록할 수 있는 충분한 기본 정보를 얻을 수 있습니다. Microsoft에서 제공된 데이터를 확인하기 위해 응답이 서명된 공개 키를 요청합니다. SSO 흐름의 일부로 다른 데이터는 Microsoft로부터 수신되거나 Microsoft로 전송되지 않습니다. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

@@ -9,11 +9,11 @@ certification_type: attested
 description: Kazoo에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 2da998bb93966de9e3f800989c579d4fe75a2831
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404835"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288901"
 ---
 # <a name="kazoo"></a>Kazoo
 

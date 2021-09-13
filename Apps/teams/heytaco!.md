@@ -9,11 +9,11 @@ certification_type: attested
 description: HeyTaco!, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 7b4641b33166043dd311bdd89568c9eaea4b87a1
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521641"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288154"
 ---
 # <a name="heytaco"></a>HeyTaco!
 
@@ -58,7 +58,7 @@ HeyTaco에서 제공하는 정보! Microsoft에:
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| 전자 메일 | 위임 | Slack에서 MS로의 데이터 전송에 대해 사용자를 일치 Teams | Slack에서 MS 팀으로의 데이터 전송에 대해 사용자를 일치하도록 하는 데 사용됩니다. | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 >| openid | 위임 | 를 사용하여 HeyTaco에 로그인합니다. | 를 사용하여 HeyTaco에 로그인합니다. | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
->| profile | 위임 | 사용자 이름, 프로필 이미지, 타임존 오프셋, 테넌트 ID 및 팀 ID를 캡처하는 데 사용됩니다. | 사용자 이름, 아바타, 타임존 오프셋, 테넌트 ID 및 팀 ID를 캡처하는 데 사용됩니다. | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
+>| 프로필 | 위임 | 사용자 이름, 프로필 이미지, 타임존 오프셋, 테넌트 ID 및 팀 ID를 캡처하는 데 사용됩니다. | 사용자 이름, 아바타, 타임존 오프셋, 테넌트 ID 및 팀 ID를 캡처하는 데 사용됩니다. | [be8d11cf-265a-4974-9912-4ff28c29fc21](https://docs.microsoft.com/microsoft-365-app-certification/azure/be8d11cf-265a-4974-9912-4ff28c29fc21) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

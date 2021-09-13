@@ -9,11 +9,11 @@ certification_type: attested
 description: LawToolBox에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 9023d2321d5c6a6a62c8480538cc5bf8315b2fc9
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525522"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288738"
 ---
 # <a name="lawtoolbox"></a>LawToolBox
 
@@ -78,7 +78,7 @@ Microsoft에 LawToolBox.com 제공한 정보:
 >| User.ReadWrite | 위임 |  | 읽기/쓰기가 필요한 사용자의 정보입니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 >| User.ReadWrite.All | 위임 |  | 읽기/쓰기가 필요한 사용자의 정보입니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 >| 전자 메일 | 위임 | Email, Office365 UserID, ObjectID, TenantID. | 사용자의 전자 메일 주소를 읽습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
->| profile | 위임 |  | 사용자 프로필 정보를 읽습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| 프로필 | 위임 |  | 사용자 프로필 정보를 읽습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

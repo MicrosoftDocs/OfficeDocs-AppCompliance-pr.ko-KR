@@ -9,11 +9,11 @@ certification_type: attested
 description: Datto Workplace, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 4ef677fa279ae9caed2b559ef587b3da7d8b5ab7
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521851"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289357"
 ---
 # <a name="datto-workplace"></a>Datto 작업 공간
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: InStation, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 1db56e204dc2fd83916a9ec6f2b20a13e02ed357
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521811"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286970"
 ---
 # <a name="instation"></a>InStation
 
@@ -65,7 +65,7 @@ ms.locfileid: "53521811"
 >| 전자 메일 | 위임 | 앱이 첫 번째 로그인에 대한 관리자&#180;정보를 캡처할 수 있습니다. | 앱이 첫 번째 로그인에 대한 관리자&#180;정보를 캡처할 수 있습니다. | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
 >| offline_access | 위임 | stores: 토큰 및 새로 고침 토큰. 앱이 MS 토큰에 대한 새로 고침을 수행할 수 있습니다. | stores: 토큰 및 새로 고침 토큰. 앱이 MS 토큰에 대한 새로 고침을 수행할 수 있습니다. | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
 >| openid | 위임 | 앱이 첫 번째 단계에서 조직에 로그인할 수 있습니다. | 앱이 첫 번째 단계에서 조직에 로그인할 수 있습니다. | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
->| profile | 위임 | 앱이 첫 번째 로그인에 대한 관리자&#180;정보를 캡처할 수 있습니다. | 앱이 첫 번째 로그인에 대한 관리자&#180;정보를 캡처할 수 있습니다. | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
+>| 프로필 | 위임 | 앱이 첫 번째 로그인에 대한 관리자&#180;정보를 캡처할 수 있습니다. | 앱이 첫 번째 로그인에 대한 관리자&#180;정보를 캡처할 수 있습니다. | [0c841985-9919-4c0a-b87d-b06b301148b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c841985-9919-4c0a-b87d-b06b301148b3) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

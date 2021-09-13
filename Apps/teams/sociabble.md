@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 Sociabble, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 5991267fc01ca4d863740581c641ac8b72e10cdf
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404765"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286354"
 ---
 # <a name="sociabble"></a>Sociabble
 
@@ -63,11 +63,11 @@ Sociabble에서 Microsoft에 제공한 정보:
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Azure 번역기 | 아니오 |  |  |  |  |
+>| Azure 번역기 | 아니요 |  |  |  |  |
 >| Azure Text Analytics | 아니요 |  |  |  |  |
->| Azure 콘텐츠 중재자 | 아니오 |  |  |  |  |
+>| Azure 콘텐츠 중재자 | 아니요 |  |  |  |  |
 >| Azure 컴퓨터 비전 | 아니요 |  |  |  |  |
->| Azure Bing 검색 | 아니오 |  |  |  |  |
+>| Azure Bing 검색 | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
@@ -129,7 +129,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
 | 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니오 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |

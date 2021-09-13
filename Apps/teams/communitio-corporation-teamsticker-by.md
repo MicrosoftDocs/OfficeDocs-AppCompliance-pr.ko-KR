@@ -9,11 +9,11 @@ certification_type: attested
 description: Communitio의 TeamSticker에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 871c410b520fc7b8697942a4921104329a239338
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521861"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285877"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker by Communitio
 
@@ -63,7 +63,7 @@ Communitio Corporation에서 Microsoft에 제공하는 정보:
 >| User.Read.All | 둘 다 | Application은 사용자의 objectId/email/name을 수집하여 카드를 보낼 사용자를 검색합니다. | 이 경우 응용 프로그램은 데이터를 저장하지 않습니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
 >| offline_access | 위임 | Application은 백그라운드에서 User.Read/ User.Read.All을 사용하기 위해 사용자의 api 토큰을 수집합니다. | 응용 프로그램은 백그라운드에서 User.Read/ User.Read.All을 사용하기 위해 사용자의 api 토큰을 저장합니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
 >| openid | 위임 | 데이터가 수집되지 않습니다. | 응용 프로그램에서 이 권한을 사용하여 openid로 로그인합니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
->| profile | 위임 | 응용 프로그램은 사용자의 objectId/ email / name을 수집합니다. | 응용 프로그램은 사용자의 objectId/ email / name을 저장합니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
+>| 프로필 | 위임 | 응용 프로그램은 사용자의 objectId/ email / name을 수집합니다. | 응용 프로그램은 사용자의 objectId/ email / name을 저장합니다. | [bceca1f0-723f-44d0-b732-b3506c0a641d](https://docs.microsoft.com/microsoft-365-app-certification/azure/bceca1f0-723f-44d0-b732-b3506c0a641d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 

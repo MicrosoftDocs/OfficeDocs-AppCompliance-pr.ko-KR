@@ -9,11 +9,11 @@ certification_type: attested
 description: iPlanner에 사용할 수 있는 모든 보안 및 규정 Pro Office 365, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 41852c52286f1bbc9b3e8f7a2c8ea348b1e86bc6
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275517"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288514"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -62,7 +62,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 >| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하여 특정 사용자의 버킷 및 스위빙 라인을 업데이트합니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
 >| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하면 특정 사용자의 버킷 및 스위빙 라인이 업데이트됩니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
 >| User.ReadBasic.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용 권한을 확인하고 플래너 작업을 다운로드하고 새 작업을 추가하여 특정 사용자에 대한 버킷 및 스위니어 라인을 업데이트합니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
->| profile | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하면 특정 사용자의 버킷 및 스위빙 라인이 업데이트됩니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
+>| 프로필 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 플래너 작업을 시작하고 새 작업을 추가하면 특정 사용자의 버킷 및 스위빙 라인이 업데이트됩니다. | a6f5c2f4-0bc2-48bf-8afe-6c93583a152b |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 

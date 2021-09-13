@@ -9,11 +9,11 @@ certification_type: attested
 description: MeasureUp, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 066526334e1936de0348f06f56239eab3370d0e0
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407638"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285781"
 ---
 # <a name="measureup"></a>MeasureUp
 
@@ -35,7 +35,7 @@ Media Interactiva 솔루션에서 Microsoft에 제공하는 정보:
 | 앱 이름 | MeasureUp |
 | ID | WA200003111 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | Media Interactiva 솔루션 |
+| 파트너 회사 이름 | Media Interactiva Solutions |
 | 파트너 웹 사이트의 URL | [https://www.measureup.com](https://www.measureup.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://docs.measureup.com](https://docs.measureup.com) |
 | 개인 정보 취급 방침의 URL | [https://www.measureup.com/privacy-policy](https://www.measureup.com/privacy-policy) |
@@ -91,7 +91,7 @@ Media Interactiva 솔루션에서 Microsoft에 제공하는 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니오
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -127,7 +127,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에 기밀 클라이언트가 있나요? | 아니요 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/><br/> |
-| 앱에서 웹 API를 노출하나요? | 아니오 |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
 | 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 

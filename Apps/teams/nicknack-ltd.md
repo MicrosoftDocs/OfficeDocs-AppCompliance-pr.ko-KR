@@ -9,11 +9,11 @@ certification_type: attested
 description: NickNack에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: f36e6b05401191f697196a04252d90d65a3d50e7
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58835894"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288098"
 ---
 # <a name="nicknack"></a>NickNack
 

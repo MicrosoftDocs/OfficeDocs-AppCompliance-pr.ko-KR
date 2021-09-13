@@ -9,11 +9,11 @@ certification_type: attested
 description: ADI에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: ad4b6c68e867a057a3b2b6dc85d5016fee92f3ed
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282081"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285989"
 ---
 # <a name="adi"></a>ADI
 

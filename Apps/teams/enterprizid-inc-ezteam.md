@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 ezTeam, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 6c4ad813b21963005857c69a05727ca261a73f9c
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525662"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289133"
 ---
 # <a name="ezteam"></a>ezTeam
 
@@ -80,7 +80,7 @@ EnterprizID Inc에서 Microsoft에 제공한 정보:
 >| User.Read.All | application | 앱에서 로그인한 사용자 없이 사용자 프로필을 읽을 수 있도록 허용합니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 >| offline_access | 위임 | 사용자가 현재 앱을 사용하지 않는 경우에도 앱에서 액세스 권한을 부여한 데이터를 보고 업데이트할 수 있습니다.  | 봇 알림 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 >| openid | 위임 | 사용자가 자신의 직장 또는 학교 계정으로 앱에 로그인할 수 있도록 허용하고 앱에서 기본 사용자 프로필 정보를 볼 수 있습니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
->| profile | 위임 | 앱에서 사용자의 기본 프로필(이름, 사진, 사용자 이름)을 볼 수 있도록 허용합니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
+>| 프로필 | 위임 | 앱에서 사용자의 기본 프로필(이름, 사진, 사용자 이름)을 볼 수 있도록 허용합니다. | 해당 없음 | [2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b](https://docs.microsoft.com/microsoft-365-app-certification/azure/2b1fb18f-54e4-4b08-9ef2-5610d0fffa8b) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

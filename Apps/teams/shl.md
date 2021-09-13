@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 SHL, 데이터 처리 정책, 해당 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 5c5b98779e7c038d809a8ecaee60fee1cdf0ca71
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53610020"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286138"
 ---
 # <a name="shl"></a>SHL
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: Canon EMEA Service Cost Calculator for B2B Partners, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: a5e1d55a50474f1085b6ac856a29c74c8cb0e2a5
-ms.sourcegitcommit: 34fde42f42c623b37d1db154bf348bdc8b76a8c7
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58407593"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286797"
 ---
 # <a name="canon-emea-service-cost-calculator-for-b2b-partners"></a>B2B 파트너용 Canon EMEA 서비스 비용 계산기
 

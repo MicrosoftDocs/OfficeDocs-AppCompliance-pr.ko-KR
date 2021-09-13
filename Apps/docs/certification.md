@@ -7,11 +7,11 @@ keywords: appSource에 대한 앱 Microsoft 365 증명
 ms.topic: conceptual
 ms.service: attestation
 ms.openlocfilehash: 9f93edb4bead62eb626f6b65544fbf1a35ad48dd
-ms.sourcegitcommit: 854938b0495a6a30c2d03a6645e32ca52b4ce295
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "58922985"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287666"
 ---
 # <a name="complete-microsoft-365-certification"></a>인증 Microsoft 365 완료
 
@@ -53,7 +53,7 @@ Microsoft 365 인증을 위해서는 보안 및 규정 준수 프로세스 및 �
 
 
 
-## <a name="learn-more"></a>자세한 정보
+## <a name="learn-more"></a>자세히 알아보기
 
 * [Microsoft 365 앱 준수 프로그램 개요](~/overview.md)  
 * [확인이란 Publisher 무엇입니까?](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)

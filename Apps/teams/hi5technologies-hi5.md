@@ -9,11 +9,11 @@ certification_type: attested
 description: Hi5에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 1356b3e31e309379e1943dc5ca59e10c72c23410
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525602"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285834"
 ---
 # <a name="hi5"></a>Hi5
 
@@ -61,7 +61,7 @@ Microsoft에 Hi5Technologies에서 제공하는 정보:
 >| 전자 메일 | 위임 | 사용자 세션 정보는 Teams 저장하며 사용자는 알림을 추가하여 이 정보를 승인해야 합니다(언제든지 제거할 수 있습니다). 다른 정보는 저장되지 않습니다. | 서버에 대한 SSO 로그인 및 인증에 필요 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
 >| offline_access | 위임 | 사용자 세션 정보는 Teams 저장하며 사용자는 알림을 추가하여 이 정보를 승인해야 합니다(언제든지 제거할 수 있습니다). 다른 정보는 저장되지 않습니다. | 사용자에게 올바른 정보가 표시될 수 있으며 동일한 회사/작업 영역에 가입하는 다른 사용자에게 올바른 정보를 보낼 수 있습니다. | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
 >| openid | 위임 | 사용자 세션 정보는 Teams 저장하며 사용자는 알림을 추가하여 이 정보를 승인해야 합니다(언제든지 제거할 수 있습니다). 다른 정보는 저장되지 않습니다. | 서버에 대한 SSO 로그인 및 인증에 필요 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
->| profile | 위임 | 사용자 세션 정보는 Teams 저장하며 사용자는 알림을 추가하여 이 정보를 승인해야 합니다(언제든지 제거할 수 있습니다). 다른 정보는 저장되지 않습니다. | 서버에 대한 SSO 로그인 및 인증에 필요 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
+>| 프로필 | 위임 | 사용자 세션 정보는 Teams 저장하며 사용자는 알림을 추가하여 이 정보를 승인해야 합니다(언제든지 제거할 수 있습니다). 다른 정보는 저장되지 않습니다. | 서버에 대한 SSO 로그인 및 인증에 필요 | [7cb50e3e-0427-409e-90d2-638eb28217c3](https://docs.microsoft.com/microsoft-365-app-certification/azure/7cb50e3e-0427-409e-90d2-638eb28217c3) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

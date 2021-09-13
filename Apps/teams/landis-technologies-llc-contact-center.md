@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 연락처 센터, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 57fd0d98d6c7139c6356b4c23a6ac8a21c48e6b6
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521503"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286573"
 ---
 # <a name="contact-center"></a>Contact Center
 
@@ -57,7 +57,7 @@ Landis Technologies LLC에서 Microsoft에 제공하는 정보:
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Calls.AccessMedia.All | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 큐, IVRS 보고 &amp; 허용 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
->| Calls.Ini. 모두 | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 큐, IVRS 보고 &amp; 허용 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
+>| Calls.Initiate.All | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 큐, IVRS 보고 &amp; 허용 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
 >| Calls.InitiateGroupCall.All | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 큐, IVRS 보고 &amp; 허용 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
 >| Calls.JoinGroupCall.All | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 큐, IVRS 보고 &amp; 허용 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
 >| Calls.JoinGroupCallAsGuest.All | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 큐, IVRS 보고 &amp; 허용 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
@@ -66,7 +66,7 @@ Landis Technologies LLC에서 Microsoft에 제공하는 정보:
 >| User.Read | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 큐, IVRS 보고 &amp; 허용 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
 >| User.Read.All | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 큐, IVRS 보고 &amp; 허용 | [341e195c-b261-4b05-8ba5-dd4a89b1f3e7](https://docs.microsoft.com/microsoft-365-app-certification/azure/341e195c-b261-4b05-8ba5-dd4a89b1f3e7) |
 >| Calls.AccessMedia.All | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 녹음/녹화 &amp; 감정 추적 허용 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
->| Calls.Ini. 모두 | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 녹음/녹화 &amp; 감정 추적 허용 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
+>| Calls.Initiate.All | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 녹음/녹화 &amp; 감정 추적 허용 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
 >| Calls.InitiateGroupCall.All | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 녹음/녹화 &amp; 감정 추적 허용 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
 >| Calls.JoinGroupCall.All | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 녹음/녹화 &amp; 감정 추적 허용 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |
 >| Calls.JoinGroupCallAsGuest.All | application | 통화 정보 보고, 통화 감정 &amp; 기록 | 통화 녹음/녹화 &amp; 감정 추적 허용 | [3a08b250-02ce-4316-94f7-069f4ae0c41b](https://docs.microsoft.com/microsoft-365-app-certification/azure/3a08b250-02ce-4316-94f7-069f4ae0c41b) |

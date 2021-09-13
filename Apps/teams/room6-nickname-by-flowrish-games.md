@@ -9,13 +9,13 @@ certification_type: attested
 description: Flowrish 게임, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보로 별명에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3e4c0164d4aee94b2019af76aa3b134304f3a471
-ms.sourcegitcommit: 23a1fdeaf3905ab5f7acfbb378c7c23aaedcdc29
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58873906"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287357"
 ---
-# <a name="nickname-by-flowrish-games"></a>흐름 게임 별명
+# <a name="nickname-by-flowrish-games"></a>flowrish 게임의 별칭
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ room6에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 흐름 게임 별명 |
+| 앱 이름 | flowrish 게임의 별칭 |
 | ID | WA200003202 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | room6 |

@@ -9,11 +9,11 @@ certification_type: attested
 description: ServiceDesk Plus for Email, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 39ee4450c2545d1cc891464d7946cde4c4c3b53a
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527864"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288829"
 ---
 # <a name="servicedesk-plus-for-email"></a>ServiceDesk Plus for Email
 
@@ -63,7 +63,7 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 >| User.ReadBasic.All | 위임 | 전자 메일 ID, 이름, 직원 ID, 직위, 전화, 모바일, 사이트, 부서, 로칭, 사용자의 프로필 사진 | 사용자 기본 정보를 사용자 기본 정보에서 가져올 수 Azure Active Directory. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 >| 전자 메일 | 위임 | 사용자의 전자 메일 ID입니다. | 사용자의 전자 메일 주소를 볼 수 있습니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 >| offline_access | 위임 |  | 액세스 권한을 부여한 데이터에 대한 액세스를 유지 관리합니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
->| profile | 위임 |  | 사용자의 기본 프로필을 시청하세요. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
+>| 프로필 | 위임 |  | 사용자의 기본 프로필을 시청하세요. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6d7187a-b437-4eca-bbc5-c1331609fe07) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

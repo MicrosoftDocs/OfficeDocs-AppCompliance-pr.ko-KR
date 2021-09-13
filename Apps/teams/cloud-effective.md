@@ -9,13 +9,13 @@ certification_type: attested
 description: 클라우드 유효, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 44aebe1c15b2c4ef16f485dc22b82f8bee8e9a00
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404965"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285925"
 ---
-# <a name="cloud-effective"></a>클라우드 유효
+# <a name="cloud-effective"></a>Cloud Effective
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "58404965"
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 클라우드 유효 |
+| 앱 이름 | Cloud Effective |
 | ID | WA200002408 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 클라우드 유효 |
+| 파트너 회사 이름 | Cloud Effective |
 | 파트너 웹 사이트의 URL | [https://CloudEffective.com](https://CloudEffective.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://cloudeffective.com/products-pricing](https://cloudeffective.com/products-pricing) |
 | 개인 정보 취급 방침의 URL | [https://cloudeffective.com/privacy-policy/](https://cloudeffective.com/privacy-policy/) |

@@ -9,11 +9,11 @@ certification_type: attested
 description: Fabasoft Cloud Office 추가 기능, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: ab18964a27a5443fc1116c4c18d5e94830d3dc89
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404751"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287749"
 ---
 # <a name="fabasoft-cloud-office-add-in"></a>Fabasoft 클라우드 Office 추가 기능
 

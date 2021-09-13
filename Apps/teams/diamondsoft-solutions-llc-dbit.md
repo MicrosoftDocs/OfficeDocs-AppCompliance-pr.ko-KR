@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 DBit, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: f3adc828ee3a7b77b54d49c401375a9671a496e6
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525722"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286962"
 ---
 # <a name="dbit"></a>DBit
 
@@ -60,7 +60,7 @@ Diamondsoft Solutions, LLC에서 Microsoft에 제공하는 정보:
 >| 전자 메일 | 위임 | 시스템 또는 데이터베이스에 Graph 정보를 저장하지 않습니다. | 사용자의 전자 메일 주소 보기 | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
 >| offline_access | 위임 | 시스템 또는 데이터베이스에 Graph 정보를 저장하지 않습니다. | 액세스 권한이 부여된 데이터에 대한 액세스 권한 유지 | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
 >| openid | 위임 | 시스템 또는 데이터베이스에 Graph 정보를 저장하지 않습니다. | 사용자 로그인 | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
->| profile | 위임 | 시스템 또는 데이터베이스에 Graph 정보를 저장하지 않습니다. | 사용자의 기본 프로필 보기 | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
+>| 프로필 | 위임 | 시스템 또는 데이터베이스에 Graph 정보를 저장하지 않습니다. | 사용자의 기본 프로필 보기 | [1533d702-7604-463a-9fa3-63077c425e76](https://docs.microsoft.com/microsoft-365-app-certification/azure/1533d702-7604-463a-9fa3-63077c425e76) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

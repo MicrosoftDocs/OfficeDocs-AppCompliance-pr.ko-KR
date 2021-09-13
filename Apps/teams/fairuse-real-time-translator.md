@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 실시간 번역기, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: ab70701438884aef3939f49bf3db8d6eacd03d8a
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53610100"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289337"
 ---
 # <a name="real-time-translator"></a>실시간 번역기
 
@@ -35,7 +35,7 @@ Fairuse에서 Microsoft에 제공한 정보:
 | 앱 이름 | 실시간 번역기 |
 | ID | WA200002171 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 공정 |
+| 파트너 회사 이름 | 공정한 사용 |
 | 파트너 웹 사이트의 URL | [https://fairuse.jp](https://fairuse.jp) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://fairuse.jp/download/RTTManual/RTTApp_Browser_Manual...](https://fairuse.jp/download/RTTManual/RTTApp_Browser_Manual_JP.pdf) |
 | 개인 정보 취급 방침의 URL | [https://fairuse.jp/RTTChatApp_Privacypolicy.html](https://fairuse.jp/RTTChatApp_Privacypolicy.html) |

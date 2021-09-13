@@ -9,13 +9,13 @@ certification_type: attested
 description: 밝은 미리 알림, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 818846cb7b26fa5708e1997c7937d499590ab806
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404975"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287045"
 ---
-# <a name="bright-remind-me"></a>밝은 미리 알림
+# <a name="bright-remind-me"></a>Bright Remind Me
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Chat Apps, LLC에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 밝은 미리 알림 |
+| 앱 이름 | Bright Remind Me |
 | ID | WA200003002 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Chat Apps, LLC |

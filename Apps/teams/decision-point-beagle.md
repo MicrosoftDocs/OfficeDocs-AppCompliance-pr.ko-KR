@@ -9,13 +9,13 @@ certification_type: attested
 description: Beagle에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: b2984bceaa4a6c8871c8413aaf19e4f52c7d620c
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53607634"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286997"
 ---
-# <a name="beagle"></a>비글
+# <a name="beagle"></a>Beagle
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Microsoft에 대한 의사 결정 지점에서 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 비글 |
+| 앱 이름 | Beagle |
 | ID | WA200002687 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 결정 지점 |
+| 파트너 회사 이름 | 의사 결정 지점 |
 | 파트너 웹 사이트의 URL | [https://decisionpoint.ai](https://decisionpoint.ai) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://beagleanalytics.ai](https://beagleanalytics.ai) |
 | 개인 정보 취급 방침의 URL | [https://beagleanalytics.ai/wp-content/uploads/2021/02/Beagl...](https://beagleanalytics.ai/wp-content/uploads/2021/02/Beagle-Privacy-Policy.pdf) |

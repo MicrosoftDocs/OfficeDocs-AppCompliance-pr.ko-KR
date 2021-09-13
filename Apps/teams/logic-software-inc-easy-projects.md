@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 쉬운 프로젝트, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: c9c544f6c166a89c334a856082598097058a25a0
-ms.sourcegitcommit: a44420a99a1a3a9d0e49f4be66f266e2d4ca7bbb
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52552979"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288437"
 ---
 # <a name="easy-projects"></a>Easy Projects
 

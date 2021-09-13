@@ -7,11 +7,11 @@ keywords: 앱 증명 인증 365 설문지 앱소싱
 ms.topic: conceptual
 ms.service: attestation
 ms.openlocfilehash: 286d14e580bdb9f24ccf1754685ebeeaef6d0c11
-ms.sourcegitcommit: eae0e45c87fa8f1a87257e1e38122228e6970ba9
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58390462"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287138"
 ---
 # <a name="complete-publisher-attestation"></a>전체 Publisher Attestation
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: Wisembly에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 66b0fcb7ef7dd5e178eebadfdbfc5136edfb0919
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53607635"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286509"
 ---
 # <a name="wisembly"></a>Wisembly
 

@@ -9,13 +9,13 @@ certification_type: attested
 description: CSA STAR 레지스트리의 팀플렉트, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 5ef5eed446743b2c281b8d8f7c3132de75b31b64
-ms.sourcegitcommit: b1e752ea527ba6049cdc4f5d12cbd5b4dbd7f5b3
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58673205"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286170"
 ---
-# <a name="teamflect"></a>팀플렉트
+# <a name="teamflect"></a>Teamflect
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Grepsi Software에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 팀플렉트 |
+| 앱 이름 | Teamflect |
 | ID | WA200001860 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Grepsi Software |
@@ -74,7 +74,7 @@ Grepsi Software에서 Microsoft에 제공한 정보:
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 봇 응용 프로그램은 최종 사용자에게 알림을 전송합니다. 이러한 알림의 일부로, 봇은 데이터를 처리하고 처리하지만 이 봇은 Microsoft Azure Datacenter에서 호스팅되어 외부 또는 제3자 서비스로 EUII 데이터를 전송하지 않습니다. | 아니오 |  |
+>| 봇 응용 프로그램은 최종 사용자에게 알림을 전송합니다. 이러한 알림의 일부로, 봇은 데이터를 처리하고 처리하지만 이 봇은 Microsoft Azure Datacenter에서 호스팅되어 외부 또는 제3자 서비스로 EUII 데이터를 전송하지 않습니다. | 아니요 |  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -93,7 +93,7 @@ Grepsi Software에서 Microsoft에 제공한 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니오
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -130,7 +130,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에 기밀 클라이언트가 있나요? | 예 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
-| 앱에서 웹 API를 노출하나요? | 아니오 |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
 | 앱에서 미리 보기 API를 사용하나요? | 예 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 

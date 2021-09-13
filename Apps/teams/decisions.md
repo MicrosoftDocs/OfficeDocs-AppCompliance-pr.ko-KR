@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 의사 결정, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 19a710fc8edbcb5243b81755ce3d61e8bcaa5b25
-ms.sourcegitcommit: 3660f89e183c638979a31c295ac059daa6c387dd
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58391901"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287005"
 ---
 # <a name="decisions"></a>결정
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: 검증 도우미, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: ab2bc82f8dfff62649d4eac833be2136c57f6821
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275450"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287789"
 ---
 # <a name="verifier"></a>검증 검증기
 
@@ -60,7 +60,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 >| User.Read | 위임 | 데이터가 저장되지 않습니다. | 로그인: officeatwork 앱에서 사용자의 기본 속성을 읽을 수 있도록 합니다. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
 >| offline_access | 위임 | 데이터가 저장되지 않습니다. | 로그인: 새로 고침 토큰을 통해 자동 로그인을 사용하도록 설정하려면 사용자가 officeatwork 앱을 실행하기 전마다 수동으로 로그인해야 합니다. 이 범위는 SSO를 사용할 수 없는 호스트 응용 프로그램에만 필요합니다. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
 >| openid | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 사용자가 조직 및/또는 Microsoft 계정을 사용하여 officeatwork 앱에 로그인할 수 있도록 합니다. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
->| profile | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 로그인한 사용자를 표시하기 위한 것입니다. 이렇게 하면 officeatwork 앱에 로그인하는 데 사용된 계정을 사용자에게 확인/확인하는 데 도움이 됩니다. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
+>| 프로필 | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 로그인한 사용자를 표시하기 위한 것입니다. 이렇게 하면 officeatwork 앱에 로그인하는 데 사용된 계정을 사용자에게 확인/확인하는 데 도움이 됩니다. | 8cf0fbc9-28f7-4bfb-94db-237b049fcbf7 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 

@@ -9,11 +9,11 @@ certification_type: attested
 description: 에 대한 모든 보안 및 규정 준수 정보로, 이 정보의 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 확인할 수 있습니다.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 8d7e2fce37cf43fe52cb050e85aa9e4fd5e00802
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525452"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287378"
 ---
 # <a name="secretarybot"></a>SecretaryBot
 
@@ -64,7 +64,7 @@ MySecretary에서 Microsoft에 제공하는 정보:
 >| User.Read | 위임 | 사용자 분석을 위한 사용자 이름, 도시, 국가 및 langauge를 저장합니다. 고객에게 연락하기 위한 전자 메일을 저장합니다. 전자 메일 주소를 사용한 적이 없지만 지원에 사용할 수 있습니다. | 사용자의 국가 및 기본 설정 언어를 찾으려고 합니다. MailboxSettings.Read에 대한 백업에 사용됩니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| 전자 메일 | 위임 | 위 내용을 참조하세요. | 전자 메일을 저장합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| openid | 위임 |  | OpenID 인증의 경우 | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| profile | 위임 | MS ID 시스템에서 사용자의 고유 ID를 식별하기 위해 OID를 저장합니다. | 사용자 이름 및 OID를 들이기. OID를 사용하여 향후 추가 Outlook 연결해 보아야 합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 프로필 | 위임 | MS ID 시스템에서 사용자의 고유 ID를 식별하기 위해 OID를 저장합니다. | 사용자 이름 및 OID를 들이기. OID를 사용하여 향후 추가 Outlook 연결해 보아야 합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

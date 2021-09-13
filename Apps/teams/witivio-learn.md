@@ -9,11 +9,11 @@ certification_type: attested
 description: Learn, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: f931e75f0a5736ffa49c7366d9928db774c4bdbf
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527534"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289229"
 ---
 # <a name="learn"></a>학습
 
@@ -59,7 +59,7 @@ Witivio에서 Microsoft에 제공하는 정보:
 >| User.Read | 위임 | 해당 없음 | 권한 부여에 대한 UPN 및 AAD ID를 수집합니다. | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
 >| User.ReadBasic.All | 위임 | 해당 없음 | 권한 부여에 대한 UPN 및 AAD ID를 수집합니다. | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
 >| openid | 위임 | 해당 없음 | 권한 부여에 대한 UPN 및 AAD ID를 수집합니다. | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
->| profile | 위임 | 해당 없음 | 권한 부여에 대한 UPN 및 AAD ID를 수집합니다. | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
+>| 프로필 | 위임 | 해당 없음 | 권한 부여에 대한 UPN 및 AAD ID를 수집합니다. | [8c5c0060-2892-4355-b0db-661f206028a9](https://docs.microsoft.com/microsoft-365-app-certification/azure/8c5c0060-2892-4355-b0db-661f206028a9) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

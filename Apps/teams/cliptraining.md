@@ -9,11 +9,11 @@ certification_type: attested
 description: ClipTraining, 해당 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 5d59d4cbd2d28f1c906e541e7ffc78311c12ffb6
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525772"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59285933"
 ---
 # <a name="cliptraining"></a>ClipTraining
 
@@ -60,7 +60,7 @@ ClipTraining에서 Microsoft에 제공하는 정보:
 >| 전자 메일 | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
 >| offline_access | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
 >| openid | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
->| profile | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
+>| 프로필 | 위임 | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | 전자 메일 주소, 이름, 사용자 로그인 및 서신의 성  | [af089bb5-48be-413d-ad34-53c32799da7d](https://docs.microsoft.com/microsoft-365-app-certification/azure/af089bb5-48be-413d-ad34-53c32799da7d) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

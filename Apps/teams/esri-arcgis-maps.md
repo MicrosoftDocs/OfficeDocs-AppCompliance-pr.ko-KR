@@ -9,13 +9,13 @@ certification_type: attested
 description: CSA STAR 레지스트리의 ArcGIS 지도, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: b8c18c7116dad546223fe3b799344d973fb1bc23
-ms.sourcegitcommit: ae66ada4d4513555375f046c726093b0947583ee
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53774938"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289117"
 ---
-# <a name="arcgis-maps"></a>ArcGIS 지도
+# <a name="arcgis-maps"></a>ArcGIS Maps
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Esri에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | ArcGIS 지도 |
+| 앱 이름 | ArcGIS Maps |
 | ID | WA200002859 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Esri |

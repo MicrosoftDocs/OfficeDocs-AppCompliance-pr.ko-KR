@@ -7,11 +7,11 @@ keywords: 앱 인증 팀 Microsoft 365 준수 m365
 ms.topic: conceptual
 ms.service: attestation
 ms.openlocfilehash: b0a207bd8fbe1834e03c08eecb82d3552c75a182
-ms.sourcegitcommit: f33609288c6c59af423367dce2eac3e261c1d297
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58373782"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287669"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 인증 제출 가이드
 
@@ -54,7 +54,7 @@ Microsoft 365 인증 프로그램에 참여하면 귀하는 이러한 추가 약
 >* Office 추가 기능(Word, Excel, PowerPoint, Outlook, Project, OneNote)
 >* WebApps
 
-## <a name="prerequisites"></a>필수 구성 요소
+## <a name="prerequisites"></a>필수 조건
 
 ### <a name="publisher-attestation"></a>게시자 증명
 

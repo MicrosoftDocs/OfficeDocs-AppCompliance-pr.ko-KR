@@ -9,11 +9,11 @@ certification_type: attested
 description: PlayQuiz - Aprende Juega, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 &amp; 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 2d538edf2b96311ea7f2611a33d2362786453ee3
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53528144"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286090"
 ---
 # <a name="playquiz---aprende-amp-juega"></a>PlayQuiz - Aprende &amp; Juega
 
@@ -60,7 +60,7 @@ TeamsChamp에서 Microsoft에 제공하는 정보:
 >| User.Read | 위임 | 사용자의 이름, 전자 메일 및 프로필 사진 | 전자 메일, 앱과 이름을 보내 앱에 표시 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
 >| User.ReadBasic.All | 위임 | 이름, 전자 메일 및 프로필 사진 | 해당 데이터를 저장하지 말고 leaderboad(응용 프로그램)에 표시하기 위해 해당 데이터를 읽음 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
 >| openid | 위임 | 사용자의 기본 프로필 보기 | 전자 메일, 앱 및 이름에서 앱에 표시하기 위해 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
->| profile | 위임 | 사용자 기본 프로필 읽기 | 전자 메일, 앱 및 이름에서 앱에 표시하기 위해 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
+>| 프로필 | 위임 | 사용자 기본 프로필 읽기 | 전자 메일, 앱 및 이름에서 앱에 표시하기 위해 | [f3277edf-4f66-4e94-853b-cc1f1e2914f8](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3277edf-4f66-4e94-853b-cc1f1e2914f8) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

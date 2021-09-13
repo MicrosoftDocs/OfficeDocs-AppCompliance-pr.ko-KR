@@ -9,11 +9,11 @@ certification_type: attested
 description: TackleBox에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: bf5841d5b51470b6aaab29f303b1ee1c5c5a0141
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53521469"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289058"
 ---
 # <a name="tacklebox"></a>TackleBox
 
@@ -61,7 +61,7 @@ Microsoft에 Insiten에서 제공하는 정보:
 >| Sites.Read.All | 위임 | 사용자가 개인 Excel 채널에 있는 파일을 찾아서 연결하도록 Teams 수 있습니다. | 없음 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 >| User.Read | 위임 | 앱에서 로그인한 사용자의 프로필을 읽고 알림에 대한 전자 메일 주소를 읽습니다. | 전자 메일 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 >| openid | 위임 | 사용자가 계정으로 응용 프로그램에 로그인할 Microsoft 365 있습니다. | 사용자의 테넌트 ID 및 개체 ID | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
->| profile | 위임 | 앱에서 사용자의 기본 프로필(이름, 사용자 이름)을 표시하여 공동 작업을 표시하도록 허용합니다. | UPN, 이름, 성 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
+>| 프로필 | 위임 | 앱에서 사용자의 기본 프로필(이름, 사용자 이름)을 표시하여 공동 작업을 표시하도록 허용합니다. | UPN, 이름, 성 | [485936ec-d15d-4a17-9f7d-2eeb5ea43b94](https://docs.microsoft.com/microsoft-365-app-certification/azure/485936ec-d15d-4a17-9f7d-2eeb5ea43b94) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

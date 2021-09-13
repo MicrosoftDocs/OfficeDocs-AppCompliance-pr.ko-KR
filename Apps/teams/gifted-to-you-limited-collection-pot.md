@@ -9,13 +9,13 @@ certification_type: attested
 description: CSA STAR 레지스트리의 수집 포트, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 64d48d55cdbb437697f6d001636ed505b4fcbc59
-ms.sourcegitcommit: 0f47d02fff001cd7cba6a7ab9e276e020cfc053e
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/27/2021
-ms.locfileid: "53610095"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287893"
 ---
-# <a name="collection-pot"></a>컬렉션 냄비
+# <a name="collection-pot"></a>컬렉션 팟
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Microsoft로 제한되는 기프트에서 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 컬렉션 냄비 |
+| 앱 이름 | 컬렉션 팟 |
 | ID | WA200002016 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 기프트 to You Limited |
+| 파트너 회사 이름 | 선물 받은 사용자 제한 |
 | 파트너 웹 사이트의 URL | [https://www.collectionpot.com](https://www.collectionpot.com) |
 | 개인 정보 취급 방침의 URL | [https://www.collectionpot.com/privacy/](https://www.collectionpot.com/privacy/) |
 | 사용 약관 URL | [https://www.collectionpot.com/terms-of-service/](https://www.collectionpot.com/terms-of-service/) |

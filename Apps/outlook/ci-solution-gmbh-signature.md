@@ -9,11 +9,11 @@ certification_type: attested
 description: CI-Signature, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 3e32777fcce04ad0769fa6b5699925bfc0fd6718
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275499"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288290"
 ---
 # <a name="ci-signature"></a>CI-Signature
 
@@ -34,7 +34,7 @@ Ci 솔루션 GmbH에서 Microsoft에 제공하는 정보:
 | 앱 이름 | CI-Signature |
 | ID | WA200002458 |
 | Office 365 클라이언트 지원 | Outlook 2016 Mac, Windows Outlook 2016 이상에서 웹용 Outlook |
-| 파트너 회사 이름 | ci 솔루션 GmbH |
+| 파트너 회사 이름 | ci solution GmbH |
 | 파트너 웹 사이트의 URL | [https://www.ci-solution.com](https://www.ci-solution.com) |
 | 개인 정보 취급 방침의 URL | [https://www.ci-solution.com/fileadmin/downloads/datenschutz...](https://www.ci-solution.com/fileadmin/downloads/datenschutz/ci-solution_Auftragsverarbeitung_CI-Cloud.pdf) |
 | 사용 약관 URL | [https://www.ci-solution.com/agb](https://www.ci-solution.com/agb) |

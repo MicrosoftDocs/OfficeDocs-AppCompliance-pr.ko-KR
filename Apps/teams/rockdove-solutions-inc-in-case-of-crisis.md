@@ -9,13 +9,13 @@ certification_type: attested
 description: 위기 시, 해당 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 4671d37d77d16004c171887f101ade7506598614
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58836228"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287362"
 ---
-# <a name="in-case-of-crisis"></a>위기 시
+# <a name="in-case-of-crisis"></a>위기 발생 시
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Microsoft에 대한 RockDove 솔루션, Inc.에서 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 위기 시 |
+| 앱 이름 | 위기 발생 시 |
 | ID | WA200003194 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | RockDove Solutions, Inc. |

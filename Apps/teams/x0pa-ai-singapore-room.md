@@ -9,11 +9,11 @@ certification_type: attested
 description: X0PA ROOM, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: a20b81928065203536f914a6b15d76745b2bc01a
-ms.sourcegitcommit: 90e6c1e10d55dc337c0884b63782cc14cf71b3c8
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58835874"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288730"
 ---
 # <a name="x0pa-room"></a>X0PA ROOM
 
@@ -35,7 +35,7 @@ X0PA AI 싱가포르에서 Microsoft에 제공하는 정보:
 | 앱 이름 | X0PA ROOM |
 | ID | WA200003028 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | X0PA AI 싱가포르 |
+| 파트너 회사 이름 | X0PA AI Singapore |
 | 파트너 웹 사이트의 URL | [https://x0paroom.com](https://x0paroom.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://x0paroom.com](https://x0paroom.com) |
 | 개인 정보 취급 방침의 URL | [https://x0pa.com/privacy-policy/](https://x0pa.com/privacy-policy/) |

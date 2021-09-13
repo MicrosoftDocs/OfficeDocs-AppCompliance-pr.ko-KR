@@ -9,11 +9,11 @@ certification_type: attested
 description: MIPA - 내 지능형 개인 도우미, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 684cd61aec216db5bc60bb92abd2d93963c2138a
-ms.sourcegitcommit: b41944062ede123fa1fadd38706271aae2b01d3f
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53275511"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288493"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA - 내 지능형 개인 도우미
 
@@ -71,7 +71,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 >| 전자 메일 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 앱에서 사용자의 기본 전자 메일 주소(SSO의 경우)를 읽을 수 있도록 허용합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| offline_access | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 현재 앱을 사용하지 않는 경우에도 앱에서 액세스 권한을 부여한 데이터를 보고 업데이트할 수 있습니다. 이렇게 해서 앱에 SSO에 대한 추가 사용 권한()은 부여되지 않습니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| openid | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 자신의 직장 또는 학교 계정으로 앱에 로그인할 수 있도록 허용하고 앱에서 SSO의 기본 사용자 프로필 정보()를 볼 수 있도록 합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| profile | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 작업 수행, 읽기, 업데이트, Panner 작업 만들기 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| 프로필 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 작업 수행, 읽기, 업데이트, Panner 작업 만들기 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 

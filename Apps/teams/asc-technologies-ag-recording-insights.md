@@ -9,13 +9,13 @@ certification_type: attested
 description: ASC Recording Insights, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: efeac55591daa01827df42e8b473acdea8ee66f5
-ms.sourcegitcommit: 3660f89e183c638979a31c295ac059daa6c387dd
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58391891"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287533"
 ---
-# <a name="asc-recording-insights"></a>ASC 기록 Insights
+# <a name="asc-recording-insights"></a>ASC Recording Insights
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ASC Technologies AG에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | ASC 기록 Insights |
+| 앱 이름 | ASC Recording Insights |
 | ID | WA200000708 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | ASC 기술 AG |
+| 파트너 회사 이름 | ASC Technologies AG |
 | 파트너 웹 사이트의 URL | [https://asctechnologies.com/english/index.html](https://asctechnologies.com/english/index.html) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://asctechnologies.com/english/ASC_Recording_Insights_...](https://asctechnologies.com/english/ASC_Recording_Insights_Compliance_Recording_for_Microsoft_Teams.html) |
 | 개인 정보 취급 방침의 URL | [https://teams.asc-recording.app/privacy](https://teams.asc-recording.app/privacy) |

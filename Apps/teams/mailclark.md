@@ -9,11 +9,11 @@ certification_type: attested
 description: MailClark, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
 ms.openlocfilehash: 3e9c01b76c513fd0786b27a0447a70c1f9c9d7e0
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53525502"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286381"
 ---
 # <a name="mailclark"></a>MailClark
 
@@ -62,7 +62,7 @@ MailClark에서 Microsoft에 제공하는 정보:
 >| User.Read | application | 계정 세부 정보(예: 전자 메일 주소) | 계정을 식별합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| offline_access | application | 새로 고침 토큰 | 계정의 연결이 끊어질 때까지 인증을 갱신합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 >| openid | application |  | 인증에 필요합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| profile | application |  | 사용자를 인증합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| 프로필 | application |  | 사용자를 인증합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

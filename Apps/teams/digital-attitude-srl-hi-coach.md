@@ -9,11 +9,11 @@ certification_type: attested
 description: Hi Digital Coach, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: 2ff4472c9c54234c388508039fd10ab4818154ce
-ms.sourcegitcommit: 65d4afba6f46d45315b2a90d2b21ce1737707e7b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53282686"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59288253"
 ---
 # <a name="hi-digital-coach"></a>안녕 디지털 코치
 
@@ -35,7 +35,7 @@ ms.locfileid: "53282686"
 | 앱 이름 | 안녕 디지털 코치 |
 | ID | WA200002347 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 디지털 변환 Srl |
+| 파트너 회사 이름 | Digital Attitude Srl |
 | 파트너 웹 사이트의 URL | [https://www.habitinspiringplatform.com](https://www.habitinspiringplatform.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.habitinspiringplatform.com/coaching-plan](https://www.habitinspiringplatform.com/coaching-plan) |
 | 개인 정보 취급 방침의 URL | [https://www.iubenda.com/privacy-policy/98527945/full-legal](https://www.iubenda.com/privacy-policy/98527945/full-legal) |

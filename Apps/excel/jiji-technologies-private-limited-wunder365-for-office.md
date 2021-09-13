@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 Office, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 Wunder365에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
 ms.openlocfilehash: ab9ea33824f66afecc8af8df74754fc7f2dd6d43
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53526044"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59287546"
 ---
 # <a name="wunder365-for-office"></a>Wunder365 for Office
 
@@ -59,7 +59,7 @@ Microsoft에 대해 JiJi Technologies Private Limited에서 제공하는 정보:
 >| Mail.Send | 위임 | 데이터가 저장되지 않습니다. | 앱에서 사용자에게 전자 메일 알림을 보낼 수 있도록 허용 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 >| offline_access | 위임 | 데이터가 저장되지 않습니다. | 사용자 로그인을 계속합니다. | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 >| openid | 위임 | 데이터가 저장되지 않습니다. | 사용자가 관리 계정으로 로그인할 수 있도록 허용 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
->| profile | 위임 | UPN, 사용자 ID, 전자 메일 ID, 라이선스 확인을 위한 테넌트 ID, 무료 라이선스. | 사용자가 관리 계정으로 로그인할 수 있도록 허용 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
+>| 프로필 | 위임 | UPN, 사용자 ID, 전자 메일 ID, 라이선스 확인을 위한 테넌트 ID, 무료 라이선스. | 사용자가 관리 계정으로 로그인할 수 있도록 허용 | [3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3c95a8b6-b71c-4c4a-8a1a-c7b9b80d9e9c) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

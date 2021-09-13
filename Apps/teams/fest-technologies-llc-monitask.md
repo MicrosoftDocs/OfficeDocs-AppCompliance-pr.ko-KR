@@ -9,11 +9,11 @@ certification_type: attested
 description: CSA STAR 레지스트리의 Monitask, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 959d904123910480e62a1d8b11539a317f481ac6
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404671"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59289327"
 ---
 # <a name="monitask"></a>Monitask
 
@@ -35,7 +35,7 @@ FEST 기술, LLC에서 Microsoft에 제공하는 정보:
 | 앱 이름 | Monitask |
 | ID | WA200002986 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | FEST 기술, LLC |
+| 파트너 회사 이름 | FEST Technologies, LLC |
 | 파트너 웹 사이트의 URL | [https://www.monitask.com](https://www.monitask.com) |
 | 개인 정보 취급 방침의 URL | [https://www.monitask.com/en/home/privacypolicy](https://www.monitask.com/en/home/privacypolicy) |
 | 사용 약관 URL | [https://www.monitask.com/en/home/termsofservice](https://www.monitask.com/en/home/termsofservice) |

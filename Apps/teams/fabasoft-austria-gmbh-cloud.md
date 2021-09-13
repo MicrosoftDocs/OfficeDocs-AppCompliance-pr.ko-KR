@@ -9,13 +9,13 @@ certification_type: attested
 description: Fabasoft 클라우드, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
 ms.openlocfilehash: 3987566132078c1e3ebc8a4bff84e089c263f588
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58405050"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59286245"
 ---
-# <a name="fabasoft-cloud"></a>Fabasoft 클라우드
+# <a name="fabasoft-cloud"></a>Fabasoft Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Fabasoft Austria GmbH에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Fabasoft 클라우드 |
+| 앱 이름 | Fabasoft Cloud |
 | ID | WA200002184 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Fabasoft Austria GmbH |
@@ -70,7 +70,7 @@ Fabasoft Austria GmbH에서 Microsoft에 제공하는 정보:
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 검색 확장명은 최근에 찾은 개체를 변경한 사용자의 이름을 수신합니다. | 아니오 |  |
+>| 검색 확장명은 최근에 찾은 개체를 변경한 사용자의 이름을 수신합니다. | 아니요 |  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
