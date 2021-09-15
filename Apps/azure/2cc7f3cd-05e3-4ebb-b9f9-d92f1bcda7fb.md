@@ -2,17 +2,17 @@
 title: 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb에 대한 Azure 앱 ID 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/09/2021
+ms.date: 09/13/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: 56216b5caa0a444121b7ba0768ecb245a54e8d18
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: fa72b2b56b26eeca7ecb7a6344fdfe8a66440175
+ms.sourcegitcommit: 400dc76d16649c45cc4bc1b45dee07ba3661f890
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284589"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59350368"
 ---
 # <a name="azure-app-id-2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb"></a>Azure 앱 ID: 2cc7f3cd-05e3-4ebb-b9f9-d92f1bcda7fb
 

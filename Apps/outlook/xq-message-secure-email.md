@@ -1,44 +1,43 @@
 ---
-title: CEMEQ inc.의 Mediatheque+에 대한 응용 프로그램 정보
+title: XQ 메시지의 XQ 보안 전자 메일에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/26/2021
+ms.date: 07/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Mediatheque+에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+description: XQ 보안 전자 메일, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7645c55391a224202c418e01ba9661bbd9e0fb5c
+ms.openlocfilehash: 32a27529004dc7c2b5d5981f84466e31a94dec7a
 ms.sourcegitcommit: 400dc76d16649c45cc4bc1b45dee07ba3661f890
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/15/2021
-ms.locfileid: "59353889"
+ms.locfileid: "59353835"
 ---
-# <a name="mediatheque"></a>Mediatheque+
+# <a name="xq-secure-email"></a>XQ 보안 전자 메일
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 7월 26일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 7월 4일</p>
 
-* <a href="https://teams.microsoft.com/l/app/d546d064-6146-4341-b997-3a83855cafb3" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003099" target="_blank">AppSource의 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200000090" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-CEMEQ inc.에서 Microsoft에 제공한 정보:
+XQ 메시지에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Mediatheque+ |
-| ID | WA200003099 |
-| Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | CEMEQ inc. |
-| 파트너 웹 사이트의 URL | [https://www.cemeq.qc.ca](https://www.cemeq.qc.ca) |
-| 개인 정보 취급 방침의 URL | [https://www.mediatheque.plus/privacy.html](https://www.mediatheque.plus/privacy.html) |
-| 사용 약관 URL | [https://www.cemeq.qc.ca/data/themes/cemeq/viewerJS/Conditio...](https://www.cemeq.qc.ca/data/themes/cemeq/viewerJS/ConditionsUtilisationMEDPLUS.pdf) |
+| 앱 이름 | XQ 보안 전자 메일 |
+| ID | WA200000090 |
+| Office 365 클라이언트 지원 | Outlook 2016 Windows, Outlook 2016 이상, iOS, Outlook android, Outlook 이상에서 웹용 Outlook |
+| 파트너 회사 이름 | XQ 메시지 |
+| 파트너 웹 사이트의 URL | [https://xqmsg.co](https://xqmsg.co) |
+| 개인 정보 취급 방침의 URL | [https://xqmsg.com/privacy.html](https://xqmsg.com/privacy.html) |
+| 사용 약관 URL | [https://xqmsg.com/terms.html](https://xqmsg.com/terms.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,7 +47,7 @@ CEMEQ inc.에서 Microsoft에 제공한 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 CEMEQ inc.에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터에 대해 조직이 제어할 수 있는 컨트롤에 의해 제공됩니다.
+이 정보는 XQ 메시지에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직에서 사용할 컨트롤에 대한 메시지를 통해 제공됩니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
@@ -63,11 +62,6 @@ CEMEQ inc.에서 Microsoft에 제공한 정보:
 
 >비영구 Microsoft 서비스 사용되지 않습니다.
 
-#### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
-
-이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
-
->EUII에 액세스하지 않습니다.
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -80,7 +74,7 @@ CEMEQ inc.에서 Microsoft에 제공한 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->관리자는 요청을 수행하는 데 필요한 모든 데이터에 액세스할 수 있습니다.
+>암호를 해독하기 위해 키를 해지합니다. 계정을 디비전합니다. 보안 트랜잭션을 기록합니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -108,7 +102,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 CEMEQ inc.에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+이 정보는 XQ 메시지에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대한 메시지를 통해 제공됩니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|

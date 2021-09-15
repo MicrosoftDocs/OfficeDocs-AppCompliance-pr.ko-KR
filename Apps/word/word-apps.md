@@ -2,17 +2,17 @@
 title: Microsoft Word 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/09/2021
+ms.date: 09/13/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Word 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 5151e78ae6da2df72ad35703f7375ae4e3374606
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4ecbb89758a3f3a66bc8fd4dd64c337a50415124
+ms.sourcegitcommit: 400dc76d16649c45cc4bc1b45dee07ba3661f890
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288370"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59353879"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word 앱 보안 및 규정 준수
 
@@ -21,6 +21,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [Word 및 Word용 Adobe Sign for word PowerPoint](./adobe-inc-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [CocoFax - 쉽게 안전한 팩스 &amp; 보내기](./cocofax-sending-fax-made-easy-and-secure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
 | [Excel 문서 자동화](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Fabasoft 클라우드 Office 추가 기능](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
