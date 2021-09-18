@@ -2,23 +2,23 @@
 title: iGlobe에서 Office 365 Planner 추가 기능을 Outlook 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/12/2021
+ms.date: 08/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: cSA STAR 레지스트리의 Office 365, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대한 iPlan Outlook ner Office 365 Planner 추가 기능에서 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3503b068b8835037b578837cb7f7f264a91135c6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ce453be96beb466b4420912a29b30593851f3547
+ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286002"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59436439"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>iPlanner Office 365 Planner 추가 Outlook
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 12일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 28일</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380147" target="_blank">AppSource의 보기</a>
 
@@ -74,9 +74,9 @@ iGlobe에서 Microsoft에 제공한 정보:
 >| Exchange - Mail.Read.All | 아니요 |  |  |  |  |
 >| SharePoint - AllSites.Manage | 아니요 |  |  |  |  |
 >| SharePoint - AllSites.Read | 아니요 |  |  |  |  |
->| SharePoint - AllSites.Write | 아니요 |  |  |  |  |
->| SharePoint - MyFiles.Read | 아니요 |  |  |  |  |
->| SharePoint - MyFiles.Write | 아니요 |  |  |  |  |
+>| SharePoint - AllSites.Write | 아니오 |  |  |  |  |
+>| SharePoint - MyFiles.Read | 아니오 |  |  |  |  |
+>| SharePoint - MyFiles.Write | 아니오 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
@@ -104,7 +104,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요
+>아니오
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
