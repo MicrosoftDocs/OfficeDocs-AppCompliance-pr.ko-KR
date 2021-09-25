@@ -2,24 +2,24 @@
 title: 광범위한 아이디어별 광범위한 아이디어에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/03/2020
+ms.date: 08/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 광범위한 아이디어, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1e73a7aebbaaffa12572717f7a4a9968fd5667f7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 7c19fc9906f46fcd3e7561c38d68ed202dd0c87d
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286853"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59783338"
 ---
 # <a name="wide-ideas"></a>Wide Ideas
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2020년 6월 3일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 27일</p>
 
 * <a href="https://teams.microsoft.com/l/app/2a64f929-bed9-44d9-aa65-d7b921889959" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000819" target="_blank">AppSource의 보기</a>
@@ -56,9 +56,12 @@ ms.locfileid: "59286853"
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.Read.All | application | 그룹 ID 및 어떤 사용자가 어떤 그룹에 속하는지 저장 | 앱이 고객 조직 디렉터리(예: 사용자 및 그룹)의 데이터를 읽을 수 있도록 허용합니다.  | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
->| Group.ReadWrite.All | application | 그룹과 연결된 채널 ID를 저장합니다. | 사용자가 고객 포털에서 팀, 채널 및 탭을 Microsoft Teams 수 있습니다. 이렇게 하면 사용자가 기존 팀을 고객 포털에 Microsoft Teams 수 있습니다. | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
->| User.Read | 위임 | 이름 전자 메일을 &amp; 저장합니다. | 사용자를 대신하여 Microsoft Graph 액세스 권한을 부여할 수 있습니다. | [77baef51-6387-4aff-9b3f-23e4654c30cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/77baef51-6387-4aff-9b3f-23e4654c30cd) |
+>| Channel.Create | 위임 | 팀에서 채널을 만들 수 있습니다.  | 생성된 챌린지의 채널 ID를 저장합니다.  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| Directory.Read.All | 위임 | 이를 사용하여 고객 디렉터리의 사용자를 나열합니다.  | 해당 없음 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| Group.Read.All | 위임 | 이 기능을 사용하여 각 팀에서 팀을 읽고 동기화할 Microsoft Teams. | 팀 및 팀 구성원의 그룹 ID를 저장합니다.  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| TeamsAppInstallation.ReadWriteForTeam | 위임 | 이 설정은 자동으로 앱에 앱을 설치하는 Teams 사용됩니다.  | 앱이 설치된 팀에 대한 정보를 저장합니다. | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| TeamsTab.Create | 위임 | 넓은 아이디어로 만든 채널에서 응용 프로그램(과제/검색 아이디어) 탭을 자동으로 만드는 데 사용합니다. | 해당 없음 | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
+>| User.Read | 위임 | SSO를 통해 사용자를 인증하고 사용자 데이터를 동기화하는 데 사용됩니다. | 이름, 전자 메일 및 사용자 ID를 저장합니다.  | [b0656c15-44aa-4aab-8956-bb97e3016535](https://docs.microsoft.com/microsoft-365-app-certification/azure/b0656c15-44aa-4aab-8956-bb97e3016535) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -67,7 +70,7 @@ ms.locfileid: "59286853"
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Mailjet 전자 메일 알림에 사용되는 전자 메일입니다. |  | 해당 없음 |
+>| Mailjet 전자 메일 알림에 사용되는 전자 메일입니다. | 전자 메일 주소 | 활동을 통해 전자 메일 알림을 보낼 수 있게  |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
 
@@ -75,16 +78,14 @@ ms.locfileid: "59286853"
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 백비에서 사용자를 만들고 팀에 연결된 콘텐츠에 액세스할 수 있는 권한을 부여하기 위해 | We store: Name - 사용자의 이름을 표시하기 위해 전자 메일 주소 - 사용자를 식별하기 위해 |  |
+>| 백비에서 사용자를 만들고 팀에 연결된 콘텐츠에 액세스할 수 있는 권한을 부여하기 위해 | We store: Name - 사용자의 이름을 표시하기 위해 전자 메일 주소 - 사용자를 식별하기 위해 | 백end에서 콘텐츠에 대한 사용 권한을 관리하려면 |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->로그에 IP 번호만 저장합니다. 
-
-조직은 데이터를 삭제하려는 경우 공급자로 요청을 보낼 수 있습니다.
+>로그에 이름, 전자 메일 및 IP 번호를 저장합니다. 조직은 데이터를 삭제하려는 경우 공급자로 요청을 보낼 수 있습니다.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 
@@ -117,3 +118,29 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 정보
+
+이 정보는 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대한 광범위한 아이디어를 통해 제공됩니다.
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
+| 지원되는 정책 유형 나열 | MFA |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
+| 앱에서 다중 테넌시를 지원하나요? | 예 |
+| 앱에 기밀 클라이언트가 있나요? | 예 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
+| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

@@ -2,24 +2,24 @@
 title: Evernote의 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Evernote에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3eaaa3cacc4affc866a967a495687bc53abcfae5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 6965e328f3e976462d900e227a74411599ad959c
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289093"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59785308"
 ---
 # <a name="evernote"></a>Evernote
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2019년 12월 16일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 9월 21일</p>
 
 * <a href="https://teams.microsoft.com/l/app/4e1f8576-93d5-4c24-abb5-f02782e00a4e" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381639" target="_blank">AppSource의 보기</a>
@@ -36,9 +36,9 @@ Evernote에서 Microsoft에 제공한 정보:
 | ID | WA104381639 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Evernote |
-| 파트너 웹 사이트의 URL | [https://evernote.com/](https://evernote.com/) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://help.evernote.com/hc/en-us/articles/360001244667](https://help.evernote.com/hc/en-us/articles/360001244667) |
-| 개인 정보 취급 방침의 URL | [https://evernote.com/privacy](https://evernote.com/privacy) |
+| 파트너 웹 사이트의 URL | [https://evernote.com](https://evernote.com) |
+| 응용 프로그램 Teams 페이지의 URL입니다. | [https://evernote.com/about-us](https://evernote.com/about-us) |
+| 개인 정보 취급 방침의 URL | [https://evernote.com/privacy/policy](https://evernote.com/privacy/policy) |
 | 사용 약관 URL | [https://evernote.com/legal/terms-of-service](https://evernote.com/legal/terms-of-service) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -75,18 +75,19 @@ Evernote에서 Microsoft에 제공한 정보:
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->OII 또는 EUII 데이터는 원격 분석 또는 로그에 표시됩니다.
+>응용 프로그램 원격 분석 또는 로그에 OII 또는 EUII가 나타나지 않습니다.
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->관리 콘솔에서는 계정 관리자가 Evernote 비즈니스 계정 정보, 사용자 및 콘텐츠를 관리할 수 있습니다. 계정 관리자가 관리 콘솔에서 할 수 있는 몇 가지 사항:
-- 계정 요약 보기
-- 사용자 추가 및 관리
-- 공백, 전자 필기장, 메모, 태그 및 휴지통 보기 및 관리
-- 계정 청구, 보안 및 통합 보기 및 관리 https://help.evernote.com/hc/en-us/articles/209005497-Evernote-Business-Admin-Console-Overview
+>최종 사용자 정책, 가명 처리된 데이터만 전송 PII 보내기 안
 
+#### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
+
+사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
+
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -104,3 +105,16 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 정보
+
+이 정보는 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 Evernote에서 제공했습니다.
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end

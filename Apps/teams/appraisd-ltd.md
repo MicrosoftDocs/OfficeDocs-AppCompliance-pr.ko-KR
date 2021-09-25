@@ -2,24 +2,24 @@
 title: Application Appraisd Ltd.의 Appraisd에 대한 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/03/2021
+ms.date: 09/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 평가, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: baebeaa3079fbe38cc9c1fb76f1841059346be9c
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2ed2853f03b9b3e6e235e87d634fb5c2aafaaec6
+ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284109"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59784758"
 ---
 # <a name="appraisd"></a>Appraisd
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 3일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 9월 7일</p>
 
 * <a href="https://teams.microsoft.com/l/app/4f037969-20ef-4a41-8330-422b7b115eb6" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003123" target="_blank">AppSource의 보기</a>
@@ -39,7 +39,7 @@ Microsoft에 대한 Appraisd ltd.에서 제공하는 정보:
 | 파트너 웹 사이트의 URL | [https://www.appraisd.com](https://www.appraisd.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.appraisd.com](https://www.appraisd.com) |
 | 개인 정보 취급 방침의 URL | [https://help.appraisd.com/hc/en-us/articles/360007779298-Pr...](https://help.appraisd.com/hc/en-us/articles/360007779298-Privacy-Policy) |
-| 사용 약관 URL | [https://app.appraisd.com/account/terms](https://app.appraisd.com/account/terms) |
+| 사용 약관 URL | [https://www.appraisd.com/terms](https://www.appraisd.com/terms) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
