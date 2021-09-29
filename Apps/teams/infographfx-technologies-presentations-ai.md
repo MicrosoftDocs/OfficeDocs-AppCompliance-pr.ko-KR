@@ -1,45 +1,44 @@
 ---
-title: HighSide, Inc의 HighSide에 대한 응용 프로그램 정보
+title: Infographfx 기술에 의해 프레젠테이션 AI에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/24/2021
+ms.date: 08/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: HighSide에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: eb6def1ce0eb93badd11f9a11d370c8533101656
+description: Presentations AI, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+zone_pivot_groups: app-info-data-identity
+ms.openlocfilehash: abbedd25675690af35f2c3aa9e9b5cdae2cf1d37
 ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992068"
+ms.locfileid: "59992275"
 ---
-# <a name="highside"></a>HighSide
+# <a name="presentations-ai"></a>프레젠테이션 AI
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 9월 24일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 17일</p>
 
-* <a href="https://teams.microsoft.com/l/app/3c77edc8-0136-4ca2-8d4b-3558923c0e77" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200002220" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/1f510555-b518-4084-84e0-18c7bebc807c" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001352" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-HighSide, Inc에서 Microsoft에 제공하는 정보:
+Infographfx 기술에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | HighSide |
-| ID | WA200002220 |
+| 앱 이름 | 프레젠테이션 AI |
+| ID | WA200001352 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | HighSide, Inc |
-| 파트너 웹 사이트의 URL | [https://highside.io](https://highside.io) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://highside.io/secureteams](https://highside.io/secureteams) |
-| 개인 정보 취급 방침의 URL | [https://highside.io/privacy-shield](https://highside.io/privacy-shield) |
-| 사용 약관 URL | [https://highside.io/terms-of-service](https://highside.io/terms-of-service) |
+| 파트너 회사 이름 | Infographfx 기술 |
+| 파트너 웹 사이트의 URL | [https://presentations.ai](https://presentations.ai) |
+| 개인 정보 취급 방침의 URL | [https://presentations.ai/privacy_teams.html](https://presentations.ai/privacy_teams.html) |
+| 사용 약관 URL | [https://presentations.ai/terms_teams.html](https://presentations.ai/terms_teams.html) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -49,7 +48,7 @@ HighSide, Inc에서 Microsoft에 제공하는 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 HighSide, Inc.에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 제공합니다.
+이 정보는 Infographfx 기술에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터에 대해 조직이 제어할 수 있는 컨트롤에 의해 제공됩니다.
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
@@ -62,17 +61,13 @@ HighSide, Inc에서 Microsoft에 제공하는 정보:
 
 앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
 
->| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| AWS | Microsoft Teams 테넌트 ID | 따라서 어떤 팀 요청이 시작되는지와 사용자가 속하는 사용자를 알고 있습니다. |
+>비영구 Microsoft 서비스 사용되지 않습니다.
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
 
 이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
 
->| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 검색 기능 | 사용자 이름 | 검색 기능 |
+>EUII에 액세스하지 않습니다.
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -91,7 +86,7 @@ HighSide, Inc에서 Microsoft에 제공하는 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요
+>아니오
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -101,9 +96,9 @@ HighSide, Inc에서 Microsoft에 제공하는 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/37581' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/37581" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -113,11 +108,23 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 HighSide, Inc.에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+이 정보는 Infographfx 기술에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공되었습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 아니요 |
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니오 |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
+| 앱에서 다중 테넌시를 지원하나요? | 아니오 |
+| 앱에 기밀 클라이언트가 있나요? | 아니요 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
+| 앱에서 웹 API를 노출하나요? | 예 |
+| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니오 |
+| 앱에서 사용되지 않는 API를 사용하나요? | 예 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
