@@ -2,24 +2,24 @@
 title: 응용 프로그램 monday.com 대한 monday.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/28/2020
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 monday.com, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
-zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 7d929b4d9c66aea657d2beb64fa77f31921f59ac
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 3779d91614f3413034e8bd86d28ec329cf341b67
+ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288522"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60131697"
 ---
 # <a name="mondaycom"></a>monday.com
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2020년 9월 28일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 3일</p>
 
 * <a href="https://teams.microsoft.com/l/app/eab2d3ce-6d6a-4415-abc4-5f40a8317b1f" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001798" target="_blank">AppSource의 보기</a>
@@ -36,9 +36,9 @@ Microsoft에 monday.com 정보:
 | ID | WA200001798 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | monday.com |
-| 파트너 웹 사이트의 URL | [https://monday.com/](https://monday.com/) |
+| 파트너 웹 사이트의 URL | [https://monday.com](https://monday.com) |
 | 개인 정보 취급 방침의 URL | [https://monday.com/terms/privacy](https://monday.com/terms/privacy) |
-| 사용 약관 URL | [https://monday.com/terms/tos](https://monday.com/terms/tos) |
+| 사용 약관 URL | [https://monday.com/l/legal/tos/](https://monday.com/l/legal/tos/) |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -63,7 +63,7 @@ Microsoft에 monday.com 정보:
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| monday.com 서비스 성능에 대해 다음과 같은 하위 프로세서를 &#160;https://monday.com/terms/subprocessors |  | monday.com API를 사용하지 않습니다. Microsoft는 서비스 성능에 대해 다음 Microsoft 프레임워크를 사용(위의 응답에 자세히 설명됨): &#8216;botbuilder&#8217; &#8216;botframework-connector&#8217; &#8216;@micorosft/teams-js&#8217; |
+>| monday.com 서비스 성능에 대해 다음과 같은 하위 프로세서를 &#160;https://monday.com/terms/subprocessors | 하위 프로세서가 제공하는 서비스에 따라 다를 수 있습니다. | monday.com API를 사용하지 않습니다. Microsoft는 서비스 성능에 대해 다음 Microsoft 프레임워크를 사용(위의 응답에 자세히 설명됨): &#8216;botbuilder&#8217; &#8216;botframework-connector&#8217; &#8216;@micorosft/teams-js&#8217; |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
 
@@ -82,17 +82,7 @@ Microsoft에 monday.com 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->monday.com 서비스는 여러 가용성 영역의 AWS 인프라에서 호스팅되는데, DR 사이트는 다른 지역에 설정됩니다. 특정 백업 데이터는 GCP(미국, 다중 지역)에 저장됩니다. monday.com 서비스에 대한 액세스는 사용자 조직의 관리자가 제어하며 다음 기능을 활용하여 달성됩니다.
-- 사용자 유형
-- 계정 수준 사용 권한
-- 작업 영역
-- 보드 유형
-- 보드 수준 사용 권한
-- 열 수준 사용 권한은 monday.com 인증 방법을 지원합니다.
-- 자격 증명
-- Google SSO(Pro 계획)
-- Okta, OneLogin 및 사용자 지정 SAML 2.0(Enterprise 계획용) 2FA는 SMS 또는 인증자 앱을 통해 선택적으로 계정 관리자가 플랫폼의 관리 패널을 통해 사용하도록 설정될 수 있습니다.
-미사용 모든 데이터는 AES-256을 사용하여 암호화됩니다. 열려 있는 네트워크를 통해 전송되는 모든 데이터는 TLS 1.3(TLS 1.2 이상)을 사용하여 암호화됩니다.
+>----
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -116,3 +106,28 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ::: zone-end
 
+::: zone pivot="identity"
+
+### <a name="identity-information"></a>ID 정보
+
+이 정보는 monday.com, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 기준을 처리하는 방법에 대한 정보를 제공합니다.
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
+| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
+| 앱에서 다중 테넌시를 지원하나요? | 아니요 |
+| 앱에 기밀 클라이언트가 있나요? | 예 |
+| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
+| 앱에서 웹 API를 노출하나요? | 예 |
+| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
+| 앱에서 미리 보기 API를 사용하나요? | 예 |
+| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
