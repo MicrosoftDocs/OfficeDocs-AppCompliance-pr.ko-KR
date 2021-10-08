@@ -2,17 +2,17 @@
 title: SaaS 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/16/2021
+ms.date: 10/07/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 7df334c232e92cc375436efe53d428a0cd51a886
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+ms.openlocfilehash: 5502dd881e8248552203d54b393e049b1a76940e
+ms.sourcegitcommit: 4817af6bd92bcc7624a43ea79ba6b9362da38035
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59438169"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "60233782"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
@@ -28,6 +28,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [iPlanner Pro Office 365](./iglobe-iplanner-pro-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [LMS365](./elearningforce-international-aps-lms365.md) | ELEARNINGFORCE International Aps | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [MIPA - 내 지능형 개인 도우미](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [MyHub for Teams](./avepoint-inc-myhub-for-teams.md) | AvePoint Inc. | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
