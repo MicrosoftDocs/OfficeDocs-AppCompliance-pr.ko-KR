@@ -6,12 +6,12 @@ description: Microsoft 365 인증 제출 가이드 세분화 보기
 keywords: 앱 인증 팀 Microsoft 365 준수 m365 초기 문서 제출
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: f8b45c5130d4c4a231f2d7ce7b1bc6992757bf46
-ms.sourcegitcommit: 1e461d44be2da90b41fdcb60b35a6a180d52c9d6
+ms.openlocfilehash: 0352b64649d87b40d185a2bc06ce23da6cf341ef
+ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59497124"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60378816"
 ---
 # <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 작성 - 초기 문서 제출 가이드
 
@@ -24,9 +24,25 @@ ms.locfileid: "59497124"
 -   이 보고서에는 앱/추가 기능의 작동을 지원하는 추가 환경과 함께 앱/추가 배포를 지원하는 환경이 포함되어야 합니다.
 
 
+## <a name="system-component-inventory"></a>시스템 구성 요소 인벤토리
+
+지원 인프라에서 사용하는 모든 시스템 구성 요소의 최신 인벤트로이트입니다. 평가 단계를 수행할 때 샘플링에 도움이 됩니다. 환경에 PaaS가 포함되어 있는 경우 사용된 모든 PaaS 서비스에 대한 세부 정보를 제공할 수 있는 경우 유용합니다.
+
+**참고:** IaaS/PaaS에는 ISV 제어에 있는 하드웨어가 없습니다.  이 경우 모든 바이루어 리소스의 목록 또는 스크린샷을 제공하세요.
+
+**예제:**
+
+|자산 이름|    자산 유형| 설명|    제조업체|   모델|
+|-|-|-|-|-|
+|D212|  Windows  컴퓨터|   가상 컴퓨터|    해당 없음| 해당 없음|
+|LT101| 랩톱| Workstation|    Microsoft|  Surface 3|
+|C2938| 스위치| 스위치|해당 없음|해당 없음|     
+|LXM2|  Linux 컴퓨터|  테스트 컴퓨터|해당 없음|해당 없음|       
+
+
 ## <a name="software-inventory"></a>소프트웨어 인벤토리
 
-범위 내 환경에서 사용되는 모든 소프트웨어와 버전이 포함된 최신 소프트웨어 인벤토리입니다.
+범위 내 환경에서 사용되는 모든 소프트웨어를 포함하여 버전과 함께 모든 소프트웨어 자산의 최신 인벤토리입니다.
 
 **예제:**
 
@@ -40,23 +56,7 @@ ms.locfileid: "59497124"
 |IIS|   Microsoft|  10.0|   API를 지원합니다.|
 
 
-## <a name="hardware-inventory"></a>하드웨어 인벤토리
-
-지원 인프라에서 사용하는 최신 하드웨어 인벤토리입니다. 평가 단계를 수행할 때 샘플링에 도움이 됩니다. 환경에 PaaS가 포함되어 있는 경우 사용된 모든 PaaS 서비스에 대한 세부 정보를 제공할 수 있는 경우 유용합니다.
-
-**참고:** IaaS/PaaS에는 ISV 제어에 있는 하드웨어가 없습니다.  
-
-**예:**
-
-|자산 이름|    자산 유형| 설명|    제조업체|   모델|
-|-|-|-|-|-|
-|D212|  Windows  컴퓨터|   가상 컴퓨터|    해당 없음| 해당 없음|
-|LT101| 랩톱| Workstation|    Microsoft|  Surface 3|
-|C2938| 스위치| 스위치|해당 없음|해당 없음|     
-|LXM2|  Linux 컴퓨터|  테스트 컴퓨터|해당 없음|해당 없음|       
-
-
-## <a name="web-dependencies"></a>웹 종속성
+## <a name="third-party-dependencies"></a>타사 종속성
 
 현재 실행 중인 버전에서 앱/추가 기능에서 사용하는 모든 종속성 목록을 표시하는 설명서입니다.
 
@@ -76,7 +76,7 @@ ms.locfileid: "59497124"
 
 지원 인프라에서 사용하는 모든 공용 IP 주소 및 URL에 대한 세부 정보 사용 범위를 분할하기 위해 적절한 분할을 구현하지 않는 한 환경에 할당된 전체 라우팅 가능 IP 범위를 포함해야 합니다(적절한 분할 증거가 필요합니다).
 
-**예제:**
+**예:**
 
 |URL|  IP 주소|
 |-|-|
@@ -93,7 +93,7 @@ API 이름 끝점 주소 Contoso Customer API    https://customerapi.contoso.com
 
 내부적으로 개발된 외부 리소스 끝점을 포함하여 앱에서 사용하는 모든 API 끝점의 전체 목록입니다. 환경 범위를 이해하기 위해 환경 내의 API 끝점 위치를 제공합니다.
 
-**예제:**
+**예:**
 
 |API 이름|  끝점 주소|
 |-|-|
