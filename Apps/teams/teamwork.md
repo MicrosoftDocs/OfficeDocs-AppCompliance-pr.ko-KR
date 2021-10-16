@@ -2,20 +2,20 @@
 title: 팀워크의 팀워크에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/27/2021
+ms.date: 09/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 팀워크, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 4f70d4f2b788d67886b030728a5f9dbd587532ba
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: c6ff65ae2c380e741b6e6567ac05f70a39b76565
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785653"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412698"
 ---
-# <a name="teamwork"></a>팀워크
+# <a name="teamwork"></a>Teamwork
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "59785653"
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 팀워크 |
+| 앱 이름 | Teamwork |
 | ID | WA200001552 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 팀워크 |
+| 파트너 회사 이름 | Teamwork |
 | 파트너 웹 사이트의 URL | [https://www.teamwork.com](https://www.teamwork.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://support.teamwork.com/projects/microsoft-teams/conne...](https://support.teamwork.com/projects/microsoft-teams/connecting-to-teamwork-in-microsoft-teams) |
 | 개인 정보 취급 방침의 URL | [https://www.teamwork.com/legal/privacy-policy/](https://www.teamwork.com/legal/privacy-policy/) |
@@ -93,17 +93,6 @@ ms.locfileid: "59785653"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -118,3 +107,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

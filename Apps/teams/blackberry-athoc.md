@@ -2,18 +2,18 @@
 title: BlackBerry의 BlackBerry AtHoc에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/23/2021
+ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: BlackBerry AtHoc에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 38d1d54293b3f406a0a5c8028850dae27a9c9294
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 38e85981b12faf81ce3b737300aacdbee42dc2a1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284082"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415205"
 ---
 # <a name="blackberry-athoc"></a>BlackBerry AtHoc
 
@@ -57,12 +57,12 @@ BlackBerry에서 Microsoft에 제공하는 정보:
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| ChannelMessage.Send | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름 AAD 토큰, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| Group.Read.All | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름 AAD 토큰, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| User.Read | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름 AAD 토큰, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| 전자 메일 | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름 AAD 토큰, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| openid | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름 AAD 토큰, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
->| 프로필 | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름 AAD 토큰, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| ChannelMessage.Send | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름AAD Token, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| Group.Read.All | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름AAD Token, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| User.Read | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름AAD Token, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| 전자 메일 | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름AAD Token, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| openid | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름AAD Token, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
+>| 프로필 | 위임 | 사용자 계정&#8217;같은 기본 세부 정보에 액세스하고 팀에 경고 카드를 보낼 수 있는 팀 일반 채널(로그인한 사용자가 권한이 부여된)에 연결합니다. | 사용자&#8217;봇 메모리에 저장하지 않습니다. 로그인한 사용자의 계정 이름AAD Token, BlackBerry AtHoc Token, BlackBerry AtHoc Server 기본 설정/구성을 봇 메모리에 저장합니다. Microsoft Graph API 및 BlackBerry AtHoc Server로 API 요청을 보내기 위한 정보가 필요합니다. | [f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7](https://docs.microsoft.com/microsoft-365-app-certification/azure/f18b3ce0-a7a9-4fb7-96be-9b4a7dee68f7) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -125,3 +125,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Office, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 Wunder365에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ab9ea33824f66afecc8af8df74754fc7f2dd6d43
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 22da4d3ff5dbfc02a1d9609b1d618a9d1b4d939c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286778"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412137"
 ---
 # <a name="wunder365-for-office"></a>Wunder365 for Office
 
@@ -81,7 +81,7 @@ Microsoft에 대해 JiJi Technologies Private Limited에서 제공하는 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->모든 웹 응용 프로그램 및 Storage 리소스는 리소스에 액세스할 수 있는 관리자만 있는 회사 AAD에 연결되지 않은 구독에 있습니다. 이러한 관리자에게는 2FA가 필요합니다. 
+>모든 웹 응용 프로그램 및 Storage 리소스는 리소스에 액세스할 수 있는 관리자만 있는 AAD 회사와 연결되지 않은 구독에 있습니다. 이러한 관리자에게는 2FA가 필요합니다. 
 
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
@@ -132,3 +132,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

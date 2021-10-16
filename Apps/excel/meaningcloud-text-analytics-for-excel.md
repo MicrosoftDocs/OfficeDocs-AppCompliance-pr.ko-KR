@@ -2,18 +2,18 @@
 title: MeaningCloud의 앱에 대한 MeaningCloud 텍스트 분석에 Excel 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/29/2020
+ms.date: 01/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Excel, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대한 의미클라우드 텍스트 분석에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d1361025e7379890dac4921e6a05737d381513e0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7f35702530ddb9b9f4fed03e3f2594e97ab41b3b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286781"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414212"
 ---
 # <a name="meaningcloud-text-analytics-for-excel"></a>MeaningCloud Text Analytics for Excel
 
@@ -111,3 +111,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

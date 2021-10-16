@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 우선 순위 매트릭스, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 145ad1b57c9ad1ee705014c1e098f2f6ffdd9800
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e2e724e8ec5d4c6a201f33702d6e68bbebc244be
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284194"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413169"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
@@ -132,3 +132,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

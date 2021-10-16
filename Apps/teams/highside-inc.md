@@ -2,18 +2,18 @@
 title: HighSide, Inc의 HighSide에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/24/2021
+ms.date: 09/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: HighSide에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: eb6def1ce0eb93badd11f9a11d370c8533101656
-ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
+ms.openlocfilehash: 100614a26cfc18f467eb58f44951f3c4090bae5f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992068"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412357"
 ---
 # <a name="highside"></a>HighSide
 
@@ -122,3 +122,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

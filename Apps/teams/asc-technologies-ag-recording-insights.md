@@ -2,18 +2,18 @@
 title: ASC 기술 AG의 ASC Insights 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/02/2021
+ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ASC Recording Insights, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: efeac55591daa01827df42e8b473acdea8ee66f5
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4d3e2f1ec03c2437e12576b0fdff68b06392ae9c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287533"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412583"
 ---
 # <a name="asc-recording-insights"></a>ASC Recording Insights
 
@@ -108,17 +108,6 @@ ASC Technologies AG에서 Microsoft에 제공하는 정보:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -145,3 +134,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

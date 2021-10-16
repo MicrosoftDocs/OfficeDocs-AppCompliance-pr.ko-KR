@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Outlook OnePlaceMail, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 196720a00525971f29618d48436cf11b37a3aaac
-ms.sourcegitcommit: 874e586a5a9a5eb0c5c5aae0c59f7c75c0742ec4
+ms.openlocfilehash: 310e662c42247476df716e42159ecd5e348ed4e2
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60080649"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414172"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail for Outlook
 
@@ -142,3 +142,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

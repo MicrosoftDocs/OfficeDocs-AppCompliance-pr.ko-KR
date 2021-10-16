@@ -2,18 +2,18 @@
 title: KBE를 통해 researcHR에 대한 응용 프로그램&#26666;&#24335;&#20250;&#31038;
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/05/2021
+ms.date: 08/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: researcHR에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b57d492945766c8d65417cf2f1d642ea4ecb8aae
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: bc174eb69b69cdf2d04c27bc4649f18111d87811
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284010"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412808"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -62,7 +62,7 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 정보:
 >| Group.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-list | 이러한 데이터는 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| Team.ReadBasic.All | application | 사용자가 웹 사이트에서 팀 구성원을 볼 수 있도록 이 범위를 사용하여 팀의 구성원을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/group-list-members | 이러한 데이터는 아웃 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| User.Read.All | application | 사용자가 웹 사이트에서 참가한 팀을 볼 수 있도록 이 범위를 사용하여 사용자의 참가 채널을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | 이러한 데이터는 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.ReadBasic.All | 위임 | 이 범위를 사용하여 OAuth 로그인을 사용하도록 설정하고 사용자의 AAD ID, 액세스 토큰 및 새로 고침 토큰을 수집합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/auth-v2-user | 사용자가 OAuth를 사용하여 웹 사이트에 로그인할 수 있도록 사용자의 AAD ID, 액세스 토큰 및 새로 고침 토큰을 데이터베이스에 저장합니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
+>| User.ReadBasic.All | 위임 | 이 범위를 사용하여 OAuth 로그인을 사용하도록 설정하고 사용자의 AAD, 액세스 토큰 및 새로 고침 토큰을 수집합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/auth-v2-user | 사용자가 OAuth로 웹 사이트에 로그인할 수 있도록 AAD ID, 액세스 토큰 및 새로 고침 토큰을 데이터베이스에 저장합니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 >| offline_access | 위임 | 사용자 상호 작용 없이도 권한이 부여된 사용자의 액세스 토큰을 새로 고칠 수 있도록 이 범위를 사용하여 새로 고침 토큰을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | 사용자 조작 없이 액세스 토큰을 새로 고칠 수 있도록 데이터베이스에 새로 고침 토큰을 저장합니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
 
 
@@ -101,17 +101,6 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 정보:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -126,3 +115,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

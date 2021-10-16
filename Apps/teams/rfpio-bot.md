@@ -2,18 +2,18 @@
 title: RFPIO의 RFPIO 봇에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/24/2021
+ms.date: 08/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: RFPIO 봇, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 53a0dc00f9ac1c34577bd8351ebf6ecfda66cf4d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 588ed6abf73d86fe81e0ef630983406d6966d84b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286357"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413480"
 ---
 # <a name="rfpio-bot"></a>RFPIO 봇
 
@@ -136,3 +136,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

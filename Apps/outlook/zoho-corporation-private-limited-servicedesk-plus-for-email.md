@@ -2,18 +2,18 @@
 title: Zoho Corporation Private Limited의 전자 메일에 대한 ServiceDesk Plus의 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ServiceDesk Plus for Email, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 39ee4450c2545d1cc891464d7946cde4c4c3b53a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e8637cb691578dfa64a7a26481276f2d0e9688a6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288829"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413500"
 ---
 # <a name="servicedesk-plus-for-email"></a>ServiceDesk Plus for Email
 
@@ -102,4 +102,5 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

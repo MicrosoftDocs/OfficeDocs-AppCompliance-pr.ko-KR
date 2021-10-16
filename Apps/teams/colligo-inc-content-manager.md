@@ -2,18 +2,18 @@
 title: Colligo Inc의 콘텐츠 관리자에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/14/2021
+ms.date: 09/28/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 콘텐츠 관리자, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7392dc618ff6f22b935b5760e97d72155ea41660
-ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
+ms.openlocfilehash: 040e1705caa5df9997bb28db8a103f2f76167b1a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992244"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413059"
 ---
 # <a name="content-manager"></a>콘텐츠 관리자
 
@@ -62,7 +62,7 @@ Colligo Inc에서 Microsoft에 제공한 정보:
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| SharePoint CSOM | 아니오 |  |  |  |  |
+>| SharePoint CSOM | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
@@ -93,23 +93,12 @@ Colligo Inc에서 Microsoft에 제공한 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니오
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -127,13 +116,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 아니오 |
+| 앱에 기밀 클라이언트가 있나요? | 아니요 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/> |
-| 앱에서 웹 API를 노출하나요? | 아니오 |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
 | 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

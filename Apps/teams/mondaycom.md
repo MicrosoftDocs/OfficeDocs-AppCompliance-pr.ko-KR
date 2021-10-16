@@ -2,18 +2,18 @@
 title: 응용 프로그램 monday.com 대한 monday.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/03/2021
+ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 monday.com, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3779d91614f3413034e8bd86d28ec329cf341b67
-ms.sourcegitcommit: e339fa9776aae99797dbc1f0a28932e71b4eb823
+ms.openlocfilehash: 9cd1bfefcd9a56e23cae31f18638cea652d1becd
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60131697"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415045"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -131,3 +131,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

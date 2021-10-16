@@ -2,18 +2,18 @@
 title: 파일럿 AS로 InCaseIT에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/03/2021
+ms.date: 09/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: InCaseIT, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: dbc393582f4146c8cf9b44da122b35629df59a83
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 22e675ac91be216175d16271e1f0d2f7339fc36b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785773"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414985"
 ---
 # <a name="incaseit"></a>InCaseIT
 
@@ -35,7 +35,7 @@ Pilotech AS에서 Microsoft에 제공한 정보:
 | 앱 이름 | InCaseIT |
 | ID | WA200003265 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 파일럿 AS |
+| 파트너 회사 이름 | Pilotech AS |
 | 파트너 웹 사이트의 URL | [https://incaseit.com](https://incaseit.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.manula.com/manuals/pilotech-as/incaseit2/1/en/t...](https://www.manula.com/manuals/pilotech-as/incaseit2/1/en/topic/introduction-to-incaseit-version-2-0) |
 | 개인 정보 취급 방침의 URL | [https://www.incaseit.com/privacy-policy/](https://www.incaseit.com/privacy-policy/) |
@@ -97,17 +97,6 @@ Pilotech AS에서 Microsoft에 제공한 정보:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -135,3 +124,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

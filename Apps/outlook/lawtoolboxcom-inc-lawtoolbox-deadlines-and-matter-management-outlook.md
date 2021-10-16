@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LawToolBox 마감일 문제 관리에 사용할 수 있는 모든 보안 및 규정 준수 정보 - Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 &amp; 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a68d1a5f726e097e8a22639ac15420fc801da3b4
-ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
+ms.openlocfilehash: f62485ceda390d09597a55c25f8f0e36948b5bd2
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2021
-ms.locfileid: "60286000"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415245"
 ---
 # <a name="lawtoolbox-deadlines-amp-matter-management---outlook"></a>LawToolBox 마감일 &amp; 문제 관리 - Outlook
 
@@ -103,23 +103,12 @@ Microsoft에 LawToolBox.com 제공한 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니오
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,13 +126,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 아니오 |
+| 앱에 기밀 클라이언트가 있나요? | 아니요 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | ,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/> |
-| 앱에서 웹 API를 노출하나요? | 아니오 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니오 |
+| 앱에서 웹 API를 노출하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

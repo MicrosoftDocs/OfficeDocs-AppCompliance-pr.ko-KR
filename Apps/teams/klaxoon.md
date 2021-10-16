@@ -2,18 +2,18 @@
 title: Klaxoon의 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/31/2021
+ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Klaxoon, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 877d465d1facc21ed12d29f92e94d66071e8dc51
-ms.sourcegitcommit: 400dc76d16649c45cc4bc1b45dee07ba3661f890
+ms.openlocfilehash: 36ffe7ca9e98d03f40cd3064b117ef83c3020db7
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59349504"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414584"
 ---
 # <a name="klaxoon"></a>Klaxoon
 
@@ -97,17 +97,6 @@ Klaxoon에서 Microsoft에 제공한 정보:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -134,3 +123,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

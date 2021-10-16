@@ -2,20 +2,20 @@
 title: Brightcove Inc.의 브라이트코브 비디오 커넥트 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/15/2021
+ms.date: 09/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Brightcove Video 커넥트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ff2235d0ba6c3607581e03a5a48d6ccad9a415e2
-ms.sourcegitcommit: d5c60e66355ffa8fb84565e565f8bb15a665a099
+ms.openlocfilehash: 53b0ea912c57bb18b70a42712263aba6c4e67551
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59785645"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413089"
 ---
-# <a name="brightcove-video-connect"></a>브라이트코브 비디오 커넥트
+# <a name="brightcove-video-connect"></a>Brightcove Video Connect
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Brightcove Inc.에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 브라이트코브 비디오 커넥트 |
+| 앱 이름 | Brightcove Video Connect |
 | ID | WA200003247 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Brightcove Inc. |
@@ -95,17 +95,6 @@ Brightcove Inc.에서 Microsoft에 제공한 정보:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -120,3 +109,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

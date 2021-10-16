@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: cSA STAR 레지스트리의 Office 365, 데이터 Microsoft 365 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 iGlobe CRM에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 79ae347ccea2f9ee3dda6f2b506fc02f802b3ca9
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 43e4cd6cd51d901b15e514a2706784f4eea022c6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286730"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413149"
 ---
 # <a name="iglobe-crm-office-365-for-microsoft-365"></a>iGlobe CRM Office 365 Microsoft 365
 
@@ -159,3 +159,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

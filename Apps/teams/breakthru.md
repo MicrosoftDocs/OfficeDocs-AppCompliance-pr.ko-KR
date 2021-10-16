@@ -2,18 +2,18 @@
 title: Breakthru로의 중단에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/04/2021
+ms.date: 06/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Breakthru, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 488ff550ab43a398cc004a3224549e6ecdff36b1
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e49d9a100ba3e410b3a3447f680f1e39c1b524d6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284034"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413912"
 ---
 # <a name="breakthru"></a>Breakthru
 
@@ -120,3 +120,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,20 +2,20 @@
 title: Witivio의 일정 Pro 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/02/2021
+ms.date: 09/03/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Calendar Pro, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 89731f0dcdbcd6fcb8d27588179189a0d634284b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5f8b6dcbf99d26e867cc79194cb57c1393316a2b
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288973"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414865"
 ---
-# <a name="calendar-pro"></a>일정 Pro
+# <a name="calendar-pro"></a>캘린더 Pro
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Witivio에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 일정 Pro |
+| 앱 이름 | 캘린더 Pro |
 | ID | WA200002152 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Witivio |
@@ -81,7 +81,7 @@ Witivio에서 Microsoft에 제공하는 정보:
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->원격 분석에는 진단에 대한 UPN 및 AAD ID가 포함되어 있습니다. PROD/Run 관리자만 프로덕션 원격 분석에 액세스할 수 있습니다. 로그는 90일 동안 저장되고 요청 시 전자 메일로 삭제할 수 dpo@witivio.com
+>원격 분석에는 진단에 대한 UPN AAD ID가 포함되어 있습니다. PROD/Run 관리자만 프로덕션 원격 분석에 액세스할 수 있습니다. 로그는 90일 동안 저장되고 요청 시 전자 메일로 삭제할 수 dpo@witivio.com
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 
@@ -99,17 +99,6 @@ Witivio에서 Microsoft에 제공하는 정보:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,3 +126,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

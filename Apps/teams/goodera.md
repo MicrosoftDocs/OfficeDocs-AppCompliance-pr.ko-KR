@@ -2,18 +2,18 @@
 title: Goodera의 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/09/2021
+ms.date: 02/17/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Goodera에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ca4ac668f6eec944a1fc697568ddd637240130cc
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e497a3be7a795e83556a527179d28b5fe40cb0df
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286178"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414614"
 ---
 # <a name="goodera"></a>Goodera
 
@@ -119,3 +119,4 @@ Goodera는 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 �
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

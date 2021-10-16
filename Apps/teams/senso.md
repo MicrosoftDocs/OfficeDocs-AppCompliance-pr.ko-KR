@@ -2,18 +2,18 @@
 title: Senso by Senso의 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/02/2021
+ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Senso에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a44620633f9eee6c5d5e18997a58158a16c5e801
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c517e652c97ba8a74cbadd9b6121084dd40c5394
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286917"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414464"
 ---
 # <a name="senso"></a>Senso
 
@@ -144,3 +144,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

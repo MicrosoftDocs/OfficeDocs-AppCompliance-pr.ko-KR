@@ -2,18 +2,18 @@
 title: Application Information for qChange Leader Experience by qChange Software Solution, Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/20/2021
+ms.date: 05/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: cSA STAR 레지스트리의 qChange 리더 환경, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: efa6d9c9165a852ff45f1d6c68d8aeb3343a18e3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 2123fe401ab5da425903d7821bfc598d7f0d2723
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286378"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414112"
 ---
 # <a name="qchange-leader-experience"></a>qChange Leader 환경
 
@@ -135,3 +135,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

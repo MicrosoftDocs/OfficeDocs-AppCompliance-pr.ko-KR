@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 ngDesk, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a0d3f507338a8ef504df171542d0fa8c25c37efc
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 430d4863d7c1a3b691e6e266302010ba40808499
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286061"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412658"
 ---
 # <a name="ngdesk"></a>ngDesk
 
@@ -111,3 +111,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: 휴가 추적기에서 휴가 추적에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/15/2021
+ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 휴가 추적기, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0bd430bb14f85f563d490148f00988fa7634176e
-ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 1acd1c49f70e9571c1ec71dbf110fd898b18d5ca
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59971700"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413269"
 ---
 # <a name="vacation-tracker"></a>Vacation Tracker
 
@@ -62,7 +62,7 @@ ms.locfileid: "59971700"
 >| User.Read | 위임 | 이름, ID 및 테넌트 ID를 포함하여 기본 사용자 정보를 수집합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | 사용자의 이름, ID 및 테넌트 ID를 저장합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| User.Read.All | 위임 | 사용자는 자신의 조직 또는 팀에서 모든 Microsoft 365 가져올 Microsoft Teams 있습니다. 이 사용 권한을 사용하여 선택한 팀 또는 조직에 대해 사용이 허가된 사용자만 Microsoft Teams 수 있습니다. | 가져온 사용자에 대한 기본 정보(이름, 전자 메일 주소 및 사용자 ID 포함)를 저장합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| User.ReadBasic.All | 위임 | 사용자가 조직 또는 조직 팀에서 다른 사용자를 가져올 Microsoft Teams 있습니다. 이 사용 권한을 사용하여 사용 가능한 사용자 및 해당 전자 메일 주소를 가져오기 팝업에 나열합니다. | 사용자가 휴가 추적으로 가져올 동료를 선택하면 이름, 전자 메일 주소 및 사용자 ID를 포함하여 가져온 사용자에 대한 기본 정보가 저장됩니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| 전자 메일 | 위임 | 사용자가 Microsoft AAD를 사용하여 로그인하면 전자 메일 주소가 고유 식별자로 저장됩니다. | 사용자의 전자 메일을 고유 식별자으로 저장합니다. 통신에는 이 전자 메일을 사용하지 않습니다. 사용자는 등록 중에 통신에 사용하는 비즈니스 전자 메일 주소를 입력합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| 전자 메일 | 위임 | 사용자가 Microsoft AAD 로그인할 때 전자 메일 주소를 고유 식별자로 저장합니다. | 사용자의 전자 메일을 고유 식별자으로 저장합니다. 통신에는 이 전자 메일을 사용하지 않습니다. 사용자는 등록 중에 통신에 사용하는 비즈니스 전자 메일 주소를 입력합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| offline_access | 위임 | 이 사용 권한이 있는 데이터는 수집하지 않습니다. 액세스 권한이 있는 데이터에 대한 액세스를 유지 관리하는 데 사용됩니다. | 이 사용 권한이 있는 데이터는 저장하지 않습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| openid | 위임 | 이 사용 권한을 사용하여 사용자를 휴가 추적에 로그인하거나 등록합니다. 이 사용 권한이 있는 특정 데이터는 수집하지 않습니다. | 이 사용 권한을 사용하여 사용자를 휴가 추적에 로그인하거나 등록합니다. 이 사용 권한이 있는 특정 데이터는 저장하지 않습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
 >| 프로필 | 위임 | 이름, ID 및 테넌트 ID를 포함하여 기본 사용자 정보를 수집합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | 사용자의 이름, ID 및 테넌트 ID를 저장합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
@@ -82,7 +82,7 @@ ms.locfileid: "59971700"
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 봇은 봇과 통신하는 사용자에 대한 기본 정보를 볼 수 있습니다. 그러나 이 정보는 저장하거나 사용하지 않습니다. 사용자의 ID, 대화 ID 및 봇에 전송된 메시지만 사용할 수 있습니다. | Microsoft는 사용자의 전자 메일 주소, 사용자 이름(Microsoft AAD에 정의되어 있는 경우) 및 사용자의 프로필 사진(Microsoft AAD에서)을 저장합니다. | 동일한 회사의 관리자와 승인자가 대시보드에서 직원을 인식할 수 있도록 전자 메일 주소를 사용자 고유 식별자 및 사용자의 이름 및 프로필 사진으로 사용 합니다.  |
+>| 봇은 봇과 통신하는 사용자에 대한 기본 정보를 볼 수 있습니다. 그러나 이 정보는 저장하거나 사용하지 않습니다. 사용자의 ID, 대화 ID 및 봇에 전송된 메시지만 사용할 수 있습니다. | Microsoft는 사용자의 전자 메일 주소, 사용자 이름(Microsoft AAD) 및 사용자의 프로필 사진(Microsoft AAD)을 저장합니다. | 동일한 회사의 관리자와 승인자가 대시보드에서 직원을 인식할 수 있도록 전자 메일 주소를 사용자 고유 식별자 및 사용자의 이름 및 프로필 사진으로 사용 합니다.  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -111,9 +111,9 @@ ms.locfileid: "59971700"
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36417' frameborder='no' style='width: 100%;'></iframe>
 
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
+<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36417" target="_blank">새 탭에서 보기</a>
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -132,3 +132,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

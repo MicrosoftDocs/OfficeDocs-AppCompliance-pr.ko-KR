@@ -2,18 +2,18 @@
 title: AvePoint, Inc.의 AVA에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/23/2020
+ms.date: 11/01/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: AVA에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 462181d4ba98d11e5aeae15a4827c6138bc80924
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: a23ab8dfa165d43d6f2a9afafab0bc2ac12534bb
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288818"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411897"
 ---
 # <a name="ava"></a>AVA
 
@@ -116,4 +116,5 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

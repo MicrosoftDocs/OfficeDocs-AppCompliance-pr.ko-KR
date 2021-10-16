@@ -2,18 +2,18 @@
 title: 동적 신호로 동적 신호에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/01/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 동적 신호, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 5b5906e8eee51821481de11c3cbd720600d4c36e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 1380163dee988fd928596cd3024c0ddc2d6e8be5
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288237"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412437"
 ---
 # <a name="dynamic-signal"></a>Dynamic Signal
 
@@ -111,4 +111,5 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

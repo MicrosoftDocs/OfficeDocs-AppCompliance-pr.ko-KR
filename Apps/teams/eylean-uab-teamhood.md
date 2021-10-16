@@ -2,18 +2,18 @@
 title: Eylean, UAB의 팀에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/27/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 팀의 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 760f57e7fdc562e5ee39d563792c195d38aecb23
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: e5f3b17179dd0e48d1de2519909545e9aaed76bc
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288445"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412417"
 ---
 # <a name="teamhood"></a>Teamhood
 
@@ -131,3 +131,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

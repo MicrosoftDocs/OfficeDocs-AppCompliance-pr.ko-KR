@@ -2,18 +2,18 @@
 title: Solutions2Share GmbH의 Teams 관리자에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 09/24/2021
+ms.date: 09/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Teams Manager, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e51b08446bed1f22f1e058b92604841ce255eb8f
-ms.sourcegitcommit: 3ac3366e04e24db2d12183ef212738d5b599f553
+ms.openlocfilehash: 8587859f26feebffb31fd9b7eb23e8728e5d60fa
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/28/2021
-ms.locfileid: "59971800"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412748"
 ---
 # <a name="teams-manager"></a>Teams Manager
 
@@ -138,3 +138,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

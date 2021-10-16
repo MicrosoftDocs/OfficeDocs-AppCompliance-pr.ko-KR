@@ -2,18 +2,18 @@
 title: ci 솔루션 GmbH의 CI-out-of-Office Lite에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 06/02/2021
+ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CI-Out-of-Office Lite에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: de7d350bf6eda53a782872b3c4965235cfeca799
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c827481d24c72e3998007f381ff1b733a262af9c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285981"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415155"
 ---
 # <a name="ci-out-of-office-lite"></a>CI-Out-of-Office Lite
 
@@ -120,3 +120,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

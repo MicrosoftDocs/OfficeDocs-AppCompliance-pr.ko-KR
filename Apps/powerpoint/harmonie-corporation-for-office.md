@@ -2,18 +2,18 @@
 title: 기업의 harmon.ie 응용 프로그램 Office harmon.ie 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/07/2021
+ms.date: 01/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 harmon.ie, Office, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c5a4cc10fdb936e6e0a9c04cc492cd301a374cd8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c9e803a02b2db799b0aeb2230955746fa905ccbe
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288605"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413189"
 ---
 # <a name="harmonie-for-office"></a>harmon.ie 대한 Office
 
@@ -129,3 +129,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

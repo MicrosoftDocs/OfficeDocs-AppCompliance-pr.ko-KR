@@ -2,18 +2,18 @@
 title: Viima Solutions Oy의 Viima에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2020
+ms.date: 12/07/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Viima에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7c9db86a4ffce9107b7345f178fe850a66e26560
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5b9233ff1a9a5cb8613ac7a9c6c2e1e00e71e860
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286869"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414885"
 ---
 # <a name="viima"></a>Viima
 
@@ -133,3 +133,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

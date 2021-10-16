@@ -2,18 +2,18 @@
 title: iGlobe의 iPlanner Pro Office 365 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/12/2021
+ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: iPlanner에 사용할 수 있는 모든 보안 및 규정 Pro Office 365, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 40865f86cdb5c2a726c26357abb9d582030a9892
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+zone_pivot_groups: app-info-data-mcas-identity-certification
+ms.openlocfilehash: 9d433b236c322f730763911764b5ca7be10c243c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285994"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414182"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -143,6 +143,43 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 웹 API를 노출하나요? | 아니요 |
 | 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>인증 정보
+
+| **제어** | **Microsoft 365 인증 결과** |
+|:------------|:---------------------------------------|
+| [**응용 프로그램 보안**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **해당 없음** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;침투 테스트 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;취약점 평가 검토(DAST/SAST/침투 테스트) | 해당 없음 |
+| [**운영 보안**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **해당 없음** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;맬웨어 보호 - 바이러스 백신 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;맬웨어 보호 - 응용 프로그램 제어 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;패치 관리 - 위험 순위 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;패치 관리 - 패치 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;취약점 검사 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;방화벽 - 방화벽(또는 동등한 기술) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;방화벽 - WAF(웹 응용 프로그램 방화벽)(선택 사항) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;변경 컨트롤 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 소프트웨어 개발/배포 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;계정 관리 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;침입 감지 및 방지(선택 사항) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 이벤트 로깅 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;검토(로깅 데이터) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 이벤트 경고 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;정보 보안 위험 관리 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;인시던트 대응 | 해당 없음 |
+| [**데이터 처리 보안 &amp; 개인 정보**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **해당 없음** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;전송 중 데이터 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;미사시 데이터 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터 보존 및 폐기 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터 액세스 관리 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 해당 없음 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

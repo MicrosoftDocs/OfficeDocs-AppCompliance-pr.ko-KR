@@ -2,18 +2,18 @@
 title: AnalysisPlace의 Excel Word 문서 자동화에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/15/2021
+ms.date: 02/25/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리에서 Excel Word 문서 자동화, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 8dc1ac8d012545326f0d3c4f96764d5a2ed391b7
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: d8dee2b12160b94cc55d1be0b355b9e5212b595a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59287618"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412147"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel 문서 자동화
 
@@ -33,7 +33,7 @@ AnalysisPlace에서 Microsoft에 제공하는 정보:
 |:----------------|:-------------|
 | 앱 이름 | Excel 문서 자동화 |
 | ID | WA104380955 |
-| Office 365 클라이언트 지원 | Excel 2016 mac, Excel 2016 이상, Windows, Word 2016 이상, mac, Word 2016 Windows Word 2016, PowerPoint 2016 PowerPoint 2016 이상, Windows, 웹용 Excel, 웹용 Word, 웹용 PowerPoint Windows 이상에서 웹용 PowerPoint 웹용 PowerPoint |
+| Office 365 클라이언트 지원 | Excel 2016 Mac, Excel 2016 이상, Windows, Word 2016 이상, Word 2016 Windows, PowerPoint 2016 or later on Mac, PowerPoint 2016 or later on Windows, 웹용 Excel, 웹용 Word 웹용 PowerPoint |
 | 파트너 회사 이름 | AnalysisPlace |
 | 파트너 웹 사이트의 URL | [https://analysisplace.com](https://analysisplace.com) |
 | 개인 정보 취급 방침의 URL | [https://analysisplace.com/Privacy](https://analysisplace.com/Privacy) |
@@ -123,3 +123,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

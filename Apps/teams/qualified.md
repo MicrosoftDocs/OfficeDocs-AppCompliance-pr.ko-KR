@@ -2,18 +2,18 @@
 title: 적격한 자격을 갖춘 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/05/2021
+ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 적격, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d47e6f2919fb97eb1c9a162f2ade8c1a1bf485a8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 4ec36a9c4dbe5a815011b516394171594151ba2c
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286370"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412818"
 ---
 # <a name="qualified"></a>정규화된
 
@@ -142,3 +142,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

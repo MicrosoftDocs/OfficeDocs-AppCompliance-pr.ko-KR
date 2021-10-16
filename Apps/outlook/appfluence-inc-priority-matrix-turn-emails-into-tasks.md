@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 우선 순위 매트릭스에 사용할 수 있는 모든 보안 및 규정 준수 정보 - CSA STAR 레지스트리에서 전자 메일을 작업, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보로 전환합니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 26eb40120926c63d7514ffdde02623ee86d0477d
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b175c992f970dfa2477f549f88be6a4db905f217
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286026"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414202"
 ---
 # <a name="priority-matrix---turn-emails-into-tasks"></a>우선 순위 매트릭스 - 전자 메일을 작업으로 전환
 
@@ -133,3 +133,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

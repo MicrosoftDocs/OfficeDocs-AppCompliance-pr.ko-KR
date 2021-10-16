@@ -2,18 +2,18 @@
 title: Application Information for 금고 Spaces by eCare Vault Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/14/2021
+ms.date: 08/31/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 금고 공간, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 16c1adeb63cf8004df70293c8e4a188dde811250
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 39ca1a0a99e62bbedb14d0248cb751bf4089a70f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288229"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414694"
 ---
 # <a name="safe-spaces"></a>안전한 공간
 
@@ -59,11 +59,11 @@ eCare Vault Inc.에서 Microsoft에 제공한 정보:
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| EduRoster.Read | 위임 | 이름 및 생년월일은 입력 필드를 미리 입력하는 데 사용됩니다. | 없음 - 저장된 모든 데이터가 사용자가 전송됩니다(필드에 미리 채우고 사용자가 전송한 데이터만). | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| Group.Read.All | 위임 | 응용 프로그램에 표시할 수 있는 채널에 대한 정보를 보는 데 사용됩니다. | 이 사용 권한에서 없음 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| GroupMember.Read.All | 위임 | eCare Vault 팀명을 생성하는 데 사용되는 그룹 구성원의 AAD ID | AAD 사용자 ID는 각 구성원의 eCare Vault 사용자 계정과 연결하기 위해 저장됩니다. | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read | 위임 | 전자 메일 주소 및 AAD ID 사용자를 등록하고 eCare Vault 사용자 계정과 연결하기 &amp; 위해 사용됩니다. | 사용자 계정에 대한 전자 메일 주소 및 AAD ID 및 Bot Framework를 통해 사용자에게 알림 보내기 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| User.Read.All | 위임 | 공백이 설치된 채널의 구성원인 사용자에 한해 이름 금고 및 전자 메일 주소 | eCare Vault 사용자 계정에 대해 저장된 이름, AAD ID 및 전자 메일 주소 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| GroupMember.Read.All | 위임 | AAD eCare Vault 팀명을 생성하는 데 사용되는 그룹 구성원의 ID입니다. | AAD 사용자 ID는 각 구성원의 eCare Vault 사용자 계정과 연결하기 위해 저장됩니다. | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| User.Read | 위임 | 전자 메일 주소 및 AAD ID 사용자를 등록하고 eCare Vault 사용자 계정과 연결하기 &amp; 위해 사용됩니다. | 사용자 계정에 AAD 및 봇 프레임워크를 통해 사용자에게 알림 보내기용 전자 메일 주소 및 메시지 ID | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| User.Read.All | 위임 | 공백이 AAD 채널의 구성원인 사용자에 한해 이름 및 금고 및 전자 메일 주소 | eCare Vault AAD 대해 저장된 이름, AAD ID 및 전자 메일 주소 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| 전자 메일 | 위임 | 전자 메일 주소만 | 없음 - 사용자가 양식을 제출하기로 결정한 경우  | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
->| openid | 위임 | 전자 메일 주소 및 AAD ID 사용자를 등록하고 eCare Vault 사용자 계정과 연결하기 &amp; 위해 사용됩니다. | 사용자 계정에 대한 전자 메일 주소 및 AAD ID 및 Bot Framework를 통해 사용자에게 알림 보내기 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
+>| openid | 위임 | 전자 메일 주소 및 AAD ID 사용자를 등록하고 eCare Vault 사용자 계정과 연결하기 &amp; 위해 사용됩니다. | 사용자 계정에 AAD 및 봇 프레임워크를 통해 사용자에게 알림 보내기용 전자 메일 주소 및 메시지 ID | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 >| 프로필 | 위임 | 사용자 이름은 사용자 등록 화면을 채우는 데 사용됩니다. | 직접 없음 - 사용자가 등록할 때 시스템에 이름을 제출하도록 선택 | [6919164d-b678-4c3d-a268-e6fbecc1e68d](https://docs.microsoft.com/microsoft-365-app-certification/azure/6919164d-b678-4c3d-a268-e6fbecc1e68d) |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
@@ -111,17 +111,6 @@ eCare Vault Inc.에서 Microsoft에 제공한 정보:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -149,3 +138,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

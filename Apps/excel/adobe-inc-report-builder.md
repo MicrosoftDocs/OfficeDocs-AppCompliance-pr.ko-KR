@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Report Builder, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 3cdce812cc93cb5a42abf0180f99cf4858a2fc09
-ms.sourcegitcommit: d49943662d5e28a9c1289ee23318818f1f68ff96
+ms.openlocfilehash: eaba58a8a2a63b51dad4489c1104dc5d38ae51b1
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2021
-ms.locfileid: "60340847"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412157"
 ---
 # <a name="report-builder"></a>Report Builder
 
@@ -88,17 +88,6 @@ Adobe Inc.에서 Microsoft에 제공한 정보:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -113,3 +102,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

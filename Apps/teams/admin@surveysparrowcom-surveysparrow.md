@@ -2,18 +2,18 @@
 title: SurveySparrow에 대한 응용 프로그램 admin@surveysparrow.com
 ms.author: elmalova
 author: elenamalova
-ms.date: 04/19/2021
+ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SurveySparrow, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: f27230d2cd0535b5828bff6eaa4e58eb03bf29e4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0abbaa0a9615c1196a56efc3e07e893c1f964e1f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289414"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411977"
 ---
 # <a name="surveysparrow"></a>SurveySparrow
 
@@ -132,3 +132,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

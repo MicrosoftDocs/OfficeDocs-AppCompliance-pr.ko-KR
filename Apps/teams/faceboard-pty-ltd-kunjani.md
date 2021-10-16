@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Kunjani, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 2ec75882d07a0a00d85f4af8faadd3f8cdab952a
-ms.sourcegitcommit: 1d47df35430334cfc0c60f7ea0b62392b99b7cbf
+ms.openlocfilehash: 59123d065a1e7150f86b59b8c1a50938666614e3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/13/2021
-ms.locfileid: "60285995"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415135"
 ---
-# <a name="kunjani"></a>쿠자니어
+# <a name="kunjani"></a>Kunjani
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ FACEBOARD(PTY) LTD에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 쿠자니어 |
+| 앱 이름 | Kunjani |
 | ID | WA200003049 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | FACEBOARD(PTY) LTD |
@@ -63,7 +63,7 @@ FACEBOARD(PTY) LTD에서 Microsoft에 제공한 정보:
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Microsoft Teams 봇 API | 아니오 |  |  |  |  |
+>| Microsoft Teams 봇 API | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
@@ -96,23 +96,12 @@ FACEBOARD(PTY) LTD에서 Microsoft에 제공한 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니오
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -127,3 +116,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

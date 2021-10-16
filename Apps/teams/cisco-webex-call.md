@@ -2,18 +2,18 @@
 title: Cisco의 Webex 통화에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2021
+ms.date: 01/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Webex Call, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: e4addbd6b3ad932c9c987f57cca03c1e6e77cfcd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 50ff8ddaab9be9b66da02156761931de44770340
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285954"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414734"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -125,3 +125,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

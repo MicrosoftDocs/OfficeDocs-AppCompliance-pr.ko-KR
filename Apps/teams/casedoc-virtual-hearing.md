@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: Casedoc Virtual Hearing에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 49c51cff0f00b33f25b22eb73bde4382be10c6ba
-ms.sourcegitcommit: b97ed9e84303967085e6f3f93c80f7b97110194c
+ms.openlocfilehash: 0796ed283a64cd2e146bc011d570e1b5282eb5c6
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59992239"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415185"
 ---
-# <a name="casedoc-virtual-hearing"></a>Casedoc 가상 청각
+# <a name="casedoc-virtual-hearing"></a>Casedoc Virtual Hearing
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ Casedoc에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Casedoc 가상 청각 |
+| 앱 이름 | Casedoc Virtual Hearing |
 | ID | WA200003164 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Casedoc |
@@ -100,23 +100,12 @@ Casedoc에서 Microsoft에 제공한 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니오
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -137,10 +126,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/><br/> |
 | 앱에서 웹 API를 노출하나요? | 예 |
-| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 아니오 |
+| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 아니요 |
 | 앱에서 미리 보기 API를 사용하나요? | 예 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: cSA STAR 레지스트리의 Office 365, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대한 iPlan Outlook ner Office 365 Planner 추가 기능에서 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: ce453be96beb466b4420912a29b30593851f3547
-ms.sourcegitcommit: 9010c9bace5d935309eae5098f5a126a55270eb6
+zone_pivot_groups: app-info-data-mcas-identity-certification
+ms.openlocfilehash: 0dd9e0dfbff342238dd46dd9db8a9338158c7f2f
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59436439"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412127"
 ---
 # <a name="iplanner-office-365-planner-add-in-for-outlook"></a>iPlanner Office 365 Planner 추가 Outlook
 
@@ -74,9 +74,9 @@ iGlobe에서 Microsoft에 제공한 정보:
 >| Exchange - Mail.Read.All | 아니요 |  |  |  |  |
 >| SharePoint - AllSites.Manage | 아니요 |  |  |  |  |
 >| SharePoint - AllSites.Read | 아니요 |  |  |  |  |
->| SharePoint - AllSites.Write | 아니오 |  |  |  |  |
->| SharePoint - MyFiles.Read | 아니오 |  |  |  |  |
->| SharePoint - MyFiles.Write | 아니오 |  |  |  |  |
+>| SharePoint - AllSites.Write | 아니요 |  |  |  |  |
+>| SharePoint - MyFiles.Read | 아니요 |  |  |  |  |
+>| SharePoint - MyFiles.Write | 아니요 |  |  |  |  |
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
 
@@ -104,7 +104,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니오
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -143,6 +143,43 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 웹 API를 노출하나요? | 아니요 |
 | 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>인증 정보
+
+| **제어** | **Microsoft 365 인증 결과** |
+|:------------|:---------------------------------------|
+| [**응용 프로그램 보안**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **해당 없음** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;침투 테스트 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;취약점 평가 검토(DAST/SAST/침투 테스트) | 해당 없음 |
+| [**운영 보안**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **해당 없음** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;맬웨어 보호 - 바이러스 백신 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;맬웨어 보호 - 응용 프로그램 제어 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;패치 관리 - 위험 순위 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;패치 관리 - 패치 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;취약점 검사 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;방화벽 - 방화벽(또는 동등한 기술) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;방화벽 - WAF(웹 응용 프로그램 방화벽)(선택 사항) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;변경 컨트롤 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 소프트웨어 개발/배포 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;계정 관리 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;침입 감지 및 방지(선택 사항) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 이벤트 로깅 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;검토(로깅 데이터) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 이벤트 경고 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;정보 보안 위험 관리 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;인시던트 대응 | 해당 없음 |
+| [**데이터 처리 보안 &amp; 개인 정보**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **해당 없음** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;전송 중 데이터 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;미사시 데이터 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터 보존 및 폐기 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터 액세스 관리 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 해당 없음 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

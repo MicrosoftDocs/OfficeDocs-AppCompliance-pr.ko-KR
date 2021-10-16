@@ -2,18 +2,18 @@
 title: Freevolut LTD의 Google Analytics Insights 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 11/13/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리에서 Google Analytics Insights, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3b2b1e528878540c22682ce5dc4fa30df0eba1d8
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: ac096261a48b8031369be672a27141ba549f07f0
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289304"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413019"
 ---
 # <a name="google-analytics-insights"></a>Google Analytics Insights
 
@@ -103,4 +103,5 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

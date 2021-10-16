@@ -2,18 +2,18 @@
 title: MeisterLabs GmbH의 MindMeister에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 10/31/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: MindMeister, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 75177ef60be80889a14c75fbb76bc1d4aaa9aa49
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 6b36f41be86496cdca75a77d9564b2c13e5536b3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285770"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60413710"
 ---
 # <a name="mindmeister"></a>MindMeister
 
@@ -57,7 +57,7 @@ MeisterLabs GmbH에서 Microsoft에 제공하는 정보:
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 위임 | AAD ID, 테넌트 ID, 전자 메일, displayName - 응용 프로그램 내에서 각 사용자를 식별하고 MindMeister 특정 데이터를 Microsoft 사용자(예: 어느 사용자에게 속하는 지도)와 연결하는 데 사용할 수 있습니다. | 사용자가 로그인할 수 있도록 허용하고 자동 로그인을 사용하도록 설정하기 위해 앱에 UPN에 대한 액세스 권한을 부여합니다. | [d312ff80-0c2b-42ad-887b-c6392bcf6353](https://docs.microsoft.com/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353) |
+>| User.Read | 위임 | AAD ID, 테넌트 ID, 전자 메일, displayName - 응용 프로그램 내에서 각 사용자를 식별하고 MindMeister 특정 데이터를 Microsoft 사용자(예: 어떤 사용자에게 속하는 지도)와 연결하는 데 사용할 수 있습니다. | 사용자가 로그인할 수 있도록 허용하고 자동 로그인을 사용하도록 설정하기 위해 앱에 UPN에 대한 액세스 권한을 부여합니다. | [d312ff80-0c2b-42ad-887b-c6392bcf6353](https://docs.microsoft.com/microsoft-365-app-certification/azure/d312ff80-0c2b-42ad-887b-c6392bcf6353) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -108,4 +108,5 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

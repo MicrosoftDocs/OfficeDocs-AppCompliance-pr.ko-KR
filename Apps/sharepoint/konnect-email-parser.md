@@ -2,18 +2,18 @@
 title: Konnect eMail의 Konnect eMail 파서에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/12/2021
+ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Konnect eMail Parser, 해당 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 1af3a75f49bf10e0185ba80a289fd05524c8130e
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 055f7e45fccf858a233fe5849333dc870d445fe3
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289197"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60412057"
 ---
 # <a name="konnect-email-parser"></a>Konnect eMail Parser
 
@@ -111,3 +111,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

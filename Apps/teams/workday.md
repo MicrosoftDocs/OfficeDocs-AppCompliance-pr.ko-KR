@@ -2,18 +2,18 @@
 title: Workday의 작업일용 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/26/2021
+ms.date: 02/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Workday, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 71a16c42f8676ac12ed4de34ccbdf010de009453
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 38b56caaf5bc20986cec75615725e601a6f12562
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288045"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60414844"
 ---
 # <a name="workday"></a>Workday
 
@@ -57,7 +57,7 @@ Workday에서 Microsoft에 제공한 정보:
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| TeamsAppInstallation.ReadWriteForUser.All | application | 앱 ID 조사, 사용자용 앱 설치, AAD에서 Teams 라이선스 세부 정보 다운로드 | 이 기능과 관련된 데이터는 저장하지 않습니다.  사용자를 위한 앱을 설치할 수 있습니다. | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
+>| TeamsAppInstallation.ReadWriteForUser.All | application | 앱 ID 조사, 사용자용 앱 설치, Teams 라이선스 세부 정보 AAD | 이 기능과 관련된 데이터는 저장하지 않습니다.  사용자를 위한 앱을 설치할 수 있습니다. | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
 >| User.Read.All | application | 사용자 AAID를 검색하여 사용자 메시지를 전송합니다. | AAID 및 Teams AAID  | [0209ae9c-8d92-4fb8-9c77-4dc29fd371e0](https://docs.microsoft.com/microsoft-365-app-certification/azure/0209ae9c-8d92-4fb8-9c77-4dc29fd371e0) |
 
 
@@ -125,3 +125,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
