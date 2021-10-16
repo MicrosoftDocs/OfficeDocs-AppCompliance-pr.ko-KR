@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: School Day Wellbeing, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9b953bd648ecc795e57e22dd505676d755b1ee32
-ms.sourcegitcommit: d49943662d5e28a9c1289ee23318818f1f68ff96
+ms.openlocfilehash: babc51460ddb23fd19007f2ebfc8ebab00300a69
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/14/2021
-ms.locfileid: "60337915"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408427"
 ---
-# <a name="school-day-wellbeing"></a>학교 날 웰링
+# <a name="school-day-wellbeing"></a>School Day Wellbeing
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ ms.locfileid: "60337915"
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 학교 날 웰링 |
+| 앱 이름 | School Day Wellbeing |
 | ID | WA200001430 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 학교 날 Helsinki Oy |
+| 파트너 회사 이름 | School Day Helsinki Oy |
 | 파트너 웹 사이트의 URL | [https://www.schoolday.com](https://www.schoolday.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.schoolday.com/en/resources/faq](https://www.schoolday.com/en/resources/faq) |
 | 개인 정보 취급 방침의 URL | [https://www.schoolday.com/privacy](https://www.schoolday.com/privacy) |
@@ -109,17 +109,6 @@ ms.locfileid: "60337915"
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -146,3 +135,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

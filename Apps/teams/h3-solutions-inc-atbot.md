@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: AtBot에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: d71404e66489ba3f1e81ca5f1a1a92c17b36f9e6
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b5f7db2aba878720e33c5c1df2236fd034819dfb
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288197"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411666"
 ---
 # <a name="atbot"></a>AtBot
 
@@ -57,8 +57,8 @@ H3 Solutions, Inc.에서 Microsoft에 제공하는 정보:
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.Read.All | application | AAD 그룹 이름, AAD 그룹 GUID, UPN | 봇 기술의 보안 트리밍을 허용하도록 AAD 그룹을 열00개합니다. 사용자가 라이선스를 적용할 수 있도록 열세합니다. 관리자/참가자로 추가할 사용자 열기 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
->| Directory.Read.All | 위임 | AAD 그룹 이름, AAD 그룹 GUID, UPN | 봇 기술의 보안 트리밍을 허용하도록 AAD 그룹을 열00개합니다. 사용자가 라이선스를 적용할 수 있도록 열세합니다. 관리자/참가자로 추가할 사용자 열기 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| Directory.Read.All | application | AAD 그룹 이름, AAD GUID, UPN | 봇 AAD 트리밍을 허용하도록 그룹 열기 사용자가 라이선스를 적용할 수 있도록 열세합니다. 관리자/참가자로 추가할 사용자 열기 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
+>| Directory.Read.All | 위임 | AAD 그룹 이름, AAD GUID, UPN | 봇 AAD 트리밍을 허용하도록 그룹 열기 사용자가 라이선스를 적용할 수 있도록 열세합니다. 관리자/참가자로 추가할 사용자 열기 | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| People.Read | 위임 | 아니요 | Flow.  봇이 Microsoft 365의 /People 끝점에서 사용자 검색을 Graph. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| User.Read | 위임 | 테넌트 ID, UPN | 사용자가 테넌트 ID 및 UPN을&#8217;액세스 권한을 부여하여 만든 흐름/논리 앱을 해당 앱을 만든 사용자에게 에일 수 있도록 합니다. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
 >| 전자 메일 | 위임 | 전자 메일 주소는 지원 시스템을 통해 지원에 문의하기 위해 사용됩니다. | 사용자의 전자 메일 주소에 대한 액세스 권한을 부여합니다. | [066a6b3a-f7a0-450a-98c7-34db1da31594](https://docs.microsoft.com/microsoft-365-app-certification/azure/066a6b3a-f7a0-450a-98c7-34db1da31594) |
@@ -92,7 +92,7 @@ H3 Solutions, Inc.에서 Microsoft에 제공하는 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->관리자는 AAD 그룹 이름/GUID를 포함할 수 있는 봇 구성을 삭제할 수 있습니다.
+>관리자는 그룹 이름/GUID를 포함하는 봇 구성을 AAD 있습니다.
 서비스를 취소하면 모든 UPNS가 라이선스 데이터베이스에서 제거됩니다.
 자세한 내용은 아래에서 'Azure Services'를 Data Residency.  AtBot 사용을 통해 생성되는 고객별 데이터 중 다수는 고객의 테넌트에 저장되어 있으므로 해당 테넌트의 관리자는 해당 테넌트의 데이터에 대한 모든 권한을 하게 됩니다.
 
@@ -142,3 +142,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

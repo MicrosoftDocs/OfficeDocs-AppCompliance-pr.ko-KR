@@ -2,18 +2,18 @@
 title: Intumit의 SmartWork로 SmartWork에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/23/2021
+ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SmartWork에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9df1a52e4634956a1a48984faeea9e4b453c03a4
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: fab20b7cfe9fd8008f98a44e473102acd6efbadc
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59283933"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410882"
 ---
 # <a name="smartwork"></a>SmartWork
 
@@ -56,7 +56,7 @@ Microsoft에 Intumit의 SmartWork에서 제공하는 정보:
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 위임 | userPrincipalName을 사용하여 사용자의 메일이 유효한 AAD에서 전송된 것인지 식별 | 로그인 및 사용자 프로필 읽기 | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
+>| User.Read | 위임 | userPrincipalName을 사용하여 사용자의 메일이 유효한 메일에서 온 것인지 AAD 식별 | 로그인 및 사용자 프로필 읽기 | [a938ae1e-a791-4751-9e6a-178c991fa0fa](https://docs.microsoft.com/microsoft-365-app-certification/azure/a938ae1e-a791-4751-9e6a-178c991fa0fa) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -71,7 +71,7 @@ Microsoft에 Intumit의 SmartWork에서 제공하는 정보:
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 유효한 AAD에서 온 것인지 여부에 따라 사용자의 메일을 식별하는 데 사용 | 사용자의 전자 메일 | 사용자가 유효한 AAD에서 온 것인지 여부를 식별하기 위해 저장된 사용자의 메일 목록 |
+>| 사용자의 메일을 식별하는 데 사용할 수 있는 메일이 유효한 AAD 여부 | 사용자의 전자 메일 | 저장된 사용자의 메일 목록 - 사용자가 유효한 사용자로부터 온 것인지를 식별하는 AAD |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -84,7 +84,7 @@ Microsoft에 Intumit의 SmartWork에서 제공하는 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->유효한 AAD 계정만 응용 프로그램에 액세스할 수 있습니다.
+>유효한 계정만 AAD 응용 프로그램에 액세스할 수 있습니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -134,3 +134,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Ti m AG를 통해 ti8m 위치의 &amp; 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/16/2021
+ms.date: 10/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ti8m 위치, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0da49dc42dfb173165ad01f55d5d10c656c0e4e0
-ms.sourcegitcommit: 2781622670a06d5221dcba8838cc262f93d228d0
+ms.openlocfilehash: 92b67a17394d796e0d743c6b3c570698e54e2fec
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60124033"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411433"
 ---
 # <a name="ti8m-places"></a>ti8m places
 
@@ -35,7 +35,7 @@ ti m &amp; AG에서 Microsoft에 제공하는 정보:
 | 앱 이름 | ti8m places |
 | ID | WA200003311 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | ti &amp; m AG |
+| 파트너 회사 이름 | ti&amp;m AG |
 | 파트너 웹 사이트의 URL | [https://www.ti8m.com/places](https://www.ti8m.com/places) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.ti8m.ch/places](https://www.ti8m.ch/places) |
 | 개인 정보 취급 방침의 URL | [https://ti8m.com/products/places/places-datenschutzerklaeru...](https://ti8m.com/products/places/places-datenschutzerklaerung) |
@@ -98,17 +98,6 @@ ti m &amp; AG에서 Microsoft에 제공하는 정보:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -134,3 +123,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

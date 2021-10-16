@@ -2,20 +2,20 @@
 title: Totara의 Totara에 대한 응용 프로그램 Learning
 ms.author: elmalova
 author: elenamalova
-ms.date: 07/01/2021
+ms.date: 09/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Totara, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 5537ae869e4003664d71d4f04036548c432a1b8b
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 084e5edc17f88f72623d32c8654b9444fe951eff
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285597"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411413"
 ---
-# <a name="totara"></a>토타라
+# <a name="totara"></a>Totara
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,10 +32,10 @@ Totara에서 Microsoft에 Learning 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 토타라 |
+| 앱 이름 | Totara |
 | ID | WA200003222 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 토타라 Learning |
+| 파트너 회사 이름 | Totara Learning |
 | 파트너 웹 사이트의 URL | [https://www.totaralearning.com](https://www.totaralearning.com) |
 | 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.totaralearning.com/products/totara-talent-exper...](https://www.totaralearning.com/products/totara-talent-experience-platform) |
 | 개인 정보 취급 방침의 URL | [https://www.totaralearning.com/en/privacy-policy](https://www.totaralearning.com/en/privacy-policy) |
@@ -95,17 +95,6 @@ Totara에서 Microsoft에 Learning 정보:
 
 ::: zone-end
 
-::: zone pivot="mcas"
-
-Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
-
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
 
 ::: zone pivot="identity"
 
@@ -120,3 +109,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

@@ -2,18 +2,18 @@
 title: Sliday LTD의 Karma에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/16/2019
+ms.date: 09/14/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Karma, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: a7603ed4676653b26d93027e5c3e3d47065e83db
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 69163a7c191e9a7e8d460a7f20623466d208042e
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285682"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410912"
 ---
 # <a name="karma"></a>Karma
 
@@ -145,4 +145,5 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 

@@ -2,18 +2,18 @@
 title: 직원 교육 관리에 대한 응용 프로그램 SharePoint| Sapiens
 ms.author: elmalova
 author: elenamalova
-ms.date: 05/31/2021
+ms.date: 07/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 직원 교육 관리, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a4d2ce3475ce082060bc632d439d0c79770486c2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 37505e2f1ba531b3aa1a03a3fb8c93e6da8f121a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285690"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410922"
 ---
 # <a name="employee-training-management"></a>직원 교육 관리
 
@@ -141,3 +141,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

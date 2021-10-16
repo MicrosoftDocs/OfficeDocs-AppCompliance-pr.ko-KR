@@ -2,18 +2,18 @@
 title: Sensei Labs Inc.의 Sensei 랩 수행자에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/05/2021
+ms.date: 01/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Sensei 랩 수행자, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0c7fa93ad3521decc194fcddf94d86d161a864ea
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: b2ff7116020569a5a03ccd86cc30b580ded30c58
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284989"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60408397"
 ---
 # <a name="sensei-labs-conductor"></a>Sensei Labs Conductor
 
@@ -139,3 +139,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

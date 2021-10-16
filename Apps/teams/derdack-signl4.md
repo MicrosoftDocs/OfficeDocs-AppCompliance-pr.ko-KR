@@ -2,18 +2,18 @@
 title: Derdack SIGNL4의 SIGNL4에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/06/2021
+ms.date: 08/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SIGNL4에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 4cf1eae6ef533a1e744ca3c2968764fed0227d00
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7042695f0bfb257552e4e040a1b8d254016b612a
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59286978"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60411082"
 ---
 # <a name="signl4"></a>SIGNL4
 
@@ -84,7 +84,7 @@ Derdack SIGNL4에서 Microsoft에 제공하는 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->데이터는 유럽의 Azure 데이터 센터에 저장됩니다. 관리자가 액세스할 수 있습니다. AAD 인증을 사용하는 2FA 저장소 계정에 대한 액세스 키도 액세스를 관리하는 데 사용됩니다.
+>데이터는 유럽의 Azure 데이터 센터에 저장됩니다. 관리자가 액세스할 수 있습니다. 인증을 사용하는 AAD 2FA입니다. 저장소 계정에 대한 액세스 키도 액세스를 관리하는 데 사용됩니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -134,3 +134,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+

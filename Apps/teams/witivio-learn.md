@@ -2,18 +2,18 @@
 title: Witivio에서 학습할 수 있는 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 03/31/2020
+ms.date: 03/24/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Learn, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f931e75f0a5736ffa49c7366d9928db774c4bdbf
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 5fc05537fef58efdc5eb2ee7d5f51bfaea07b108
+ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59289229"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60410782"
 ---
 # <a name="learn"></a>학습
 
@@ -112,4 +112,5 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
 
