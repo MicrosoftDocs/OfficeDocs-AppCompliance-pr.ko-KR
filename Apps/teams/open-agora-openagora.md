@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: OpenAgora, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: f0c6965c43118f6318c6c35a979d46223274b0f5
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 328a2561a4a3c783be304cb99195be447f3bdea7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413630"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60445220"
 ---
 # <a name="openagora"></a>OpenAgora
 
@@ -104,5 +104,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

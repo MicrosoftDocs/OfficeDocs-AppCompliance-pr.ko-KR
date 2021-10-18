@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 메시지 미리 알림, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 186c6ba05f9d6f0fc95f2beeeae7c0ef9f4e6b38
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f4109bcdc2e36d1131f61b46f62449d97bab123c
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414534"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444867"
 ---
 # <a name="message-reminder"></a>Message Reminder
 
@@ -107,4 +107,3 @@ Microsoft에 &#1054;&#1054;&#1054; &#1040;&#1081; &#1057;&#1080;&#1089; &#1051;&
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

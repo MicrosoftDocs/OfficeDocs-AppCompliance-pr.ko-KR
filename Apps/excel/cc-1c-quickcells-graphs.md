@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: QuickCells Graphs에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: aad03bb23ad053a4259a3ec779340dcaabd88f6a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 4530b2421506df0004b1433b5f46ca5d23db1d0c
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410732"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60444557"
 ---
 # <a name="quickcells-graphs"></a>QuickCells Graphs
 
@@ -123,4 +123,3 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

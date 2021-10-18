@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Presentations AI, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 863fadd2e904db5cf120af5c4ba20626578b2ea3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 70597f83be889c54c147ac9fa799dfdbee1936d8
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412948"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60441016"
 ---
 # <a name="presentations-ai"></a>Presentations AI
 
@@ -118,4 +118,3 @@ Infographfx 기술에서 Microsoft에 제공하는 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

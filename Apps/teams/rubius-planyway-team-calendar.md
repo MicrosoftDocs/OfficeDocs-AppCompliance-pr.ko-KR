@@ -13,7 +13,7 @@ ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430980"
+ms.locfileid: "60434427"
 ---
 # <a name="planyway-team-calendar"></a>Planyway 팀 캘린더
 

@@ -13,7 +13,7 @@ ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430990"
+ms.locfileid: "60440996"
 ---
 # <a name="in-case-of-crisis"></a>위기 발생 시
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: PostBeyond, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 26d4b6bd8a1ddc44a9abe7d51a547e62722f2ae0
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 5c65b0d57736d3705e92119a01ab29db4d897480
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414132"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60432916"
 ---
 # <a name="postbeyond"></a>PostBeyond
 
@@ -119,4 +119,3 @@ PostBeyond에서 Microsoft에 제공한 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

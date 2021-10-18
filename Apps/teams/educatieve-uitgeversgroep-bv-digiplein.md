@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Digiplein에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 0f74b7dbe065573e2679404475c30251ac86cd53
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 49a7a2cb96ad225bcc0db9d7961bab985dada762
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411756"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60434612"
 ---
 # <a name="digiplein"></a>Digiplein
 
@@ -107,4 +107,3 @@ Educatieve Uitgeversgroep B.V에서 제공하는 정보입니다. Microsoft에:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

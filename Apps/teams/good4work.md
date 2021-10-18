@@ -13,7 +13,7 @@ ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 10/18/2021
-ms.locfileid: "60431050"
+ms.locfileid: "60442785"
 ---
 # <a name="good4work"></a>Good4work
 

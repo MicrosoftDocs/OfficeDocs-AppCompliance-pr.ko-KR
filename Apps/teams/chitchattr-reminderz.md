@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Reminderz, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 778e6b803c786e9559095445bcb700cae6b3256d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 072b2d76ccd08ae74f139e1e8ef968c4b2328654
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410372"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60445258"
 ---
 # <a name="reminderz"></a>Reminderz
 
@@ -127,4 +127,3 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
