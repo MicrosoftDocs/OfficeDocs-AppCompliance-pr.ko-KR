@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sentry, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0dfca194e173992cec4cfc244a9c13638602aeb6
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 329d0778e5e5e985a35b36dd84ffc02a8d63d639
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410932"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430970"
 ---
 # <a name="sentry"></a>Sentry
 
@@ -126,4 +126,3 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 다중 승인 프로세스 LTAPP, 해당 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: e605fa6dd849def2c87e611182a47c80c895ff99
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d294d48e99a87e6516488fa4b6eca1257390ceaa
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410161"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60431020"
 ---
 # <a name="multi-approval-process-ltapps"></a>다중 승인 프로세스 LTAPP
 
@@ -127,4 +127,3 @@ LTAPPs SOFTWARE CO.,LTD에서 Microsoft에 제공하는 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

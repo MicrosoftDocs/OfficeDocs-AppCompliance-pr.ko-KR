@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CrossCheck, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 37cb5bad4ded3d0c580e7a9857c8bab327b49fc7
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7dc6fb17d66eca3acf1f0a05538bb39ca1a448c7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60404735"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430940"
 ---
 # <a name="crosscheck"></a>CrossCheck
 
@@ -114,4 +114,3 @@ kRevealLLC에서 Microsoft에 제공하는 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
