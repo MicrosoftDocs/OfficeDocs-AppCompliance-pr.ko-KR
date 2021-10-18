@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MindMeister, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 6b36f41be86496cdca75a77d9564b2c13e5536b3
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: ae083cd6b6fd9ecebc5a447c5b0ab27268f8b66e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413710"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428000"
 ---
 # <a name="mindmeister"></a>MindMeister
 
@@ -108,5 +108,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

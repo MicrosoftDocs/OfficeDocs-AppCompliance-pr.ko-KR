@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 모든 사용 가능한 보안 및 규정 준수 정보, 모든 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: ae9017d8a1f7b1493880f38d9427d169dc8f0021
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: af3e80fd1fd37b6e9d6e356d3130a0ad9ed3500c
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410402"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428150"
 ---
 # <a name="bonusly"></a>Bonusly
 
@@ -101,5 +101,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 
