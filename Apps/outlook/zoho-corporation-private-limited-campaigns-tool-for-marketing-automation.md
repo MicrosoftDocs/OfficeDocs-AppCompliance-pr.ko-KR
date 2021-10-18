@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 마케팅 자동화를 위한 Zoho 캠페인 도구, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2eaae419f204cfdc5650ca66a3cfa4e6cc116c4a
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 654a230731c93126e593f3af7b83eb7cfe434d90
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413209"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430698"
 ---
 # <a name="zoho-campaigns-tool-for-marketing-automation"></a>마케팅 자동화를 위한 Zoho 캠페인 도구
 
@@ -102,5 +102,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

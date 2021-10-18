@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Lightning Tools Lightning Conductor, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9541cab6ba5fcd7da59cfe43c89e2e3bf3fceab9
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 9f597f25df7b000d3d98a2dfbc4fe3c34fef7842
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412047"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430528"
 ---
 # <a name="lightning-tools-lightning-conductor"></a>번개 도구 번개 도우미
 
@@ -109,4 +109,3 @@ Lightning Tools에서 Microsoft에 제공하는 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

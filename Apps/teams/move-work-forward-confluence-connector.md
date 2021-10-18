@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Confluence Connector, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 62b34c18df1b792a9a1cb7269e7a7a0ad364fd70
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 4ac76d007fa7c76e356acc748a34f781e455bb40
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414512"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428555"
 ---
 # <a name="confluence-connector"></a>Confluence Connector
 
@@ -127,4 +127,3 @@ Microsoft로 작업 이동에서 제공하는 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

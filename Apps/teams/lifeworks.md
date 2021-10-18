@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LifeWorks, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a64e54278ea4e8cde380ac56a6ed298765ea10a1
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 5764e617626ef75a63e0850f6d70fede03561588
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410972"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428895"
 ---
 # <a name="lifeworks"></a>LifeWorks
 
@@ -108,4 +108,3 @@ LifeWorks에서 Microsoft에 제공한 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

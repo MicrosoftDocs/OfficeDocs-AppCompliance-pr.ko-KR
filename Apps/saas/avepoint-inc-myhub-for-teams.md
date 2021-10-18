@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 MyHub에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a19a24cc9178bbbaa16b337cd92fc11686d8d09c
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 09e1b6500f75bde564b3f4cf40538516fb6dbae4
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412638"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429235"
 ---
 # <a name="myhub-for-teams"></a>MyHub for Teams
 
@@ -122,4 +122,3 @@ AvePoint Inc.에서 Microsoft에 제공한 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CocoFax에 사용할 수 있는 모든 보안 및 규정 준수 정보 - CSA STAR 레지스트리의 팩스 보내기 쉬운 보안, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 &amp; 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 7f370e7c8fbe5249443856134e8f442db94ec310
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 3f26e940beef12202da1bbb68698b16396922bb2
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60404729"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430136"
 ---
 # <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax - 쉽게 안전한 팩스 &amp; 보내기
 
@@ -100,4 +100,3 @@ Microsoft에 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#2
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Sine에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 749b438732b24b9b742e377a665ce96da6e42fb9
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 52b0e1f31ab0c1c536c704d7afc3785854dd1ca5
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411503"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430770"
 ---
 # <a name="sine"></a>Sine
 
@@ -111,4 +111,3 @@ Microsoft에 Sine.co 제공한 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

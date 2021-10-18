@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Totara, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 084e5edc17f88f72623d32c8654b9444fe951eff
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 299197bbdff21fe4bed3768969dcc31157f717bf
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411413"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429836"
 ---
 # <a name="totara"></a>Totara
 
@@ -109,4 +109,3 @@ Totara에서 Microsoft에 Learning 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

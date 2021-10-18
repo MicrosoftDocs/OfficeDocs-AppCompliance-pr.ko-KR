@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Outlook Pexip One, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: ea1f4eff911ae611319c49d052e8a23142c61993
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 18cfc1abf3f534d30c8dac0b3b94576e553672f9
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413550"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430718"
 ---
 # <a name="pexip-one-for-outlook"></a>Pexip One for Outlook
 
@@ -116,4 +116,3 @@ PexipAS에서 Microsoft에 제공하는 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

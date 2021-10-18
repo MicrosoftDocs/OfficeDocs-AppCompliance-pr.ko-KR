@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Staple, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 9eb6274274c3970b20ebb53d03a163fa79e206df
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 607a41d3609632d2c943115544d249b1d914be9e
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410311"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429966"
 ---
 # <a name="staple"></a>Staple
 
@@ -126,4 +126,3 @@ ms.locfileid: "60410311"
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

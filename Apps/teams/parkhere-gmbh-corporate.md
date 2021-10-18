@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ParkHere Corporate에 대해 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b53e786c53bac2036f395a8561800a96f877eb36
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f10ab2fde19a5ad479999686f21025ed533e89a3
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413600"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430427"
 ---
 # <a name="parkhere-corporate"></a>ParkHere Corporate
 
@@ -109,4 +109,3 @@ ParkHere GmbH가 Microsoft에 제공한 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

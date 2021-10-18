@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Microsoft Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 Luware Nimbus에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: d7139f3ca934da20e58bb9f838217796ca5644da
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 34991a9d979fb497a02c074ade1bd8a7f8faea0d
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60410492"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430538"
 ---
 # <a name="luware-nimbus-for-microsoft-teams"></a>Luware Nimbus for Microsoft Teams
 
@@ -127,4 +127,3 @@ Luware AG에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

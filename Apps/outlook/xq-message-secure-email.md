@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: XQ 보안 전자 메일, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 02dbb1e1ce0204485f67b54edeb75258fe0a29ff
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7222594fde85a05ec2f93030444fb2b4aad2b1c1
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413510"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430708"
 ---
 # <a name="xq-secure-email"></a>XQ 보안 전자 메일
 
@@ -100,4 +100,3 @@ XQ 메시지에서 Microsoft에 제공하는 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

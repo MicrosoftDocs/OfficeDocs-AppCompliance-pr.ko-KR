@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: xMatters, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 96b72e320547f968c081fa1521979b6b4da8e1c5
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 22a811e7d6bba894c59c76442c9c7e3c58d53e96
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60405807"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430317"
 ---
 # <a name="xmatters"></a>xMatters
 
@@ -118,4 +118,3 @@ xMatters Inc.에서 Microsoft에 제공하는 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

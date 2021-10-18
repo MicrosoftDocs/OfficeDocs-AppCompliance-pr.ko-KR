@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: YAROOMS에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 41ab51727c74330152b0926b35755e3b9e444356
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 42d97bdcf5c412ad64ac1f4802e372d4a485ef27
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414002"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430297"
 ---
 # <a name="yarooms"></a>YAROOMS
 
@@ -122,4 +122,3 @@ YAROOMS에서 Microsoft에 제공하는 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

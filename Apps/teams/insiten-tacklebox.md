@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: TackleBox에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: a40a1d6e1acb87917956766be21b0d6b364dfcba
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: d8f732980f921fdfc6da503aaa8ea1243f7fb42a
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413770"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429616"
 ---
 # <a name="tacklebox"></a>TackleBox
 
@@ -136,4 +136,3 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

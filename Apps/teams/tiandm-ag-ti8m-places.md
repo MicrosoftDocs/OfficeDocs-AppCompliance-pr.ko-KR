@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ti8m 위치, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 92b67a17394d796e0d743c6b3c570698e54e2fec
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: f8a248b5b89f9672ea79101ea286ca5ea01d7a3b
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411433"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429446"
 ---
 # <a name="ti8m-places"></a>ti8m places
 
@@ -123,4 +123,3 @@ ti m &amp; AG에서 Microsoft에 제공하는 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: atSpoke에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 86a4512603429feff61ceeee485e8e4042bb9a6d
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 17fc89d254fd558c318c48de53456e9fa23054f7
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413310"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429826"
 ---
 # <a name="atspoke"></a>atSpoke
 
@@ -112,5 +112,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

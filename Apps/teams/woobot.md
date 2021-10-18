@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Woobot에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 2fe1f97a0a0f11caf7817192f2f7ac81f06f0b37
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 74b148bf75fc71ae93bd674fbfc611eb229df622
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411383"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60430327"
 ---
 # <a name="woobot"></a>Woobot
 
@@ -101,5 +101,4 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
 

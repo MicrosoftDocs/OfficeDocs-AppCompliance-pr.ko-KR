@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LawToolBox 마감일 문제 관리에 사용할 수 있는 모든 보안 및 규정 준수 정보 - Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 &amp; 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: f62485ceda390d09597a55c25f8f0e36948b5bd2
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 267fd3fcb746c890d45ef0e3ad64b304090bff12
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415245"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428685"
 ---
 # <a name="lawtoolbox-deadlines-amp-matter-management---outlook"></a>LawToolBox 마감일 &amp; 문제 관리 - Outlook
 
@@ -136,4 +136,3 @@ Microsoft에 LawToolBox.com 제공한 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

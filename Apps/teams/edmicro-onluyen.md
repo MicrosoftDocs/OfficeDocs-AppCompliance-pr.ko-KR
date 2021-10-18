@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Onluyen, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: f9e1ac3ca340475d2a60b23429bb327074e7aafc
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 550b76c9384c01cd0f8ce06d0c6663a0066eab81
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411062"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60428311"
 ---
 # <a name="onluyen"></a>Onluyen
 
@@ -107,4 +107,3 @@ Edmicro가 Microsoft에 제공한 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-

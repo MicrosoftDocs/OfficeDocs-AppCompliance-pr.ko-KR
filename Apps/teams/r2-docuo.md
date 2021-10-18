@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Docuo, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: a33e49f1c9a60f30a14a51a2b5075bdcb33ce7c0
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 5107386cbf0c95d41e0760d759e0ff8a584fb780
+ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60414102"
+ms.lasthandoff: 10/18/2021
+ms.locfileid: "60429125"
 ---
 # <a name="docuo"></a>Docuo
 
@@ -107,4 +107,3 @@ R2 Docuo에서 Microsoft에 제공하는 정보:
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
-
