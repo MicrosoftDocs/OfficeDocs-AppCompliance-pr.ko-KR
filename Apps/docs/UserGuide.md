@@ -6,12 +6,12 @@ description: 앱 준수 프로그램에 Microsoft 365 ISV 사용자 가이드
 keywords: 앱 준수 프로그램에 Microsoft 365 ISV 사용자 가이드
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 74bb654b6084319122e0f9388792cf44d85ca4a664ce89bf308982a29cbfdfc8
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 79a301d6825b3f9ea3d882e13e91b48f3808f60b
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54801686"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60544569"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>앱 준수 프로그램에 대한 Microsoft 365 사용자 가이드
 
@@ -37,26 +37,19 @@ ms.locfileid: "54801686"
 
 **홈페이지:** 파트너가 파트너 센터에 로그인하면 방문 페이지입니다.
 
-![파트너 센터 홈 화면](../media/UserGuidePhotos/01.png)
+**1단계:** 마켓플레이스 제공을 선택합니다. 
 
-**1단계:**   페이지 왼쪽의 탐색 모음에서 다음을 클릭합니다.
-- 저장소 Office 선택
-- 개요 선택
+![파트너 센터의 상업용 마켓플레이스](../media/NewPChomepage.png)
+  
+**2단계:**'마켓플레이스 제공'을 선택한 후 'Office 스토어'로 전환합니다. 목록에서 앱을 선택하여 Publisher 프로세스를 시작할 수 있습니다.
 
-
-![Office 왼쪽 탐색 창에서 스토어를 찾을 수 있습니다.](../media/UserGuidePhotos/02.png)
-
-'개요'를 선택하면 파트너는 파트너 센터를 통해 제출된 앱 목록을 볼 수 있으며, 파트너는 파트너 준수 프로그램에 사용할 Microsoft 365 있습니다.
-
-**2단계:** 목록에서 앱을 선택하여 Publisher 프로세스를 시작할 수 있습니다.
-
-![사용할 응용 프로그램 선택](../media/UserGuidePhotos/03.png)
+![상업용 마켓플레이스에서 앱 선택](../media/NewPCoffersComm.png)
 
 앱을 선택하면 다른 탐색 모음에 '앱 준수' 옵션이 팝업됩니다.
-
+  
 **3단계:**'앱 준수' 선택
 
-![앱 준수 선택](../media/UserGuidePhotos/04.png)
+![앱 준수 선택](../media/PCappcompliance3.png)
 
 **4단계:** Publisher 평가 설문지 작성
 

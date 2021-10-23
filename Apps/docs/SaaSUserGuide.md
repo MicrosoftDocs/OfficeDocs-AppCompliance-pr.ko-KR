@@ -6,12 +6,12 @@ description: 앱 준수 Microsoft 365 SaaS용 ISV 사용자 가이드
 keywords: 앱 준수 Microsoft 365 SaaS용 ISV 사용자 가이드
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 39eed9158ab9cbaa5e26efe036c98fc2ab2b1695d615d8b28930f0d8d4735430
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 5f12c95e413ab069b1f8849a09be50251660fbb1
+ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54801494"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60545840"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>앱 준수 프로그램에 대한 파트너의 Microsoft 365 가이드 - SaaS
 
@@ -36,26 +36,21 @@ ms.locfileid: "54801494"
 
 **홈페이지:** 파트너가 파트너 센터에 로그인하면 방문 페이지입니다.
 
-![파트너 센터 홈 화면](../media/Saas1.PNG)
   
-**1단계:** 페이지 왼쪽의 탐색 모음에서 다음을 진행합니다.
+**1단계:** 마켓플레이스 대상 선택
 
-- 상업용 마켓플레이스 선택
-- 개요 선택
+![파트너 센터의 상업용 마켓플레이스](../media/NewPChomepage.png)
 
-![파트너 센터의 상업용 마켓플레이스](../media/Saas2.PNG)
   
-'개요'를 선택하면 파트너는 앱 준수 프로그램을 시작하는 데 사용할 수 있는 앱 Microsoft 365 있습니다.
-  
-**2단계:** 목록에서 앱을 선택하여 Publisher 프로세스를 시작할 수 있습니다.
+**2단계:**'마켓플레이스 제공'을 선택한 후 '상업적 마켓플레이스'로 전환합니다.
 
-![상업용 마켓플레이스에서 앱 선택](../media/Saas3.PNG)
+![상업용 마켓플레이스에서 앱 선택](../media/NewPCOffersOffice.png)
 
-앱을 선택하면 다른 탐색 모음에 '앱 준수' 옵션이 팝업됩니다.
+목록에서 앱을 선택하면 다른 탐색 모음에 '앱 준수' 옵션이 표시됩니다.
   
 **3단계:**'앱 준수' 선택
   
-![상업용 마켓플레이스의 앱 준수](../media/Saas4.PNG)
+![상업용 마켓플레이스의 앱 준수](../media/PCappcompliance3.png)
   
 **4단계:** 자가 평가 설문지에서 Publisher 작성합니다.
 
