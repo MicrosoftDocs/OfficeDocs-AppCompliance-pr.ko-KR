@@ -6,12 +6,12 @@ description: Microsoft 365 인증 세부 정보
 keywords: 앱 증명 Microsoft 365 인증 365 설문지 앱소스
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: c4b7798840630e2d4813536db29956f732adf18c
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: e41a9c0d09fec10b0034e7da5e8a335cbc4473fc
+ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544688"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60683581"
 ---
 # <a name="what-is-microsoft-365-certification"></a>인증이란 Microsoft 365 무엇입니까?
 
@@ -33,9 +33,10 @@ Microsoft 365 인증은 업계 최고의 표준 프레임워크에서 파생된 
 
 ## <a name="certification"></a>인증
 
-인증 단계는 앱에 대한 철저한 보안 감사와 지원 인프라를 중심으로 진행됩니다. 앱은 SOC 2, PCI DSS 및 ISO 27001과 같은 업계 표준 프레임워크에서 파생된 일련의 보안 컨트롤에 대해 테스트됩니다. 앱에 대한 SOC 2, PCI DSS 또는 ISO 27001 인증을 이미 받은 경우 이러한 보고서를 공유하는 것이 권장됩니다. 필수는 없지만 추가 증거 없이 컨트롤의 하위 집합을 만족하는 데 사용할 수 있습니다. 이러한 컨트롤이 없는 경우 필요한 모든 컨트롤을 충족하는지 보여줄 명확한 증거(문서, 스크린샷 등)를 제공해야 합니다. 인증을 획득한 앱은 고객 데이터를 보호하기 위해 강력한 보안 및 규정 준수 관행이 준수되는 것을 입증했습니다. 
+인증 단계는 앱에 대한 철저한 보안 감사와 지원 인프라를 중심으로 진행됩니다. 앱은 SOC 2, PCI DSS 및 ISO 27001과 같은 업계 표준 프레임워크에서 파생된 일련의 보안 컨트롤에 대해 테스트됩니다. 앱에 대한 SOC 2, PCI DSS 또는 ISO 27001 인증을 이미 받은 경우 이러한 보고서를 공유하는 것이 권장됩니다. 필수는 아니며 추가 증거 없이 컨트롤의 하위 집합을 충족하는 데 사용할 수 있습니다. 외부 인증이 없는 경우 필요한 모든 컨트롤을 충족하는지 보여줄 명확한 증거(문서, 스크린샷 등)를 제공해야 합니다. 인증을 획득한 앱은 고객 데이터를 보호하기 위해 강력한 보안 및 규정 준수 관행이 준수되는 것을 입증했습니다. 
 
-> ! [IMPORTANT] ISV가 필요한 모든 증거를 제출할 수 있는 경우 Microsoft는 현재 인증 감사의 전체 비용을 다루고 있습니다.
+> [!IMPORTANT]
+> ISV가 필요한 모든 증거를 제출할 수 있는 경우 Microsoft는 현재 인증 감사의 전체 비용을 다루고 있습니다.
 
 앱 인증은 앱의 보안 및 규정 준수 프레임워크, 프로세스 및 절차를 중심으로 하는 포괄적인 평가에 대한 적격 분석가의 검토 및 승인을 통해 달성됩니다. 
 
