@@ -10,8 +10,8 @@ ms.openlocfilehash: e41a9c0d09fec10b0034e7da5e8a335cbc4473fc
 ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60683581"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60719560"
 ---
 # <a name="what-is-microsoft-365-certification"></a>인증이란 Microsoft 365 무엇입니까?
 

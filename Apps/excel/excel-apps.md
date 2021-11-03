@@ -11,8 +11,8 @@ ms.openlocfilehash: 8fb90fec1ed5b5bc830fa498eee3b690e10e479b
 ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60683591"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60719740"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 앱 보안 및 규정 준수
 
