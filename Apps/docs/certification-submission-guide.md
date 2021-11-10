@@ -6,12 +6,12 @@ description: Microsoft 365 인증 제출 가이드 세분화 보기
 keywords: 앱 인증 팀 Microsoft 365 준수 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 0d422251404275da18e08af120a15877616e4db4
-ms.sourcegitcommit: dfd937182e08ed377a5ad80f0db929ab7d7c7a7b
+ms.openlocfilehash: f89cb9f82cec69a473d451cff33e3db9b406489d
+ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60789979"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60885296"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 인증 제출 가이드
 
@@ -144,7 +144,8 @@ IaaS 또는 PaaS가 배포되는 경우 이러한 배포 유형 내에서 호스
 
 ## <a name="initial-document-submission"></a>초기 문서 제출
 
-초기 문서 제출은 인증 분석가가 범위를 지정하고 평가 범위에 포함되는 대상을 결정하는 데 도움이 됩니다. 그 이후에는 평가를 수행하기 위해 사용되는 지원 설명서 및 증거를 제출해야 합니다. 초기 제출에는 아래에 지정된 정보가 포함되어야 합니다.
+
+초기 문서 제출은 인증 분석가가 범위를 지정하고 평가 범위에 포함되는 대상을 결정하는 데 도움이 됩니다. 그 이후에는 평가를 수행하기 위해 사용되는 지원 설명서 및 증거를 제출해야 합니다. 초기 제출에는 아래에 지정된 정보가 포함되어야 합니다. 추가 가이드에 대한 자세한 내용은 [Initital Document Subnmission Guide 를 참조하십시오.](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/initialdocumentsubguide)
 
 | **설명서 &nbsp; 개요**     |   **설명서 세부 정보**  |
 | -------------------------| -----------------------------|
@@ -191,7 +192,7 @@ IaaS 또는 PaaS가 배포되는 경우 이러한 배포 유형 내에서 호스
 * 인터뷰 
 * 화면 공유 
 
-사용되는 증거 수집 기술은 평가 프로세스 중에 결정됩니다. 
+사용되는 증거 수집 기술은 평가 프로세스 중에 결정됩니다. 제출에 필요한 증거 유형의 구체적인 예는 샘플 증거 [가이드 를 참조하세요.](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-sample-evidence-guide)
 
 **평가 활동**
 

@@ -2,17 +2,17 @@
 title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/27/2021
+ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: c8873b939aac5af2f29248e99d2ece9acc0e5f1c
-ms.sourcegitcommit: 3b0f0cb0a67b69bcb6330078509cd449df04a987
+ms.openlocfilehash: c7f08da49e2733b469e65ebe7692962827b2deb4
+ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60719720"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60874644"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -50,6 +50,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Attensa](./attensa-corporation.md) | Attensa Corporation | **✓** |  |
 | [Aula Digital](./leya-sa-aula-digital.md) | Leya, S.A. | **✓** |  |
 | [AVA](./avepoint-inc-ava.md) | AvePoint, Inc. | **✓** |  |
+| [Avaamo IT Assistant](./avaamo-it-assistant.md) | Avaamo | **✓** |  |
 | [Axelleron](./axelleron.md) | Axelleron | **✓** |  |
 | [Beagle](./decision-point-beagle.md) | 의사 결정 지점 | **✓** |  |
 | [Beekast](./beekast.md) | Beekast | **✓** |  |
@@ -101,6 +102,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Confluence Connector](./move-work-forward-confluence-connector.md) | 작업을 앞으로 이동 | **✓** |  |
 | [Connect+](./reward-gateway-connectplus.md) | Reward Gateway | **✓** |  |
 | [Contact Center](./landis-technologies-llc-contact-center.md) | Landis Technologies LLC | **✓** |  |
+| [연락처 센터 | ROGER365.io](./roger365io-contact-centerroger365io.md) | ROGER365.io | **✓** |  |
 | [콘텐츠 관리자](./colligo-inc-content-manager.md) | Colligo Inc | **✓** |  |
 | [Contextere AVA](./contextere-ava.md) | Contextere | **✓** |  |
 | [CSOD Learn](./cornerstone-ondemand-csod-learn.md) | Cornerstone OnDemand | **✓** |  |
@@ -212,7 +214,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [LTI 클라이언트](./flipick-pvt-ltd-lti-client.md) | Flipick Pvt Ltd | **✓** |  |
 | [Lucca](./lucca.md) | Lucca | **✓** |  |
 | [Lucidchart](./lucid-software-lucidchart.md) | Lucid Software | **✓** |  |
-| [Lucidspark](./lucid-software-lucidspark.md) | Lucid Software | **✓** |  |
+| [Lucidspark Whiteboard](./lucid-software-lucidspark-whiteboard.md) | Lucid Software | **✓** |  |
 | [LuckyDraw](./tony-xia-luckydraw.md) | Tony Xia | **✓** |  |
 | [LumApps](./lumapps.md) | LumApps | **✓** |  |
 | [Lumio by SMART](./smart-technologies-ulc-lumio-by.md) | SMART Technologies ULC | **✓** |  |
@@ -232,6 +234,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Mindsets](./mindsets-learning.md) | Mindsets Learning | **✓** |  |
 | [MIPA - 개인 비서](./iglobe-mipa-your-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [monday.com](./mondaycom.md) | monday.com | **✓** |  |
+| [Moneypenny](./callitech-limited-moneypenny.md) | CALLITECH LIMITED | **✓** |  |
 | [Monitask](./fest-technologies-llc-monitask.md) | FEST Technologies, LLC | **✓** |  |
 | [Jira를 사용하여 작업을 앞으로 이동](./move-work-forward-with-jira.md) | 작업을 앞으로 이동 | **✓** |  |
 | [다중 승인 프로세스 LTAPP](./ltapps-software-coltd-multi-approval-process.md) | LTAPPs SOFTWARE CO.,LTD | **✓** |  |
@@ -242,6 +245,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [myOKR](./soe-technologies-myokr.md) | SOE 기술 | **✓** |  |
 | [MyWorkDrive](./myworkdrive.md) | MyWorkDrive | **✓** |  |
 | [Nailted](./nailted-app-sl.md) | NAILTED APP S.L. | **✓** |  |
+| [Natterhub](./natterhub.md) | Natterhub | **✓** |  |
 | [Navo](./regroove-solutions-navo.md) | Regroove Solutions | **✓** |  |
 | [NE](./ne.md) | NE | **✓** |  |
 | [Neelix.Team](./neelixio-neelixteam.md) | Neelix.IO | **✓** |  |
@@ -260,11 +264,14 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Onluyen](./edmicro-onluyen.md) | Edmicro | **✓** |  |
 | [Onsight Connect](./librestream-onsight-connect.md) | Librestream | **✓** |  |
 | [OpenAgora](./open-agora-openagora.md) | Open Agora | **✓** |  |
+| [Optmyzr](./optmyzr.md) | Optmyzr | **✓** |  |
 | [Org@Work](./lundano-org@work.md) | Lundano | **✓** |  |
 | [Package Notifier](./qburst-technologies-pvt-ltd-package-notifier.md) | QBURST TECHNOLOGIES PVT LTD | **✓** |  |
 | [PagerDuty](./pagerduty-inc.md) | PagerDuty, Inc. | **✓** |  |
 | [PandaDoc](./pandadoc.md) | PandaDoc | **✓** |  |
 | [ParkHere Corporate](./parkhere-gmbh-corporate.md) | ParkHere GmbH | **✓** |  |
+| [PayaFy](./nimblesoft-inc-payafy.md) | NimbleSoft Inc. | **✓** |  |
+| [Perdoo](./perdoo-gmbh.md) | Perdoo GmbH | **✓** |  |
 | [Perfect Wiki - RD17](./ooo-rd17-perfect-wiki-by.md) | OOO RD17 | **✓** |  |
 | [Perfony](./perfony.md) | Perfony | **✓** |  |
 | [Piazza](./piazza.md) | Piazza | **✓** |  |
@@ -379,7 +386,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [TeamSticker by Communitio](./communitio-corporation-teamsticker-by.md) | Communitio Corporation | **✓** |  |
 | [Teamwork](./teamwork.md) | Teamwork | **✓** |  |
 | [TELUS Business Connect](./ringcentral-inc-telus-business-connect.md) | RingCentral, Inc. | **✓** |  |
-| [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** |  |
+| [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Text](./approved-contact-text.md) | Approved Contact | **✓** |  |
 | [ThoughtWire EWS](./thoughtwire-corp-ews.md) | ThoughtWire Corp. | **✓** |  |
 | [ti8m places](./tiandm-ag-ti8m-places.md) | ti&amp;m AG | **✓** |  |
@@ -404,8 +411,10 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Vonage Business Communications](./vonage-business-communications.md) | Vonage | **✓** |  |
 | [Vtiger CRM](./vtiger-crm.md) | Vtiger | **✓** |  |
 | [Waldo](./kickle-waldo.md) | Kickle | **✓** |  |
+| [Wazoku](./wazoku.md) | Wazoku | **✓** |  |
 | [Webdashboard](./in-summa-webdashboard.md) | In Summa | **✓** |  |
 | [Webex Call](./cisco-webex-call.md) | Cisco | **✓** |  |
+| [Weekdone](./weekdone-ltd.md) | Weekdone Ltd | **✓** |  |
 | [Weekly10](./binary-geek-limited-weekly10.md) | Binary Geek Limited | **✓** |  |
 | [Weet 화면 녹화](./fyz-services-weet-screen-recording.md) | FYZ SERVICES | **✓** |  |
 | [Wellness Coach](./meditationlive-inc-wellness-coach.md) | Meditation.live, Inc. | **✓** |  |

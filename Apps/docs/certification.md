@@ -6,12 +6,12 @@ description: Microsoft 365 인증 세부 정보 개요
 keywords: appSource에 대한 앱 Microsoft 365 증명
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 55125deec809aef3e74ab96bedf88b43ad8ac46e
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: ec401c9e1418c0023931300efe8c0206824d3506
+ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544948"
+ms.lasthandoff: 11/09/2021
+ms.locfileid: "60885295"
 ---
 # <a name="complete-microsoft-365-certification"></a>인증 Microsoft 365 완료
 
@@ -38,6 +38,9 @@ ms.locfileid: "60544948"
 1. **인증 시작** - 파트너 센터 내에서 "인증 시작"을 클릭합니다. 그러면 초기 문서 제출 포털로 이동됩니다. 초기 문서 [제출을 제출합니다.](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification-submission-guide#initial-document-submission) 이렇게 하면 앱이 설계 및 고객 데이터를 처리하는 방식에 따라 평가 범위 내 범위를 결정하는 데 도움이 됩니다. 제출이 수락된 경우 이 페이지를 자주 확인하십시오.
 
 1. **증거 제출** - 초기 문서 제출이 수락되면 앱에 필요한 보안 컨트롤 집합이 포털에 자동으로 표시됩니다. 그런 다음 컨트롤이 준비 중이라 증명하는 각 컨트롤에 대한 증거를 제출해야 합니다. 모든 증거를 제출할 **수 있는 60일이** 주어졌다는 사실에 유의합니다. 분석가가 증거를 검토하고 제어를 승인하거나 새 증거 또는 추가 증거를 요청합니다. 이 페이지를 자주 확인하여 증거가 수락된지 확인하십시오.
+
+>[!NOTE]
+> 샘플 증거 [가이드에서](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-sample-evidence-guide) 필요한 증거의 구체적인 예를 살펴보세요.
 
 1. **인증 획득** - 분석가가 제출의 유효성을 검사한 후 인증 결정에 대한 알림을 받을 수 있습니다. 인증을 받은 앱은 마켓플레이스(Teams, **Office, AppSource)** 및 관리 포털(Teams, **M365)** 및 **Microsoft** 문서 페이지 내에서 응용 프로그램에 대한 배지를 받게 됩니다. 여기에서 인증의 전체 이점에 대해 읽을 수 [있습니다.](https://docs.microsoft.com/microsoft-365-app-certification/docs/enterprise-app-certification-guide#program-benefits)
 
