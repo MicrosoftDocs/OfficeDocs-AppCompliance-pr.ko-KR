@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: aeca6ab37c806c4b9966bc1be5f4fa229120a8c1
-ms.sourcegitcommit: bbdf2ba4c6b7682eb6645aa40671738f64105876
+ms.openlocfilehash: b2cdbdd7cae052ed8fedaa10794b5352c2f2769d
+ms.sourcegitcommit: 3a1a78be9669a7b77528c1545698983c36bbec3a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/12/2021
-ms.locfileid: "60930961"
+ms.lasthandoff: 11/13/2021
+ms.locfileid: "60953950"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -97,6 +97,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [CoffeePals](./carnduff-co-coffeepals.md) | Carnduff Co | **✓** |  |
 | [컬렉션 팟](./gifted-to-you-limited-collection-pot.md) | 선물 받은 사용자 제한 | **✓** |  |
 | [Commander](./nimbella-commander.md) | Nimbella | **✓** |  |
+| [회사 탐색기](./konica-minolta-it-solutions-company-navigator.md) | Konica Minolta IT Solutions | **✓** |  |
 | [규격](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [Conferences i/o](./conferences-io.md) | Conferences i/o | **✓** |  |
 | [Confluence Cloud](./atlassian-confluence-cloud.md) | Atlassian | **✓** |  |
@@ -150,6 +151,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [동료](./fellow-insights-inc.md) | Fellow Insights Inc | **✓** |  |
 | [Fifty](./fifty.md) | Fifty | **✓** |  |
 | [File Fabric](./storage-made-easy-file-fabric.md) | Storage Made Easy | **✓** |  |
+| [Fireflies AI](./firefliesai-fireflies-ai.md) | Fireflies.ai | **✓** |  |
 | [FireWatch](./infographics-uk-ltd-firewatch.md) | Infographics UK Ltd. | **✓** |  |
 | [FloQast](./floqast.md) | FloQast | **✓** |  |
 | [ForceManager CRM](./tritium-software-sl-forcemanager-crm.md) | Tritium Software SL | **✓** |  |
@@ -262,6 +264,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Nugget](./panviva-nugget.md) | Panviva | **✓** |  |
 | [Nulia Works](./nulia-works.md) | Nulia | **✓** |  |
 | [OfficeAmp](./anaek-inc-officeamp.md) | Anaek Inc | **✓** |  |
+| [OfficeRnD Hybrid Work](./officernd-hybrid-work.md) | OfficeRnD | **✓** |  |
 | [OfficeSpace](./officespace-software.md) | OfficeSpace Software | **✓** |  |
 | [Officevibe](./officevibe.md) | Officevibe | **✓** |  |
 | [OLIVE VLE](./olivegroup-olive-vle.md) | OliveGroup | **✓** |  |
@@ -339,6 +342,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [SkilledHuman](./saltflat-limited-skilledhuman.md) | SaltFlat Limited | **✓** |  |
 | [Skills by Pipe9](./pipe9com-skills-by-pipe9.md) | Pipe9.com | **✓** |  |
 | [Skillsoft Percipio](./skillsoft-percipio.md) | Skillsoft | **✓** |  |
+| [Skoach](./cultify-lda-skoach.md) | Cultify, Lda | **✓** |  |
 | [SkyPoint Cloud](./skypoint-cloud-inc.md) | SkyPoint Cloud Inc. | **✓** |  |
 | [Slido](./slido.md) | Slido | **✓** |  |
 | [Smart Connect for Jira](./yasoon-gmbh-smart-connect-for-jira.md) | yasoon GmbH | **✓** |  |
