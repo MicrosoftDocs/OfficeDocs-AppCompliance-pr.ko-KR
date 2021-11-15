@@ -103,8 +103,8 @@
           href: outlook/atlassiancom-jira-cloud-for-outlook-official.md
         - name: LawToolBox 마감일 및 문제 관리 - Outlook
           href: outlook/lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md
-        - name: 'LawToolBox Outlook, Teams 및 SharePoint'
-          href: outlook/lawtoolboxcom-inc-lawtoolbox-matters-for-outlook-teams-and-sharepoint.md
+        - name: LawToolBox 마감일 및 문제 관리 - Outlook
+          href: outlook/lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md
         - name: MIPA - 사용자만의 개인 도우미
           href: outlook/iglobe-mipa-your-own-personal-assistant.md
         - name: ngDesk
@@ -351,7 +351,7 @@
           href: teams/gifted-to-you-limited-collection-pot.md
         - name: Commander
           href: teams/nimbella-commander.md
-        - name: 회사 내비게이터
+        - name: 회사 탐색기
           href: teams/konica-minolta-it-solutions-company-navigator.md
         - name: 규격
           href: teams/cauzey-pty-ltd-complish.md
@@ -361,7 +361,7 @@
           href: teams/atlassian-confluence-cloud.md
         - name: Confluence Connector
           href: teams/move-work-forward-confluence-connector.md
-        - name: Connect+
+        - name: 커넥트+
           href: teams/reward-gateway-connectplus.md
         - name: 연락처 센터
           href: teams/landis-technologies-llc-contact-center.md
@@ -459,7 +459,7 @@
           href: teams/fifty.md
         - name: File Fabric
           href: teams/storage-made-easy-file-fabric.md
-        - name: 반향 AI
+        - name: Fireflies AI
           href: teams/firefliesai-fireflies-ai.md
         - name: FireWatch
           href: teams/infographics-uk-ltd-firewatch.md
@@ -567,6 +567,8 @@
           href: teams/klaxoon.md
         - name: Koan
           href: teams/koan-inc.md
+        - name: KUDO 다국어 모임
+          href: teams/kudo-inc-multilingual-meetings.md
         - name: Kudozza
           href: teams/survivef5-gmbh-kudozza.md
         - name: Kunjani
@@ -685,7 +687,7 @@
           href: teams/nulia-works.md
         - name: OfficeAmp
           href: teams/anaek-inc-officeamp.md
-        - name: OfficeRnd 하이브리드 작업
+        - name: OfficeRnD Hybrid Work
           href: teams/officernd-hybrid-work.md
         - name: OfficeSpace
           href: teams/officespace-software.md
@@ -1328,6 +1330,8 @@
           href: azure/5022e09d-d2f9-499f-8925-554c324ad23a.md
         - name: 50356ee3-b48b-424b-a7a7-35e53c2ce736
           href: azure/50356ee3-b48b-424b-a7a7-35e53c2ce736.md
+        - name: 5123b34d-663d-4ae9-a3c9-d2298be203f2
+          href: azure/5123b34d-663d-4ae9-a3c9-d2298be203f2.md
         - name: 512b84d2-5840-45d6-8d01-5f073836d039
           href: azure/512b84d2-5840-45d6-8d01-5f073836d039.md
         - name: 51e2b67d-9854-446a-8da1-cdd89ef0b987
