@@ -5,20 +5,19 @@ author: elenamalova
 ms.date: 11/01/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: 정책에 사용할 수 있는 모든 보안 및 규정 준수 Insights BYOL(Microsoft 365), 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 &amp; 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2f86ce69199b8573824f5207ea1e7b78147b73ea
-ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
+ms.openlocfilehash: 45bd93418e3b6b2c5f3b613f2c7467cd238c8213
+ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60874962"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "61039970"
 ---
 # <a name="policies-amp-insights-for-microsoft-365-byol"></a>&amp;BYOL(Insights 정책 Microsoft 365 정책)
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>개발자가 마지막으로 업데이트한 날짜: 2021년 10월 26일</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/avepoint.policies-insights_mo365_byol" target="_blank">AppSource의 보기</a>
@@ -138,10 +137,10 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? | 예 |
 | 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 연결 개인 정보 취급 방침이 있나요? | 예 |
 | 개인 정보 취급 방침 URL | https://www.avepoint.com/license/dataprotection.html |
-| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? | 아니오 |
-| 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니요 |
-| 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? | 아니요 |
-| 앱이 미성년자(예: 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? | 아니요 |
+| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? | 아니요 |
+| 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니오 |
+| 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? | 아니오 |
+| 앱이 미성년자(예: 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? | 아니오 |
 | 앱에 요청 시 개인의 개인 데이터를 삭제할 수 있는 기능이 있나요? | 아니오 |
 | 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한할 수 있는 기능이 있나요? | 아니오 |
 | 앱이 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 개인에게 제공하나요? | 아니오 |
@@ -167,7 +166,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 사용 권한**  | **사용 권한 유형** |          **사리**          |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
 >|:------------------------|:--------------------|:------------------------------------|
 >| Sites.FullControl.All | application | 사이트 모음 및 그룹/팀 사이트의 정보를 검색하고&#8217; 업데이트합니다. |
 >| User.Read.All | application | 모든 사용자의 설정 읽기 |

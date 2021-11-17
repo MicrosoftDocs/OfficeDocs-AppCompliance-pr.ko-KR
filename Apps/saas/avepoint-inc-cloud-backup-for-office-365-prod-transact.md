@@ -5,20 +5,19 @@ author: elenamalova
 ms.date: 10/27/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: CSA STAR 레지스트리의 클라우드 백업 - Office 365 - Prod(거래), 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9c147dc754f420e0c7f1c1392cb2e75616557cfe
-ms.sourcegitcommit: cb50f8967ff1ca98c98bcadb26c05b3a5c5a6ea8
+ms.openlocfilehash: b9257448bd15bc23647a3567fb0f66a7325fe1fd
+ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60875038"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "61040000"
 ---
 # <a name="cloud-backup-for-office-365---prod-transact"></a>클라우드 백업 for Office 365 - Prod(거래)
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>개발자가 마지막으로 업데이트한 날짜: 2021년 9월 29일</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/avepoint.cloudbackup_o365_transact" target="_blank">AppSource의 보기</a>
@@ -60,7 +59,7 @@ AvePoint의 무제한, 자동화된 백업 및 보안 저장소&#8217;Azure 저�
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 30일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니오 |
+| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
 | Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -79,7 +78,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? | 예 |
 | 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? | 예 |
 | 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? | 예 |
-| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 아니오 |
+| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 아니요 |
 | 앱 및 이를 지원하는 구조에서 분기별 취약점 검색을 수행하나요? | 예 |
 | 외부 네트워크 경계에 방화벽이 설치되어 있습니까? | 예 |
 | 변경 요청을 프로덕션에 배포하기 전에 검토하고 승인하는 데 사용되는 변경 관리 프로세스가 설정 있습니까? | 예 |
@@ -166,7 +165,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 사용 권한**  | **사용 권한 유형** |          **사리**          |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
 >|:------------------------|:--------------------|:------------------------------------|
 >| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 |
 >| Directory.Read.All | application | 디렉터리 데이터 읽기 |
