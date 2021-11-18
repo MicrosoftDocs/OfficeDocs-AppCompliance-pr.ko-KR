@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Project 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: c473f1e8da8a83c3a9eb1beb3282190b25722fe2
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 7e92714f95069389ad1aa3223e1c0e41381b8fde
+ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60413179"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066516"
 ---
 # <a name="microsoft-project-apps-security-and-compliance"></a>Microsoft Project 앱 보안 및 규정 준수
 
@@ -20,4 +20,4 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [officeatwork | 템플릿 선택에서 Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork | 템플릿 선택에서 Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |

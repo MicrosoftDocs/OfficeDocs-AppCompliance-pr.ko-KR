@@ -8,16 +8,17 @@ ms.service: attestation
 certification_type: certified
 description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR 레지스트리의 Office, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 위한 템플릿 선택기입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 902198ce1bb7e3b805c2b6c20879a6b77b144954
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 007a116d9a52d3a32b664c8f564118445cfbcc5d
+ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59285106"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61066446"
 ---
 # <a name="officeatwork--template-chooser-for-office"></a>officeatwork | 사용자용 템플릿 Office
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 23일</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA104380050" target="_blank">AppSource의 보기</a>
@@ -32,7 +33,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 |:----------------|:-------------|
 | 앱 이름 | officeatwork - 사용자용 템플릿 Office |
 | ID | WA104380050 |
-| Office 365 클라이언트 지원 | Excel iPad, Excel 2016 Mac, Excel 2013 이상에서 Windows, 웹용 Excel Word on iPad, Word 2016 or later on Mac, 웹용 Word, Word 2013 or later on Windows, PowerPoint on iPad, PowerPoint 2016 or later on Mac, 웹용 PowerPoint, PowerPoint 2013 or later on Windows, Project 2016 or later on Windows |
+| Office 365 클라이언트 지원 | Excel on iPad, Excel 2016 or later on Mac, Excel 2013 or later on Windows, 웹용 Excel, Word on iPad, Word 2016 or later on Mac, 웹용 Word, Word 2013 or later on Windows PowerPoint, iPad PowerPoint 2016 이상, 웹용 PowerPoint, PowerPoint 2013 이상(Windows, Project 2016 이상)에서 Windows |
 | 파트너 회사 이름 | officeatwork |
 | 파트너 웹 사이트의 URL | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 개인 정보 취급 방침의 URL | [https://links.officeatwork.com/officeatwork-privacystatement](https://links.officeatwork.com/officeatwork-privacystatement) |
@@ -56,7 +57,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
 >| Files.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | 즐겨찾기: 사용자가 데이터를 읽고 쓸 수 OneDrive. OneDrive: 사용자가 데이터를 읽고 쓸 수 OneDrive. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
 >| Group.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 그룹에 데이터를 읽고 쓸 수 있습니다. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
->| GroupMember.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 읽을 수 있는 SharePoint 권한입니다. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
+>| GroupMember.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint Online: 온라인에서 데이터를 읽을 수 있도록 설정할 수 있는 SharePoint 권한입니다. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
 >| Sites.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 SharePoint. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
 >| User.Read | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 사용자의 기본 속성을 읽을 수 있도록 합니다. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
 >| User.Read.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 사용자가 속한 그룹을 찾아야 합니다. | [dae2eacf-3eb5-4440-baff-984fbd5cae68](https://docs.microsoft.com/microsoft-365-app-certification/azure/dae2eacf-3eb5-4440-baff-984fbd5cae68) |
