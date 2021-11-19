@@ -2,17 +2,17 @@
 title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/17/2021
+ms.date: 11/18/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: c08d188388489e9a5d9580b1510e81a660b0e6e6
-ms.sourcegitcommit: 16228ecbe73bc51d49d6bf71584774537b76c41c
+ms.openlocfilehash: 91e2a350d2037ec8ce22e11ecd34b1aeb854488b
+ms.sourcegitcommit: 8695694a7da27a4114480a394616e66ae180b7e3
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/17/2021
-ms.locfileid: "61062288"
+ms.lasthandoff: 11/18/2021
+ms.locfileid: "61070352"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -161,6 +161,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Fusion Remote](./jujo-inc-fusion-remote.md) | Jujo Inc. | **✓** |  |
 | [Geekbot](./geekbot-ltd.md) | Geekbot Ltd | **✓** |  |
 | [Gensys](./gensys-solutions-bv.md) | Gensys Solutions BV | **✓** |  |
+| [Gfacility](./gfacility.md) | Gfacility | **✓** |  |
 | [GitHub](./microsoft-corporation-github.md) | Microsoft Corporation | **✓** |  |
 | [Go1](./go1.md) | Go1 | **✓** |  |
 | [Goalhub](./momentum-cloud-pty-ltd-goalhub.md) | Momentum Cloud Pty Ltd | **✓** |  |
@@ -217,6 +218,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Listy](./information-age-technologies-listy.md) | Information Age Technologies | **✓** |  |
 | [Live Chat](./social-intents-live-chat.md) | Social Intents | **✓** |  |
 | [LMS365](./elearningforce-international-lms365.md) | ELEARNINGFORCE International | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Loop](./friendly-flows-loop.md) | 친숙한 흐름 | **✓** |  |
 | [Loops - Creative Learning](./skooler-loops-creative-learning.md) | Skooler | **✓** |  |
 | [LTI 클라이언트](./flipick-pvt-ltd-lti-client.md) | Flipick Pvt Ltd | **✓** |  |
 | [Lucca](./lucca.md) | Lucca | **✓** |  |
@@ -373,6 +375,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [SuperBeings](./haptivity-technologies-pvt-ltd-superbeings.md) | Haptivity Technologies Pvt Ltd | **✓** |  |
 | [SurveyMonkey](./surveymonkey.md) | SurveyMonkey | **✓** |  |
 | [SurveySparrow](./surveysparrow-inc.md) | SurveySparrow inc. | **✓** |  |
+| [모임용 Svava](./svava-ab-for-meetings.md) | Svava AB | **✓** |  |
 | [SwiftAssess](./gamalearn-swiftassess.md) | GamaLearn | **✓** |  |
 | [Sympli](./sympli-llc.md) | Sympli, LLC | **✓** |  |
 | [SysAid](./sysaid.md) | SysAid | **✓** |  |
