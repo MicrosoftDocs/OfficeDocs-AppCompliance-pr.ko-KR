@@ -1,45 +1,45 @@
 ---
-title: MailClark의 Application Information for MailClark
+title: 학교의 날을 위한 응용 프로그램 정보( Helsinki Oy)
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/29/2021
+ms.date: 10/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: MailClark, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
+description: 학교 날, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 57df605eb36fcfcf3ae10d1bac7aa1bbc9b24e25
+ms.openlocfilehash: 87ac7c69b2087c9960d9c6116e2682db1be786b2
 ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 11/23/2021
-ms.locfileid: "61148116"
+ms.locfileid: "61148163"
 ---
-# <a name="mailclark"></a>MailClark
+# <a name="school-day"></a>학기일
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 10월 29일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 10월 12일</p>
 
-* <a href="https://teams.microsoft.com/l/app/64f174e8-7e14-4b48-871e-2fb7b17be302" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381679" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/7caaa66b-34b0-4c15-a65d-dba6edf0c8fd" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200001430" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-MailClark에서 Microsoft에 제공하는 정보:
+학교 날 Helsinki Oy가 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | MailClark |
-| ID | WA104381679 |
+| 앱 이름 | 학기일 |
+| ID | WA200001430 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | MailClark |
-| 회사의 웹 사이트 | [https://mailclark.ai/microsoft-teams-integration](https://mailclark.ai/microsoft-teams-integration) |
-| 앱 사용 약관 | [https://mailclark.ai/tos](https://mailclark.ai/tos) |
-| 앱의 핵심 기능 | 전자 메일, Facebook 및 Twitter 메시지에 대한 응답을 &amp; Microsoft Teams. |
-| 회사 본사 위치 |  |
+| 파트너 회사 이름 | School Day Helsinki Oy |
+| 회사의 웹 사이트 | [https://www.schoolday.com](https://www.schoolday.com) |
+| 앱 사용 약관 | [https://www.schoolday.com/eula](https://www.schoolday.com/eula) |
+| 앱의 핵심 기능 | 학생 웰링 및 Social-Emotional Learning(SEL)를 학교 Microsoft Teams! |
+| 회사 본사 위치 | 핀란드 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
 
@@ -51,7 +51,7 @@ MailClark에서 Microsoft에 제공하는 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 MailClark에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대해 제공됩니다.
+이 정보는 학교 날 Helsinki Oy에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 제공됩니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
@@ -60,7 +60,7 @@ MailClark에서 Microsoft에 제공하는 정보:
 | 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
 | Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? |  |
+| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 한 달 내에 삭제되었습니다. |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
 | 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
 | Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
@@ -75,8 +75,8 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱에서 연간 침투 테스트를 수행하나요? | 아니요 |
-| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 아니요 |
+| 앱에서 연간 침투 테스트를 수행하나요? | 예 |
+| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 예 |
 | 환경에서 기존의 맬웨어 방지 보호 또는 응용 프로그램 제어를 사용하나요? |  |
 | 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? |  |
 | 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? |  |
@@ -105,24 +105,24 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? |  |
-| 앱이 HITRUST CSF(Common Security Framework)인 Health Information Trust Alliance를 준수하나요? |  |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? |  |
-| 가장 최근 SOC1 인증 날짜 | |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? |  |
+| 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 해당 없음 |
+| 앱이 HITRUST CSF(Common Security Framework)인 Health Information Trust Alliance를 준수하나요? | 해당 없음 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 해당 없음 |
+| 가장 최근 SOC1 인증 날짜 |   |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 어떤 SOC 2 인증을 획득했나요? | |
 | 가장 최근 SOC2 인증 날짜 | |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? |  |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 가장 최근 SOC3 인증 날짜 | |
-| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? |  |
-| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? |  |
-| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? |  |
-| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? |  |
-| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? |  |
+| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 해당 없음 |
+| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
-| 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? |  |
-| 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? |  |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? |  |
+| 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 예 |
+| 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -153,14 +153,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Single Sign-On, API 액세스 등을 위해 응용 프로그램이 Microsoft Id 플랫폼(Azure AD)과 통합하나요? |  |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 아니요 |
-| 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? |  |
+| Single Sign-On, API 액세스 등을 위해 응용 프로그램이 Microsoft Id 플랫폼(Azure AD)과 통합하나요? | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 예 |
+| 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? | false |
 | 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 
