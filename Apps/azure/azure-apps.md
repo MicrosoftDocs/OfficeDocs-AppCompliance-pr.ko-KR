@@ -2,17 +2,17 @@
 title: Azure 앱 IDs 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/22/2021
+ms.date: 11/24/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Azure 앱 ID에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 1b1d52460b3b477bb3f49cfbf142e90a7012c68b
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: f849e82e6e901c870320079d4179622e612db713
+ms.sourcegitcommit: 3a357b6131b8459972e1aec73f2f795f9d674981
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61147376"
+ms.lasthandoff: 11/25/2021
+ms.locfileid: "61173607"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure 앱 IDs 보안 및 규정 준수
 
@@ -36,7 +36,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [0dd4bfdf-dc86-4f05-9991-a14bc0144ebf](./0dd4bfdf-dc86-4f05-9991-a14bc0144ebf.md) | **✓** |  |
 | [1040474b-572d-4575-a423-95dd262a8b8a](./1040474b-572d-4575-a423-95dd262a8b8a.md) | **✓** |  |
 | [14cf575a-fae2-48e2-af39-e3448d3a48bb](./14cf575a-fae2-48e2-af39-e3448d3a48bb.md) | **✓** |  |
-| [1533d702-7604-463a-9fa3-63077c425e76](./1533d702-7604-463a-9fa3-63077c425e76.md) | **✓** |  |
 | [15439749-b811-4e89-b777-4fe6ef247801](./15439749-b811-4e89-b777-4fe6ef247801.md) | **✓** |  |
 | [170cef4c-862a-443c-b02a-c5ba04ecc7f3](./170cef4c-862a-443c-b02a-c5ba04ecc7f3.md) | **✓** |  |
 | [170d42a4-4ec0-4f51-bef0-693c589fccfc](./170d42a4-4ec0-4f51-bef0-693c589fccfc.md) | **✓** |  |
@@ -157,7 +156,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [99455ec0-6207-4889-9c8c-96216a274a6b](./99455ec0-6207-4889-9c8c-96216a274a6b.md) | **✓** |  |
 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](./99a0a9b1-5d28-45df-9f99-792aa32795f4.md) | **✓** |  |
 | [99a3ad8d-8682-4f2a-9c2c-b4b27e99585c](./99a3ad8d-8682-4f2a-9c2c-b4b27e99585c.md) | **✓** |  |
-| [9a7ce614-bdc8-4640-aaea-d8c626c58966](./9a7ce614-bdc8-4640-aaea-d8c626c58966.md) | **✓** |  |
 | [9af6eceb-6a8b-4710-b51d-dde2ac01cc71](./9af6eceb-6a8b-4710-b51d-dde2ac01cc71.md) | **✓** |  |
 | [9b03f15d-1219-4b2f-9699-640be54e1319](./9b03f15d-1219-4b2f-9699-640be54e1319.md) | **✓** |  |
 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](./9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) | **✓** |  |

@@ -2,18 +2,18 @@
 title: Cisco의 Webex 통화에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/21/2021
+ms.date: 11/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Webex Call, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d40e7f25f01579b228c458a6f204923868b0aa86
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: 279a78d5f756eaca6f8aba2135d8a6a168fd7d3c
+ms.sourcegitcommit: 3a357b6131b8459972e1aec73f2f795f9d674981
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61146986"
+ms.lasthandoff: 11/25/2021
+ms.locfileid: "61176838"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -108,18 +108,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 예 |
 | 앱이 HITRUST CSF(Common Security Framework)인 Health Information Trust Alliance를 준수하나요? | 해당 없음 |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 해당 없음 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 가장 최근 SOC1 인증 날짜 |   |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? |  |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 어떤 SOC 2 인증을 획득했나요? | |
 | 가장 최근 SOC2 인증 날짜 | |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? |  |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 가장 최근 SOC3 인증 날짜 | |
 | 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 해당 없음 |
-| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 예 |
-| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? |  |
+| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
-| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? |  |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
@@ -163,7 +163,12 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
 | 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
->이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
+>|:------------------------|:--------------------|:------------------------------------|
+>| Chat.ReadBasic | 위임 | 사용자가 팀 채널 구성원에서 선택할 수 있도록 팀 채널 구성원 읽기 |
+>| Contacts.Read | 위임 | 사용자가 연락처 목록에서 속도 다이얼을 만들 수 있습니다. |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

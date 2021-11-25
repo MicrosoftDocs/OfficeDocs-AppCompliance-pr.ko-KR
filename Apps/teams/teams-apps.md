@@ -2,17 +2,17 @@
 title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/22/2021
+ms.date: 11/24/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: 825c33040a6b9a22c3cf998c08cbd0dc5cc8284f
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: fb2f84845ad4ed000ff0e18b30766ce3b578b910
+ms.sourcegitcommit: 3a357b6131b8459972e1aec73f2f795f9d674981
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61148076"
+ms.lasthandoff: 11/25/2021
+ms.locfileid: "61176858"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -28,6 +28,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Adobe Sign](./adobe-systems-inc-sign.md) | Adobe Systems Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [안건 상사](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
 | [Agile Task Board](./agile-is-task-board.md) | Agile-IS | **✓** |  |
+| [Alloy 셀프 서비스 도우미](./alloy-software-self-service-assistant.md) | Alloy Software | **✓** |  |
 | [Alvao Service Desk](./alvao-sro-service-desk.md) | ALVAO s.r.o. | **✓** |  |
 | [Amber](./infeedo-amber.md) | inFeedo | **✓** |  |
 | [Ambition](./ambition.md) | Ambition | **✓** |  |
@@ -111,6 +112,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Cuckoo Workout](./cuckoo-networks-oy-workout.md) | Cuckoo Networks Oy | **✓** |  |
 | [Cultr Connect](./cultr-connect.md) | Cultr | **✓** |  |
 | [Cyberday](./digiturvamalli-cyberday.md) | Digiturvamalli | **✓** |  |
+| [DataMiner](./skyline-communications-dataminer.md) | Skyline Communications | **✓** |  |
 | [Datto 작업 공간](./datto-inc-workplace.md) | Datto, Inc. | **✓** |  |
 | [DBit](./diamondsoft-solutions-llc-dbit.md) | Diamondsoft Solutions, LLC | **✓** |  |
 | [결정](./decisions.md) | 결정 | **✓** |  |
@@ -125,7 +127,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Droplr](./droplr.md) | Droplr | **✓** |  |
 | [Dynamic Signal](./dynamic-signal.md) | Dynamic Signal | **✓** |  |
 | [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
-| [Easy2Meet](./easy2meet-bv.md) | Easy2Meet B.V. | **✓** |  |
 | [eCademy Lernplattform](./cornelsen-ecademy-and-inside-gmbh-lernplattform.md) | Cornelsen eCademy &amp; 내부 GmbH | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  |
 | [EdMill](./my-serious-game-edmill.md) | My-Serious-Game | **✓** |  |
@@ -175,6 +176,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [GuideSpark Communicate Cloud](./guidespark-communicate-cloud.md) | GuideSpark | **✓** |  |
 | [Guru](./guru-technologies.md) | Guru Technologies | **✓** |  |
 | [Health Hero](./health-hero.md) | Health Hero | **✓** |  |
+| [Heedify](./heedify.md) | Heedify | **✓** |  |
 | [HelloTeam](./helloteam-inc.md) | HelloTeam Inc. | **✓** |  |
 | [HeyTaco!](./heytaco!.md) | HeyTaco! | **✓** |  |
 | [안녕 디지털 코치](./digital-attitude-srl-hi-coach.md) | Digital Attitude Srl | **✓** |  |
@@ -188,8 +190,10 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [HunchBuzz](./hunchbuzz.md) | HunchBuzz | **✓** |  |
 | [Hyperproof](./hyperproof.md) | Hyperproof | **✓** |  |
 | [iManage](./imanage.md) | iManage | **✓** |  |
+| [imDocShare](./kl-software-technologies-imdocshare.md) | KL Software Technologies | **✓** |  |
 | [위기 발생 시](./rockdove-solutions-inc-in-case-of-crisis.md) | RockDove Solutions, Inc. | **✓** |  |
 | [InCaseIT](./pilotech-as-incaseit.md) | Pilotech AS | **✓** |  |
+| [Indeqa](./indeqa-bv.md) | Indeqa B.V. | **✓** |  |
 | [IndustryIntel](./industry-intelligence-team-industryintel.md) | Industry Intelligence Team | **✓** |  |
 | [Infor Coleman](./infor-us-inc-coleman.md) | INFOR (US), INC. | **✓** |  |
 | [InStation](./developers-invillia-instation.md) | Developers Invillia | **✓** |  |
@@ -246,6 +250,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Moneypenny](./callitech-limited-moneypenny.md) | CALLITECH LIMITED | **✓** |  |
 | [Monitask](./fest-technologies-llc-monitask.md) | FEST Technologies, LLC | **✓** |  |
 | [Jira를 사용하여 작업을 앞으로 이동](./move-work-forward-with-jira.md) | 작업을 앞으로 이동 | **✓** |  |
+| [MSPBots](./jexet-technologies-llc-mspbots.md) | Jexet Technologies LLC | **✓** |  |
 | [다중 승인 프로세스 LTAPP](./ltapps-software-coltd-multi-approval-process.md) | LTAPPs SOFTWARE CO.,LTD | **✓** |  |
 | [MURAL](./mural.md) | MURAL | **✓** |  |
 | [Mybys](./facilis-mybys.md) | Facilis | **✓** |  |
