@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/15/2021
+ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft SharePoint 보안 및 규정 준수 정보
 localization_priority: Normal
-ms.openlocfilehash: 7fadd914a01b3b02ce14791b31d36385472ec917
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+ms.openlocfilehash: 0ab6d04d916c0398642ed3f9dc80b7b5dd9196b1
+ms.sourcegitcommit: 79e749c1746f3658789e7b080e413be97883abef
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60412027"
+ms.lasthandoff: 11/29/2021
+ms.locfileid: "61217072"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 앱 보안 및 규정 준수
 
@@ -29,6 +29,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [iGlobe CRM 추가 기능](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iGlobe CRM Office 365 Microsoft Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Konnect eMail Parser](./konnect-email-parser.md) | Konnect eMail | **✓** |  |
+| [LifeWorks Viva Connections](./lifeworks-inc-viva-connections.md) | Lifeworks Inc | **✓** |  |
 | [번개 도구 번개 도우미](./lightning-tools-conductor.md) | 번개 도구 | **✓** |  |
 | [officeatwork | SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** |  |
 | [Power BI 공동 작업](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
