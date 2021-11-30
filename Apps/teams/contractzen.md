@@ -2,24 +2,24 @@
 title: ContractZen의 ContractZen에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/29/2021
+ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 ContractZen, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0a5b82b8fd6cd816b31a961b2be969ae38014470
-ms.sourcegitcommit: 7395a3f8bf109af577dc24ad1de4e7d18db9c26d
+ms.openlocfilehash: 556b9c62db0e6230948e28e1b1d5d811bd4c079e
+ms.sourcegitcommit: 3a80f3f16b38f0a7914ca435d66d2ab0fde7f6f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/29/2021
-ms.locfileid: "61215996"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61235061"
 ---
 # <a name="contractzen"></a>ContractZen
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 11월 23일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 11월 30일</p>
 
 * <a href="https://teams.microsoft.com/l/app/701972b8-c49f-45f9-8cfa-15cbd38cbef5" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001389" target="_blank">AppSource의 보기</a>

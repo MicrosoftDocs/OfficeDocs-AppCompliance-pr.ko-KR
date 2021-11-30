@@ -1,28 +1,28 @@
 ---
-title: Witivio의 Keepass Pro 응용 프로그램 정보
+title: Witivio의 메일 Pro 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Keepass Pro, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
+description: CSA STAR 레지스트리의 메일 Pro, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a2e9053bef8b0ce7338ef3e5058ab6f4be0ee706
+ms.openlocfilehash: b5b28c507c192b692ed66743c47851a847694039
 ms.sourcegitcommit: 3a80f3f16b38f0a7914ca435d66d2ab0fde7f6f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 11/30/2021
-ms.locfileid: "61235057"
+ms.locfileid: "61235150"
 ---
-# <a name="keepass-pro"></a>Keepass Pro
+# <a name="distribution-lists-pro"></a>메일 Pro
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>개발자가 마지막으로 업데이트한 날짜: 2021년 11월 30일</p>
 
-* <a href="https://teams.microsoft.com/l/app/dc00c22b-b7ad-4db8-bf35-c2660104d622" target="_blank">저장소의 Teams 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA200003336" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/4b8d2936-4e5f-4563-83ca-4bdad686c788" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200002977" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
@@ -32,13 +32,13 @@ Witivio에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | Keepass Pro |
-| ID | WA200003336 |
+| 앱 이름 | 메일 Pro |
+| ID | WA200002977 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Witivio |
 | 회사의 웹 사이트 | [https://www.witivio.com](https://www.witivio.com) |
 | 앱 사용 약관 | [https://www.teams-pro.com/en/terms-of-use/](https://www.teams-pro.com/en/terms-of-use/) |
-| 앱의 핵심 기능 | 암호를 안전하게 저장, 공유 및 생성하는 Microsoft Teams. |
+| 앱의 핵심 기능 | 메일 Pro Microsoft Teams 기존 메일 목록에 쉽게 액세스할 수 있습니다. 응용 프로그램은 사용자 목록에 목록과 해당 구성원을 Microsoft Teams. |
 | 회사 본사 위치 | 프랑스 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
@@ -60,7 +60,7 @@ Witivio에서 Microsoft에 제공하는 정보:
 | 앱에서 처리되는 데이터는 무엇입니까? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? | 팀 및 채널 ID |
+| 데이터베이스에 저장되는 데이터는 무엇입니까? | 메일 목록 ID |
 | Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 아일랜드 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 60일 미만 |
@@ -117,15 +117,15 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 가장 최근 SOC2 인증 날짜 | |
 | 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 가장 최근 SOC3 인증 날짜 | |
-| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 해당 없음 |
+| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
-| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 해당 없음 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
-| 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 예 |
+| 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 아니요 |
 | 앱이 NIST 800-171을 준수하나요? | 아니요 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -144,9 +144,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니요 |
 | 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? | 아니요 |
 | 앱이 미성년자(예: 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? | 아니요 |
-| 앱에 요청 시 개인의 개인 데이터를 삭제할 수 있는 기능이 있나요? | 예 |
-| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한할 수 있는 기능이 있나요? | 예 |
-| 앱이 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 개인에게 제공하나요? | 예 |
+| 앱에 요청 시 개인의 개인 데이터를 삭제할 수 있는 기능이 있나요? | 아니요 |
+| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한할 수 있는 기능이 있나요? | 아니요 |
+| 앱이 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 개인에게 제공하나요? | 아니요 |
 | 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 보호 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)가 수행하나요? | 예 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -170,11 +170,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
 >|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 위임 | Teams SSO |
->| Files.ReadWrite.All | 위임 | KDBX 파일 읽기/쓰기 SharePoint |
->| openid | 위임 | Teams SSO |
->| 프로필 | 위임 | Teams SSO |
->| 전자 메일 | 위임 | Teams SSO |
+>| 전자 메일 | 위임 | Microsoft Teams SSO |
+>| openid | 위임 | Microsoft Teams SSO |
+>| offline_access | 위임 | Microsoft Teams SSO |
+>| User.Read | 위임 | Microsoft Teams SSO |
+>| 프로필 | 위임 | Microsoft Teams SSO |
+>| Presence.Read.All | 위임 | CHecking presence of people in a list |
+>| Group.Read.All | 위임 | 목록 메일 목록 |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 
