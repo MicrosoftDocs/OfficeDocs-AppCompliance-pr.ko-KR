@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 클라우드 백업 - Office 365 - Prod(거래), 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b9257448bd15bc23647a3567fb0f66a7325fe1fd
-ms.sourcegitcommit: 7989546de4aa2bbd2a751281d1aa215facae2d15
+ms.openlocfilehash: d2017f681e2689dbf4625baf7f7d3dcef62bbfc4
+ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "61040000"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61261690"
 ---
 # <a name="cloud-backup-for-office-365---prod-transact"></a>클라우드 백업 for Office 365 - Prod(거래)
 
@@ -35,8 +35,11 @@ AvePoint Inc.에서 Microsoft에 제공한 정보:
 | 파트너 회사 이름 | AvePoint Inc. |
 | 회사의 웹 사이트 | [https://www.avepoint.com](https://www.avepoint.com) |
 | 앱 사용 약관 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| 앱의 핵심 기능 | AvePoint 클라우드 백업은&#8217;가장 완벽한 클라우드-클라우드 백업 솔루션으로, Microsoft 365. With
-AvePoint의 무제한, 자동화된 백업 및 보안 저장소&#8217;Azure 저장소 또는 자체 클라우드에서 복구할 정도 및 언제 결정하기만 하면 됩니다. 필요한 경우 세부적인 항목 수준 복원을 통해 업무상 중요한 전자 메일, 파일, 대화, 녹음/ 프로젝트, 작업, 그룹, Teams 액세스할 수 있습니다. | | 회사 본사 위치 | 미국 | | 앱 정보 페이지 | | | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas | | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
+| 앱의 핵심 기능 | AvePoint 클라우드 백업은&#8217;가장 완벽한 클라우드-클라우드 백업 솔루션으로, Microsoft 365. AvePoint&#8217;Azure 저장소 또는 자체 클라우드의 무제한, 자동화된 백업 및 보안 저장소를 사용하여 복구할 정도와 언제 결정하기만 하면 됩니다. 필요한 경우 세부적인 항목 수준 복원을 통해 업무상 중요한 전자 메일, 파일, 대화, 녹음/ 프로젝트, 작업, 그룹, Teams 액세스할 수 있습니다. |
+| 회사 본사 위치 | 미국 |
+| 앱 정보 페이지 | |
+| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -109,13 +112,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 SOC(서비스 조직 제어)를 준수하나요? | 예 |
 | 어떤 SOC 2 인증을 획득했나요? |  type2 |
 | 가장 최근 SOC2 인증 날짜 |  2/19/2021 |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니오 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 가장 최근 SOC3 인증 날짜 | |
 | 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 해당 없음 |
 | 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 예 |
 | 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 해당 없음 |
 | 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 예 |
-| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니오 |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 예 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
@@ -160,7 +163,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
 | 지원되는 정책 유형 나열 | 응용 프로그램이 Azure AD와 페더러입니다. 따라서 모든 조건부 액세스 규칙을 사용할 수 있습니다. |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
-| 앱에서 코드에 자격 증명을 저장하나요? | 아니오 |
+| 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
 | 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph

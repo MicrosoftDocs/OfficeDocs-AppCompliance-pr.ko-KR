@@ -2,20 +2,26 @@
 ms.author: oromalle
 title: Microsoft 365 인증 - 초기 문서 제출 가이드
 author: orionomalley
-description: Microsoft 365 인증 제출 가이드 세분화 보기
+description: Microsoft 365 제출 가이드 세부 보기
 keywords: 앱 인증 팀 Microsoft 365 준수 m365 초기 문서 제출
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 0352b64649d87b40d185a2bc06ce23da6cf341ef
-ms.sourcegitcommit: d67be08c82a50cc263a4bdeb176f41dd60716159
+ms.openlocfilehash: 0f879ce6b02fb469b0210500e4706d468ccb4011
+ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60378816"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61261680"
 ---
-# <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 작성 - 초기 문서 제출 가이드
+# <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 문서 작성 - 초기 문서 제출 가이드
 
 초기 문서 제출은 인증의 사전 평가 단계의 일부입니다. 제공된 정보는 인증 분석가에게 평가 범위 내 컨트롤 및 시스템 구성 요소를 식별하는 데 필요한 배경 정보를 제공합니다. 이 문서는 초기 문서 전송에 대해 예상되는 예제로만 사용할 수 있습니다. 제공하는 설명서는 솔루션의 설계, 구현 및 관리 방식에 따라 달라집니다.
+
+## <a name="what-is-the-hosting-environment-or-service-model-used-to-run-your-app"></a>앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까?
+- IaaS(Infrastructure as a Service)는 클라우드 서비스 공급자가 인프라 구성 요소를 호스트하지만 ISV는 가상 컴퓨터/운영 체제, 데이터 저장소 및 네트워킹 구성 요소와 같은 구성 요소를 개별적으로 배포하고 관리하는 클라우드 서비스 모델입니다. Azure Virtual Machine 및 Azure Disk Storage.
+- PaaS(Platform as a Service)는 클라우드 서비스 공급자가 인프라 구성 요소를 관리하는 클라우드 서비스 모델입니다. ISV는 자체 응용 프로그램 및 서비스 배포만 담당합니다. 예를 들어 Azure App Services, Azure Functions 및 Azure CDN.
+- ISV 이 컨텍스트에서 호스팅은 클라우드 서비스 공급자가 사용 없음을 의미합니다. ISV는 자체 서버, 디스크, 네트워킹을 독립적으로 사내에서 관리합니다.
+- 이 컨텍스트에서 하이브리드는 위의 모델 중 하나 이상이 사용된다는 의미입니다. 예를 들어 일부 ISV는 IaaS 서비스 및 PaaS 서비스를 함께 사용하여 앱을 지원하거나, 일부 사내 ISV Hosted 구성 요소가 있으며 다른 구성 요소는 클라우드 서비스 공급자로 아웃소싱할 수 있습니다. 다른 서비스 모델 중 하나를 사용하는 경우 하이브리드를 선택합니다.
 
 ## <a name="penetration-test-report"></a>침투 테스트 보고서
 
@@ -30,11 +36,11 @@ ms.locfileid: "60378816"
 
 **참고:** IaaS/PaaS에는 ISV 제어에 있는 하드웨어가 없습니다.  이 경우 모든 바이루어 리소스의 목록 또는 스크린샷을 제공하세요.
 
-**예제:**
+**예:**
 
 |자산 이름|    자산 유형| 설명|    제조업체|   모델|
 |-|-|-|-|-|
-|D212|  Windows  컴퓨터|   가상 컴퓨터|    해당 없음| 해당 없음|
+|D212|  Windows 컴퓨터|   가상 컴퓨터|    해당 없음| 해당 없음|
 |LT101| 랩톱| Workstation|    Microsoft|  Surface 3|
 |C2938| 스위치| 스위치|해당 없음|해당 없음|     
 |LXM2|  Linux 컴퓨터|  테스트 컴퓨터|해당 없음|해당 없음|       
@@ -76,7 +82,7 @@ ms.locfileid: "60378816"
 
 지원 인프라에서 사용하는 모든 공용 IP 주소 및 URL에 대한 세부 정보 사용 범위를 분할하기 위해 적절한 분할을 구현하지 않는 한 환경에 할당된 전체 라우팅 가능 IP 범위를 포함해야 합니다(적절한 분할 증거가 필요합니다).
 
-**예:**
+**예제:**
 
 |URL|  IP 주소|
 |-|-|
@@ -93,7 +99,7 @@ API 이름 끝점 주소 Contoso Customer API    https://customerapi.contoso.com
 
 내부적으로 개발된 외부 리소스 끝점을 포함하여 앱에서 사용하는 모든 API 끝점의 전체 목록입니다. 환경 범위를 이해하기 위해 환경 내의 API 끝점 위치를 제공합니다.
 
-**예:**
+**예제:**
 
 |API 이름|  끝점 주소|
 |-|-|

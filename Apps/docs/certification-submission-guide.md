@@ -2,16 +2,16 @@
 ms.author: oromalle
 title: Microsoft 365 인증 제출 가이드
 author: orionomalley
-description: Microsoft 365 인증 제출 가이드 세분화 보기
+description: Microsoft 365 제출 가이드 세부 보기
 keywords: 앱 인증 팀 Microsoft 365 준수 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: f89cb9f82cec69a473d451cff33e3db9b406489d
-ms.sourcegitcommit: ddd67912ff4e8901300556ff85c2cf416f54dea1
+ms.openlocfilehash: 56d6de02101013d10f48c308e2f7ece706b26c51
+ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/09/2021
-ms.locfileid: "60885296"
+ms.lasthandoff: 12/01/2021
+ms.locfileid: "61261670"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 인증 제출 가이드
 
@@ -277,9 +277,11 @@ GraphAPI 권한 유효성 검사는 앱/추가 기능에서 과도하게 허용�
 >보고서는 응용 프로그램 보안 테스트 사양 섹션에 자세히 설명된 모든 내용을 보여줄 수 있어야 합니다.
 
 
-**침투 테스트 요구 사항 및 비용**
+**무료 침투 테스트 요구 사항 및 규칙**
 
-현재 침투 테스트에 참여하지 않는 ISV의 경우 침투 테스트는 Microsoft 365 인증에 포함됩니다. Microsoft는 최대 12일의 수동 테스트에 대한 침투 테스트 비용을 준비하고 지원할 것입니다. 침투 테스트 비용은 환경을 테스트하는 데 필요한 일 수를 기준으로 계산됩니다. 테스트가 12일을 초과하는 비용은 ISV의 책임입니다. 또한 ISV는 인증을 획득하기 전에 침투 테스트에서 식별된 취약점이 수정되었다는 것을 증명하지만, 클린 보고서를 만들 필요가 없다고 증명할 책임이 있습니다.
+- 현재 침투 테스트에 참여하지 않는 ISV의 경우 인증을 위해 침투 테스트를 무료로 Microsoft 365 있습니다. Microsoft는 최대 12일의 수동 테스트에 대한 침투 테스트 비용을 준비하고 지원할 것입니다. 침투 테스트 비용은 환경을 테스트하는 데 필요한 일 수를 기준으로 계산됩니다. 테스트가 12일을 초과하는 비용은 ISV의 책임입니다. 
+- ISV는 침투 테스트를 수행하기 전에 증거를 제출하고 범위 내 컨트롤의 50%에 대한 승인을 받는 데 필요합니다. 시작을 위해 초기 문서 제출을 작성하고 평가의 일부로 침투 테스트를 포함하기만 합니다. 컨트롤의 50%를 완료하면 침투 테스트 범위를 지정하고 예약할 수 있습니다.
+- ISV는 또한 침투 테스트에서 식별된 취약점이 인증을 획득하기 전에 수정되었다는 것을 증명하지만, 클린 보고서를 만들 필요가 없다고 증명할 책임이 있습니다.
 
 침투 테스트가 정렬된 후 ISV는 다음과 같이 예약 및 취소와 관련된 요금을 담당합니다.
 
@@ -1006,9 +1008,9 @@ Microsoft는 응용 프로그램을 배포하고 다른 호스팅 환경 내에 
 
 ## <a name="appendix-g"></a>부록 G
 
-## <a name="learn-more"></a>자세히 알아보기
+## <a name="learn-more"></a>자세한 정보
 
-[Microsoft 365 앱 준수 프로그램 개요](~/overview.md)  
+[Microsoft 365 준수 프로그램 개요](~/overview.md)  
 [앱 Microsoft 365 는 Publisher 무엇입니까?](~/docs/attestation.md)  
 [인증이란 Microsoft 365 무엇입니까?](~/docs/enterprise-app-certification-guide.md)
 
