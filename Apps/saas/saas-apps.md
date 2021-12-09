@@ -2,17 +2,17 @@
 title: SaaS 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 11/30/2021
+ms.date: 12/08/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 7e7636740cf251d2168276703a51e32ae36bdb6a
-ms.sourcegitcommit: 3a80f3f16b38f0a7914ca435d66d2ab0fde7f6f4
+ms.openlocfilehash: 14125ffe6afd36925adfb2e993f059ba4a3a84ba
+ms.sourcegitcommit: e50a2b92ad5918cb72b9cffca73aeffc8f2d6d76
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/30/2021
-ms.locfileid: "61235041"
+ms.lasthandoff: 12/08/2021
+ms.locfileid: "61359710"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
@@ -22,7 +22,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 |:--------|:------------|:----------------------:|:-------------:|
 | [Buzzeasy Contact Center for Teams](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt. | **✓** |  |
 | [Classroom.cloud](./netsupport-ltd-classroomcloud.md) | NETSUPPORT LTD. | **✓** |  |
-| [클라우드 백업 for Office 365 - Prod(거래)](./avepoint-inc-cloud-backup-for-office-365-prod-transact.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [클라우드용 클라우드 Microsoft Office 365](./avepoint-inc-cloud-backup-for-microsoft-office-365.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [CodeTwo Email Signatures for Office 365](./codetwo-email-signatures-for-office-365.md) | CodeTwo | **✓** |  |
 | [Competella Communication Suite](./competella-ab-communication-suite.md) | Competella AB | **✓** |  |
 | [콘텐츠 선택](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
@@ -37,7 +37,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Netskope for Microsoft Teams](./netskope-for-microsoft-teams.md) | Netskope | **✓** |  |
 | [Office2SharePoint](./iglobe-office2sharepoint.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [MS365용 Onna 검색](./onna-discovery-for-ms365.md) | Onna | **✓** |  |
-| [&amp;BYOL(Insights 정책 Microsoft 365 정책)](./avepoint-inc-policies-and-insights-for-microsoft-365-byol.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [정책 &amp; Insights 정책 Microsoft Office 365](./avepoint-inc-policies-and-insights-for-microsoft-office-365.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
 | [슬라이드 선택](./officeatwork-slide-chooser.md) | officeatwork | **✓** |  |
@@ -45,4 +45,5 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [서식 파일 선택 브라우저](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** |  |
 | [업로더](./officeatwork-uploader.md) | officeatwork | **✓** |  |
 | [검증 검증기](./officeatwork-verifier.md) | officeatwork | **✓** |  |
+| [광범위한 아이디어 - 혁신 소프트웨어](./wide-ideasidea2innovation-ideas-innovation-software.md) | 넓은 아이디어/아이디어2Innovation | **✓** |  |
 | [마법사](./officeatwork-wizard.md) | officeatwork | **✓** |  |
