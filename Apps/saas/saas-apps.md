@@ -2,17 +2,17 @@
 title: SaaS 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/08/2021
+ms.date: 12/07/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 14125ffe6afd36925adfb2e993f059ba4a3a84ba
-ms.sourcegitcommit: e50a2b92ad5918cb72b9cffca73aeffc8f2d6d76
+ms.openlocfilehash: 9a96b3d33c06f3ec77989fcdb669f97c0f608bd8
+ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 12/08/2021
-ms.locfileid: "61359710"
+ms.locfileid: "61354403"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
@@ -45,5 +45,4 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [서식 파일 선택 브라우저](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** |  |
 | [업로더](./officeatwork-uploader.md) | officeatwork | **✓** |  |
 | [검증 검증기](./officeatwork-verifier.md) | officeatwork | **✓** |  |
-| [광범위한 아이디어 - 혁신 소프트웨어](./wide-ideasidea2innovation-ideas-innovation-software.md) | 넓은 아이디어/아이디어2Innovation | **✓** |  |
 | [마법사](./officeatwork-wizard.md) | officeatwork | **✓** |  |
