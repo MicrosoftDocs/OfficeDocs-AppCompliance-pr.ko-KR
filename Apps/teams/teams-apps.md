@@ -2,17 +2,17 @@
 title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/07/2021
+ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: f0f37fee8c116f384e270679c4b660b46b0fb486
-ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
+ms.openlocfilehash: c804e8f41aad8d8f4b553c0d349f0f2e0895c852
+ms.sourcegitcommit: 69fc4973c9ad349e40b9b1a13aae8acec3773b17
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61350753"
+ms.lasthandoff: 12/10/2021
+ms.locfileid: "61410959"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -94,7 +94,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [규격](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [Conferences i/o](./conferences-io.md) | Conferences i/o | **✓** |  |
 | [Confluence Cloud](./atlassian-confluence-cloud.md) | Atlassian | **✓** |  |
-| [Confluence Connector](./move-work-forward-confluence-connector.md) | 작업을 앞으로 이동 | **✓** |  |
+| [MWF의 Confluence Connector](./move-work-forward-confluence-connector-by-mwf.md) | 작업을 앞으로 이동 | **✓** |  |
 | [Connect+](./reward-gateway-connectplus.md) | Reward Gateway | **✓** |  |
 | [연락처 센터 | ROGER365.io](./roger365io-contact-centerroger365io.md) | ROGER365.io | **✓** |  |
 | [Contacts Pro](./witivio-contacts-pro.md) | Witivio | **✓** |  |
@@ -117,6 +117,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
 | [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
+| [Dubber 통합 통화 녹음/녹화](./dubber-unified-call-recording.md) | Dubber | **✓** |  |
 | [Easy Projects](./logic-software-inc-easy-projects.md) | Logic Software Inc. | **✓** |  |
 | [eCademy Lernplattform](./cornelsen-ecademy-and-inside-gmbh-lernplattform.md) | Cornelsen eCademy &amp; 내부 GmbH | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  |
@@ -148,7 +149,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [FloQast](./floqast.md) | FloQast | **✓** |  |
 | [ForceManager CRM](./tritium-software-sl-forcemanager-crm.md) | Tritium Software SL | **✓** |  |
 | [FormMachines](./enterprise-digital-machines-formmachines.md) | Enterprise Digital Machines | **✓** |  |
-| [프리 핸드](./invisionapp-inc-freehand.md) | InVisionApp Inc. | **✓** |  |
+| [Freehand by InVision](./invisionapp-inc-freehand-by-invision.md) | InVisionApp, Inc. | **✓** |  |
 | [Geekbot](./geekbot-ltd.md) | Geekbot Ltd | **✓** |  |
 | [Gensys](./gensys-solutions-bv.md) | Gensys Solutions BV | **✓** |  |
 | [Gfacility](./gfacility.md) | Gfacility | **✓** |  |
