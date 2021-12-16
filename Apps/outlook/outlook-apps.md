@@ -2,17 +2,17 @@
 title: Microsoft Outlook 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/09/2021
+ms.date: 12/15/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Outlook 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: b7362ca0b8a396df26a560d46660d336939d5bb2
-ms.sourcegitcommit: 4abb4344a6593d61ef5a1a84cf32dc6610652f2f
+ms.openlocfilehash: 4f32a178a85f9e4559fe4954a76f6e18f6139945
+ms.sourcegitcommit: fc537c6574ed98a1706c4cadf02150a2f3e1137c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/10/2021
-ms.locfileid: "61407161"
+ms.lasthandoff: 12/16/2021
+ms.locfileid: "61537086"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 앱 보안 및 규정 준수
 
@@ -47,6 +47,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [ServiceDesk Plus for Email](./zoho-corporation-private-limited-servicedesk-plus-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
+| [전략 AI](./chinchilla-software-limited-strategy-ai.md) | Chinchilla Software Limited | **✓** |  |
 | [Wunder365](./jiji-technologies-private-limited-wunder365.md) | Ji Technologies Private Limited | **✓** |  |
 | [XQ 보안 전자 메일](./xq-message-secure-email.md) | XQ 메시지 | **✓** |  |
 | [전자 메일용 Zoho CRM](./zoho-corporation-private-limited-crm-for-email.md) | Zoho Corporation Private Limited | **✓** |  |
