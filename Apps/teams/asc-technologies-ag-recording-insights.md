@@ -2,24 +2,24 @@
 title: ASC 기술 AG의 ASC Insights 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 08/18/2021
+ms.date: 12/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ASC Recording Insights, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 56fb96ac07e781380c0bc330d80a63981b60dd7a
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 74d343c964765387046099aa34ba873a24421724
+ms.sourcegitcommit: 6ca6b2ad53cf18362b78ed725d295cc2590c6b36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60429736"
+ms.lasthandoff: 12/21/2021
+ms.locfileid: "61574550"
 ---
 # <a name="asc-recording-insights"></a>ASC Recording Insights
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 6월 2일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 12월 15일</p>
 
 * <a href="https://teams.microsoft.com/l/app/8f79287d-5850-42f1-9af2-48ddf6ef89a8" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000708" target="_blank">AppSource의 보기</a>
@@ -36,10 +36,13 @@ ASC Technologies AG에서 Microsoft에 제공하는 정보:
 | ID | WA200000708 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | ASC Technologies AG |
-| 파트너 웹 사이트의 URL | [https://asctechnologies.com/english/index.html](https://asctechnologies.com/english/index.html) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://asctechnologies.com/english/ASC_Recording_Insights_...](https://asctechnologies.com/english/ASC_Recording_Insights_Compliance_Recording_for_Microsoft_Teams.html) |
-| 개인 정보 취급 방침의 URL | [https://teams.asc-recording.app/privacy](https://teams.asc-recording.app/privacy) |
-| 사용 약관 URL | [https://asctechnologies.com/english/asc_impressum.html](https://asctechnologies.com/english/asc_impressum.html) |
+| 회사의 웹 사이트 | [https://asctechnologies.com/english/index.html](https://asctechnologies.com/english/index.html) |
+| 앱 사용 약관 | [https://asctechnologies.com/english/asc_impressum.html](https://asctechnologies.com/english/asc_impressum.html) |
+| 앱의 핵심 기능 | 인증된 인증된 앱의 법적 Microsoft Teams 통화 기록, 보관 및 분석 |
+| 회사 본사 위치 | 독일 |
+| 앱 정보 페이지 | |
+| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,86 +54,141 @@ ASC Technologies AG에서 Microsoft에 제공하는 정보:
 
 이 정보는 ASC Technologies AG에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 사용할 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
-
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
-
->| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.Read | application | 사용자 모임 정보 | 모임의 개체 ID | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| Chat.Read | application | 사용자의 생성된 채팅 | 채팅의 개체 ID | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| Chat.Read.All | application | 사용자의 생성된 채팅 | 채팅의 개체 ID | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| Group.Read.All | application | 사용자 구성원 AD 그룹 | AD 그룹의 개체 ID | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| OnlineMeetings.Read.All | application | 사용자 모임 정보 | 모임의 개체 ID | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| User.Read | application | 사용자의 이름 및 성 | 사용자의 개체 ID | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
->| User.ReadBasic.All | application | 사용자의 기본 데이터 | 사용자의 개체 ID | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
-
-#### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
-
-기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
-
->| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| API 내보내기 | 아니요 |  |  |  |  |
-
-#### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
-
-앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
-
->비영구 Microsoft 서비스 사용되지 않습니다.
-
-#### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
-
-이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
-
->EUII에 액세스하지 않습니다.
-
-
-#### <a name="telemetry-data"></a>원격 분석 데이터
-
-이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
-
->응용 프로그램 원격 분석 또는 로그에 OII 또는 EUII가 나타나지 않습니다.
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
-
-조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
-
->파트너 시스템에 데이터가 없습니다.
-
-#### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
-
-사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
-
->아니요
+| **정보** | **응답** |
+|:----------------|:-------------|
+| 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 예 |
+| 앱에서 처리되는 데이터는 무엇입니까? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
+| 데이터베이스에 저장되는 데이터는 무엇입니까? | 테넌트 및 사용자의 GUID를 Azure CosmosDB에 저장합니다. 필요한 경우 Microsoft Graph 해결합니다. |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 아일랜드 |
+| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
+| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 30일 미만 |
+| 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
+| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
+| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="security"
 
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>ID 정보
-
-이 정보는 ASC Technologies AG에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공되었습니다.
+Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
-| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
-| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
-| 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 예 |
-| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
-| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | ,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/> |
-| 앱에서 웹 API를 노출하나요? | 아니요 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
-| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+| 앱에서 연간 침투 테스트를 수행하나요? | 예 |
+| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 예 |
+| 환경에서 기존의 맬웨어 방지 보호 또는 응용 프로그램 제어를 사용하나요? | TraditionalAntiMalware, ApplicationControls |
+| 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? | 예 |
+| 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? | 예 |
+| 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? | 예 |
+| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 아니요 |
+| 앱 및 이를 지원하는 구조에서 분기별 취약점 검색을 수행하나요? | 예 |
+| 외부 네트워크 경계에 방화벽이 설치되어 있습니까? | 예 |
+| 변경 요청을 프로덕션에 배포하기 전에 검토하고 승인하는 데 사용되는 변경 관리 프로세스가 설정 있습니까? | 예 |
+| 원래 개발자가 프로덕션에 제출한 모든 코드 변경 요청을 검토하고 추가 인가? | 예 |
+| 보안 코딩 방법은 OWASP 상위 10과 같은 일반적인 취약성 클래스를 고려하나요? | 예 |
+| MFA(다단계 인증)를 사용할 수 있습니다. | CodeRepositories, Credential, DNSManagement |
+| 직원 계정을 프로비저닝, 수정 및 지우기 위한 프로세스를 설정하고 있나요? | 예 |
+| 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? | 예 |
+| 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? | 예 |
+| 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | 예|
+| 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? | 예 |
+| 공식적인 정보 보안 위험 관리 프로세스를 설정하고 있습니까? | 예 |
+| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? |  |
+| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
+::: zone pivot="compliance"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 해당 없음 |
+| 앱이 HITRUST CSF(Common Security Framework)인 Health Information Trust Alliance를 준수하나요? | 해당 없음 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 해당 없음 |
+| 가장 최근 SOC1 인증 날짜 |   |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
+| 어떤 SOC 2 인증을 획득했나요? | |
+| 가장 최근 SOC2 인증 날짜 | |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
+| 가장 최근 SOC3 인증 날짜 | |
+| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 해당 없음 |
+| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 해당 없음 |
+| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
+| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
+| 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
+| 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
+| 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? | 예 |
+| 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 연결 개인 정보 취급 방침이 있나요? | 예 |
+| 개인 정보 취급 방침 URL | https://asctechnologies.com/english/ASCrecordingapp/privacy.html |
+| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? | 아니요 |
+| 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니요 |
+| 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? | 아니요 |
+| 앱이 미성년자(예: 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? | 아니요 |
+| 앱에 요청 시 개인의 개인 데이터를 삭제할 수 있는 기능이 있나요? | 아니요 |
+| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한할 수 있는 기능이 있나요? | 예 |
+| 앱이 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 개인에게 제공하나요? | 아니요 |
+| 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 보호 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)가 수행하나요? | 예 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Single Sign-On, API 액세스 등을 위해 응용 프로그램이 Microsoft Id 플랫폼(Azure AD)과 통합하나요? | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 예 |
+| 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? | 예 |
+| 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
+| 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
+| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
+>|:------------------------|:--------------------|:------------------------------------|
+>| Chat.Read | 위임 | 사용자 채팅 메시지 읽기 |
+>| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 |
+>| User.ReadBasic.All | 위임 | 모든 사용자 기본 프로필 읽기 |
+>| Group.Read.All | 위임 | 모든 그룹 읽기 |
+>| openid | 위임 | 사용자 로그인 |
+>| 프로필 | 위임 | 사용자 기본 프로필 보기 |
+>| People.Read | 위임 | 사용자 관련 사용자 목록 읽기 |
+>| Contacts.Read | 위임 | 사용자 연락처 읽기 |
+>| OnlineMeetings.Read.All | application | 온라인 모임 세부 정보 읽기 |
+>| Calendars.Read | application | 모든 사서함의 계산기 읽기 |
+>| Group.Read.All | application | 모든 그룹 읽기 |
+>| User.Read.All | application | 모든 사용자 전체 프로필 읽기 |
+>| ChannelMember.Read.All | application | 모든 채널의 구성원 읽기 |
+>| Chat.Read.All | application | 모든 채팅 메시지 읽기 |
+>| ChannelMessage.Read.All | application | 모든 채널 메시지 읽기 |
+
+>이 응용 프로그램에는 추가 API가 없습니다.
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+

@@ -2,17 +2,17 @@
 title: Azure 앱 IDs 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/15/2021
+ms.date: 12/20/2021
 ms.topic: article
 ms.service: attestation
 description: 모든 Azure 앱 ID에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 76d639a0adea0fdb0eed43e7a48608f057e7a9af
-ms.sourcegitcommit: fc537c6574ed98a1706c4cadf02150a2f3e1137c
+ms.openlocfilehash: e83a79a437b02d8d3b0d0ef3050c56e59d649a48
+ms.sourcegitcommit: 6ca6b2ad53cf18362b78ed725d295cc2590c6b36
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/16/2021
-ms.locfileid: "61536820"
+ms.lasthandoff: 12/21/2021
+ms.locfileid: "61579374"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure 앱 IDs 보안 및 규정 준수
 
@@ -160,6 +160,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [9e8e113c-8a08-4606-b08a-de4decc7252f](./9e8e113c-8a08-4606-b08a-de4decc7252f.md) | **✓** |  |
 | [a0b58ca7-958d-4343-a2dc-a75f2eeb0953](./a0b58ca7-958d-4343-a2dc-a75f2eeb0953.md) | **✓** |  |
 | [a1a0b277-0efb-4f00-9661-6d1a3df3cddc](./a1a0b277-0efb-4f00-9661-6d1a3df3cddc.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [a22e0150-3615-46aa-b0a7-086c87a9f38d](./a22e0150-3615-46aa-b0a7-086c87a9f38d.md) | **✓** |  |
 | [a2af9d71-95f1-4236-be2c-c105ab9b7ee9](./a2af9d71-95f1-4236-be2c-c105ab9b7ee9.md) | **✓** |  |
 | [a4c28379-0840-42c5-9407-f088a7f54048](./a4c28379-0840-42c5-9407-f088a7f54048.md) | **✓** |  |
 | [a554bdf0-866f-4ee2-b95b-3afbfc70d5bc](./a554bdf0-866f-4ee2-b95b-3afbfc70d5bc.md) | **✓** |  |
