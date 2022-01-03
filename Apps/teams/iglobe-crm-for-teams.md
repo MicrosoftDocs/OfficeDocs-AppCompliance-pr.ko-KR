@@ -2,24 +2,23 @@
 title: iGlobe에서 사용할 수 있는 iGlobe CRM에 Teams 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/06/2021
+ms.date: 12/19/2021
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: CSA STAR 레지스트리의 Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 iGlobe CRM에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 50a591bbbf634a69b0684ee7701987bd7b8eaad8
-ms.sourcegitcommit: 06d460e64ccf4d150acd7f90309c902262ba2f7a
+ms.openlocfilehash: 6aaeddce93a513ca22b0bf5c0b4fdf8b85a7830d
+ms.sourcegitcommit: b52a796899ec9fb4a27778773c1a1d5fb0c33610
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61354665"
+ms.lasthandoff: 01/03/2022
+ms.locfileid: "61662686"
 ---
-# <a name="iglobe-crm-for-teams"></a>iGlobe cRM for Teams
+# <a name="iglobe-crm-for-teams"></a>Teams용 iGlobe CRM
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 12월 6일</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 12월 9일</p>
 
 * <a href="https://teams.microsoft.com/l/app/f708066c-137d-41a1-a88b-a6f3ae8982e2" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA104381421" target="_blank">AppSource의 보기</a>
@@ -32,7 +31,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | iGlobe cRM for Teams |
+| 앱 이름 | Teams용 iGlobe CRM |
 | ID | WA104381421 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | iGlobe |
