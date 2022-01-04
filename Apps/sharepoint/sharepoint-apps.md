@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/31/2021
+ms.date: 01/03/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft SharePoint 보안 및 규정 준수 정보
 localization_priority: Normal
-ms.openlocfilehash: 0968d1f45de013b99ab8870d7210266b1fbad83a
-ms.sourcegitcommit: b52a796899ec9fb4a27778773c1a1d5fb0c33610
+ms.openlocfilehash: 70f373ee0426bda09802a669ba67c180cd820a00
+ms.sourcegitcommit: 11ec7246fa8e1052155e98a0bff51d32e58ea2cf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/03/2022
-ms.locfileid: "61664199"
+ms.lasthandoff: 01/04/2022
+ms.locfileid: "61711357"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 앱 보안 및 규정 준수
 
@@ -22,6 +22,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 |:--------|:------------|:----------------------:|:-------------:|
 | [Adobe Sign for SharePoint](./adobe-inc-sign-for-sharepoint.md) | Adobe Inc. | **✓** |  |
 | [ArcGIS for SharePoint](./esri-inc-arcgis-for-sharepoint.md) | Esri, Inc. | **✓** |  |
+| [Bid Management System](./beyond-technologies-bid-management-system.md) | Beyond Technologies | **✓** |  |
 | [FormMachines Connector for SharePoint](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | 엔터프라이즈 디지털 컴퓨터 PTY LTD | **✓** |  |
 | [HelloSign for SharePoint](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox Inc. | **✓** |  |
 | [iGlobe CRM 추가 기능](./iglobe-crm-add-ons.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
