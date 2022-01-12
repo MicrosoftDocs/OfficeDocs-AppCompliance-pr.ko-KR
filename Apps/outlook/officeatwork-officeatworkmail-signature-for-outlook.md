@@ -1,27 +1,27 @@
 ---
-title: Officeatwork의 콘텐츠 선택에 대한 응용 프로그램 정보
+title: Officeatwork | officeatwork를 Outlook 메일 서명
 ms.author: elmalova
 author: elenamalova
 ms.date: 01/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 콘텐츠 선택기, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR Outlook 메일 서명, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3e1b8f307dc931e166ad04fcf05e35a473c2efed
+ms.openlocfilehash: 9c2b253c143a1efa249f0e4ea14387664bb68834
 ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 01/12/2022
-ms.locfileid: "61783293"
+ms.locfileid: "61788519"
 ---
-# <a name="content-chooser"></a>콘텐츠 선택
+# <a name="officeatwork--mail-signature-for-outlook"></a>officeatwork | 메일의 메일 Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
 <p>개발자가 마지막으로 업데이트한 날짜: 2022년 1월 7일</p>
 
-* <a href="https://appsource.microsoft.com/product/web-apps/officeatwork-ag.content-chooser" target="_blank">AppSource의 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003062" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
@@ -31,12 +31,13 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 콘텐츠 선택 |
-| ID | officeatwork-ag.content-chooser |
+| 앱 이름 | officeatwork - Outlook |
+| ID | WA200003062 |
+| Office 365 클라이언트 지원 | Outlook 2016 이상을 Windows 웹용 Outlook |
 | 파트너 회사 이름 | officeatwork |
 | 회사의 웹 사이트 | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 앱 사용 약관 | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
-| 앱의 핵심 기능 | Word, Excel, PowerPoint, Outlook, 브라우저 및 기타 앱에서 중앙에서 공유된 콘텐츠에 액세스합니다. |
+| 앱의 핵심 기능 | 조직 전체에서 개인 설정된 간단하고 안전하며 중앙에서 관리되는 메일 서명. &amp; |
 | 회사 본사 위치 | 스위스 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
@@ -163,7 +164,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 지원되는 정책 유형 나열 | 보안 기본값 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
@@ -172,12 +173,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 >| openid | 위임 | 로그인 사용 |
 >| 프로필 | 위임 | 로그인 사용 |
 >| offline_access | 위임 | 이전 버전의 호스트에 대해 Office 로그인 사용 |
->| User.Read | 위임 | 로그인한 사용자 표시 사용 |
->| Files.ReadWrite.All | 위임 | 즐겨찾기 및 OneDrive 사용 |
->| Group.ReadWrite.All | 위임 | 사용자 Teams 사용 |
->| User.Read.All | 위임 | 사용자 속성 표시 사용 |
->| Sites.Read.All | 위임 | 에 저장된 사용자 템플릿 파일을 SharePoint |
->| GroupMember.Read.All | 위임 | 사용자 Teams 사용 |
+>| User.Read | 위임 | 로그인한 사용자 표시를 사용하도록 설정하고, 사용자 속성을 사용하여 동적 메일 서명을 사용하도록 설정 |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 
