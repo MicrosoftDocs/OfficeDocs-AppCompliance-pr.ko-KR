@@ -2,24 +2,24 @@
 title: CC4ALL의 CC4Teams에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/09/2021
+ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 CC4Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: feb5be7483844c3e8c0709c8967b88048c4b691d
-ms.sourcegitcommit: 287c15520b2d24d1b150c144ee8001b713b0aa8a
+ms.openlocfilehash: 31b9467e5aa5efb07131ec0509eaf8e3aa0b544c
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/22/2021
-ms.locfileid: "61590673"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61784064"
 ---
 # <a name="cc4teams"></a>CC4Teams
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 11월 20일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 1월 11일</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/contactcenter4all1634641680587.cc4all_01" target="_blank">AppSource의 보기</a>
 

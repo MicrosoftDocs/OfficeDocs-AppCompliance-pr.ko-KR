@@ -2,24 +2,24 @@
 title: ASC 기술 AG의 ASC Insights 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/20/2021
+ms.date: 01/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: ASC Recording Insights, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 74d343c964765387046099aa34ba873a24421724
-ms.sourcegitcommit: 6ca6b2ad53cf18362b78ed725d295cc2590c6b36
+ms.openlocfilehash: 23028cb70e0d93e3f086e499cd2b6595eeec932f
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/21/2021
-ms.locfileid: "61574550"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61785635"
 ---
 # <a name="asc-recording-insights"></a>ASC Recording Insights
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 12월 15일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 12월 21일</p>
 
 * <a href="https://teams.microsoft.com/l/app/8f79287d-5850-42f1-9af2-48ddf6ef89a8" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200000708" target="_blank">AppSource의 보기</a>

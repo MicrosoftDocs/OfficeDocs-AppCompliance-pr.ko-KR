@@ -2,17 +2,17 @@
 title: Microsoft OneNote 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 10/15/2021
+ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft OneNote 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 8ee89a02f4ea70b9697eca5ab34d0a4b967d5049
-ms.sourcegitcommit: 1ae3b2c9057829f6d868439ba674d8d8d9f30663
+ms.openlocfilehash: edaa83aab113fcb4f881a7cb5c14ce06b34fff1d
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/18/2021
-ms.locfileid: "61066496"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61789162"
 ---
 # <a name="microsoft-onenote-apps-security-and-compliance"></a>Microsoft OneNote 앱 보안 및 규정 준수
 

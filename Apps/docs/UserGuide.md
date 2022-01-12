@@ -6,12 +6,12 @@ description: 앱 준수 프로그램에 Microsoft 365 ISV 사용자 가이드
 keywords: 앱 준수 프로그램에 Microsoft 365 ISV 사용자 가이드
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 79a301d6825b3f9ea3d882e13e91b48f3808f60b
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: 2b2b84cec3be5167d67733a89ba13fa411a0e781
+ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60544569"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61787861"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program"></a>앱 준수 프로그램에 대한 Microsoft 365 사용자 가이드
 
@@ -45,7 +45,7 @@ ms.locfileid: "60544569"
 
 ![상업용 마켓플레이스에서 앱 선택](../media/NewPCoffersComm.png)
 
-앱을 선택하면 다른 탐색 모음에 '앱 준수' 옵션이 팝업됩니다.
+앱을 선택하면 다른 탐색 모음에 '추가 인증 정보' 옵션이 표시됩니다. 그런 다음 '앱 준수'를 클릭합니다.
   
 **3단계:**'앱 준수' 선택
 
@@ -170,13 +170,13 @@ Microsoft 365 Publisher 증명 및 인증 갱신 **워크플로:** Microsoft 365
 
 ![Publisher 업데이트](../media/UserGuidePhotos/29.png)
 
-**Publisher Approved(Approved) 인증 갱신**
+**Publisher 갱신 승인됨**
 
-![Publisher Attestation Renewed](../media/UserGuidePhotos/30.png)
+![Publisher 갱신](../media/UserGuidePhotos/30.png)
 
-**Publisher 만료된 인증서:** Microsoft docs에서 앱의 Publisher 페이지를 유지 관리하기 위해 만료 날짜 전에 앱의 정보를 갱신해야 합니다. 또한 시기 적절한 갱신을 통해 AppSource, 스토어, Teams 스토어 및 기타 스토어에서 앱에 대한 Office 및 아이콘을 계속 사용할 수 있습니다.
+Publisher 만료된 **앱:** Microsoft docs에서 앱의 Publisher Attestation 페이지를 유지 관리하기 위해 만료 날짜 전에 앱 정보를 갱신해야 합니다. 또한 시기 적절한 갱신을 통해 AppSource, 스토어, Teams 스토어 및 기타 스토어에서 앱에 대한 Office 및 아이콘을 계속 사용할 수 있습니다.
 
-![Publisher 만료된 Attestation](../media/UserGuidePhotos/31.png)
+![Publisher 만료되었습니다.](../media/UserGuidePhotos/31.png)
 
 참고: 만료되면 Publisher 갱신 프로세스를 언제든지 '갱신'을 클릭하여 시작할 수 있습니다. 
 
