@@ -7,12 +7,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: cdd1868e91c0f914b67e999e3bbce96ad04f0a05
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: 24a6dbd695b53144324251f1f9f0a505e3f16642
+ms.sourcegitcommit: 49dbdc1d9cda54d352ea8384b3ede246cecf69d8
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028964"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "62046500"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -321,7 +321,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [TINYpulse](./tinypulse.md) | TINYpulse | **✓** |  |
 | [Totara](./totara-learning.md) | Totara Learning | **✓** |  |
 | [Tribute](./tribute-co.md) | Tribute Co. | **✓** |  |
-| [Trivia](./springworks-hr-tech-trivia.md) | Springworks HR Tech | **✓** |  |
 | [Trivia Engine](./enableuc-trivia-engine.md) | EnableUC | **✓** |  |
 | [Trivie](./trivie-inc.md) | Trivie, Inc. | **✓** |  |
 | [Tryane Analytics](./tryane-analytics.md) | Tryane | **✓** |  |
