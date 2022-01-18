@@ -2,17 +2,17 @@
 title: Microsoft Excel 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/13/2022
+ms.date: 01/17/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Excel 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 17fb073b5bbdf008d5fe83ee400ec8e2b04d81c5
-ms.sourcegitcommit: 19aa86f2bbf281851e555ecc4465c25384ba97d7
+ms.openlocfilehash: 9cb86361200bfd87838da3c708f7eaf61898bfef
+ms.sourcegitcommit: 23ef75d7c108123853d76b1f80492a2f479c8aeb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028833"
+ms.lasthandoff: 01/18/2022
+ms.locfileid: "62065914"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 앱 보안 및 규정 준수
 
@@ -30,5 +30,4 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [QuickCells Graphs](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
 | [QuickCells Solvers](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [Report Builder](./adobe-inc-report-builder.md) | Adobe Inc. | **✓** |  |
-| [Wunder365 for Office](./jiji-technologies-private-limited-wunder365-for-office.md) | Ji Technologies Private Limited | **✓** |  |
 | [XBRL 파일 데이터](./xbrl-us-filed-data.md) | XBRL US | **✓** |  |
