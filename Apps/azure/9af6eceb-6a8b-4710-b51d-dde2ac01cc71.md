@@ -2,17 +2,17 @@
 title: Azure App ID Information for 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/17/2022
+ms.date: 01/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: 026a5aba6e1139a4c22b4c082caa49ce49e698ca
-ms.sourcegitcommit: 23ef75d7c108123853d76b1f80492a2f479c8aeb
+ms.openlocfilehash: 20073fba284dc5056eae4abd76bac8ea51edb4e8
+ms.sourcegitcommit: b0bc806a1e2b0d157eea62dec843e02d302b2c16
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/18/2022
-ms.locfileid: "62065494"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62077568"
 ---
 # <a name="azure-app-id-9af6eceb-6a8b-4710-b51d-dde2ac01cc71"></a>Azure 앱 ID: 9af6eceb-6a8b-4710-b51d-dde2ac01cc71
 
