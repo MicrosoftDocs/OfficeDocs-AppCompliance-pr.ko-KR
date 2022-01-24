@@ -2,18 +2,18 @@
 title: Application Information for MyHub by AvePoint, inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/14/2022
+ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: MyHub에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 920959d96e132cabf5081a8e7dd16584f122ebac
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 99e70f3b37e35ebf2060640137b3796976abf31d
+ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62143985"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62175651"
 ---
 # <a name="myhub"></a>MyHub
 

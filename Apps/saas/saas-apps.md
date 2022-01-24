@@ -2,17 +2,17 @@
 title: SaaS 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/19/2022
+ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: c4cfdbbc229dbdb1d6dcf288353a937cb0ee77a7
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 1c3f33682524566171bf2cc2892e5b7787803559
+ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62149250"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62172808"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
@@ -30,6 +30,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [콘텐츠 선택](./officeatwork-content-chooser.md) | officeatwork | **✓** |  |
 | [콘텐츠 선택 브라우저](./officeatwork-content-chooser-browser.md) | officeatwork | **✓** |  |
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** |  |
+| [Emailgistics](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
 | [EmailNotes for Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | 독립 실행형(남 태평양) PTE Limited | **✓** |  |
 | [iGlobe CRM Office 365 Microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [이미지 선택](./officeatwork-image-chooser.md) | officeatwork | **✓** |  |

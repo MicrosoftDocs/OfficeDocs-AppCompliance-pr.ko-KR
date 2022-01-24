@@ -2,17 +2,17 @@
 title: Microsoft PowerPoint 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/19/2022
+ms.date: 01/21/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft PowerPoint 규정 준수 정보
 localization_priority: Normal
-ms.openlocfilehash: 467822fafb46b07be13371b608f570a4883f98fe
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: f48708dc83ed511d2174cbee67c82d6bebe1f557
+ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62143115"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62175191"
 ---
 # <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Microsoft PowerPoint 앱 보안 및 규정 준수
 
@@ -28,5 +28,5 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [officeatwork | Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | Office 선택기](./officeatwork-officeatworkslide-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | 템플릿 선택에서 Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
-| [Showmaster](./cherryware-showmaster.md) | 나만의 에기 | **✓** |  |
+| [Showmaster(도우미 플러그 인)](./cherryware-showmaster-helper-plugin.md) | 나만의 에기 | **✓** |  |
 | [SlideHub](./nomorehours-slidehub.md) | nomorehours | **✓** |  |
