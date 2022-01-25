@@ -2,24 +2,24 @@
 title: Subramanian Ramanathan의 Sitecore에 대한 Proconnect에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2022
+ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Sitecore용 Proconnect, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0bd5876a65ebe7832a330f04ac9db086bdf1ff04
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 0b2861bf05a54d4a2019c32959f0c76a6a02f383
+ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144025"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62198031"
 ---
 # <a name="proconnect-for-sitecore"></a>Proconnect for Sitecore
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 9월 2일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 1월 22일</p>
 
 * <a href="https://teams.microsoft.com/l/app/a87fd06b-7e73-4374-ba75-4545b2470706" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003274" target="_blank">AppSource의 보기</a>
@@ -81,14 +81,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 환경에서 기존의 맬웨어 방지 보호 또는 응용 프로그램 제어를 사용하나요? | ApplicationControls |
 | 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? | 아니요 |
 | 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? | 예 |
-| 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? | 예 |
+| 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? | 아니요 |
 | 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 예 |
 | 앱 및 이를 지원하는 구조에서 분기별 취약점 검색을 수행하나요? | 아니요 |
 | 외부 네트워크 경계에 방화벽이 설치되어 있습니까? | 아니요 |
 | 변경 요청을 프로덕션에 배포하기 전에 검토하고 승인하는 데 사용되는 변경 관리 프로세스가 설정 있습니까? | 예 |
 | 원래 개발자가 프로덕션에 제출한 모든 코드 변경 요청을 검토하고 추가 인가? | 아니요 |
 | 보안 코딩 방법은 OWASP 상위 10과 같은 일반적인 취약성 클래스를 고려하나요? | 예 |
-| MFA(다단계 인증)를 사용할 수 있습니다. |  |
+| MFA(다단계 인증)를 사용할 수 있습니다. | NoneOfTheAbove |
 | 직원 계정을 프로비저닝, 수정 및 지우기 위한 프로세스를 설정하고 있나요? | 아니요 |
 | 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? | 해당 없음 |
 | 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? | 예 |
