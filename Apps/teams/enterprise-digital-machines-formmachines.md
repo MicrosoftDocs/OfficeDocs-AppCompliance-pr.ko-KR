@@ -2,24 +2,23 @@
 title: 디지털 컴퓨터의 FormMachine에 대한 Enterprise 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 12/22/2021
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: CSA STAR 레지스트리의 FormMachines, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 64c7612ab8fbdb479e0e70bfaef2252f73cde1de
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 9ec325100eafc5d6b84150a00a2c5a13880236b7
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148252"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62209557"
 ---
 # <a name="formmachines"></a>FormMachines
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 12월 22일</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 1월 24일</p>
 
 * <a href="https://teams.microsoft.com/l/app/54d8b826-3e30-4589-a77a-ed99cfbbb4c9" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200001217" target="_blank">AppSource의 보기</a>

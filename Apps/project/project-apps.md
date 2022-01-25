@@ -2,17 +2,17 @@
 title: Microsoft Project 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/24/2022
+ms.date: 01/25/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Project 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: d6fb96c2e43e29c1516a0cb9112748b3e597ea88
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: b9e36915f98d58db796253d89b7f7c2ce8f2feb4
+ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 01/25/2022
-ms.locfileid: "62197415"
+ms.locfileid: "62205797"
 ---
 # <a name="microsoft-project-apps-security-and-compliance"></a>Microsoft Project 앱 보안 및 규정 준수
 
@@ -20,4 +20,4 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [officeatwork | 템플릿 선택에서 Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
+| [officeatwork | 템플릿 선택에서 Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
