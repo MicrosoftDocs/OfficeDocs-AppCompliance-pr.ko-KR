@@ -2,17 +2,17 @@
 title: Microsoft Outlook 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/21/2022
+ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Outlook 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: b98db45a16e80cd56a4429948e4685120860ea91
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: b347cd059d7dd6b43ec7ac1ef301ed2e2a0ef707
+ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62173751"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62193495"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 앱 보안 및 규정 준수
 
@@ -34,6 +34,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Jira Cloud for Outlook(공식)](./atlassiancom-jira-cloud-for-outlook-official.md) | Atlassian.com | **✓** |  |
 | [LawToolBox 마감일 &amp; 문제 관리 - Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
 | [LawToolBox 마감일 및 문제 관리 - Outlook](./lawtoolboxcom-inc-lawtoolbox-deadlines-and-matter-management-outlook.md) | LawToolBox.com Inc. | **✓** |  |
+| [Mailbutler](./mailbutler.md) | Mailbutler | **✓** |  |
 | [MIPA - 사용자만의 개인 도우미](./iglobe-mipa-your-own-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | 모든 파란색 솔루션 | **✓** |  |
 | [Office2SharePoint for Outlook](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -41,6 +42,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [officeatwork | Outlook](./officeatwork-officeatworkmail-signature-for-outlook.md) | officeatwork | **✓** |  |
 | [OnePlaceMail for Outlook](./oneplace-solutions-oneplacemail-for-outlook.md) | OnePlace 솔루션 | **✓** |  |
 | [Outreach Sales Engagement for Outlook](./outreach-sales-engagement-for-outlook.md) | 아웃리치 | **✓** |  |
+| [Pexip One for Outlook](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |
 | [우선 순위 매트릭스 - 전자 메일을 작업으로 전환](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |

@@ -2,17 +2,17 @@
 title: Microsoft Excel 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/21/2022
+ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Excel 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 759b95f2b1a44b2675484a6c362b50ed11081273
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: 078b0c75b0ff931f717c640fb389ebac17bedfc8
+ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62175951"
+ms.lasthandoff: 01/25/2022
+ms.locfileid: "62195755"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 앱 보안 및 규정 준수
 
@@ -23,6 +23,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [B2B 파트너용 Canon EMEA 서비스 비용 계산기](./canon-emea-service-cost-calculator-for-b2b-partners.md) | Canon EMEA | **✓** |  |
 | [NetSuite용 CloudExtend Analytics](./celigo-cloudextend-analytics-for-netsuite.md) | Celigo CloudExtend | **✓** |  |
 | [Excel 문서 자동화](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
+| [포그리](./forbury-property.md) | Forbury 속성 | **✓** |  |
 | [harmon.ie 대한 Office](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |
 | [광고 노출 서명](./impression-signatures.md) | 광고 노출 서명 | **✓** |  |
 | [Jira Cloud for Excel](./atlassiancom-jira-cloud-for-excel.md) | Atlassian.com | **✓** |  |
@@ -32,6 +33,8 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [officeatwork | Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** |  |
 | [officeatwork | 템플릿 선택에서 Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** |  |
 | [QuickCells Graphs](./cc-1c-quickcells-graphs.md) | CC-1C | **✓** |  |
+| [QuickCells Solvers](./cc-1c-quickcells-solvers.md) | CC-1C | **✓** |  |
 | [Report Builder](./adobe-inc-report-builder.md) | Adobe Inc. | **✓** |  |
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
+| [Supermetrics](./supermetrics.md) | Supermetrics | **✓** |  |
 | [XBRL 파일 데이터](./xbrl-us-filed-data.md) | XBRL US | **✓** |  |
