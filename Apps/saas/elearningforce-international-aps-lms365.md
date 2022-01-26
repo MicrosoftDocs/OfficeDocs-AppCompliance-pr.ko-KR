@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: LMS365에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5e56e6890c38bc6896115c1e4a2c5b10a93f7c9b
-ms.sourcegitcommit: c90bc1880b91e2e60bb72b5497366ffd415a57a8
+ms.openlocfilehash: 62a9a18b43a1740b8b83b59edac5051824c43266
+ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61787811"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "62222522"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -112,7 +112,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 가장 최근 SOC3 인증 날짜 | |
 | 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 아니요 |
-| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 예 |
 | 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 해당 없음 |
 | 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
