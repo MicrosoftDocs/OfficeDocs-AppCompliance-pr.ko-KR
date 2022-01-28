@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Jira용 Smart 커넥트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 3c5dbcb87b2d99c727b01ff903ec9daf83935978
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 2f8db5fc4087ece98bf19f20ff3b91ab96875ed0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430286"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62252077"
 ---
 # <a name="smart-connect-for-jira"></a>Smart Connect for Jira
 
@@ -36,10 +36,12 @@ Yasoon GmbH에서 Microsoft에 제공한 정보:
 | ID | WA200002055 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | yasoon GmbH |
-| 파트너 웹 사이트의 URL | [https://www.yasoon.com](https://www.yasoon.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://yasoon.com/microsoft-teams-for-jira/](https://yasoon.com/microsoft-teams-for-jira/) |
-| 개인 정보 취급 방침의 URL | [https://yasoon.com/privacy-policy-services/](https://yasoon.com/privacy-policy-services/) |
-| 사용 약관 URL | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474846970/Product_42949680957/Asset_3f25ec80-eacb-454f-8cc2-eeee583b65c6/170825EULAOfficeaddinEN.doc) |
+| 회사의 웹 사이트 | [https://www.yasoon.com](https://www.yasoon.com) |
+| 앱 사용 약관 | [https://pinpointprod.blob.core.windows.net/marketing/Partne...](https://pinpointprod.blob.core.windows.net/marketing/Partner_21474846970/Product_42949680957/Asset_3f25ec80-eacb-454f-8cc2-eeee583b65c6/170825EULAOfficeaddinEN.doc) |
+| 앱의 핵심 기능 | yasoon은 &amp; Atlassian과 Atlassian 간의 똑똑하고 심도 깊은 통합을 제공하는 데 Microsoft 서비스. Atlassian Jira와 Outlook Teams 도구를 제공합니다. 사용자용 Jira Microsoft Teams 채팅 및 대화를 Jira 문제에 연결하여 소프트웨어 및 비즈니스 팀이 Teams 더 잘 작업할 수 있도록 합니다. |
+| 회사 본사 위치 | 독일 |
+| 앱 정보 페이지 | |
+| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,96 +53,132 @@ Yasoon GmbH에서 Microsoft에 제공한 정보:
 
 이 정보는 yasoon GmbH에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
-
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
-
->| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Channel.ReadBasic.All | 위임 | 사용 권한은 사용자가 Jira에서 이 가입 채널 중 하나를 선택할 수 있도록 하는 데 사용됩니다. | 캐싱 목적으로 채널 ID | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelMessage.Read.Group | application | 앱에서 Jira에 연결된 채널 메시지를 표시하는 데 허용합니다. | 메시지를 Jira 문제에 연결하기 위한 메시지 ID | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelMessage.Send | 위임 | 데이터가 사용 중이지 않습니다. 이 API는 사용자가 Jira의 채널 메시지에 회신할 수 있도록 하는 데 사용됩니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| ChannelSettings.Read.Group | application | 채널에 대한 세부 정보를 찾아보는 데 사용됩니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Chat.ReadWrite | 위임 | 사용자가 채팅에 새 응답을 추가하고 Jira의 채팅 메시지를 볼 수 있도록 하는 데 사용됩니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Member.Read.Group | application | 사용 권한 검사에 사용하면 앱에서 사용자의 팀 구성원 자격을 확인할 수 있습니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| Team.ReadBasic.All | 위임 | 사용 권한은 사용자가 Jira에서 이 참가 팀 중 하나를 선택할 수 있도록 하는 데 사용됩니다. | 캐싱 목적으로 사용할 팀 ID | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| TeamSettings.Read.Group | application | 앱에서 특정 기본값을 적용하기 위해 팀 설정을 읽을 수 있습니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
->| User.ReadBasic.All | 위임 | 사용자가 채널 메시지에서 @-mention에 대한 공동 작업자를 선택할 수 있습니다. | 없음 | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
-
-
-#### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
-
-앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
-
->| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
->|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Atlassian Jira와 계약자 중 한 명은 여기에서 볼 수 있습니다. https://go.yasoon.com/contractors | 메시지 메타데이터(ID, 타임스탬프), 사용자 및 조직 메타데이터(사용자 ID, 조직 ID) 및 사용자 전자 메일 주소 | 앱 기능(예: Office 계정과 Atlassian 계정 일치)을 지원하고 문제를 더 빠르게 해결할 수 있도록 지원할 수 있습니다. |
-
-#### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
-
-이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
-
->| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
->|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 사용자 계정과 Teams Atlassian Jira 계정 일치 | 아니요 |  |
-
-
-#### <a name="telemetry-data"></a>원격 분석 데이터
-
-이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
-
->사용자 메타데이터(id)
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
-
-조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
-
->당사는 엄격한 데이터 개인 정보 보호를 보장하는 서비스만 사용하게 됩니다. 
-
-#### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
-
-사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
-
->아니요
+| **정보** | **응답** |
+|:----------------|:-------------|
+| 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
+| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
+| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 3month 이내에 삭제 |
+| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
+| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
+| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
+::: zone pivot="security"
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36422' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36422" target="_blank">새 탭에서 보기</a>
+| **정보** | **응답** |
+|:----------------|:-------------|
+| 앱에서 연간 침투 테스트를 수행하나요? | 예 |
+| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 아니요 |
+| 환경에서 기존의 맬웨어 방지 보호 또는 응용 프로그램 제어를 사용하나요? |  |
+| 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? |  |
+| 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? |  |
+| 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? |  |
+| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? |  |
+| 앱 및 이를 지원하는 구조에서 분기별 취약점 검색을 수행하나요? |  |
+| 외부 네트워크 경계에 방화벽이 설치되어 있습니까? |  |
+| 변경 요청을 프로덕션에 배포하기 전에 검토하고 승인하는 데 사용되는 변경 관리 프로세스가 설정 있습니까? |  |
+| 원래 개발자가 프로덕션에 제출한 모든 코드 변경 요청을 검토하고 추가 인가? |  |
+| 보안 코딩 방법은 OWASP 상위 10과 같은 일반적인 취약성 클래스를 고려하나요? |  |
+| MFA(다단계 인증)를 사용할 수 있습니다. |  |
+| 직원 계정을 프로비저닝, 수정 및 지우기 위한 프로세스를 설정하고 있나요? |  |
+| 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? |  |
+| 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? |  |
+| 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | |
+| 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? |  |
+| 공식적인 정보 보안 위험 관리 프로세스를 설정하고 있습니까? |  |
+| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? |  |
+| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>ID 정보
-
-이 정보는 yasoon GmbH에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+::: zone pivot="compliance"
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
-| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
-| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
-| 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 아니요 |
-| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
-| 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
-| 앱에서 웹 API를 노출하나요? | 아니요 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
-| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+| 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 아니요 |
+| 앱이 HITRUST CSF(Common Security Framework)인 Health Information Trust Alliance를 준수하나요? | 아니요 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
+| 가장 최근 SOC1 인증 날짜 |   |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
+| 어떤 SOC 2 인증을 획득했나요? | |
+| 가장 최근 SOC2 인증 날짜 | |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
+| 가장 최근 SOC3 인증 날짜 | |
+| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
+| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
+| 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
+| 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 NIST 800-171을 준수하나요? |  |
+| 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
+::: zone pivot="privsection"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? |  |
+| 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 연결 개인 정보 취급 방침이 있나요? |  |
+| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? |  |
+| 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? |  |
+| 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? |  |
+| 앱이 미성년자(예: 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? |  |
+| 앱에 요청 시 개인의 개인 데이터를 삭제할 수 있는 기능이 있나요? |  |
+| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한할 수 있는 기능이 있나요? |  |
+| 앱이 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 개인에게 제공하나요? |  |
+| 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 보호 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)가 수행하나요? |  |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Single Sign-On, API 액세스 등을 위해 응용 프로그램이 Microsoft Id 플랫폼(Azure AD)과 통합하나요? | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 예 |
+| 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? | true |
+| 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
+| 앱에서 코드에 자격 증명을 저장하나요? |  |
+| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | 위임 | 사용 권한은 사용자가 Jira에서 이 가입 채널 중 하나를 선택할 수 있도록 하는 데 사용됩니다. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ChannelMessage.Read.Group | application | 앱에서 Jira에 연결된 채널 메시지를 표시하는 데 허용합니다. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ChannelMessage.Send | 위임 | 데이터가 사용 중이지 않습니다. 이 API는 사용자가 Jira의 채널 메시지에 회신할 수 있도록 하는 데 사용됩니다. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| ChannelSettings.Read.Group | application | 채널에 대한 세부 정보를 찾아보는 데 사용됩니다. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Chat.ReadWrite | 위임 | 사용자가 채팅에 새 응답을 추가하고 Jira의 채팅 메시지를 볼 수 있도록 하는 데 사용됩니다. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Member.Read.Group | application | 사용 권한 검사에 사용하면 앱에서 사용자의 팀 구성원 자격을 확인할 수 있습니다. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| Team.ReadBasic.All | 위임 | 사용 권한은 사용자가 Jira에서 이 참가 팀 중 하나를 선택할 수 있도록 하는 데 사용됩니다. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| TeamSettings.Read.Group | application | 앱에서 특정 기본값을 적용하기 위해 팀 설정을 읽을 수 있습니다. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+>| User.ReadBasic.All | 위임 | 사용자가 채널 메시지에서 @-mention에 대한 공동 작업자를 선택할 수 있습니다. | [89d5ca9f-d63b-4885-bd30-6e7433c1540c](https://docs.microsoft.com/microsoft-365-app-certification/azure/89d5ca9f-d63b-4885-bd30-6e7433c1540c) |
+
+>이 응용 프로그램에는 추가 API가 없습니다.
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Vibe에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6ddc6d09c23b109752073c291f220e43b1522617
-ms.sourcegitcommit: 2aa786d5bf1f93ef63b80f04bff99434d2246d92
+ms.openlocfilehash: 9dd45dc3aa49fdf3dbe518b610186231b1cde907
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62157281"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254614"
 ---
 # <a name="vibe"></a>Vibe
 
@@ -168,9 +168,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 위임 | 이름, 전자 메일, 프로필 이미지와 같은 사용자의 기본 ID 정보를 로그인합니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 위임 | 이름, 전자 메일, 프로필 이미지와 같은 사용자의 기본 ID 정보를 로그인합니다. | [71a7c2ef-6e5f-4d3d-8665-119a2bef0035](https://docs.microsoft.com/microsoft-365-app-certification/azure/71a7c2ef-6e5f-4d3d-8665-119a2bef0035) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

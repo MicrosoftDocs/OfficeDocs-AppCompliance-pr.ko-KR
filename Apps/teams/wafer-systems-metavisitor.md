@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MetaVisitor에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2bff7b0a791fad027cfdfc1ef7dd20b2570790ff
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: b918e81d2cdc8217bb82a776335a5eef9b1d1b07
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200898"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62253344"
 ---
 # <a name="metavisitor"></a>MetaVisitor
 
@@ -167,9 +167,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | application | &#23637;&#31034;&#29992;&#25143;&#20449;&#24687; |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | application | &#23637;&#31034;&#29992;&#25143;&#20449;&#24687; | [43067020-c59f-49f8-a532-e84ed3bb5f4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/43067020-c59f-49f8-a532-e84ed3bb5f4e) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

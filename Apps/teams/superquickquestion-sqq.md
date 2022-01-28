@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: SQQ, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 49df8a96511b80d7d47a416a5a8dd40ec74f097a
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 0dfeb1cc7cf0cbc593cb2cfa2f897bd299963236
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200862"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251669"
 ---
 # <a name="sqq"></a>SQQ
 
@@ -168,11 +168,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Chat.ReadBasic | 위임 | 채팅의 참가자 수를 얻습니다. |
->| openid | 위임 | 앱에서 사용자 로그인을 통해 끝점에 Graph 액세스 |
->| User.Read | 위임 | 사용자 테넌트 이름 읽기 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Chat.ReadBasic | 위임 | 채팅의 참가자 수를 얻습니다. | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
+>| User.Read | 위임 | 사용자 테넌트 이름 읽기 | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
+>| openid | 위임 | 앱에서 사용자 로그인을 통해 끝점에 Graph 액세스 | [25379fc8-577f-4935-b681-6f027977fbe3](https://docs.microsoft.com/microsoft-365-app-certification/azure/25379fc8-577f-4935-b681-6f027977fbe3) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

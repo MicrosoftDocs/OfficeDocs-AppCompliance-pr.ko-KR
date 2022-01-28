@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: yuccaHR, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f9a2ad6cf983a58d761c1c97563a9f564c9667d8
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: f5e1475a1db71c51ac58a6bc062ce9e4b17e8ab3
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148227"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251502"
 ---
 # <a name="yuccahr"></a>yuccaHR
 
@@ -168,14 +168,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | application | 일치하는 당사자에 대한 일정 이벤트를 예약하는 경우 |
->| Channel.ReadBasic.All | application | 웹 응용 프로그램에 채널 이름 표시 |
->| ChannelMember.Read.All | application | 채널 내의 사람 또는 다른 채널과 일치 |
->| Group.Read.All | application | 웹 응용 프로그램에 팀 이름 표시 |
->| MailboxSettings.Read | application | 사용자가 원하는 언어를 얻으시다가 메시지를 보낼 때 |
->| User.Read.All | application | 사용자가 직접 채팅할 수 있도록 적응형 카드를 생성하는 데 전자 메일이 필요합니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | application | 일치하는 당사자에 대한 일정 이벤트를 예약하는 경우 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| Channel.ReadBasic.All | application | 웹 응용 프로그램에 채널 이름 표시 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| ChannelMember.Read.All | application | 채널 내의 사람 또는 다른 채널과 일치 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| Group.Read.All | application | 웹 응용 프로그램에 팀 이름 표시 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| MailboxSettings.Read | application | 사용자가 원하는 언어를 얻으시다가 메시지를 보낼 때 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| User.Read.All | application | 사용자가 직접 채팅할 수 있도록 적응형 카드를 생성하는 데 전자 메일이 필요합니다. | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

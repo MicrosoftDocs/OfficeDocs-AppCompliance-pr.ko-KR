@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 독립 실행형, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3b9bf9f6051c0b093006c81d21f8c1acf5e3a2bc
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 3b7292e010ad6e244f4d5e6cdddb9b357520ca94
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62198035"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62252244"
 ---
 # <a name="standuply"></a>Standuply
 
@@ -169,10 +169,10 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 위임 | 제품의 사용자에게 권한을 주시 |
->| MailboxSettings.Read | application | 사용자에 대한 개별 타임존에 대한 보고서를 보내기 위해 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| MailboxSettings.Read | application | 사용자에 대한 개별 타임존에 대한 보고서를 보내기 위해 | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](https://docs.microsoft.com/microsoft-365-app-certification/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176) |
+>| User.Read | 위임 | 제품의 사용자에게 권한을 주시 | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](https://docs.microsoft.com/microsoft-365-app-certification/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Beesy에 대해 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b9b3a80dc71a88504bb15c1a6d8bdd070cc3d1d1
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 626b383ae4f396371c80c3cdf77aa0533aba90f0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148727"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251804"
 ---
 # <a name="beesy"></a>Beesy
 
@@ -168,11 +168,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Mail.Read | 위임 | envoyer un mail dans beesy depuis microsoft outlook web component |
->| User.Read | 위임 | lier le profil microsoft office365 a son compte beesy.me |
->| Chat.Read | 위임 | cr&#233;er une action dans beesy.me depuis un message d'une conversation dans microsoft teams |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Chat.Read | 위임 | cr&#233;er une action dans beesy.me depuis un message d'une conversation dans microsoft teams | [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](https://docs.microsoft.com/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287) |
+>| Mail.Read | 위임 | envoyer un mail dans beesy depuis microsoft outlook web component | [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](https://docs.microsoft.com/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287) |
+>| User.Read | 위임 | lier le profil microsoft office365 a son compte beesy.me | [d27f56ed-ddc7-4cf8-86ac-721b76c7d287](https://docs.microsoft.com/microsoft-365-app-certification/azure/d27f56ed-ddc7-4cf8-86ac-721b76c7d287) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

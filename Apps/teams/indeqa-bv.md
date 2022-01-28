@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Indeqa, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: dfcbbe79fe653ca47dc7600b1737efafb6219283
-ms.sourcegitcommit: 3a357b6131b8459972e1aec73f2f795f9d674981
+ms.openlocfilehash: 055df47b5355222fe92520e940142f84b0b580b1
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/25/2021
-ms.locfileid: "61176943"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251714"
 ---
 # <a name="indeqa"></a>Indeqa
 
@@ -162,7 +162,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
 | 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
->이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.Read.All | 위임 | Easy2Meet 내에서 사용자 및 모임을 관리하려면 사용자 정보가 필요합니다. | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
+>| 전자 메일 | 위임 | 현재 사용자의 전자 메일 광고 보기 모임 초대를 보내기 위해 전자 메일 광고가 필요합니다. | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
+>| openid | 위임 | 여기에서는 데이터를 수집하지 않습니다. 사용자 로그인에 이 기능을 사용하고 있습니다. | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
+>| 프로필 | 위임 | Easy2Meet 내에서 사용자 및 모임을 관리하려면 사용자 정보가 필요합니다. | [286a2e24-18ad-432d-8698-694bcd77ecfc](https://docs.microsoft.com/microsoft-365-app-certification/azure/286a2e24-18ad-432d-8698-694bcd77ecfc) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

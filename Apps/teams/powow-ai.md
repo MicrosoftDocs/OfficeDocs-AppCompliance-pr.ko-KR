@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Powow에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 529f5acf9410a5ee1ed2b68308ccabbdde0f070e
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: f7c17510645c2c7b2fc25014e328b1dcefe0f06f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200977"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254754"
 ---
 # <a name="powow"></a>Powow
 
@@ -168,15 +168,15 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | application | 검색 커넥터에 사용됩니다(전체 검색을 위해 Microsoft 인덱스에 Powow 데이터를 푸시하는 Microsoft 서비스) |
->| ExternalItem.ReadWrite.All | application | 검색 커넥터에 사용됩니다(전체 검색을 위해 Microsoft 인덱스에 Powow 데이터를 푸시하는 Microsoft 서비스) |
->| 전자 메일 | 위임 | 등록 및 로그인을 위한 사용자의 전자 메일 주소 보기 |
->| offline_access | 위임 | 응용 프로그램 내에서 사용자 데이터에 액세스(일정 업데이트 추적) |
->| openid | 위임 | 사용자 로그인 |
->| 프로필 | 위임 | 등록을 위한 사용자의 기본 프로필 정보에 액세스하려면 |
->| User.Read | 위임 | 로그인 및 로그인을 위한 사용자 프로필 읽기 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ExternalItem.ReadWrite.All | application | 검색 커넥터에 사용됩니다(전체 검색을 위해 Microsoft 인덱스에 Powow 데이터를 푸시하는 Microsoft 서비스) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| User.Read | 위임 | 로그인 및 로그인을 위한 사용자 프로필 읽기 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| User.Read.All | application | 검색 커넥터에 사용됩니다(전체 검색을 위해 Microsoft 인덱스에 Powow 데이터를 푸시하는 Microsoft 서비스) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| 전자 메일 | 위임 | 등록 및 로그인을 위한 사용자의 전자 메일 주소 보기 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| offline_access | 위임 | 응용 프로그램 내에서 사용자 데이터에 액세스(일정 업데이트 추적) | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| openid | 위임 | 사용자 로그인 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
+>| 프로필 | 위임 | 등록을 위한 사용자의 기본 프로필 정보에 액세스하려면 | [d871e46e-e346-445d-bfe8-2a66419bf278](https://docs.microsoft.com/microsoft-365-app-certification/azure/d871e46e-e346-445d-bfe8-2a66419bf278) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

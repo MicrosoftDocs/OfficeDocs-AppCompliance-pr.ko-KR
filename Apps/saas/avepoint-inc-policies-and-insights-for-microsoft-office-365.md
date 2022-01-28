@@ -1,19 +1,19 @@
 ---
-title: '&amp;AvePoint inc.Insights 정책에 Microsoft Office 365 대한 응용 프로그램 정보입니다.'
+title: '&amp; AvePoint inc.Insights 정책에 Microsoft Office 365 대한 응용 프로그램 정보입니다.'
 ms.author: elmalova
 author: elenamalova
 ms.date: 11/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: CSA STAR 레지스트리의 정책, Insights 정책, Microsoft Office 365 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 &amp; 정보입니다.
+description: '&amp; CSA STAR 레지스트리의 정책, Insights 정책, Microsoft Office 365 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 306a0580cf91cc49c4a6f3cf814c831840c1b283
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 272be559137882c7f9f41ed46f2321d41aff9474
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155429"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62252474"
 ---
 # <a name="policies-amp-insights-for-microsoft-office-365"></a>정책 &amp; Insights 정책 Microsoft Office 365
 
@@ -166,14 +166,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Sites.FullControl.All | application | 사이트 모음 및 그룹/팀 사이트의 정보를 검색하고&#8217; 업데이트합니다. |
->| User.Read.All | application | 모든 사용자의 설정 읽기 |
->| User.ReadWrite.All | application | 사용자 설정 읽기 및 쓰기 |
->| Group.Read.All | application | 그룹의 구성원 및 설정 읽기 |
->| Group.ReadWrite.All | application | 그룹의 구성원 및 설정 업데이트 |
->| Directory.ReadWrite.All | application |   조직의 디렉터리에서 사용자 및 그룹 데이터를 읽고 써야 합니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.ReadWrite.All | application |   조직의 디렉터리에서 사용자 및 그룹 데이터를 읽고 써야 합니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.Read.All | application | 그룹의 구성원 및 설정 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.ReadWrite.All | application | 그룹의 구성원 및 설정 업데이트 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.FullControl.All | application | 사이트 모음 및 그룹/팀 사이트의 정보를 검색하고&#8217; 업데이트합니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.Read.All | application | 모든 사용자의 설정 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.ReadWrite.All | application | 사용자 설정 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

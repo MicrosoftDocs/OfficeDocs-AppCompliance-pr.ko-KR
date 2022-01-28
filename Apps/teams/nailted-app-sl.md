@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 나타남, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 917e4443182e1370b3b1dfdd1d73905dc28fe3b6
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 6db76106efdc61b69c911ef889242f2fca72fc90
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200784"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254854"
 ---
 # <a name="nailted"></a>Nailted
 
@@ -168,13 +168,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | application | 사용자 정보를 읽는 데 사용됩니다. |
->| 전자 메일 | application | 직원의 전자 메일에 액세스하여 동기화 |
->| offline_access | application | 사용자가 온라인이 아닌 경우 직원을 동기화하고 응용 프로그램을 설치할 수 있도록 이 권한을 사용하여 api에 액세스할 수 있습니다. |
->| TeamsAppInstallation.ReadWriteForUser | application | 사용자는 앱을 설치할 사용자를 선택할 수 있습니다. 따라서 이 권한을 사용하여 앱을 설치합니다. |
->| Directory.Read.All | application | 그룹에 액세스하는 데 사용됩니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.Read.All | application | 그룹에 액세스하는 데 사용됩니다. | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| TeamsAppInstallation.ReadWriteForUser | application | 사용자는 앱을 설치할 사용자를 선택할 수 있습니다. 따라서 이 권한을 사용하여 앱을 설치합니다. | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| User.Read.All | application | 사용자 정보를 읽는 데 사용됩니다. | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| 전자 메일 | application | 직원의 전자 메일에 액세스하여 동기화 | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
+>| offline_access | application | 사용자가 온라인이 아닌 경우 직원을 동기화하고 응용 프로그램을 설치할 수 있도록 이 권한을 사용하여 api에 액세스할 수 있습니다. | [52b2da9b-4cd6-4334-be22-4a3b1b99bac7](https://docs.microsoft.com/microsoft-365-app-certification/azure/52b2da9b-4cd6-4334-be22-4a3b1b99bac7) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

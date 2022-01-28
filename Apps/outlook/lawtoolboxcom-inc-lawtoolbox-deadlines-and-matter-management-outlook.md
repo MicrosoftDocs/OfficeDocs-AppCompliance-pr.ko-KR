@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: LawToolBox 마감일 및 문제 관리에 사용할 수 있는 모든 보안 및 준수 정보 - Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9baa7ea9b51626f8d887d568b428a83999b77940
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: 5ed6b61fae63ec4c4608133613e78a4a5dd29e88
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61148126"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251824"
 ---
 # <a name="lawtoolbox-deadlines-and-matter-management---outlook"></a>LawToolBox 마감일 및 문제 관리 - Outlook
 
@@ -162,7 +162,32 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
 | 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
->이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | 위임 | 이 사용 권한은 사용자가 자신의 일정&#8217;검색할 수 있도록 &#8211; 연락처에 대한 액세스가 제한됩니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite | 위임 | 이 사용 권한은 사용자가&#8217;연락처에 대한 액세스 권한을 가지고 있는 사용자 &#8211; 이를 사용하여 사용자가 자신의 일정 정보를 검색하고 일정에 쓸 수 있도록 합니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Calendars.ReadWrite.Shared | 위임 | 이 사용 권한은 사용자가 자신의 일정&#8217;검색할 수 있도록 &#8211; 연락처에 대한 액세스가 제한됩니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite | 위임 | 이 사용 권한은 사용자가 이미&#8217;연락처의 사용자 액세스가 제한됩니다.  이 사용 권한을 사용하여 사용자가 O365 연락처를 검색하고 LawToolBox에 추가할 수 있도록 허용합니다&#8211; 연락처는 자동으로 추가하지 않습니다(이 기능을 원하지 않는 경우 해지할 수 있으며 수동으로 연락처를 추가할 수 있습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Contacts.ReadWrite.Shared | 위임 | 이 사용 권한을 사용하여 사용자가 공유 O365 연락처를 검색하고 LawToolBox에 추가할 수 &#8211; 연락처를 자동으로 추가하지 않습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.AccessAsUser.All | 위임 | 관리 포털에서 O365 테넌트에서 사용자 목록을 검색하여 계정에 추가합니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Directory.ReadWrite.All | 위임 | 관리 포털에서 O365 테넌트에서 사용자 목록을 검색하여 계정에 추가합니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read | 위임 | 이렇게 하면 추가 기능에서 사용자가 이미 액세스할 수 있는 사용자 파일을 읽고 나열할 수 있습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.Read.All | 위임 | 이 사용 권한을 사용하여 사용자가 이미 액세스할 수 있는 사용자 파일을 읽고 나열합니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite | 위임 | 모임을 위해 Teams, 그룹 및 OneDrive 읽습니다(해지하면 추가 기능에서 앱에 중요한 파일을 나열하지 못하게 됩니다). | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Files.ReadWrite.All | 위임 | 모임에 대한 Teams, 그룹 및 OneDrive 읽습니다(해지하는 경우 LTB가 앱에 중요한 파일을 나열하지 못하게 합니다).  사용자가 이미 액세스할 수 있는 사용자 파일을 읽고 나열하는 데만 추가 기능을 사용할 수 있습니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Group.ReadWrite.All | 위임 | GroupID, GroupName, GroupEmail | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Read | 위임 | We use this permission to read PACER emails in our outlook add-in to auto open that matter and also to read contacts from your email to add to our contact system  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite | 위임 | We use this permission to read PACER emails in our outlook add-in to auto open that matter and also to read contacts from your email to add to our contact system  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.ReadWrite.Shared | 위임 | We use this permission to read PACER emails in our outlook add-in to auto open that matter and also to read contacts from your email to add to our contact system  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Mail.Send | 위임 | 사용자가 이 보내는 전자 메일을 사용하여 사용자가 시스템에 이미 액세스할 수 있는 데이터만 보고할 수 있도록 허용합니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| Tasks.ReadWrite.Shared | 위임 | 이 사용 권한은 사용자가 작업&#8217;액세스 권한을 가지고 있는 &#8211; 작업 액세스가 제한됩니다. 이를 사용하여 사용자가 자신의 TASK 정보를 검색하고 업데이트할 수 있습니다.  | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.Read | 위임 | 모임 또는 연락처에 추가할 최근 연락처를 제안하는 데 사용됩니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite | 위임 | 모임 또는 연락처에 추가할 최근 연락처를 제안하는 데 사용됩니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| User.ReadWrite.All | 위임 | 이 기능은 Teams API를 읽고, Teams, 채널 만들기, 파일 공유 Teams 데 필요합니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| 전자 메일 | 위임 | Email, Office365 UserID, ObjectID, TenantID. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
+>| 프로필 | 위임 | SSO 인증에 필요합니다. 또한 이 사용 권한을 사용하여 M365 테넌트에 저장된 이미지 및 이름을 검색하여 사용자가 올바른 도구 상자에 있는 것을 알 수 있도록 표시합니다. | [3ee373aa-62fa-4fc6-b11f-9627d5b4a73d](https://docs.microsoft.com/microsoft-365-app-certification/azure/3ee373aa-62fa-4fc6-b11f-9627d5b4a73d) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

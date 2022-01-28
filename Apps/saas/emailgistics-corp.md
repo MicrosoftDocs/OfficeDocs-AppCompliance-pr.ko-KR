@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Emailgistics, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 84228626adf3865be785d8c58c78374db9620a90
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: cea41a85550bd0b2a5d4effda544674d46c06b67
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62177665"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62250254"
 ---
 # <a name="emailgistics"></a>Emailgistics
 
@@ -166,15 +166,15 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Mail.ReadWrite | 위임 | 공유 사서함의 메시지에 대한 정보를 얻습니다. 메시지 정보는 고객 정의 규칙을 실행하는 데 필요합니다(예: &#8220;invoice&#8221;이 포함된 경우 사용자 A에게 배포), 대화를 올바르게 추적(대화 기록 및 자동 할당의 경우) 및 보고(예: 메시지 열기 세부 정보 보고서)에 필요합니다.
-규칙(예: 자동 회신)에서 메시지를 보내고 Emailgistics 대화 ID로 메시지 제목을 업데이트하는 액세스 응답을 작성합니다. |
->| Mail.Send | 위임 | Emailgistics가 공유 사서함에서 전자 메일 메시지를 보낼 수 있습니다. 이 사용 권한은 규칙에서 메시지를 보내는 데 필요합니다(예: 자동 응답). |
->| MailboxSettings.ReadWrite | 위임 | Emailgistics에서 공유 사서함 이름을 만들고 초기 처리, 규칙 실행 및 자동 할당을 위해 들어오는 메시지를 숨겨진 들어오는 폴더로 라우팅하는 사서함 규칙을 만들 수 있습니다. |
->| User.Read | 위임 | Emailgistics가 공유 사서함으로 로그인하고 서비스 사용자 ID, 전자 메일 주소 및 사용자 이름과 같은 기본 정보를 읽을 수 있습니다. |
->| User.ReadBasic.All | 위임 | Emailgistics가 테넌트의 사용자에 대한 기본 정보를 읽을 수 있도록 허용합니다. 사서함 구성원의 전자 메일 주소 및 이름 변경을 감지하고 Emailgistics에서 추적 및 보고 목적으로 사용되는 이 정보를 자동으로 업데이트하는 데 필요합니다. 공유 사서함을 넘어 범위가 확장되는 유일한 권한입니다. |
->| offline_access | 위임 | Emailgistics가 작동할 때마다 사용자가 로그인해야 하는 대화형 브라우저 기반 앱 대신 백end 응용 프로그램으로 작동하도록 허용합니다. 이 사용 권한을 통해 Emailgistics는 일정한 액세스를 유지하기 위해 필요한 경우 새로 고칠 수 있는 새로 고침 토큰을 얻을 수 있습니다. |
+규칙(예: 자동 회신)에서 메시지를 보내고 Emailgistics 대화 ID로 메시지 제목을 업데이트하는 액세스 응답을 작성합니다. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
+>| Mail.Send | 위임 | Emailgistics가 공유 사서함에서 전자 메일 메시지를 보낼 수 있습니다. 이 사용 권한은 규칙에서 메시지를 보내는 데 필요합니다(예: 자동 응답). | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
+>| MailboxSettings.ReadWrite | 위임 | Emailgistics에서 공유 사서함 이름을 만들고 초기 처리, 규칙 실행 및 자동 할당을 위해 들어오는 메시지를 숨겨진 들어오는 폴더로 라우팅하는 사서함 규칙을 만들 수 있습니다. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
+>| User.Read | 위임 | Emailgistics가 공유 사서함으로 로그인하고 서비스 사용자 ID, 전자 메일 주소 및 사용자 이름과 같은 기본 정보를 읽을 수 있습니다. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
+>| User.ReadBasic.All | 위임 | Emailgistics가 테넌트의 사용자에 대한 기본 정보를 읽을 수 있도록 허용합니다. 사서함 구성원의 전자 메일 주소 및 이름 변경을 감지하고 Emailgistics에서 추적 및 보고 목적으로 사용되는 이 정보를 자동으로 업데이트하는 데 필요합니다. 공유 사서함을 넘어 범위가 확장되는 유일한 권한입니다. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
+>| offline_access | 위임 | Emailgistics가 작동할 때마다 사용자가 로그인해야 하는 대화형 브라우저 기반 앱 대신 백end 응용 프로그램으로 작동하도록 허용합니다. 이 사용 권한을 통해 Emailgistics는 일정한 액세스를 유지하기 위해 필요한 경우 새로 고칠 수 있는 새로 고침 토큰을 얻을 수 있습니다. | [2c9fb9b7-5112-4a91-af52-f98682bc7bf3](https://docs.microsoft.com/microsoft-365-app-certification/azure/2c9fb9b7-5112-4a91-af52-f98682bc7bf3) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

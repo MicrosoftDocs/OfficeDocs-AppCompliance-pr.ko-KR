@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Mia에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 47aebd8bce7bdaed64de9f634792d8375f686776
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 60f642920ebe8406b6b16bcdcf940dd986962ae6
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148302"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62253614"
 ---
 # <a name="mia"></a>Mia
 
@@ -38,7 +38,7 @@ MiHCM에서 Microsoft에 제공하는 정보:
 | 파트너 회사 이름 | MiHCM |
 | 회사의 웹 사이트 | [https://mihcm.com](https://mihcm.com) |
 | 앱 사용 약관 | [https://mia.work/terms-of-use](https://mia.work/terms-of-use) |
-| 앱의 핵심 기능 | Mia Workplace Virtual Assistant 조직에서 모든 사용자에 대해 개인 설정 가상 도우미를 Microsoft Teams 있습니다. 이 업무 Microsoft Teams 도우미는 조직에서 생산성을 높이고, 직원 참여를 개선하고, 다양한 HR 요청의 실행, 작업 관련 서비스 요청, 피트니스 웰니스 등에서 도움을 &amp; 줍니다. Mia는 직원 참여를 유도하고, 매끄러운 HR 서비스/상호 작용을 위한 원활한 직원 환경을 제공합니다. |
+| 앱의 핵심 기능 | Mia Workplace Virtual Assistant 조직에서 모든 사용자에 대해 개인 설정 가상 도우미를 Microsoft Teams 있습니다. 이 업무 Microsoft Teams 도우미는 조직에서 생산성을 높이고, 직원 참여를 개선하고, 다양한 HR 요청의 실행, 작업 관련 서비스 요청, &amp; 피트니스 웰니스 등에서 도움을 줍니다. Mia는 직원 참여를 유도하고, 매끄러운 HR 서비스/상호 작용을 위한 원활한 직원 환경을 제공합니다. |
 | 회사 본사 위치 | 스리랑카 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
@@ -169,12 +169,12 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 위임 | 사용자를 고유하게 식별하기 위해 |
->| Group.Read.All | 위임 | 사용자의 Microsoft Planner 작업을 읽으면 |
->| MailboxSettings.Read | application | 사용자의 표준 시간대를 읽으면 |
->| Calendars.Read | application | 사용자의 예약된 일정 이벤트를 읽으면 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | application | 사용자의 예약된 일정 이벤트를 읽으면 | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
+>| Group.Read.All | 위임 | 사용자의 Microsoft Planner 작업을 읽으면 | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
+>| MailboxSettings.Read | application | 사용자의 표준 시간대를 읽으면 | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
+>| User.Read | 위임 | 사용자를 고유하게 식별하기 위해 | [7b90f2e4-fe97-4a56-952f-b3c553e537a7](https://docs.microsoft.com/microsoft-365-app-certification/azure/7b90f2e4-fe97-4a56-952f-b3c553e537a7) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

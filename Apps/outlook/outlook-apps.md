@@ -2,21 +2,21 @@
 title: Microsoft Outlook 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/26/2022
+ms.date: 01/27/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Outlook 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 9f429e2f81a95e0750b6c2df8c55471653ea969c
-ms.sourcegitcommit: 2e80b3cd0079ac50da5e6d878bbef6744e4659f2
+ms.openlocfilehash: 86006b608edc098b9c7e3abbcf49bfde1f89863f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62235634"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251344"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 앱 보안 및 규정 준수
 
-Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용하는 Microsoft Outlook 앱 및 추가 기능 관련 결정을 내리는 데 필요한 정보를 제공합니다. 이 정보에는 [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) 앱 카탈로그의 정보와 개발자가 응용 프로그램을 제출할 때 제공한 정보가 추가됩니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
+Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용하는 Microsoft Outlook 앱 및 추가 기능 관련 결정을 내리는 데 필요한 정보를 제공합니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
 
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
@@ -38,8 +38,8 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [MIPA - 사용자만의 개인 도우미](./iglobe-mipa-your-own-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ngDesk](./all-blue-solutions-ngdesk.md) | 모든 파란색 솔루션 | **✓** |  |
 | [Office2SharePoint for Outlook](./iglobe-office2sharepoint-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Outlook](./officeatwork-officeatworkcontent-chooser-for-outlook.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork | Outlook](./officeatwork-officeatworkmail-signature-for-outlook.md) | officeatwork | **✓** |  |
+| [officeatwork - 사용자용 콘텐츠 Outlook](./officeatwork-officeatworkcontent-chooser-for-outlook.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - Outlook](./officeatwork-officeatworkmail-signature-for-outlook.md) | officeatwork | **✓** |  |
 | [OnePlaceMail for Outlook](./oneplace-solutions-oneplacemail-for-outlook.md) | OnePlace 솔루션 | **✓** |  |
 | [Outreach Sales Engagement for Outlook](./outreach-sales-engagement-for-outlook.md) | 아웃리치 | **✓** |  |
 | [Pexip One for Outlook](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |

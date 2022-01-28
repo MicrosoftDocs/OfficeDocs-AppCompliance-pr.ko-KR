@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Pro, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e90c5a76e5ecf1a695232f16388647e9037b30ed
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: d509f5b18d833135ca0683720c264e5dc164b9a0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148437"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62253314"
 ---
 # <a name="contacts-pro"></a>Contacts Pro
 
@@ -168,13 +168,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| 전자 메일 | 위임 | Microsoft Teams SSO |
->| openid | 위임 | Microsoft Teams SSO |
->| offline_access | 위임 | Microsoft Teams SSO |
->| User.Read | 위임 | Microsoft Teams SSO |
->| 프로필 | 위임 | Microsoft Teams SSO |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
+>| 전자 메일 | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
+>| offline_access | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
+>| openid | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
+>| 프로필 | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

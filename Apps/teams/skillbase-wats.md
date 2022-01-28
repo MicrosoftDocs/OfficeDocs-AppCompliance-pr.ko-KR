@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wats에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 87f742ca884060d51b35ea2ba48cae3e4fd89e91
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 49aba56648206ad302a6b078bb28ad3b055bbc5f
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200776"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251668"
 ---
 # <a name="wats"></a>Wats
 
@@ -35,7 +35,7 @@ Skillbase에서 Microsoft에 제공한 정보:
 | 앱 이름 | Wats |
 | ID | WA200003597 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 기술베이스 |
+| 파트너 회사 이름 | Skillbase |
 | 회사의 웹 사이트 | [https://wats.ai](https://wats.ai) |
 | 앱 사용 약관 | [https://wats.ai/en/terms-of-use/](https://wats.ai/en/terms-of-use/) |
 | 앱의 핵심 기능 | 지식을 공유하고 액세스하기 위한 공동 작업 솔루션입니다. Wats를 통해 활발한 매너를 하세요! |
@@ -167,21 +167,21 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Files.Read | 위임 | 강의 des fichiers sharepoint |
->| Files.Read.All | 위임 | 강의 des fichiers sharepoint |
->| Group.Read.All | 위임 | avoir acc&#232;s aux groupes pour le ask for it |
->| offline_access | 위임 | 휴대폰 |
->| openid | 위임 | OBO |
->| Organization.Read.All | 위임 | recup&#233;rer le tenant ID pour bien configurer l'application WATS et g&#233;rer le cloisonnement des donn&#233;es |
->| Presence.Read | 위임 | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas |
->| Presence.Read.All | 위임 | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas |
->| 프로필 | 위임 | info sur l'utilisateur |
->| Sites.Read.All | 위임 | acces aux infos des sharepoints |
->| TeamsActivity.Send | 둘 다 | envoie d'activit&#233;s aux utilisateurs quand un ask for it est cr&#233;&#233; |
->| User.Read | 위임 | 로그인 |
->| User.Read.All | 위임 | info sur les autres utilisateurs |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.Read | 위임 | 강의 des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| Files.Read.All | 위임 | 강의 des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| Group.Read.All | 위임 | avoir acc&#232;s aux groupes pour le ask for it | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| Organization.Read.All | 위임 | recup&#233;rer le tenant ID pour bien configurer l'application WATS et g&#233;rer le cloisonnement des donn&#233;es | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| Presence.Read | 위임 | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| Presence.Read.All | 위임 | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| Sites.Read.All | 위임 | acces aux infos des sharepoints | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| TeamsActivity.Send | 둘 다 | envoie d'activit&#233;s aux utilisateurs quand un ask for it est cr&#233;&#233; | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| User.Read | 위임 | 로그인 | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| User.Read.All | 위임 | info sur les autres utilisateurs | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| offline_access | 위임 | 휴대폰 | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| openid | 위임 | OBO | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| 프로필 | 위임 | info sur l'utilisateur | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Keepass Pro, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a2e9053bef8b0ce7338ef3e5058ab6f4be0ee706
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 154c1fa600d142dca7be3ef061a152caf6390000
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200905"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62250894"
 ---
 # <a name="keepass-pro"></a>Keepass Pro
 
@@ -168,13 +168,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 위임 | Teams SSO |
->| Files.ReadWrite.All | 위임 | KDBX 파일 읽기/쓰기 SharePoint |
->| openid | 위임 | Teams SSO |
->| 프로필 | 위임 | Teams SSO |
->| 전자 메일 | 위임 | Teams SSO |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 위임 | KDBX 파일 읽기/쓰기 SharePoint | [597cc93d-8951-4f62-b549-eca97ba5c042](https://docs.microsoft.com/microsoft-365-app-certification/azure/597cc93d-8951-4f62-b549-eca97ba5c042) |
+>| User.Read | 위임 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](https://docs.microsoft.com/microsoft-365-app-certification/azure/597cc93d-8951-4f62-b549-eca97ba5c042) |
+>| 전자 메일 | 위임 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](https://docs.microsoft.com/microsoft-365-app-certification/azure/597cc93d-8951-4f62-b549-eca97ba5c042) |
+>| openid | 위임 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](https://docs.microsoft.com/microsoft-365-app-certification/azure/597cc93d-8951-4f62-b549-eca97ba5c042) |
+>| 프로필 | 위임 | Teams SSO | [597cc93d-8951-4f62-b549-eca97ba5c042](https://docs.microsoft.com/microsoft-365-app-certification/azure/597cc93d-8951-4f62-b549-eca97ba5c042) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR Office 콘텐츠 선택, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3170906e37a0ab361939bc5e658cc90504745379
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: ff8f3562f12751ec9f2df19bd2d30e1bfa0a7efa
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62207207"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62252554"
 ---
 # <a name="officeatwork--content-chooser-for-office"></a>officeatwork | 사용자용 콘텐츠 Office
 
@@ -167,17 +167,17 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | 위임 | 로그인 사용 |
->| 프로필 | 위임 | 로그인 사용 |
->| offline_access | 위임 | 이전 버전의 호스트에 대해 Office 로그인 사용 |
->| User.Read | 위임 | 로그인한 사용자 표시 사용 |
->| Files.ReadWrite.All | 위임 | 즐겨찾기 및 OneDrive 사용 |
->| Group.ReadWrite.All | 위임 | 사용자 Teams 사용 |
->| User.Read.All | 위임 | 사용자 속성 표시 사용 |
->| Sites.Read.All | 위임 | 에 저장된 사용자 템플릿 파일을 SharePoint |
->| GroupMember.Read.All | 위임 | 사용자 Teams 사용 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.ReadWrite.All | 위임 | 즐겨찾기 및 OneDrive 사용 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| Group.ReadWrite.All | 위임 | 사용자 Teams 사용 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| GroupMember.Read.All | 위임 | 사용자 Teams 사용 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| Sites.Read.All | 위임 | 에 저장된 사용자 템플릿 파일을 SharePoint | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| User.Read | 위임 | 로그인한 사용자 표시 사용 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| User.Read.All | 위임 | 사용자 속성 표시 사용 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| offline_access | 위임 | 이전 버전의 호스트에 대해 Office 로그인 사용 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| openid | 위임 | 로그인 사용 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
+>| 프로필 | 위임 | 로그인 사용 | [edb24f8f-38af-4b3e-9475-0da243678d5a](https://docs.microsoft.com/microsoft-365-app-certification/azure/edb24f8f-38af-4b3e-9475-0da243678d5a) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

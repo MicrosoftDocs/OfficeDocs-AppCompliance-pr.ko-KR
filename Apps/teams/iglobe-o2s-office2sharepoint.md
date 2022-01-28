@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: O2S에 사용할 수 있는 모든 보안 및 규정 준수 정보 - Office2SharePoint, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 2c4683f016967df805e4ceb13c4feeb90fbb211e
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: df1f13622c1eb320175bb27e59ad7be5d704f6a0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62149061"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251114"
 ---
 # <a name="o2s---office2sharepoint"></a>O2S - Office2SharePoint
 
@@ -166,17 +166,17 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Directory.AccessAsUser.All | 위임 | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다. |
->| Directory.Read.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. |
->| Directory.ReadWrite.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. |
->| Group.Read.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. |
->| Group.ReadWrite.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. |
->| Sites.Manage.All | 위임 | 응용 프로그램에서 로그인한 사용자를 대신하여 모든 사이트 모음의 문서 라이브러리 및 목록을 만들거나 삭제할 수 있도록 합니다. |
->| Sites.Read.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. |
->| Sites.ReadWrite.All | 위임 | 사용 권한을 16진수하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. |
->| User.Read | 위임 | 사용자가 사이트, SharePoint, 그룹 OneDrive 사이트를 검색할 수 있도록 합니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | 위임 | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.Read.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.ReadWrite.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.Read.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.ReadWrite.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Manage.All | 위임 | 응용 프로그램에서 로그인한 사용자를 대신하여 모든 사이트 모음의 문서 라이브러리 및 목록을 만들거나 삭제할 수 있도록 합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Read.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.ReadWrite.All | 위임 | 사용 권한을 16진수하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| User.Read | 위임 | 사용자가 사이트, SharePoint, 그룹 OneDrive 사이트를 검색할 수 있도록 합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 
@@ -210,7 +210,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 이벤트 경고 | 해당 없음 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;정보 보안 위험 관리 | 해당 없음 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;인시던트 대응 | 해당 없음 |
-| [**데이터 처리 보안 &amp; 개인 정보**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **해당 없음** |
+| [**데이터 처리 보안 개인 정보 &amp;**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **해당 없음** |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;전송 중 데이터 | 해당 없음 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;미사시 데이터 | 해당 없음 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터 보존 및 폐기 | 해당 없음 |

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보용 Buzzeasy 연락처 센터에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f80ef944b502b1bacb5253f917154747761ee6ae
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b73e059f9b820a1f3f880a4bd4237649121b9c5b
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148512"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251324"
 ---
 # <a name="buzzeasy-contact-center-for-teams"></a>Buzzeasy Contact Center for Teams
 
@@ -166,16 +166,16 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Mail.ReadWrite | application | 에이전트가 에이전트 사용자 인터페이스를 통해 특정(공유) 사서함을 읽고 쓸 수 있도록 합니다. (특정 사서함으로 필터링할 수 있습니다.) |
->| Mail.Send | application | 공유 사서함을 대신하여 전자 메일 보내기 |
->| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 |
->| Presence.Read.All | 위임 | 다른 에이전트의 에이전트/사용자 상태를 표시하고 에이전트 상태와 동기화합니다. |
->| User.Read.All | 위임 | 관리자/AAD 사용자 인터페이스에 대한 사용자 정보 표시 |
->| User.ReadBasic.All | 위임 | 관리자/AAD 사용자 인터페이스에 대한 사용자 정보 표시 |
->| User.Read | 위임 | 등록을 위해 관리자의 사용자 목록을 표시합니다. |
->| Mail.Send | application | 서비스 사용자를 대신하여 초대장 보내기. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Mail.Send | application | 서비스 사용자를 대신하여 초대장 보내기. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| Presence.Read.All | 위임 | 다른 에이전트의 에이전트/사용자 상태를 표시하고 에이전트 상태와 동기화합니다. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| User.Read | 위임 | 등록을 위해 관리자의 사용자 목록을 표시합니다. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| User.Read.All | 위임 | 관리자/AAD 사용자 인터페이스에 대한 사용자 정보 표시 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| User.ReadBasic.All | 위임 | 관리자/AAD 사용자 인터페이스에 대한 사용자 정보 표시 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
+>| Mail.ReadWrite | application | 에이전트가 에이전트 사용자 인터페이스를 통해 특정(공유) 사서함을 읽고 쓸 수 있도록 합니다. (특정 사서함으로 필터링할 수 있습니다.) | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
+>| Mail.Send | application | 공유 사서함을 대신하여 전자 메일 보내기 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
+>| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

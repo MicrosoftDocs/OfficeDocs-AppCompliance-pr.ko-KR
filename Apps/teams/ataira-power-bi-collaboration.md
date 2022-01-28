@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Power BI 공동 작업, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
-zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 0efda14bc7018b9dcf347a923320e555b8d5a2b5
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 0a9910819ced16e17b9205aaf4e0b6b89be22d67
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428645"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254924"
 ---
 # <a name="power-bi-collaboration"></a>Power BI 공동 작업
 
@@ -36,10 +36,12 @@ Ataira에서 Microsoft에 제공한 정보:
 | ID | WA104381384 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Ataira |
-| 파트너 웹 사이트의 URL | [https://www.ataira.com](https://www.ataira.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.ataira.com/Microsoft/PowerBI/Collaboration](https://www.ataira.com/Microsoft/PowerBI/Collaboration) |
-| 개인 정보 취급 방침의 URL | [https://www.ataira.com/PrivacyPolicy](https://www.ataira.com/PrivacyPolicy) |
-| 사용 약관 URL | [https://www.ataira.com/TermsofUse](https://www.ataira.com/TermsofUse) |
+| 회사의 웹 사이트 | [https://www.ataira.com](https://www.ataira.com) |
+| 앱 사용 약관 | [https://www.ataira.com/TermsofUse](https://www.ataira.com/TermsofUse) |
+| 앱의 핵심 기능 | Ataira 추가 기능을 사용하면 대시보드 및 보고서를 Power BI 수 있습니다. 회사 그룹 및 팀에 알림을 보내고, 추가 작업을 추가하고, Power BI 공개 링크를 포함하고, 보고서의 데이터 포인트에 설명을 추가하고, 데이터 파일을 Power BI 보고서에 데이터 원본으로 추가하고 실시간으로 업데이트합니다. 비즈니스 인텔리전스 팀이 한 위치에서 비즈니스 인텔리전스 작업을 보다 긴밀하게 공동 작업할 수 있도록 합니다. |
+| 회사 본사 위치 | 미국 |
+| 앱 정보 페이지 | |
+| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,92 +53,125 @@ Ataira에서 Microsoft에 제공한 정보:
 
 이 정보는 Ataira에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 사용할 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
-
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
-
->| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 위임 | ChannelMessage.Send Team.ReadBasic.All User.Read에 대한 사용 권한도 있습니다. 이러한 설정은 사용자가 알림에 대한 Teams 그룹 및 채널을 선택할 수 있도록 하는 데 사용됩니다. | 사용 현황, 오류 및 라이선스 모니터링. [callback_group_id] ,[datetime_id] ,[session_id] ,[app_type] ,[raw_url] ,[user_id] ,[list_name] ,[user_name] ,[state] ,[priority] ,[user_domain] ,[url_text ] ,[group_name] ,[title_name] ,[comments] ,[file_name] ,[description] ,[group_pbi_name] ,[item_type] ,[organization_id] ,[user_objectid] ,[organization_displayName] ,[group_id] | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5) |
-
-#### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
-
-기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
-
->| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| https://analysis.windows.net/powerbi/api/ | 예 | 사용자 전자 메일, 작업 영역 이름, 항목 이름, embed url | 보고서 및 대시보드를 추가 기능 SharePoint 채우는 데 사용됩니다. | [api_pbi_id] ,[datetime_id] ,[session_id] ,[user_name] ,[user_domain] ,[WorkSpace_Name] ,[WorkSpace_Id] ,[item_Id] ,[item_type] ,[item_name] ,[webUrl] ,[embedUrl] ,[displayName] ,[item_title] ,[isOwnedByMe] | 사용 현황, 오류 및 라이선스 모니터링 |
-
-#### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
-
-앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
-
->비영구 Microsoft 서비스 사용되지 않습니다.
-
-#### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
-
-이 앱에 봇 또는 메시징 확장이 포함되어 있는 경우 팀 구성원의 명단(이름, 성, 표시 이름, 전자 메일 주소)이나 팀 구성원이 추가된 채팅의 최종 사용자 식별 정보(EUII)에 액세스할 수 있습니다. 이 앱이 이 기능을 사용하나요?
-
->EUII에 액세스하지 않습니다.
-
-
-#### <a name="telemetry-data"></a>원격 분석 데이터
-
-이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
-
->보고서 및 대시보드, Power BI API에 대한 인증을 채우는 데 Graph Teams 데이터입니다. 더 많은 데이터 및 개인 정보 보호 정책은 웹 사이트에서 찾을 수 있습니다. https://www.ataira.com/PrivacyPolicy 또한 데이터 개인 정보 보호에 대한 앱 구성 페이지도 있습니다. https://www.ataira.com/Microsoft/PowerBI/CollaborationSupport
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
-
-조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
-
->해당 없음
-
-#### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
-
-사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
-
->예
+| **정보** | **응답** |
+|:----------------|:-------------|
+| 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
+| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
+| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 3months 후에 삭제됩니다. |
+| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
+| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
+| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
+::: zone pivot="security"
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/41844' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/41844" target="_blank">새 탭에서 보기</a>
+| **정보** | **응답** |
+|:----------------|:-------------|
+| 앱에서 연간 침투 테스트를 수행하나요? | 예 |
+| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 예 |
+| 환경에서 기존의 맬웨어 방지 보호 또는 응용 프로그램 제어를 사용하나요? |  |
+| 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? |  |
+| 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? |  |
+| 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? |  |
+| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? |  |
+| 앱 및 이를 지원하는 구조에서 분기별 취약점 검색을 수행하나요? |  |
+| 외부 네트워크 경계에 방화벽이 설치되어 있습니까? |  |
+| 변경 요청을 프로덕션에 배포하기 전에 검토하고 승인하는 데 사용되는 변경 관리 프로세스가 설정 있습니까? |  |
+| 원래 개발자가 프로덕션에 제출한 모든 코드 변경 요청을 검토하고 추가 인가? |  |
+| 보안 코딩 방법은 OWASP 상위 10과 같은 일반적인 취약성 클래스를 고려하나요? |  |
+| MFA(다단계 인증)를 사용할 수 있습니다. |  |
+| 직원 계정을 프로비저닝, 수정 및 지우기 위한 프로세스를 설정하고 있나요? |  |
+| 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? |  |
+| 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? |  |
+| 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | |
+| 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? |  |
+| 공식적인 정보 보안 위험 관리 프로세스를 설정하고 있습니까? |  |
+| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? |  |
+| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>ID 정보
-
-이 정보는 Ataira에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+::: zone pivot="compliance"
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
-| 지원되는 정책 유형 나열 | 다단계 인증 Intune 등록된 장치만 특정 서비스에 액세스할 수 있도록 허용 사용자 위치 및 IP 범위 제한 |
-| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
-| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
-| 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 예 |
-| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
-| 앱에서 웹 API를 노출하나요? | 예 |
-| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
-| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+| 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 해당 없음 |
+| 앱이 HITRUST CSF(Common Security Framework)인 Health Information Trust Alliance를 준수하나요? | 해당 없음 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 해당 없음 |
+| 가장 최근 SOC1 인증 날짜 |   |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
+| 어떤 SOC 2 인증을 획득했나요? | |
+| 가장 최근 SOC2 인증 날짜 | |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
+| 가장 최근 SOC3 인증 날짜 | |
+| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 해당 없음 |
+| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 해당 없음 |
+| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
+| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
+| 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
+| 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 NIST 800-171을 준수하나요? |  |
+| 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
+::: zone pivot="privsection"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? |  |
+| 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 연결 개인 정보 취급 방침이 있나요? |  |
+| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? |  |
+| 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? |  |
+| 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? |  |
+| 앱이 미성년자(예: 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? |  |
+| 앱에 요청 시 개인의 개인 데이터를 삭제할 수 있는 기능이 있나요? |  |
+| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한할 수 있는 기능이 있나요? |  |
+| 앱이 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 개인에게 제공하나요? |  |
+| 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 보호 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)가 수행하나요? |  |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Single Sign-On, API 액세스 등을 위해 응용 프로그램이 Microsoft Id 플랫폼(Azure AD)과 통합하나요? | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 예 |
+| 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? | true |
+| 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
+| 지원되는 정책 유형 나열 | 다단계 인증 Intune 등록된 장치만 특정 서비스에 액세스할 수 있도록 허용 사용자 위치 및 IP 범위 제한 |
+| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
+| 앱에서 코드에 자격 증명을 저장하나요? |  |
+| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 위임 | ChannelMessage.Send Team.ReadBasic.All User.Read에 대한 사용 권한도 있습니다. 이러한 설정은 사용자가 알림에 대한 Teams 그룹 및 채널을 선택할 수 있도록 하는 데 사용됩니다. | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](https://docs.microsoft.com/microsoft-365-app-certification/azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5) |
+
+>이 응용 프로그램에는 추가 API가 없습니다.
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Lucidspark Whiteboard, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 078375102550d360ce6f4f64d2c666b2f4ffe498
-ms.sourcegitcommit: d52243d21dd3fb0b8d51795252188db29292a32b
+ms.openlocfilehash: c8ce523115fff2910606ea519118d6b2e14131e9
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61143526"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62253644"
 ---
 # <a name="lucidspark-whiteboard"></a>Lucidspark Whiteboard
 
@@ -162,7 +162,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
 | 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
->이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| 전자 메일 | 위임 | 이름 및 전자 메일 주소입니다. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
+>| openid | 위임 | 이름 및 전자 메일 주소입니다. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
+>| 프로필 | 위임 | 이름 및 전자 메일 주소입니다. | [3557d5c0-bcab-410b-8a03-f7045aa48de0](https://docs.microsoft.com/microsoft-365-app-certification/azure/3557d5c0-bcab-410b-8a03-f7045aa48de0) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

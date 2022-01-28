@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 메일 서명, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 59228540a9dfea9d03cb30fd6643baff97918f09
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: e6529d9e42d48d71f57555b629a8cf8c664fa397
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148277"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254064"
 ---
 # <a name="mail-signature"></a>메일 서명
 
@@ -36,7 +36,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 | 파트너 회사 이름 | officeatwork |
 | 회사의 웹 사이트 | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 앱 사용 약관 | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
-| 앱의 핵심 기능 | 조직 전체에서 개인 설정된 간단하고 안전하며 중앙에서 관리되는 메일 서명. &amp; |
+| 앱의 핵심 기능 | 조직 전체에서 개인 설정된 간단하고 안전하며 중앙 &amp; 에서 관리되는 메일 서명. |
 | 회사 본사 위치 | 스위스 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
@@ -167,12 +167,12 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | 위임 | 로그인 사용 |
->| 프로필 | 위임 | 로그인 사용 |
->| offline_access | 위임 | 이전 버전의 호스트에 대해 Office 로그인 사용 |
->| User.Read | 위임 | 로그인한 사용자 표시를 사용하도록 설정하고, 사용자 속성을 사용하여 동적 메일 서명을 사용하도록 설정 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 위임 | 로그인한 사용자 표시를 사용하도록 설정하고, 사용자 속성을 사용하여 동적 메일 서명을 사용하도록 설정 | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| offline_access | 위임 | 이전 버전의 호스트에 대해 Office 로그인 사용 | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| openid | 위임 | 로그인 사용 | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
+>| 프로필 | 위임 | 로그인 사용 | [722e11e1-c87f-4f97-803f-3d012d532427](https://docs.microsoft.com/microsoft-365-app-certification/azure/722e11e1-c87f-4f97-803f-3d012d532427) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

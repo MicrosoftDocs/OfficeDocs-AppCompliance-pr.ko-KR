@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 팀 추적기, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c37c717b65e51dc0b6d561cef9e4efe3d3c95c32
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: cdb4c7dea2bfc330ddccbe58ad1f8405a9a419ef
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144555"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62252210"
 ---
 # <a name="team-tracker"></a>Team Tracker
 
@@ -167,14 +167,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | 위임 | 사용자가 몇 주 동안 활동을 설정하고 나면 Team Tracker는 선택에 따라 사용자 일정 및 가용성을 업데이트합니다.  |
->| 전자 메일 | 위임 | 사용자 전자 메일을 확인하는 데 사용됩니다. |
->| MailboxSettings.Read | 위임 | 일정 이벤트를 만드는 데 사용되는 시간제 |
->| openid | 위임 | 사용자가 자신의 계정으로 로그인할 Office 365 있습니다. |
->| 프로필 | 위임 | 프로필에 대한 사용자 기본 정보 확인 |
->| User.Read | 위임 | 프로필에 대한 사용자 정보 확인 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 | 사용자가 몇 주 동안 활동을 설정하고 나면 Team Tracker는 선택에 따라 사용자 일정 및 가용성을 업데이트합니다.  | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| MailboxSettings.Read | 위임 | 일정 이벤트를 만드는 데 사용되는 시간제 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| User.Read | 위임 | 프로필에 대한 사용자 정보 확인 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| 전자 메일 | 위임 | 사용자 전자 메일을 확인하는 데 사용됩니다. | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| openid | 위임 | 사용자가 자신의 계정으로 로그인할 Office 365 있습니다. | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
+>| 프로필 | 위임 | 프로필에 대한 사용자 기본 정보 확인 | [d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d](https://docs.microsoft.com/microsoft-365-app-certification/azure/d1d8d8c3-5199-45c2-afcc-aaab4dd8da5d) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

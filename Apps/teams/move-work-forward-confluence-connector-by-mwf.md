@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MWF별 Confluence Connector에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f7ac53112ad08bdb90ae3601c13074d541d63428
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 21c6474d5b21537a4ff04705fd16b760d6698b73
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144750"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251034"
 ---
 # <a name="confluence-connector-by-mwf"></a>MWF의 Confluence Connector
 
@@ -166,13 +166,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Channel.ReadBasic.All | 위임 | 알림을 채널로 보낼 구성 페이지의 채널 목록을 얻습니다. |
->| Teams. ReadBasic.All | 위임 | 팀 채널로 알림을 보낼 구성 페이지의 팀 목록을 얻습니다. |
->| 전자 메일 | 위임 | Microsoft와 Atlassian 간의 계정 매핑을 향상하려면 |
->| TeamsAppInstallation.ReadForTeam | 위임 | Confluence Connector가 설치된 팀을 찾으면 |
->| User.Read | 위임 | 기본 사용자 정보를 읽으면 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | 위임 | 알림을 채널로 보낼 구성 페이지의 채널 목록을 얻습니다. | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| Teams. ReadBasic.All | 위임 | 팀 채널로 알림을 보낼 구성 페이지의 팀 목록을 얻습니다. | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| TeamsAppInstallation.ReadForTeam | 위임 | Confluence Connector가 설치된 팀을 찾으면 | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| User.Read | 위임 | 기본 사용자 정보를 읽으면 | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
+>| 전자 메일 | 위임 | Microsoft와 Atlassian 간의 계정 매핑을 향상하려면 | [f3943662-e828-40ed-9c6e-369680fe421f](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3943662-e828-40ed-9c6e-369680fe421f) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

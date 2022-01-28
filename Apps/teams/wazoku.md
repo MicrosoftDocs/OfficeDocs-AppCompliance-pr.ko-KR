@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Wazoku에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c82905cc10dbebbc914b9025cb146d05c4473716
-ms.sourcegitcommit: e756bf7bcad1b37cad74f3330b9885595fd6ab04
+ms.openlocfilehash: 1c9aef70ea9958b82698b54fca43ebf2853f5d73
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62222529"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251544"
 ---
 # <a name="wazoku"></a>Wazoku
 
@@ -168,13 +168,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| 전자 메일 | 위임 | Single Sign-On |
->| offline_access | 위임 | Single Sign-On |
->| openid | 위임 | Single Sign-On |
->| 프로필 | 위임 | Single Sign-On |
->| User.Read | 위임 | Single Sign-On |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 위임 | Single Sign-On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
+>| 전자 메일 | 위임 | Single Sign-On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
+>| offline_access | 위임 | Single Sign-On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
+>| openid | 위임 | Single Sign-On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
+>| 프로필 | 위임 | Single Sign-On | [15439749-b811-4e89-b777-4fe6ef247801](https://docs.microsoft.com/microsoft-365-app-certification/azure/15439749-b811-4e89-b777-4fe6ef247801) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

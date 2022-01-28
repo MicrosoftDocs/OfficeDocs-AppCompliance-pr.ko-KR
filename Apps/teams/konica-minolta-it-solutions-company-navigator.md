@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 회사 내비게이터, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c120830bc278323ad592ed71dd29a3c3dc54e6a5
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 13ab94d8c86c280c6d6b932d1db65180a7a6caa2
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148182"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62254922"
 ---
 # <a name="company-navigator"></a>회사 탐색기
 
@@ -168,22 +168,22 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| 전자 메일 | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| Calendars.Read | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| Calendars.Read.Shared | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| Files.Read.All | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| Mail.Read | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| Mail.Read.Shared | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| Mail.ReadBasic.All | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| offline_access | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| openid | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| People.Read | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| 프로필 | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| User.Read | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| User.ReadBasic.All | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
->| Sites.Read.All | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Calendars.Read.Shared | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Files.Read.All | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Mail.Read | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Mail.Read.Shared | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Mail.ReadBasic.All | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| People.Read | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| Sites.Read.All | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| User.Read | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| User.ReadBasic.All | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| 전자 메일 | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| offline_access | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| openid | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
+>| 프로필 | 위임 | 앱 사용 사례와 관련된 사용자 데이터 읽기 | [5123b34d-663d-4ae9-a3c9-d2298be203f2](https://docs.microsoft.com/microsoft-365-app-certification/azure/5123b34d-663d-4ae9-a3c9-d2298be203f2) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

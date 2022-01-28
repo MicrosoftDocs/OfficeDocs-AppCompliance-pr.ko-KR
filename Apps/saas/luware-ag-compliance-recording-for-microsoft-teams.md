@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Microsoft Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 Luware 준수 기록에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b253e66f445af383eaf7401e128645f1ea9373be
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: ffbb28358351271e0028f0b9deec76e3ca6c6a8c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148907"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62251320"
 ---
 # <a name="luware-compliance-recording-for-microsoft-teams"></a>Luware Compliance Recording for Microsoft Teams
 
@@ -166,19 +166,19 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calls.Initiate.All | application | Teams 기록 |
->| Calls.InitiateGroupCall.All | application | Teams 기록 |
->| Calls.JoinGroupCall.All | application | Teams 기록 |
->| Calls.JoinGroupCallasGuest.All | application | Teams 기록 |
->| Calls.AccessMedia.All | application | Teams 기록 |
->| OnlineMeetings.Read.All | application | Teams 기록 |
->| OnlineMeetings.ReadWrite.All | application | Teams 기록 |
->| Group.Read.All | application | Teams 기록 |
->| GroupMember.Read.All | application | Teams 기록 |
->| User.Read.All | application | Teams 기록 |
->| User.Read | 위임 | Single Sign-On |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calls.AccessMedia.All | application | Teams 기록 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| Calls.Initiate.All | application | Teams 기록 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| Calls.InitiateGroupCall.All | application | Teams 기록 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| Calls.JoinGroupCall.All | application | Teams 기록 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| Calls.JoinGroupCallasGuest.All | application | Teams 기록 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| Group.Read.All | application | Teams 기록 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| GroupMember.Read.All | application | Teams 기록 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| OnlineMeetings.Read.All | application | Teams 기록 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| OnlineMeetings.ReadWrite.All | application | Teams 기록 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| User.Read | 위임 | Single Sign-On | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
+>| User.Read.All | application | Teams 기록 | [5e5d72e0-2df7-4ca7-be58-81dc28d3bdad](https://docs.microsoft.com/microsoft-365-app-certification/azure/5e5d72e0-2df7-4ca7-be58-81dc28d3bdad) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

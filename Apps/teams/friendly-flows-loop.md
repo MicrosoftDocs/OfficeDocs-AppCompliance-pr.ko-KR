@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Loop에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d20a28aa9a99833c5e5e4deac16c2fda05ebad1a
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: f8cada6257ed15ad8372eb3acffc53e3c94d2d54
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155687"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62250104"
 ---
 # <a name="loop"></a>Loop
 
@@ -168,11 +168,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 위임 | 인증 |
->| 프로필 | 위임 | 인증 |
->| 전자 메일 | 위임 | 등록 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 위임 | 인증 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](https://docs.microsoft.com/microsoft-365-app-certification/azure/95a2eca4-fb4b-4488-8ba8-6bacf3812c76) |
+>| 전자 메일 | 위임 | 등록 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](https://docs.microsoft.com/microsoft-365-app-certification/azure/95a2eca4-fb4b-4488-8ba8-6bacf3812c76) |
+>| 프로필 | 위임 | 인증 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](https://docs.microsoft.com/microsoft-365-app-certification/azure/95a2eca4-fb4b-4488-8ba8-6bacf3812c76) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 
