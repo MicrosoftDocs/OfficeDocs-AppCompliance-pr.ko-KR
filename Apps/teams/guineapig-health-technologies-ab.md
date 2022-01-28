@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 GuineaPig에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 752d59918d5c9f08ee83525b8aa4f790213b6354
-ms.sourcegitcommit: 2aa786d5bf1f93ef63b80f04bff99434d2246d92
+ms.openlocfilehash: dbd872c0f919c8141d41771470546a5b75ae56b0
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62157276"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257824"
 ---
-# <a name="guineapig"></a>기니피그
+# <a name="guineapig"></a>GuineaPig
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,13 +32,13 @@ GuineaPig Health Technologies AB에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 기니피그 |
+| 앱 이름 | GuineaPig |
 | ID | WA200003486 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
-| 파트너 회사 이름 | 기니피그 상태 기술 AB |
+| 파트너 회사 이름 | GuineaPig Health Technologies AB |
 | 회사의 웹 사이트 | [https://guineapig.app](https://guineapig.app) |
 | 앱 사용 약관 | [https://www.guineapig.app/terms-and-conditions](https://www.guineapig.app/terms-and-conditions) |
-| 앱의 핵심 기능 | GuineaPig는 팀이 건강하고 만족하며, 라이브 요구 시 피트니스 수업과 짧은 출근 시간 동안 참여하는 데 &amp; 도움이 됩니다. |
+| 앱의 핵심 기능 | GuineaPig는 팀이 건강하고 만족하며, &amp; 라이브 요구 시 피트니스 수업과 짧은 출근 시간 동안 참여하는 데 도움이 됩니다. |
 | 회사 본사 위치 | 스웨덴 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
@@ -60,7 +60,7 @@ GuineaPig Health Technologies AB에서 Microsoft에 제공하는 정보:
 | 앱에서 처리되는 데이터는 무엇입니까? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? | 자세한 https://www.guineapig.app/privacy-policy 설명을 참조하세요. |
+| 데이터베이스에 저장되는 데이터는 무엇입니까? | 자세한 설명 https://www.guineapig.app/privacy-policy 을 참조하세요. |
 | Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 30일 미만 |
@@ -168,9 +168,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 위임 | User.Read를 사용하여 사용자 이름과 같은 정보를 읽고 채팅 및 탭 등에서 사용합니다. 자세한 https://www.guineapig.app/privacy-policy 설명을 참조하세요. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 위임 | User.Read를 사용하여 사용자 이름과 같은 정보를 읽고 채팅 및 탭 등에서 사용합니다. 자세한 설명 https://www.guineapig.app/privacy-policy 을 참조하세요. | [d6a2090f-1447-456b-bd5f-121e4efd8c89](https://docs.microsoft.com/microsoft-365-app-certification/azure/d6a2090f-1447-456b-bd5f-121e4efd8c89) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

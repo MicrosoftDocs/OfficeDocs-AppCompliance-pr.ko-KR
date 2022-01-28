@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 클라우드 허브, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7e0998c86e38039879a13ee79185732287166619
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 6e982e29c1ba09097f3c2415aae5e1f644a87c5a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148803"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259852"
 ---
 # <a name="cloud-hub"></a>Cloud Hub
 
@@ -168,12 +168,12 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | application | 전자 메일을 보낼 사람을 선택하는 데 사용됩니다. |
->| TeamSettings.Read.All | application | 메시지 센터에서 메시지를 게시할 팀을 선택하는 데 사용됩니다. |
->| Mail.Send | application | 앱에서 채널 또는 개별 사용자에게 직접 메일을 보내는 데 사용됩니다.  |
->| Channel.ReadBasic.All | application | 메시지 센터에서 메시지를 게시할 채널을 선택하는 데 사용됩니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.ReadBasic.All | application | 메시지 센터에서 메시지를 게시할 채널을 선택하는 데 사용됩니다. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| Mail.Send | application | 앱에서 채널 또는 개별 사용자에게 직접 메일을 보내는 데 사용됩니다.  | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| TeamSettings.Read.All | application | 메시지 센터에서 메시지를 게시할 팀을 선택하는 데 사용됩니다. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| User.Read.All | application | 전자 메일을 보낼 사람을 선택하는 데 사용됩니다. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

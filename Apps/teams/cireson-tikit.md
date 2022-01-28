@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Tikit에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b198e4d613b2b25aa6dffc2f385ccba225f1801b
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 69551224968b55d4e3731f02b0578157a15bd038
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148397"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259851"
 ---
 # <a name="tikit"></a>Tikit
 
@@ -169,17 +169,17 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Directory.Read.All | 위임 | 응용 프로그램 내에서 RBAC에 대한 역할 할당을 읽는 데 사용됩니다. |
->| Directory.AccessAsUser.All | 위임 | 응용 프로그램 내에서 RBAC에 대한 역할 할당을 읽는 데 사용됩니다. |
->| 전자 메일 | 위임 | 로그인 권한 |
->| Group.Read.All | 둘 다 | 응용 프로그램 내에서 RBAC에 대한 역할 할당을 읽는 데 사용됩니다. |
->| openid | 위임 | 로그인 |
->| 프로필 | 위임 | 로그인 |
->| User.Read | 위임 | 로그인 |
->| User.Read.All | application | 로그인 |
->| User.ReadBasic.All | 위임 | 로그인 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | 위임 | 응용 프로그램 내에서 RBAC에 대한 역할 할당을 읽는 데 사용됩니다. | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Directory.Read.All | 위임 | 응용 프로그램 내에서 RBAC에 대한 역할 할당을 읽는 데 사용됩니다. | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| Group.Read.All | 둘 다 | 응용 프로그램 내에서 RBAC에 대한 역할 할당을 읽는 데 사용됩니다. | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read | 위임 | 로그인 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.Read.All | application | 로그인 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| User.ReadBasic.All | 위임 | 로그인 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| 전자 메일 | 위임 | 로그인 권한 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| openid | 위임 | 로그인 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
+>| 프로필 | 위임 | 로그인 | [b13c40ee-e073-459e-96b5-3f3cca046a37](https://docs.microsoft.com/microsoft-365-app-certification/azure/b13c40ee-e073-459e-96b5-3f3cca046a37) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

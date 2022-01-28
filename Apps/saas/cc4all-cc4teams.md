@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 CC4Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 31b9467e5aa5efb07131ec0509eaf8e3aa0b544c
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 85d5b411929f2bd0c1c0610a6e4950cf2d5e6809
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148772"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255914"
 ---
 # <a name="cc4teams"></a>CC4Teams
 
@@ -166,16 +166,16 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| CallRecords.Read.All | application | 녹음/녹화에 사용 |
->| Calls.AccessMedia.All | application | 미디어에 액세스하는 데 사용됩니다. |
->| Calls.Initiate.All | application | 연락처 센터에서 통화를 시작하는 데 사용됩니다. |
->| Calls.InitiateGroupCall.All | application | 연락처 센터에서 통화를 시작하는 데 사용됩니다. |
->| Calls.JoinGroupCall.All | application | 연락처 센터에서 통화를 시작하는 데 사용됩니다. |
->| Calls.JoinGroupCallasGuest.All | application | 연락처 센터에서 통화를 시작하는 데 사용됩니다. |
->| Presence.Read | 위임 | 연락처 센터의 에이전트 상태를 검사하는 데 사용됩니다. |
->| Presence.Read.All | 위임 | 연락처 센터의 에이전트 상태를 검사하는 데 사용됩니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| CallRecords.Read.All | application | 녹음/녹화에 사용 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Calls.AccessMedia.All | application | 미디어에 액세스하는 데 사용됩니다. | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Calls.Initiate.All | application | 연락처 센터에서 통화를 시작하는 데 사용됩니다. | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Calls.InitiateGroupCall.All | application | 연락처 센터에서 통화를 시작하는 데 사용됩니다. | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Calls.JoinGroupCall.All | application | 연락처 센터에서 통화를 시작하는 데 사용됩니다. | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Calls.JoinGroupCallasGuest.All | application | 연락처 센터에서 통화를 시작하는 데 사용됩니다. | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Presence.Read | 위임 | 연락처 센터의 에이전트 상태를 검사하는 데 사용됩니다. | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
+>| Presence.Read.All | 위임 | 연락처 센터의 에이전트 상태를 검사하는 데 사용됩니다. | [9430520a-241f-4a00-b041-56aa8bbc9cc9](https://docs.microsoft.com/microsoft-365-app-certification/azure/9430520a-241f-4a00-b041-56aa8bbc9cc9) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

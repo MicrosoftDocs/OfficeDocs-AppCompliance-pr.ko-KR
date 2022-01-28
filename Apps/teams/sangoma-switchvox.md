@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Switchvox, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5a6e8d1117e0a1e8b67a23c38f6825f0335a433a
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 12728af3843d47c85e4f03bfeb06e4c0faf2424c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148452"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255544"
 ---
 # <a name="switchvox"></a>Switchvox
 
@@ -168,11 +168,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | 위임 | 디렉터리 연락처 검색 수행 |
->| Group.Read.All | 위임 | 그룹 구성원 확인 수행 |
->| Chat.Read | 위임 | 채팅 구성원 확인 수행 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Chat.Read | 위임 | 채팅 구성원 확인 수행 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
+>| Group.Read.All | 위임 | 그룹 구성원 확인 수행 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
+>| User.Read.All | 위임 | 디렉터리 연락처 검색 수행 | [eb668aa5-abb2-445c-81b4-3c174db84fe2](https://docs.microsoft.com/microsoft-365-app-certification/azure/eb668aa5-abb2-445c-81b4-3c174db84fe2) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

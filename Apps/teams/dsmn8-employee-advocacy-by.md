@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: DSMN8의 직원 지원, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0d5922201878b8c53a9bba95b67653f14d215cde
-ms.sourcegitcommit: 2e80b3cd0079ac50da5e6d878bbef6744e4659f2
+ms.openlocfilehash: 73ac07bb877ab8a387c7182bce3dbf1a4f2d93da
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/26/2022
-ms.locfileid: "62235785"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259614"
 ---
-# <a name="employee-advocacy-by-dsmn8"></a>DSMN8의 직원 지지
+# <a name="employee-advocacy-by-dsmn8"></a>DSMN8의 직원 옹호
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ DSMN8에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | DSMN8의 직원 지지 |
+| 앱 이름 | DSMN8의 직원 옹호 |
 | ID | WA200003677 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | DSMN8 |
@@ -168,9 +168,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 둘 다 | 로그인 프로세스 중에 직위, 이름, 성 및 전자 메일 데이터를 읽고 앱에서 프로필을 만들 수 있습니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read | 둘 다 | 로그인 프로세스 중에 직위, 이름, 성 및 전자 메일 데이터를 읽고 앱에서 프로필을 만들 수 있습니다. | [3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c](https://docs.microsoft.com/microsoft-365-app-certification/azure/3cf056e3-1c08-4cda-b6d6-962f7c7a1f7c) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

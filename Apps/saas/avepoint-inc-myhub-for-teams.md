@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 MyHub에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 09e1b6500f75bde564b3f4cf40538516fb6dbae4
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: abf2df95a61552899c392b884fc306481aa72a08
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60429235"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255110"
 ---
 # <a name="myhub-for-teams"></a>MyHub for Teams
 
@@ -34,9 +34,12 @@ AvePoint Inc.에서 Microsoft에 제공한 정보:
 | 앱 이름 | MyHub for Teams |
 | ID | avepoint.myhubforteams |
 | 파트너 회사 이름 | AvePoint Inc. |
-| 파트너 웹 사이트의 URL | [https://www.avepoint.com](https://www.avepoint.com) |
-| 개인 정보 취급 방침의 URL | [https://www.avepoint.com/company/privacy-policy](https://www.avepoint.com/company/privacy-policy) |
-| 사용 약관 URL | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
+| 회사의 웹 사이트 | [https://www.avepoint.com](https://www.avepoint.com) |
+| 앱 사용 약관 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
+| 앱의 핵심 기능 | 기존 작업 영역 관리 작업 영역의 새 요청을 위한 원스톱 Office 365 MyHub &amp; 를 충족합니다. MyHub는 IT 팀에 부담을 주지 않고 사용하기 쉬운 프로비저닝, 재인증, &amp; 수명 주기 서비스를 제공합니다. 사용자는 작업을 수행 &amp; &amp; 하면 보안 작업 영역의 규모를 확장하고 자동화할 수 있어 작업 목록을 보다 쉽게 완료할 수 있습니다. MyHub&#65533;&amp; 지속 가능한 보안 프레임워크는 AvePoint&#65533;클라우드 거버넌스를 통해 지원됩니다. |
+| 회사 본사 위치 | 미국 |
+| 앱 정보 페이지 | |
+| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,77 +51,132 @@ AvePoint Inc.에서 Microsoft에 제공한 정보:
 
 이 정보는 AvePoint Inc.에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터에 대해 조직이 제어할 수 있는 컨트롤에 대해 제공합니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
-
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
-
->| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 디렉터리 데이터 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.ReadWrite.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 그룹 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Mail.Send | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 사용자로 메일 보내기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Reports.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사용 현황 보고서 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.FullControl.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사이트 모음에 대한 모든 제어권 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사이트 모음의 항목 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.ReadWrite.All | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 모든 사이트 모음의 항목 편집 또는 삭제 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | 전체 프로필을&#65533; 모든 사용자 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
-
-
-#### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
-
-앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
-
->비영구 Microsoft 서비스 사용되지 않습니다.
-
-
-
-#### <a name="telemetry-data"></a>원격 분석 데이터
-
-이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
-
->예. 사용자의 전자 메일 및 테넌트 ID가 로그에 표시됩니다. 로그는 보안 위치에 저장되고 문제 해결 중에 권한이 부여된 직원만 액세스할 수 있습니다. 로그는 보안 감사를 위해 60일 후에 보관되고 1년 후에 삭제됩니다.
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
-
-조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
-
->응용 프로그램의 데이터는 응용 프로그램에 Azure SQL Database Azure Storage. Azure SQL Azure Storage 암호화를 사용할 수 있습니다.
-권한이 부여된 관리자만 데이터에 액세스할 수 있습니다. 관리자가 로그인하려면 MFA가 필요합니다. 작업이 감사됩니다. IP 허용 목록은 데이터에 대한 액세스를 제한하는 데도 사용됩니다.
-
-#### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
-
-사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
-
->아니요
+| **정보** | **응답** |
+|:----------------|:-------------|
+| 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
+| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
+| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 한 달 내에 삭제되었습니다. |
+| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
+| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
+| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="security"
 
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>ID 정보
-
-이 정보는 AvePoint Inc.에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
-| 지원되는 정책 유형 나열 | 응용 프로그램이 Azure AD와 페더러입니다. 따라서 모든 조건부 액세스 규칙을 사용할 수 있습니다. |
-| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
-| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
-| 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 예 |
-| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
-| 앱에서 웹 API를 노출하나요? | 예 |
-| 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
-| 앱에서 미리 보기 API를 사용하나요? | 예 |
-| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+| 앱에서 연간 침투 테스트를 수행하나요? | 예 |
+| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 예 |
+| 환경에서 기존의 맬웨어 방지 보호 또는 응용 프로그램 제어를 사용하나요? |  |
+| 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? |  |
+| 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? |  |
+| 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? |  |
+| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? |  |
+| 앱 및 이를 지원하는 구조에서 분기별 취약점 검색을 수행하나요? |  |
+| 외부 네트워크 경계에 방화벽이 설치되어 있습니까? |  |
+| 변경 요청을 프로덕션에 배포하기 전에 검토하고 승인하는 데 사용되는 변경 관리 프로세스가 설정 있습니까? |  |
+| 원래 개발자가 프로덕션에 제출한 모든 코드 변경 요청을 검토하고 추가 인가? |  |
+| 보안 코딩 방법은 OWASP 상위 10과 같은 일반적인 취약성 클래스를 고려하나요? |  |
+| MFA(다단계 인증)를 사용할 수 있습니다. |  |
+| 직원 계정을 프로비저닝, 수정 및 지우기 위한 프로세스를 설정하고 있나요? |  |
+| 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? |  |
+| 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? |  |
+| 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | |
+| 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? |  |
+| 공식적인 정보 보안 위험 관리 프로세스를 설정하고 있습니까? |  |
+| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? |  |
+| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
+
+::: zone pivot="compliance"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 해당 없음 |
+| 앱이 HITRUST CSF(Common Security Framework)인 Health Information Trust Alliance를 준수하나요? | 해당 없음 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
+| 가장 최근 SOC1 인증 날짜 |   |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 예 |
+| 어떤 SOC 2 인증을 획득했나요? |   |
+| 가장 최근 SOC2 인증 날짜 |  2/9/2021 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
+| 가장 최근 SOC3 인증 날짜 | |
+| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 해당 없음 |
+| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 예 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 예 |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
+| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
+| 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
+| 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 예 |
+| 앱이 NIST 800-171을 준수하나요? |  |
+| 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 예 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? |  |
+| 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 연결 개인 정보 취급 방침이 있나요? |  |
+| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? |  |
+| 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? |  |
+| 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? |  |
+| 앱이 미성년자(예: 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? |  |
+| 앱에 요청 시 개인의 개인 데이터를 삭제할 수 있는 기능이 있나요? |  |
+| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한할 수 있는 기능이 있나요? |  |
+| 앱이 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 개인에게 제공하나요? |  |
+| 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 보호 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)가 수행하나요? |  |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Single Sign-On, API 액세스 등을 위해 응용 프로그램이 Microsoft Id 플랫폼(Azure AD)과 통합하나요? | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 예 |
+| 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? | true |
+| 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
+| 지원되는 정책 유형 나열 | 응용 프로그램이 Azure AD와 페더러입니다. 따라서 모든 조건부 액세스 규칙을 사용할 수 있습니다. |
+| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
+| 앱에서 코드에 자격 증명을 저장하나요? |  |
+| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.ReadWrite.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Mail.Send | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Reports.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.FullControl.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.ReadWrite.All | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+
+>이 응용 프로그램에는 추가 API가 없습니다.
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 검증 도우미, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8c7d81b873f598a8d769c87e78a02191224332ce
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 378e03c8de9028fb0ef109cce50d86ac149b715a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62209617"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259874"
 ---
 # <a name="verifier"></a>검증 검증기
 
@@ -166,15 +166,15 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| openid | 위임 | 로그인 사용 |
->| 프로필 | 위임 | 로그인 사용 |
->| offline_access | 위임 | 이전 버전의 호스트에 대해 Office 로그인 사용 |
->| User.Read | 위임 | 로그인한 사용자 표시 사용 |
->| Files.Read | 위임 | 콘텐츠 읽기 및 비교 사용 |
->| Files.Read.All | 위임 | 콘텐츠 읽기 및 비교 사용 |
->| Sites.Read.All | 위임 | 콘텐츠 읽기 및 비교 사용 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Files.Read | 위임 | 콘텐츠 읽기 및 비교 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Files.Read.All | 위임 | 콘텐츠 읽기 및 비교 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| Sites.Read.All | 위임 | 콘텐츠 읽기 및 비교 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| User.Read | 위임 | 로그인한 사용자 표시 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| offline_access | 위임 | 이전 버전의 호스트에 대해 Office 로그인 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| openid | 위임 | 로그인 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>| 프로필 | 위임 | 로그인 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

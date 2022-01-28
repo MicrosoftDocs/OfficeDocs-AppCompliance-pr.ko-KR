@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Jira로 이동, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 218c70925805938ff5f241e9df42b667eba81353
-ms.sourcegitcommit: 193632a2964d85cb90e9fcd62da021c5dcb0bd9b
+ms.openlocfilehash: 44ed4ba1ac4dbfd4d311083701a21a1cee846f24
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62176961"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255694"
 ---
 # <a name="move-work-forward-with-jira"></a>Jira를 사용하여 작업을 앞으로 이동
 
@@ -168,14 +168,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Channel.Create | 위임 | 지라 문제 설명 채널 만들기 |
->| Channel.ReadBasic.All | 위임 | 알림을 보낼 팀의 채널 읽기 |
->| 전자 메일 | 위임 | Microsoft 및 Atlassian 계정을 매핑하기 위해 |
->| Team.ReadBasic.All | 위임 | 구성 페이지에 표시할 팀을 읽으십시오. Jira의 알림 |
->| TeamsAppInstallation.ReadForTeam | 위임 | 앱이 팀에 설치되어 있는지 확인합니다. |
->| User.Read | 위임 | 사용자 환경을 개선합니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Channel.Create | 위임 | 지라 문제 설명 채널 만들기 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Channel.ReadBasic.All | 위임 | 알림을 보낼 팀의 채널 읽기 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| Team.ReadBasic.All | 위임 | 구성 페이지에 표시할 팀을 읽으십시오. Jira의 알림 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| TeamsAppInstallation.ReadForTeam | 위임 | 앱이 팀에 설치되어 있는지 확인합니다. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| User.Read | 위임 | 사용자 환경을 개선합니다. | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
+>| 전자 메일 | 위임 | Microsoft 및 Atlassian 계정을 매핑하기 위해 | [39d845a0-3fa2-4fba-acc2-61afe40cfcea](https://docs.microsoft.com/microsoft-365-app-certification/azure/39d845a0-3fa2-4fba-acc2-61afe40cfcea) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

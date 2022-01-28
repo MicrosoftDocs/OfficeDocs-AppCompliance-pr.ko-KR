@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 iGlobe CRM에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6aaeddce93a513ca22b0bf5c0b4fdf8b85a7830d
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 63646b2a2425eeef310ae5534209d015d06896c1
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148507"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257764"
 ---
 # <a name="iglobe-crm-for-teams"></a>Teams용 iGlobe CRM
 
@@ -166,21 +166,21 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | 위임 | canlendar에서 iGlobe로 모임 보고서를 드레킹할 때 사용자 일정에 액세스할 수 있습니다.    |
->| Contacts.ReadWrite | 위임 | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다.    |
->| Directory.Read.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다.   |
->| Directory.ReadWrite.All | 위임 | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다.   |
->| Files.ReadWrite.All | 위임 | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일 및 데이터를 목록에 SharePoint 저장합니다.     |
->| Group.Read.All | 위임 | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다.   |
->| Group.ReadWrite.All | 위임 | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. iGlobe CRM에 Office 365     |
->| Mail.ReadWrite | 위임 | eamil을 iGlobe CRM으로 Svae 및 get informatiopn from iGlobe to a new e-amil    |
->| Sites.Manage.All | 위임 | iGlobe CRM에서 항목 및 목록 만들기, 편집 및 삭제     |
->| Sites.Read.All | 위임 | iGlobe CRM의 항목 읽기     |
->| Sites.ReadWrite.All | 위임 | iGlobe CRM에서 항목 및 목록 편집 및 삭제  |
->| Tasks.ReadWrite | 위임 | iGlobe CRM에서 플래너 작업 만들기     |
->| User.Read | 위임 | speficic 사용자에 대한 iGlobe CRM의 정보를 얻은 경우    |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 | canlendar에서 iGlobe로 모임 보고서를 드레킹할 때 사용자 일정에 액세스할 수 있습니다.    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Contacts.ReadWrite | 위임 | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다.    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.Read.All | 위임 | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Directory.ReadWrite.All | 위임 | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Files.ReadWrite.All | 위임 | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일 및 데이터를 목록에 SharePoint 저장합니다.     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.Read.All | 위임 | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다.   | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Group.ReadWrite.All | 위임 | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. iGlobe CRM에 Office 365     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Mail.ReadWrite | 위임 | eamil을 iGlobe CRM으로 Svae 및 get informatiopn from iGlobe to a new e-amil    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.Manage.All | 위임 | iGlobe CRM에서 항목 및 목록 만들기, 편집 및 삭제     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.Read.All | 위임 | iGlobe CRM의 항목 읽기     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Sites.ReadWrite.All | 위임 | iGlobe CRM에서 항목 및 목록 편집 및 삭제  | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| Tasks.ReadWrite | 위임 | iGlobe CRM에서 플래너 작업 만들기     | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
+>| User.Read | 위임 | speficic 사용자에 대한 iGlobe CRM의 정보를 얻은 경우    | [0bb1641a-3b3b-47f7-a11e-01279d92abfb](https://docs.microsoft.com/microsoft-365-app-certification/azure/0bb1641a-3b3b-47f7-a11e-01279d92abfb) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

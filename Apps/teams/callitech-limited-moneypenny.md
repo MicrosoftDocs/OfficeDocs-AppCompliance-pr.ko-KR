@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Moneypenny, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3d181c2bf833bb9aed4b5b557bb25190249da25a
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: f40e36c1025e03a250505be381ff811dce0aa95b
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200760"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62255824"
 ---
 # <a name="moneypenny"></a>Moneypenny
 
@@ -168,10 +168,10 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calls.Initiate.All | application | 봇을 통해 Teams 사용자에게 전화를 걸기 위해 |
->| Calls.AccessMedia.All | application | 봇에서 사용자로 미디어를 Teams |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calls.AccessMedia.All | application | 봇에서 사용자로 미디어를 Teams | [8277a51c-3ad6-446c-9b7e-e3f6e27257c1](https://docs.microsoft.com/microsoft-365-app-certification/azure/8277a51c-3ad6-446c-9b7e-e3f6e27257c1) |
+>| Calls.Initiate.All | application | 봇을 통해 Teams 사용자에게 전화를 걸기 위해 | [8277a51c-3ad6-446c-9b7e-e3f6e27257c1](https://docs.microsoft.com/microsoft-365-app-certification/azure/8277a51c-3ad6-446c-9b7e-e3f6e27257c1) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -8,14 +8,14 @@ ms.service: attestation
 certification_type: attested
 description: WorkJam Time Clock, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 40b47509d1322100551009adc636c60eb654bd91
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: e831ca59c0fed743a1a485a6aa52edbfca1dab89
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148442"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259197"
 ---
-# <a name="workjam-time-clock"></a>WorkJam 시간 시계
+# <a name="workjam-time-clock"></a>WorkJam Time Clock
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +32,7 @@ WorkJam에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | WorkJam 시간 시계 |
+| 앱 이름 | WorkJam Time Clock |
 | ID | WA200003620 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | WorkJam |
@@ -169,10 +169,10 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| TeamsActivity.Send | application | 사용자에게 알림을 보내기 위해 |
->| User.Read | 위임 | 사용자를 SSO로 설정하고 올바른 정보를 제공합니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| TeamsActivity.Send | application | 사용자에게 알림을 보내기 위해 | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
+>| User.Read | 위임 | 사용자를 SSO로 설정하고 올바른 정보를 제공합니다. | [f3388437-b373-4ea7-bcbd-58ec773e0ecf](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3388437-b373-4ea7-bcbd-58ec773e0ecf) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Webex Call, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 279a78d5f756eaca6f8aba2135d8a6a168fd7d3c
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 1f693fc58e86a361a67b6bf12c67ed76b3e89f93
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200985"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259804"
 ---
 # <a name="webex-call"></a>Webex Call
 
@@ -165,10 +165,10 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Chat.ReadBasic | 위임 | 사용자가 팀 채널 구성원에서 선택할 수 있도록 팀 채널 구성원 읽기 |
->| Contacts.Read | 위임 | 사용자가 연락처 목록에서 속도 다이얼을 만들 수 있습니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Chat.ReadBasic | 위임 | 사용자가 팀 채널 구성원에서 선택할 수 있도록 팀 채널 구성원 읽기 | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
+>| Contacts.Read | 위임 | 사용자가 연락처 목록에서 속도 다이얼을 만들 수 있습니다. | [9a7ce614-bdc8-4640-aaea-d8c626c58966](https://docs.microsoft.com/microsoft-365-app-certification/azure/9a7ce614-bdc8-4640-aaea-d8c626c58966) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

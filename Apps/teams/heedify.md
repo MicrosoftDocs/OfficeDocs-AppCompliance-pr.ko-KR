@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Heedify에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 30d5a9d784604a50e05c04b6f4b60b39a78293b6
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 692b53d85d3d4e9e2984147575fdff0a702d193a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200822"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62257804"
 ---
 # <a name="heedify"></a>Heedify
 
@@ -168,13 +168,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Presence.Read.All | 위임 | 현재 상태 정보는 특히 통화 전송의 경우 통화 및 연락처를 보다 효율적으로 관리하기 위해 연락처 센터 에이전트에 필요합니다.  |
->| User.Read.All | 위임 | 연락처를 관리하려면 기록된 사용자가 사용자를 찾아보고 출국 및 관리자(접수원의 경우)를 비롯한 정보를 읽을 수 있어야 합니다.  |
->| Calendars.Read | 위임 | 안내원이 전화를 전송하거나 정보를 전화로 고객과 공유하기 전에 사용자 일정을 확인해야 합니다. |
->| Contacts.ReadWrite | 위임 | 응용 프로그램에서 사용자(에이전트)에 연락처를 추가하고 해당 연락처를 읽을 수 있습니다.  |
->| Contacts.ReadWrite.Shared | 위임 | 응용 프로그램에서 다른 사용자(에이전트)와 공유 연락처를 추가하고 공유 연락처를 읽을 수 있도록 해야 합니다.  |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | 위임 | 안내원이 전화를 전송하거나 정보를 전화로 고객과 공유하기 전에 사용자 일정을 확인해야 합니다. | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
+>| Contacts.ReadWrite | 위임 | 응용 프로그램에서 사용자(에이전트)에 연락처를 추가하고 해당 연락처를 읽을 수 있습니다.  | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
+>| Contacts.ReadWrite.Shared | 위임 | 응용 프로그램에서 다른 사용자(에이전트)와 공유 연락처를 추가하고 공유 연락처를 읽을 수 있도록 해야 합니다.  | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
+>| Presence.Read.All | 위임 | 현재 상태 정보는 특히 통화 전송의 경우 통화 및 연락처를 보다 효율적으로 관리하기 위해 연락처 센터 에이전트에 필요합니다.  | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
+>| User.Read.All | 위임 | 연락처를 관리하려면 기록된 사용자가 사용자를 찾아보고 출국 및 관리자(접수원의 경우)를 비롯한 정보를 읽을 수 있어야 합니다.  | [f3ad2154-7e10-4730-a055-8852ced42d47](https://docs.microsoft.com/microsoft-365-app-certification/azure/f3ad2154-7e10-4730-a055-8852ced42d47) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

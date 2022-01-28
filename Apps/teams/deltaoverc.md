@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: DELTAoverC, 해당 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d83278a0e59f9abc33b495274e47abf10e1e2116
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 80273bfba0db86b443e84b46343ab6b04a264ac8
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148722"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62259684"
 ---
 # <a name="deltaoverc"></a>DELTAoverC
 
@@ -166,14 +166,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Group.Read.All | 둘 다 | 모든 그룹 읽기 |
->| Group.ReadWrite.All | 둘 다 | 모든 그룹 읽기 및 쓰기 |
->| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 |
->| User.Read.All | application | 모든 사용자 전체 프로필 읽기 |
->| User.ReadWrite | 위임 | 사용자 프로필에 대한 읽기 및 쓰기 액세스 |
->| User.ReadWrite.All | 둘 다 | 모든 사용자 전체 프로필 읽기 및 쓰기 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Group.Read.All | 둘 다 | 모든 그룹 읽기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| Group.ReadWrite.All | 둘 다 | 모든 그룹 읽기 및 쓰기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.Read.All | application | 모든 사용자 전체 프로필 읽기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.ReadWrite | 위임 | 사용자 프로필에 대한 읽기 및 쓰기 액세스 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| User.ReadWrite.All | 둘 다 | 모든 사용자 전체 프로필 읽기 및 쓰기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

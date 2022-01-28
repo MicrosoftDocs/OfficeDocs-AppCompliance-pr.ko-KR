@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Natterhub에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a93c4603fa64320fc66adea24509fdbb16135b62
-ms.sourcegitcommit: f58ade86a900c29f53b231ee88dba3908a380e95
+ms.openlocfilehash: fd0c03b20732f7f83d9d6738779f011a4272d6db
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "62242311"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62256494"
 ---
 # <a name="natterhub"></a>Natterhub
 
@@ -169,14 +169,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| 전자 메일 | 위임 | 사용자가 트랜잭션 전자 메일을 수신할 수 있도록 이 권한이 필요합니다. |
->| offline_access | 위임 | 배정 제출을 제출하는 데 필요 |
->| openid | 위임 | 사용자를 식별하는 데 필요 |
->| 프로필 | 위임 | 사용자의 이름과 성 읽기에 필요합니다. |
->| User.Read | 위임 | 사용자의 이름과 성 읽기에 필요합니다. |
->| EduAssignments.ReadWrite | 위임 | 배정 제출을 만드는 데 필요 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| EduAssignments.ReadWrite | 위임 | 배정 제출을 만드는 데 필요 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| User.Read | 위임 | 사용자의 이름과 성 읽기에 필요합니다. | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| 전자 메일 | 위임 | 사용자가 트랜잭션 전자 메일을 수신할 수 있도록 이 권한이 필요합니다. | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| offline_access | 위임 | 배정 제출을 제출하는 데 필요 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| openid | 위임 | 사용자를 식별하는 데 필요 | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
+>| 프로필 | 위임 | 사용자의 이름과 성 읽기에 필요합니다. | [54cd93cb-c60e-43b7-bbee-686a2b241794](https://docs.microsoft.com/microsoft-365-app-certification/azure/54cd93cb-c60e-43b7-bbee-686a2b241794) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

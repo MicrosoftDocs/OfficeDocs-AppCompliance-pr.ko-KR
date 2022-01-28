@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Jira Cloud에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6c0f6a2085f3bca86883f3ce5817cec32973e140
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 6f20ca178d988c5f89b03bd1da5b3100d5c552ef
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62144175"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62256724"
 ---
 # <a name="jira-cloud"></a>Jira Cloud
 
@@ -167,11 +167,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| offline_access | 위임 | 최상의 사용자 환경을 보장하기 위해 사용자 대신 리소스에 대한 액세스 권한을 장시간 제공합니다. |
->| openid | 위임 | 사용자의 이름, 성, 기본 설정 사용자 이름 및 개체 ID를 얻습니다. |
->| 프로필 | 위임 | 사용자의 이름, 성, 기본 설정 사용자 이름 및 개체 ID를 얻습니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| offline_access | 위임 | 최상의 사용자 환경을 보장하기 위해 사용자 대신 리소스에 대한 액세스 권한을 장시간 제공합니다. | [512b84d2-5840-45d6-8d01-5f073836d039](https://docs.microsoft.com/microsoft-365-app-certification/azure/512b84d2-5840-45d6-8d01-5f073836d039) |
+>| openid | 위임 | 사용자의 이름, 성, 기본 설정 사용자 이름 및 개체 ID를 얻습니다. | [512b84d2-5840-45d6-8d01-5f073836d039](https://docs.microsoft.com/microsoft-365-app-certification/azure/512b84d2-5840-45d6-8d01-5f073836d039) |
+>| 프로필 | 위임 | 사용자의 이름, 성, 기본 설정 사용자 이름 및 개체 ID를 얻습니다. | [512b84d2-5840-45d6-8d01-5f073836d039](https://docs.microsoft.com/microsoft-365-app-certification/azure/512b84d2-5840-45d6-8d01-5f073836d039) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 
