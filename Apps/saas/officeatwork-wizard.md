@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: 마법사에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fa0f1214e1e0801dccad9d3b8f477e64355d4e6b
-ms.sourcegitcommit: d21e36dff2355b19cdb4433ec74ab9a1ee3b2180
+ms.openlocfilehash: 9953d643c844252b4b06728179e1d4adbc600773
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62205737"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62261564"
 ---
 # <a name="wizard"></a>마법사
 
@@ -166,19 +166,19 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| 프로필 | 위임 | 로그인 사용 |
->| User.Read | 위임 | 로그인한 사용자 표시 사용 |
->| Sites.Read.All | 위임 | 데이터에 저장된 데이터 및 SharePoint |
->| User.ReadBasic.All | 위임 | 사용자 속성 표시 사용 |
->| offline_access | 위임 | 이전 버전의 호스트에 대해 Office 로그인 사용 |
->| openid | 위임 | 로그인 사용 |
->| User.Read.All | 위임 | 사용자 속성 표시 사용 |
->| Group.Read.All | 위임 | 그룹을 기반으로 데이터 액세스의 검색을 사용하도록 설정 |
->| Contacts.Read | 위임 | 연락처 읽기 사용 |
->| Files.Read | 위임 | 파일에 저장된 파일을 읽을 수 Microsoft 365 |
->| Files.Read.All | 위임 | 파일에 저장된 파일을 읽을 수 Microsoft 365 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Contacts.Read | 위임 | 연락처 읽기 사용 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Files.Read | 위임 | 파일에 저장된 파일을 읽을 수 Microsoft 365 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Files.Read.All | 위임 | 파일에 저장된 파일을 읽을 수 Microsoft 365 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Group.Read.All | 위임 | 그룹을 기반으로 데이터 액세스의 검색을 사용하도록 설정 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| Sites.Read.All | 위임 | 데이터에 저장된 데이터 및 SharePoint | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.Read | 위임 | 로그인한 사용자 표시 사용 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.Read.All | 위임 | 사용자 속성 표시 사용 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| User.ReadBasic.All | 위임 | 사용자 속성 표시 사용 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| offline_access | 위임 | 이전 버전의 호스트에 대해 Office 로그인 사용 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| openid | 위임 | 로그인 사용 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
+>| 프로필 | 위임 | 로그인 사용 | [0c67871c-ffbc-4b37-bd61-afce12b299f9](https://docs.microsoft.com/microsoft-365-app-certification/azure/0c67871c-ffbc-4b37-bd61-afce12b299f9) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

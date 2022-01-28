@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 클라우드 백업, 데이터 Microsoft Office 365 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 84b6ec36d05f39e307c3955d8eb9112d4a4712ac
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 6fc3b2c5bc0fb54b4075f71e21ef1c2d14ace0f7
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148502"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260944"
 ---
 # <a name="cloud-backup-for-microsoft-office-365"></a>클라우드용 클라우드 Microsoft Office 365
 
@@ -165,17 +165,17 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 |
->| Directory.Read.All | application | 디렉터리 데이터 읽기 |
->| Files.Read.All | application | 모든 사이트 모음의 파일 읽기 |
->| Group.ReadWrite.All | application | 모든 그룹 읽기 및 쓰기 |
->| Sites.ReadWrite.All | application | 모든 사이트 모음의 항목 읽기 및 쓰기 |
->| Reports.Read.All | application | 모든 사용 현황 보고서 읽기 |
->| ChannelMember.ReadWrite.All | application | 모든 채널에서 구성원 추가 및 제거 |
->| ChannelMessage.Read.All | application | 모든 채널 메시지 읽기 |
->| ChannelSettings.ReadWrite.All | application | 모든 채널의 이름, 설명 및 설정 읽기 및 쓰기 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| ChannelMember.ReadWrite.All | application | 모든 채널에서 구성원 추가 및 제거 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| ChannelMessage.Read.All | application | 모든 채널 메시지 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| ChannelSettings.ReadWrite.All | application | 모든 채널의 이름, 설명 및 설정 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Directory.Read.All | application | 디렉터리 데이터 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Files.Read.All | application | 모든 사이트 모음의 파일 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Group.ReadWrite.All | application | 모든 그룹 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Reports.Read.All | application | 모든 사용 현황 보고서 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Sites.ReadWrite.All | application | 모든 사이트 모음의 항목 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

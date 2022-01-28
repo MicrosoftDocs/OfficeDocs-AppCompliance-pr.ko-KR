@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: ASC Recording Insights, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 23028cb70e0d93e3f086e499cd2b6595eeec932f
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 626de477768e85b62479862b53743e2ede42598a
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62155390"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260792"
 ---
 # <a name="asc-recording-insights"></a>ASC Recording Insights
 
@@ -168,23 +168,23 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Chat.Read | 위임 | 사용자 채팅 메시지 읽기 |
->| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 |
->| User.ReadBasic.All | 위임 | 모든 사용자 기본 프로필 읽기 |
->| Group.Read.All | 위임 | 모든 그룹 읽기 |
->| openid | 위임 | 사용자 로그인 |
->| 프로필 | 위임 | 사용자 기본 프로필 보기 |
->| People.Read | 위임 | 사용자 관련 사용자 목록 읽기 |
->| Contacts.Read | 위임 | 사용자 연락처 읽기 |
->| OnlineMeetings.Read.All | application | 온라인 모임 세부 정보 읽기 |
->| Calendars.Read | application | 모든 사서함의 계산기 읽기 |
->| Group.Read.All | application | 모든 그룹 읽기 |
->| User.Read.All | application | 모든 사용자 전체 프로필 읽기 |
->| ChannelMember.Read.All | application | 모든 채널의 구성원 읽기 |
->| Chat.Read.All | application | 모든 채팅 메시지 읽기 |
->| ChannelMessage.Read.All | application | 모든 채널 메시지 읽기 |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.Read | application | 모든 사서함의 계산기 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| ChannelMember.Read.All | application | 모든 채널의 구성원 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| ChannelMessage.Read.All | application | 모든 채널 메시지 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Chat.Read | 위임 | 사용자 채팅 메시지 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Chat.Read.All | application | 모든 채팅 메시지 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Contacts.Read | 위임 | 사용자 연락처 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Group.Read.All | 위임 | 모든 그룹 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| Group.Read.All | application | 모든 그룹 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| OnlineMeetings.Read.All | application | 온라인 모임 세부 정보 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| People.Read | 위임 | 사용자 관련 사용자 목록 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| User.Read.All | application | 모든 사용자 전체 프로필 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| User.ReadBasic.All | 위임 | 모든 사용자 기본 프로필 읽기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| openid | 위임 | 사용자 로그인 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
+>| 프로필 | 위임 | 사용자 기본 프로필 보기 | [a22e0150-3615-46aa-b0a7-086c87a9f38d](https://docs.microsoft.com/microsoft-365-app-certification/azure/a22e0150-3615-46aa-b0a7-086c87a9f38d) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

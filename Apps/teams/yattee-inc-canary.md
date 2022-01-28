@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Canary에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d00d7bce745344ee7324ac4b019ee8ac3f5e0f40
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: b9702c280c874437826c4fd760f22b27359e1006
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62142115"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62261204"
 ---
 # <a name="canary"></a>카나리아
 
@@ -167,9 +167,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calls.JoinGroupCallasGuest.All | application | &#12518;&#12540;&#12470;&#12540;&#12408;&#12398;&#36890;&#35441;&#12434;&#34892;&#12358;&#12383;&#12417; |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calls.JoinGroupCallasGuest.All | application | &#12518;&#12540;&#12470;&#12540;&#12408;&#12398;&#36890;&#35441;&#12434;&#34892;&#12358;&#12383;&#12417; | [626ce0a3-4620-483d-953d-53b106b9ffad](https://docs.microsoft.com/microsoft-365-app-certification/azure/626ce0a3-4620-483d-953d-53b106b9ffad) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

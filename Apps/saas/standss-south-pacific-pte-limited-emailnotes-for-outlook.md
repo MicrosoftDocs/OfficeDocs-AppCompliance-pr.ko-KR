@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 841b0ad019cda22d01b5990b8aabf80931ffe130
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a09c055a42f69c7174773835e8c83b99e83f0013
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148357"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62261539"
 ---
 # <a name="emailnotes-for-outlook"></a>EmailNotes for Outlook
 
@@ -167,13 +167,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Calendars.ReadWrite | 위임 | 모임 요청에 첨부된 첨부 파일 제목, 본문의 내용을 읽으면  |
->| Mail.ReadWrite | 위임 | 메일 항목에 첨부된 첨부 파일 제목, 본문의 내용을 읽으면  |
->| openid | 위임 | SSO(Single Sign-On) 권한 요구 사항 |
->| 프로필 | 위임 | SSO(Single Sign-On) 권한 요구 사항 |
->| User.Read | 위임 | 이는 사용자 데이터를 읽고 도메인/사용자 계정에 대한 라이선스 정보를 확인하기 위한 것입니다. |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Calendars.ReadWrite | 위임 | 모임 요청에 첨부된 첨부 파일 제목, 본문의 내용을 읽으면  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| Mail.ReadWrite | 위임 | 메일 항목에 첨부된 첨부 파일 제목, 본문의 내용을 읽으면  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| User.Read | 위임 | 이는 사용자 데이터를 읽고 도메인/사용자 계정에 대한 라이선스 정보를 확인하기 위한 것입니다. | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| openid | 위임 | SSO(Single Sign-On) 권한 요구 사항 | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| 프로필 | 위임 | SSO(Single Sign-On) 권한 요구 사항 | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

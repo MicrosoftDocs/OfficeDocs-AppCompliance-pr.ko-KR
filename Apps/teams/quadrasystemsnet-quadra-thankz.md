@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Quadra 감사합니다. 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: de7a23b194cc8b947de890d7cf616a67a605213d
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 8109f919461d6c475f2be34a54950ade99ee027c
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148883"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260464"
 ---
 # <a name="quadra-thankz"></a>Quadra Thankz
 
@@ -166,9 +166,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| User.Read.All | application | 사용자의 관리자 정보를 얻은 경우  |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| User.Read.All | application | 사용자의 관리자 정보를 얻은 경우  | [5d8eb1a9-2188-4292-86f6-f4964d49e8b3](https://docs.microsoft.com/microsoft-365-app-certification/azure/5d8eb1a9-2188-4292-86f6-f4964d49e8b3) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

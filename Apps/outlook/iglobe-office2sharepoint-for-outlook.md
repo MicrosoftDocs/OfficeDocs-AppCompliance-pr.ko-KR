@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Office2SharePoint에 사용할 수 있는 모든 보안 및 규정 Outlook, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
-zone_pivot_groups: app-info-data-mcas-identity-certification
-ms.openlocfilehash: 8f90c86e59dcc659ca1daa9d7676d0afc3e2af85
-ms.sourcegitcommit: 9dab9c9dacb9c6daaa6b0041ccc8a49bafdad331
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 6efaedad38ff32528d4c8ed4f86c0408d9b1ba82
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60411212"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260984"
 ---
 # <a name="office2sharepoint-for-outlook"></a>Office2SharePoint for Outlook
 
@@ -32,11 +32,14 @@ iGlobe에서 Microsoft에 제공한 정보:
 |:----------------|:-------------|
 | 앱 이름 | Office2SharePoint for Outlook |
 | ID | WA104380689 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상은 Mac, Windows Outlook 2016 이상에서 웹용 Outlook |
+| Office 365 클라이언트 지원 | Outlook 2013 이상은 Windows, Outlook 2016 이상, Outlook iOS, android, Outlook 웹용 Outlook |
 | 파트너 회사 이름 | iGlobe |
-| 파트너 웹 사이트의 URL | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
-| 개인 정보 취급 방침의 URL | [https://www.iglobecrm.com/content/legal-information](https://www.iglobecrm.com/content/legal-information) |
-| 사용 약관 URL | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
+| 회사의 웹 사이트 | [https://www.iglobecrm.com](https://www.iglobecrm.com) |
+| 앱 사용 약관 | [https://www.iglobecrm.com/content/end-user-license-agreemen...](https://www.iglobecrm.com/content/end-user-license-agreement-office2sharepoint) |
+| 앱의 핵심 기능 | Office2SharePoint - SharePoint Teams 및 Outlook Office 작업을 쉽게 진행할 수 있습니다. 팀 구성원 간의 통신 장벽을 해소하면 모든 팀 구성원이 문서 및 전자 메일 첨부 파일에 액세스할 수 SharePoint Teams &amp; . 모든 장치 및 플랫폼에서 Outlook 또는 SharePoint Teams 전자 메일 및 메일 첨부 파일을 직접 저장합니다. Office2SharePoint 앱 서비스 권한 수준은 추가 기능 및 Outlook 추가 Office 설정됩니다. |
+| 회사 본사 위치 | 덴마크 |
+| 앱 정보 페이지 | |
+| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -48,100 +51,131 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 이 정보는 iGlobe에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
-
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
-
->| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
->|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Directory.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용 권한을 확인하고 사이트 및 목록을 얻습니다. 폴더를 만들고, 파일을 다운로드하고, 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자 그룹 사이트를 얻습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 선택한 메일/s에 액세스하고 첨부 파일을 얻습니다. 메일 또는 그룹 SharePoint 메일에 추가합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.Manage.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 응용 프로그램에서 로그인한 사용자를 대신하여 모든 사이트 모음의 문서 라이브러리 및 목록을 만들거나 삭제할 수 있도록 합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 사이트를 SharePoint. 선택한 메일에서 파일을 다운로드하고 첨부 파일을 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| Sites.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 목록, SharePoint 및 파일을 다운로드합니다. 파일을 목록에 SharePoint 저장합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
->| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 사이트, SharePoint, 그룹 OneDrive 사이트를 검색할 수 있도록 합니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
-
-#### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
-
-기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
-
->| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
->|:--------|:-----------------------|:----------------------------|:--------------------------------------|:-------------------|:-----------------------------------|
->| Exchange - EWS. AccessAsUser.All | 아니요 |  |  |  |  |
->| Exchange - Mail.ReadWrite | 아니요 |  |  |  |  |
->| Exchange - MailboxSettings.ReadWrite | 아니요 |  |  |  |  |
->| SharePoint- AllSites.Manage | 아니요 |  |  |  |  |
->| SharePoint - AllSites.Write | 아니요 |  |  |  |  |
->| SharePoint - MyFiles.Write | 아니요 |  |  |  |  |
->| SharePoint - User.Read.All | 아니요 |  |  |  |  |
-
-#### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
-
-앱이 Microsoft가 아닌 서비스로 조직 데이터를 전송하거나 공유하는 경우 앱에서 사용하는 비 Microsoft 서비스, 전송되는 데이터를 나열하고 앱이 이 정보를 전송해야 하는 이유에 대한 사유를 포함합니다.
-
->비영구 Microsoft 서비스 사용되지 않습니다.
-
-
-
-#### <a name="telemetry-data"></a>원격 분석 데이터
-
-이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
-
->iGlobe는 효과적으로 작동하고 제품 및 서비스에 대한 최상의 환경을 제공하기 위해 데이터를 수집합니다. 라이선스의 경우: 무료 추가 기능을&#8217;평가판 구독을 만들거나 구독을 구매하는 경우와 같이 조직을 관리하기 위해 수집된 데이터와 라이선스 계정이 필요합니다. 다음 정보는 수집됩니다. 재무 목적: 회사 이름 및 주소 구독 사용자: 사용자 이름 및 전자 메일
-
-
-#### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
-
-조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
-
->모든 응용 프로그램 데이터는 고객의 자체 테넌트에 있으며 테넌트 관리자가 조직의 다른 모든 서비스로 Office 365. 추가 기능에는 응용 프로그램 데이터가 저장되지 않습니다. 최신 추가 기능을 샌드박스 브라우저에서 실행하고 &#8220;실행되지&#8221;. 추가 기능에서 사용자가 작업하는 데이터에만 액세스할 수 있습니다. 사용자 데이터를 사용하여 사용자 데이터와 상호 작용합니다Microsoft 서비스.
-
-#### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
-
-사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
-
->아니요
+| **정보** | **응답** |
+|:----------------|:-------------|
+| 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
+| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
+| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 즉시 삭제 |
+| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
+| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
+| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="mcas"
+::: zone pivot="security"
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747' frameborder='no' style='width: 100%;'></iframe>
-
-<a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747" target="_blank">새 탭에서 보기</a>
+| **정보** | **응답** |
+|:----------------|:-------------|
+| 앱에서 연간 침투 테스트를 수행하나요? | 예 |
+| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 예 |
+| 환경에서 기존의 맬웨어 방지 보호 또는 응용 프로그램 제어를 사용하나요? |  |
+| 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? |  |
+| 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? |  |
+| 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? |  |
+| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? |  |
+| 앱 및 이를 지원하는 구조에서 분기별 취약점 검색을 수행하나요? |  |
+| 외부 네트워크 경계에 방화벽이 설치되어 있습니까? |  |
+| 변경 요청을 프로덕션에 배포하기 전에 검토하고 승인하는 데 사용되는 변경 관리 프로세스가 설정 있습니까? |  |
+| 원래 개발자가 프로덕션에 제출한 모든 코드 변경 요청을 검토하고 추가 인가? |  |
+| 보안 코딩 방법은 OWASP 상위 10과 같은 일반적인 취약성 클래스를 고려하나요? |  |
+| MFA(다단계 인증)를 사용할 수 있습니다. |  |
+| 직원 계정을 프로비저닝, 수정 및 지우기 위한 프로세스를 설정하고 있나요? |  |
+| 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? |  |
+| 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? |  |
+| 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | |
+| 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? |  |
+| 공식적인 정보 보안 위험 관리 프로세스를 설정하고 있습니까? |  |
+| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? |  |
+| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
-::: zone pivot="identity"
-
-### <a name="identity-information"></a>ID 정보
-
-이 정보는 iGlobe에서 이 앱이 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공했습니다.
+::: zone pivot="compliance"
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
+| 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 예 |
+| 앱이 HITRUST CSF(Common Security Framework)인 Health Information Trust Alliance를 준수하나요? | 예 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 예 |
+| 가장 최근 SOC1 인증 날짜 |  2020-11-01 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 예 |
+| 어떤 SOC 2 인증을 획득했나요? |   |
+| 가장 최근 SOC2 인증 날짜 |  2020-11-01 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 예 |
+| 가장 최근 SOC3 인증 날짜 |  2020-11-01 |
+| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 예 |
+| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 예 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 예 |
+| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 예 |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 예 |
+| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 예 |
+| 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 예 |
+| 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 NIST 800-171을 준수하나요? |  |
+| 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="privsection"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? |  |
+| 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 연결 개인 정보 취급 방침이 있나요? |  |
+| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? |  |
+| 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? |  |
+| 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? |  |
+| 앱이 미성년자(예: 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? |  |
+| 앱에 요청 시 개인의 개인 데이터를 삭제할 수 있는 기능이 있나요? |  |
+| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한할 수 있는 기능이 있나요? |  |
+| 앱이 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 개인에게 제공하나요? |  |
+| 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 보호 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)가 수행하나요? |  |
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="zerotrust"
+
+| **정보** | **응답** |
+|:----------------|:-------------|
+| Single Sign-On, API 액세스 등을 위해 응용 프로그램이 Microsoft Id 플랫폼(Azure AD)과 통합하나요? | 예 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 예 |
+| 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? | false |
+| 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
 | 지원되는 정책 유형 나열 | 보안 기본값 및 레거시 인증 차단과 같은 다른 일반적인 정책* 관리자를 위한 MFA 필요* Azure 관리에 MFA 필요* 모든 사용자에 대해 MFA 필요* |
-| 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
-| 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
-| 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 예 |
-| 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
-| 앱에서 웹 API를 노출하나요? | 아니요 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
-| 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
+| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
+| 앱에서 코드에 자격 증명을 저장하나요? |  |
+| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Manage.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| Sites.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+>| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](https://docs.microsoft.com/microsoft-365-app-certification/azure/5971c986-9d39-409c-a6f8-1385b1f690ef) |
+
+>이 응용 프로그램에는 추가 API가 없습니다.
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -173,7 +207,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 이벤트 경고 | 해당 없음 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;정보 보안 위험 관리 | 해당 없음 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;인시던트 대응 | 해당 없음 |
-| [**데이터 처리 보안 &amp; 개인 정보**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **해당 없음** |
+| [**데이터 처리 보안 개인 정보 &amp;**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **해당 없음** |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;전송 중 데이터 | 해당 없음 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;미사시 데이터 | 해당 없음 |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터 보존 및 폐기 | 해당 없음 |

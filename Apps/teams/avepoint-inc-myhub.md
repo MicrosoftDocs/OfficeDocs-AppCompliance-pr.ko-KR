@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MyHub에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ad85daad3a14dd1afa42dd0050a10c9bdeab74a5
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 7086ba2566e0b3d44b8a30edcd43e4dce7eb9963
+ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62193585"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62260791"
 ---
 # <a name="myhub"></a>MyHub
 
@@ -38,7 +38,7 @@ AvePoint, inc.에서 Microsoft에 제공한 정보:
 | 파트너 회사 이름 | AvePoint, inc. |
 | 회사의 웹 사이트 | [https://www.avepoint.com](https://www.avepoint.com) |
 | 앱 사용 약관 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| 앱의 핵심 기능 | 기존 작업 영역 관리 작업 영역의 새 요청을 위한 원스톱 Office 365 MyHub를 &amp; 충족합니다. MyHub는 IT 팀에 부담을 주지 않고 사용하기 쉬운 프로비저닝, 재인증, 수명 &amp; 주기 서비스를 제공합니다. 사용자는 작업을 수행하면 보안 작업 영역의 규모를 확장하고 자동화할 수 있어 작업 목록을 보다 쉽게 완료할 &amp; &amp; 수 있습니다. MyHub&#65533;지속 가능한 보안 프레임워크는 &amp; AvePoint&#65533;클라우드 거버넌스를 통해 지원됩니다. |
+| 앱의 핵심 기능 | 기존 작업 영역 관리 작업 영역의 새 요청을 위한 원스톱 Office 365 MyHub &amp; 를 충족합니다. MyHub는 IT 팀에 부담을 주지 않고 사용하기 쉬운 프로비저닝, 재인증, &amp; 수명 주기 서비스를 제공합니다. 사용자는 작업을 수행 &amp; &amp; 하면 보안 작업 영역의 규모를 확장하고 자동화할 수 있어 작업 목록을 보다 쉽게 완료할 수 있습니다. MyHub&#65533;&amp; 지속 가능한 보안 프레임워크는 AvePoint&#65533;클라우드 거버넌스를 통해 지원됩니다. |
 | 회사 본사 위치 | 미국 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
@@ -167,20 +167,20 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
 
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          |
->|:------------------------|:--------------------|:------------------------------------|
->| Directory.Read.All | 둘 다 | 그룹 설정 개체의 목록을 검색합니다. 외부 공유 클래식 등의 경우 enableCreateGroup(application) 등입니다. |
->| Group.ReadWrite.All | 둘 다 | 그룹 만들기, 그룹 구성원 자격 검색, 추가 또는 제거 |
->| Mail.Send | 위임 | 현재 사용자가 비공개 그룹에 가입하려는 경우 그룹 소유자에게 알림을 보내 입니다. |
->| Sites.ReadWrite.All | 위임 | 사이트 팔로우/보지 않습니다. |
->| Sites.Read.All | application | 사이트 기본 정보 얻기 |
->| User.Read.All | 둘 다 | 위임: 사용자 사진 얻기; 응용 프로그램: 사용자 검색/확인 |
->| Sites.FullControl.All | application | 사이트 만들기 또는 삭제 |
->| Reports.Read.All | application | 사이트/그룹 사용 현황 보고서 확인 |
->| 전자 메일 | 위임 | teams 앱 SSO |
->| openid | 위임 | teams 앱 SSO |
->| offline_access | 위임 | teams 앱 SSO |
->| 프로필 | 위임 | teams 앱 SSO |
+>|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
+>|:------------------------|:--------------------|:------------------------------------|:--------------------|
+>| Directory.Read.All | 둘 다 | 그룹 설정 개체의 목록을 검색합니다. 외부 공유 클래식 등의 경우 enableCreateGroup(application) 등입니다. | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Group.ReadWrite.All | 둘 다 | 그룹 만들기, 그룹 구성원 자격 검색, 추가 또는 제거 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Mail.Send | 위임 | 현재 사용자가 비공개 그룹에 가입하려는 경우 그룹 소유자에게 알림을 보내 입니다. | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Reports.Read.All | application | 사이트/그룹 사용 현황 보고서 확인 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Sites.FullControl.All | application | 사이트 만들기 또는 삭제 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Sites.Read.All | application | 사이트 기본 정보 얻기 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| Sites.ReadWrite.All | 위임 | 사이트 팔로우/보지 않습니다. | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| User.Read.All | 둘 다 | 위임: 사용자 사진 얻기; 응용 프로그램: 사용자 검색/확인 | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| 전자 메일 | 위임 | teams 앱 SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| offline_access | 위임 | teams 앱 SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| openid | 위임 | teams 앱 SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
+>| 프로필 | 위임 | teams 앱 SSO | [478c769e-bab3-4049-9cfc-302d08a232bf](https://docs.microsoft.com/microsoft-365-app-certification/azure/478c769e-bab3-4049-9cfc-302d08a232bf) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 
