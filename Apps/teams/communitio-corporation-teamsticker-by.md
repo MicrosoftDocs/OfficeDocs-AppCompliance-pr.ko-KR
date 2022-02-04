@@ -2,18 +2,12 @@
 title: Communitio Corporation의 TeamSticker에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Communitio의 TeamSticker에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+description: 'Communitio의 TeamSticker에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 252d783969b65bce7ef3b1754b9b7439c1f19764
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253844"
 ---
 # <a name="teamsticker-by-communitio"></a>TeamSticker by Communitio
 
@@ -36,8 +30,8 @@ Communitio Corporation에서 Microsoft에 제공하는 정보:
 | ID | WA200000894 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Communitio Corporation |
-| 회사의 웹 사이트 | [https://www.teamsuite.biz](https://www.teamsuite.biz) |
-| 앱 사용 약관 | [https://www.teamsuite.biz/terms/](https://www.teamsuite.biz/terms/) |
+| 회사의 웹 사이트 | [https://communitio.jp](https://communitio.jp) |
+| 앱 사용 약관 | [https://teamsuite.biz/terms](https://teamsuite.biz/terms) |
 | 앱의 핵심 기능 | 이 카드는 대화에서 보낼 수 있는 디지털 감사 카드입니다. |
 | 회사 본사 위치 | 일본 |
 | 앱 정보 페이지 | |

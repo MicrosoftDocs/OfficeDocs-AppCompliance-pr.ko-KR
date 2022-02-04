@@ -2,17 +2,11 @@
 title: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7에 대한 Azure 앱 ID 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/02/2022
+ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: 31b6f1173f697eff46f3ba7b2951de8a963878b5
-ms.sourcegitcommit: c02a78e87cd408ded50ad143138502ce1f1d883e
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62336307"
 ---
 # <a name="azure-app-id-b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7"></a>Azure 앱 ID: b9a1aaab-e8aa-4b92-b4ce-f13cae74caa7
 

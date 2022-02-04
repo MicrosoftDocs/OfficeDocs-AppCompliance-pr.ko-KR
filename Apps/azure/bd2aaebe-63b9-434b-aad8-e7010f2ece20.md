@@ -2,17 +2,11 @@
 title: bd2aaebe-63b9-434b-aad8-e7010f2ece20에 대한 Azure 앱 ID 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/02/2022
+ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: bd2aaebe-63b9-434b-aad8-e7010f2ece20에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: ecb607a0ee101171697fd4cd0c877e567b8c91dc
-ms.sourcegitcommit: c02a78e87cd408ded50ad143138502ce1f1d883e
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62337058"
 ---
 # <a name="azure-app-id-bd2aaebe-63b9-434b-aad8-e7010f2ece20"></a>Azure 앱 ID: bd2aaebe-63b9-434b-aad8-e7010f2ece20
 
