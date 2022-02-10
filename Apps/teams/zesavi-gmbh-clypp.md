@@ -1,46 +1,48 @@
 ---
-title: Officeatwork | officeatwork로 Office 검증자
+title: Zesavi GmbH의 Clypp에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/10/2022
+ms.date: 01/03/2022
 ms.topic: article
 ms.service: attestation
-certification_type: certified
-description: 사무실 작업 관리에 사용할 수 있는 모든 보안 및 규정 | CSA STAR Office 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보를 확인하는 검증자입니다.
+certification_type: attested
+description: Clypp에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bbf8d9d21939928adfeba4e9d421120e7197beeb
+ms.openlocfilehash: 3dd95a6b2c0faf604d3bbe0688103165490cfd14
 ms.sourcegitcommit: c7d072ca68760947ef4d531b740550b3236c3c94
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 02/10/2022
-ms.locfileid: "62514603"
+ms.locfileid: "62510567"
 ---
-# <a name="officeatwork--verifier-for-office"></a>officeatwork | 테스트용 검증 Office
+# <a name="clypp"></a>Clypp
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 2월 9일</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 11월 17일</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA200000133" target="_blank">AppSource의 보기</a>
+* <a href="https://teams.microsoft.com/l/app/34ed2c1e-bccf-463d-8fbc-0403e72e89fc" target="_blank">저장소의 Teams 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003621" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-Officeatwork에서 Microsoft에 제공하는 정보:
+Zesavi GmbH에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | officeatwork - Office |
-| ID | WA200000133 |
-| Office 365 클라이언트 지원 | Word 2016 Mac, Word 2016 이상, Windows, 웹용 Word Word on iPad |
-| 파트너 회사 이름 | officeatwork |
-| 회사의 웹 사이트 | [https://www.officeatwork.com](https://www.officeatwork.com) |
-| 앱 사용 약관 | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
-| 앱의 핵심 기능 | 중앙에서 관리하는 최신 콘텐츠로 문서를 자동으로 확인 및 업데이트합니다. |
-| 회사 본사 위치 | 스위스 |
+| 앱 이름 | Clypp |
+| ID | WA200003621 |
+| Office 365 클라이언트 지원 | Microsoft Teams |
+| 파트너 회사 이름 | Zesavi GmbH |
+| 회사의 웹 사이트 | [https://zesavi.com](https://zesavi.com) |
+| 앱 사용 약관 | [https://zesavi.com/en/impressum/](https://zesavi.com/en/impressum/) |
+| 앱의 핵심 기능 | Zesavi를 사용하면 회사의 모든 사용자가 &amp; 인터넷 브라우저에서 짧은 비디오 설명서를 직접 만들고 편집할 수 있습니다. |
+| 회사 본사 위치 | 독일 |
 | 앱 정보 페이지 | |
-| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
-| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
+| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | 기타 |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,19 +52,17 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 방법에 대한 정보를 Officeatwork에서 제공합니다.
+이 정보는 Zesavi GmbH에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 사용할 컨트롤에 대해 제공됩니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 예 |
-| 앱에서 처리되는 데이터는 무엇입니까? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
-| 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
+| 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 아니요 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
+| 데이터베이스에 저장되는 데이터는 무엇입니까? | 각 사용자에 대한 개체 ID |
 | Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? |  |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
+| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
+| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 유지되지 않음 |
+| 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
 | 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
 | Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
 
@@ -78,7 +78,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | 앱에서 연간 침투 테스트를 수행하나요? | 예 |
 | 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 예 |
-| 환경에서 기존의 맬웨어 방지 보호 또는 응용 프로그램 제어를 사용하나요? | ApplicationControls |
+| 환경에서 기존의 맬웨어 방지 보호 또는 응용 프로그램 제어를 사용하나요? | TraditionalAntiMalware, ApplicationControls |
 | 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? | 예 |
 | 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? | 예 |
 | 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? | 예 |
@@ -90,7 +90,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 보안 코딩 방법은 OWASP 상위 10과 같은 일반적인 취약성 클래스를 고려하나요? | 예 |
 | MFA(다단계 인증)를 사용할 수 있습니다. | CodeRepositories, DNSManagement, Credential |
 | 직원 계정을 프로비저닝, 수정 및 지우기 위한 프로세스를 설정하고 있나요? | 예 |
-| 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? | 해당 없음 |
+| 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? | 예 |
 | 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? | 예 |
 | 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | 예|
 | 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? | 예 |
@@ -137,7 +137,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? | 예 |
 | 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 연결 개인 정보 취급 방침이 있나요? | 예 |
-| 개인 정보 취급 방침 URL | https://links.officeatwork.com/officeatwork-privacypolicy |
+| 개인 정보 취급 방침 URL | https://zesavi.com/en/datenschutz/ |
 | 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? | 아니요 |
 | 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니요 |
 | 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? | 아니요 |
@@ -159,23 +159,12 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 예 |
 | 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? | 해당 없음 |
 | 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
-| 지원되는 정책 유형 나열 | 보안 기본값 |
-| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
-
->|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
->|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.Read | 위임 | 콘텐츠 읽기 및 비교 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| Files.Read.All | 위임 | 콘텐츠 읽기 및 비교 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| Sites.Read.All | 위임 | 콘텐츠 읽기 및 비교 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| User.Read | 위임 | 로그인한 사용자 표시 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| offline_access | 위임 | 이전 버전의 호스트에 대해 Office 로그인 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| openid | 위임 | 로그인 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
->| 프로필 | 위임 | 로그인 사용 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](https://docs.microsoft.com/microsoft-365-app-certification/azure/8cf0fbc9-28f7-4bfb-94db-237b049fcbf7) |
+>이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 
