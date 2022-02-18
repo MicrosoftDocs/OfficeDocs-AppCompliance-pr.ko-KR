@@ -2,17 +2,17 @@
 title: Microsoft Excel 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/27/2022
+ms.date: 02/17/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Excel 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 21d545e7774ebca9fd718f3d1709f296de6d1989
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9a85b4a03d4237fa3560b9fdb445d9fa157158f7
+ms.sourcegitcommit: 8af0be0295356438dbaa1dad225cfb390785b15c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256884"
+ms.lasthandoff: 02/17/2022
+ms.locfileid: "62884442"
 ---
 # <a name="microsoft-excel-apps-security-and-compliance"></a>Microsoft Excel 앱 보안 및 규정 준수
 
@@ -38,3 +38,4 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Sheetgo](./sheetgo-europe-sl.md) | SHEETGO EUROPE SL | **✓** |  |
 | [Supermetrics](./supermetrics.md) | Supermetrics | **✓** |  |
 | [XBRL 파일 데이터](./xbrl-us-filed-data.md) | XBRL US | **✓** |  |
+| [ZEMA for Excel](./ze-powergroup-zema-for-excel.md) | ZE PowerGroup | **✓** |  |
