@@ -2,17 +2,17 @@
 title: Microsoft SharePoint 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/01/2022
+ms.date: 02/18/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft SharePoint 보안 및 규정 준수 정보
 localization_priority: Normal
-ms.openlocfilehash: 84e054bf0b1ca6bf7b830af03fce008ee20a92cf
-ms.sourcegitcommit: edd55f34c004f0b5c7e4418b92b8ba325b8ab336
+ms.openlocfilehash: 88bb3c11356e7b2bbd134bc8827fbabe165c8bde
+ms.sourcegitcommit: 0465c6dd3a2c42fb1fd785548654d5b7f2601adc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62313843"
+ms.lasthandoff: 02/19/2022
+ms.locfileid: "62909060"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 앱 보안 및 규정 준수
 

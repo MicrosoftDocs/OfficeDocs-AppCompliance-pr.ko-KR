@@ -2,24 +2,24 @@
 title: 정확도 소프트웨어 Inc.
 ms.author: elmalova
 author: elenamalova
-ms.date: 01/04/2022
+ms.date: 02/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 세분화, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e6ca7066e3ceaf975f3928885ea6cb5533c5e518
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 1106b9e00a94d133c167b04bb31e4bc71c060c73
+ms.sourcegitcommit: 0465c6dd3a2c42fb1fd785548654d5b7f2601adc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62146565"
+ms.lasthandoff: 02/19/2022
+ms.locfileid: "62909070"
 ---
 # <a name="taxonomy"></a>분류
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 12월 26일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 2월 18일</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003006" target="_blank">AppSource의 보기</a>
 
@@ -40,7 +40,7 @@ Accuracy Software Inc.에서 Microsoft에 제공한 정보:
 | 앱의 핵심 기능 | 분류는 다양한 이해 관계자와 IM 전문가의 공동 작업을 통해 파일 계획을 만들고 검토하고 전체 조직에 게시할 수 있도록 함으로써 파일 분류 계획을 효율적으로 관리할 수 있는 방법을 제공합니다. 또한 분류 Microsoft 준수 센터로 가져올 수 있는 M365 보존 레이블 내보내기 및 파일 계획을 용어 저장소로 가져올 수 있는 용어 집합 형식으로 내보낼 수 SharePoint 있습니다. |
 | 회사 본사 위치 | 캐나다 |
 | 앱 정보 페이지 | |
-| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
+| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | 클라이언트 SharePoint 테넌트 |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -58,7 +58,7 @@ Accuracy Software Inc.에서 Microsoft에 제공한 정보:
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 아니요 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 파일 계획 분류 데이터 |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 캐나다 |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 아니요 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 유지되지 않음 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 아니요 |
@@ -87,7 +87,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 변경 요청을 프로덕션에 배포하기 전에 검토하고 승인하는 데 사용되는 변경 관리 프로세스가 설정 있습니까? | 아니요 |
 | 원래 개발자가 프로덕션에 제출한 모든 코드 변경 요청을 검토하고 추가 인가? | 아니요 |
 | 보안 코딩 방법은 OWASP 상위 10과 같은 일반적인 취약성 클래스를 고려하나요? | 아니요 |
-| MFA(다단계 인증)를 사용할 수 있습니다. |  |
+| MFA(다단계 인증)를 사용할 수 있습니다. | NoneOfTheAbove |
 | 직원 계정을 프로비저닝, 수정 및 지우기 위한 프로세스를 설정하고 있나요? | 아니요 |
 | 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? | 해당 없음 |
 | 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? | 예 |
