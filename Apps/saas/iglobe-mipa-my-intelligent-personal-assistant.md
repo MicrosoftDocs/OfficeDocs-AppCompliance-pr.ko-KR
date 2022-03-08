@@ -7,13 +7,13 @@ ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: MIPA - 내 지능형 개인 도우미, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 33b87c614d62c1934e24a408658204a33736f924
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 8d56acb1cf147c57f06196e2e44acafbbf5f8ab1
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260884"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63078052"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA - 내 지능형 개인 도우미
 
@@ -119,7 +119,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 예 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 예 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 예 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -158,9 +158,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 지원되는 정책 유형 나열 | 보안 기본값 및 레거시 인증 차단과 같은 다른 일반적인 정책* 관리자를 위한 MFA 필요* Azure 관리에 MFA 필요* 모든 사용자에 대해 MFA 필요* |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
@@ -184,43 +184,6 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 >| 프로필 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
-
-[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
-
-::: zone-end
-
-::: zone pivot="certification"
-
-### <a name="certification-information"></a>인증 정보
-
-| **제어** | **Microsoft 365 인증 결과** |
-|:------------|:---------------------------------------|
-| [**응용 프로그램 보안**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#application-security) | **해당 없음** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;침투 테스트 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;취약점 평가 검토(DAST/SAST/침투 테스트) | 해당 없음 |
-| [**운영 보안**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#operational-security) | **해당 없음** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;맬웨어 보호 - 바이러스 백신 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;맬웨어 보호 - 응용 프로그램 제어 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;패치 관리 - 위험 순위 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;패치 관리 - 패치 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;취약점 검사 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;방화벽 - 방화벽(또는 동등한 기술) | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;방화벽 - WAF(웹 응용 프로그램 방화벽)(선택 사항) | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;변경 컨트롤 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 소프트웨어 개발/배포 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;계정 관리 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;침입 감지 및 방지(선택 사항) | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 이벤트 로깅 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;검토(로깅 데이터) | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 이벤트 경고 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;정보 보안 위험 관리 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;인시던트 대응 | 해당 없음 |
-| [**데이터 처리 보안 개인 정보 &amp;**](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification-submission-guide#data-handling-security-and-privacy) | **해당 없음** |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;전송 중 데이터 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;미사시 데이터 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터 보존 및 폐기 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터 액세스 관리 | 해당 없음 |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 해당 없음 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

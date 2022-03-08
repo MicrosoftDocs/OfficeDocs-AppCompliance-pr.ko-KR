@@ -2,17 +2,17 @@
 title: Azure 앱 ID a9b0c190-bafb-49ca-a61a-dab99cf2c43b에 대한 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/18/2022
+ms.date: 03/07/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: a9b0c190-bafb-49ca-a61a-dab99cf2c43b에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: afabdb6f4ea0c118b3c98a38287622d4ca93d771
-ms.sourcegitcommit: 777bb0494027ce5382c2d0cb42415910c112b56e
+ms.openlocfilehash: c0c2a5b64968ca4241d335724c2949a27cbab448
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62905037"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63077555"
 ---
 # <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>Azure 앱 ID: a9b0c190-bafb-49ca-a61a-dab99cf2c43b
 
@@ -20,9 +20,10 @@ ms.locfileid: "62905037"
 ### <a name="apps-associated-with-this-id"></a>이 ID와 연결된 앱:
 | **앱 이름** | **인증** | **AppSource의 보기** |
 |--------------|---------------|-----------------------|
-| [Adobe Sign Add-In for Outlook](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104381158) |  | [https://appsource.microsoft.com/product/office/WA104381158](https://appsource.microsoft.com/product/office/WA104381158) |
-| [Adobe Sign](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104381233) |  | [https://appsource.microsoft.com/product/office/WA104381233](https://appsource.microsoft.com/product/office/WA104381233) |
-| [Word 및 Word용 Adobe Sign for word PowerPoint](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104381155) |  | [https://appsource.microsoft.com/product/office/WA104381155](https://appsource.microsoft.com/product/office/WA104381155) |
+| [Adobe Sign Add-In for Outlook](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104381158) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381158](https://appsource.microsoft.com/product/office/WA104381158) |
+| [Adobe Sign](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104381233) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381233](https://appsource.microsoft.com/product/office/WA104381233) |
+| [Word 및 Word용 Adobe Acrobat PowerPoint](https://docs.microsoft.com/microsoft-365-app-certification/forward/WA104381155) | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> | [https://appsource.microsoft.com/product/office/WA104381155](https://appsource.microsoft.com/product/office/WA104381155) |
 
 ### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 앱 준수 상태
 - Publisher 상태: 완료
+- Microsoft 365 인증: 승인됨(2022년 2월 23일)
