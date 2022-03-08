@@ -1,24 +1,25 @@
 ---
-title: 독립 실행형(남 태평양) PTE Limited의 Outlook에 대한 EmailNotes에 대한 응용 프로그램 정보
+title: 독립 실행형(남아프리카 Outlook)PTE Limited의 전자 메일주에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
 ms.date: 02/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: CSA STAR 레지스트리의 Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: CSA STAR 레지스트리의 Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 EmailNotes에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e3d34f2de39a01c69215aabc529d11e0f5b4bb06
-ms.sourcegitcommit: 0c7519d574830d48260e4d39dffab3c5f96bc57c
+ms.openlocfilehash: d1287dc50181b69c6f1d8f3f31b43c84db569641
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/10/2022
-ms.locfileid: "62523639"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63076192"
 ---
 # <a name="emailnotes-for-outlook"></a>EmailNotes for Outlook
 
-<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 2월 9일</p>
+<p></p>
+<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 1월 17일</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/standsssouthpacificltd1581455821226.emailnotes" target="_blank">AppSource의 보기</a>
 
@@ -35,7 +36,7 @@ ms.locfileid: "62523639"
 | 파트너 회사 이름 | 독립 실행형(남 태평양) PTE Limited |
 | 회사의 웹 사이트 | [https://www.standss.com](https://www.standss.com) |
 | 앱 사용 약관 | [https://www.standss.com/sendguard_m365/terms_conditions.htm](https://www.standss.com/sendguard_m365/terms_conditions.htm) |
-| 앱의 핵심 기능 | Outlook M365용 SendGuard는 의도하지 않은 받는 사람에게 중요한 정보, 기밀 또는 부적절한 정보를 전자 메일로 전송하는 것을 감지, 프롬프트, 경고 및 보호하는 위험 및 규정 준수 도구입니다. |
+| 앱의 핵심 기능 | Outlook M365용 SendGuard는 사용자를 감지, 프롬프트, 경고 및 보호하는 위험 및 준수 도구로, 의도하지 않은 받는 사람에게 중요하거나 기밀 또는 부적절한 정보를 전자 메일로 전송하지 않습니다. |
 | 회사 본사 위치 | 피지 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
@@ -122,7 +123,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -162,9 +163,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 지원되는 정책 유형 나열 | 관리 역할을 가진 사용자에 대한 다단계 인증 필요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|

@@ -2,17 +2,17 @@
 title: Microsoft Word 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/16/2022
+ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Word 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: b9fcddbf851ad99da87ae6f0e6a14d4e1e75c0c0
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: f8be48d49c0903bebf08570bfd7d623b488e176f
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62877795"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63075872"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word 앱 보안 및 규정 준수
 
@@ -20,14 +20,13 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Word 및 Word용 Adobe Sign for word PowerPoint](./adobe-inc-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** |  |
+| [Word 및 Word용 Adobe Acrobat PowerPoint](./adobe-inc-acrobat-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [AuditBoard 추가 기능](./auditboard-inc-add-in.md) | Auditboard, Inc. | **✓** |  |
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
 | [CocoFax - 쉽게 안전한 팩스 보내기 &amp;](./cocofax-sending-fax-made-easy-and-secure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
 | [Excel 문서 자동화](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Fabasoft 클라우드 Office 추가 기능](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
-| [harmon.ie 대한 Office](./harmonie-corporation-for-office.md) | harmon.ie Corporation | **✓** |  |
 | [광고 노출 서명](./impression-signatures.md) | 광고 노출 서명 | **✓** |  |
 | [LegalMind Word AddIn](./legalmind-word-addin.md) | LegalMind | **✓** |  |
 | [Loio 계약 소프트웨어 검토](./loio-inc-contract-review-software.md) | Loio Inc. | **✓** |  |
@@ -36,11 +35,11 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Office2SharePoint for Office](./iglobe-office2sharepoint-for-office.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - 사용자용 콘텐츠 Office](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - Office](./officeatwork-officeatworkdesigner-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - officeatwork - 사용자용 이미지 Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - officeatwork - Office](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - 사용자용 템플릿 Office](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - Office](./officeatwork-officeatworkuploader-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - Office](./officeatwork-officeatworkverifier-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - Office](./officeatwork-officeatworkwizard-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - officeatwork - Office](./officeatwork-officeatworkverifier-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - officeatwork - Office](./officeatwork-officeatworkwizard-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [RetMig &amp; Kommaforslag](./grammarsoft-aps-retmig-and-kommaforslag.md) | GrammarSoft ApS | **✓** |  |
 | [Papers용 SmartCite](./digital-science-smartcite-for-papers.md) | 디지털 과학 | **✓** |  |
 | [Word용 Stilus](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |

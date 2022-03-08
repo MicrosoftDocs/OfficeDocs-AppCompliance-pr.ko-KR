@@ -2,25 +2,26 @@
 title: SaaS 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/16/2022
+ms.date: 03/02/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 7e971759974fa7f3b35e02338708aeb8f3897741
-ms.sourcegitcommit: 6af3331723896e5e6bd44236dbd87ab513fd91fe
+ms.openlocfilehash: 9df715d9923b3146870ad05e5a41f16c44ced38c
+ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62875611"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63076212"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
-Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용하는 SaaS 앱 및 추가 기능 관련 결정을 내리는 데 필요한 정보를 제공하고 이에 대해 의사 결정을 알릴 수 있습니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
+Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용하는 SaaS 앱 및 추가 기능 관련 결정을 내리고 의사 결정을 내리는 데 필요한 정보를 제공합니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
 
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [관리 센터](./officeatwork-admin-center.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Anywhere365 Attendant Console for Microsoft Teams](./workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [Buzzeasy Contact Center for Teams](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt. | **✓** |  |
 | [CallCabinet Atmos 준수 기록 및 분석](./callcabinet-corporation-atmos-compliance-recording-and-analytics.md) | CallCabinet Corporation | **✓** |  |
 | [CC4Teams](./cc4all-cc4teams.md) | CC4ALL | **✓** |  |
@@ -32,7 +33,8 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [콘텐츠 선택 브라우저](./officeatwork-content-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Emailgistics](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
-| [EmailNotes for Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | 독립 실행형(남 태평양) PTE Limited | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [EmailNotes for Outlook](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | 독립 실행형(남 태평양) PTE Limited | **✓** |  |
+| [Genesys 클라우드 CX Teams 통합](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys 클라우드 서비스, Inc | **✓** |  |
 | [ice Contact Center](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** |  |
 | [iGlobe CRM Office 365 Microsoft 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [이미지 선택](./officeatwork-image-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
