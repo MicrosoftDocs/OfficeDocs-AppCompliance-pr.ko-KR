@@ -2,24 +2,25 @@
 title: Cloudwell의 일정 오버레이에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/25/2022
+manager: tonybal
+ms.date: 03/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 일정 오버레이, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: beabfa708d3a10d6bda1ca7df248dc5cd26784ba
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: a623b5e2887f0e08cdf5939e63dabd91ca47033a
+ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081271"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63454281"
 ---
 # <a name="calendar-overlay"></a>일정 오버레이
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 2월 24일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 3월 10일</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003806" target="_blank">AppSource의 보기</a>
 
@@ -39,7 +40,7 @@ Cloudwell에서 Microsoft에 제공하는 정보:
 | 앱 사용 약관 | [https://cwlicensingprod.blob.core.windows.net/termsofuse/St...](https://cwlicensingprod.blob.core.windows.net/termsofuse/StandardContractMarch2019.pdf) |
 | 앱의 핵심 기능 | 일정 오버레이 웹 파트를 사용하면 모든 Microsoft SharePoint, Planner 및 Exchange 이벤트를 한 장소에서 볼 수 있습니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://cloudwell.io/products/calendar-overlay](https://cloudwell.io/products/calendar-overlay) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -61,8 +62,8 @@ Cloudwell에서 Microsoft에 제공하는 정보:
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 사용자 전자 메일 주소, 사용자 테넌트 ID |
 | Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 아니요 |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 90일 미만 |
+| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
+| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 30일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
 | 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
 | Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |

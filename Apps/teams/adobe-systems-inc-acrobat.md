@@ -2,19 +2,19 @@
 title: Adobe Systems Inc.의 Adobe Acrobat에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.manager: tonybal
+manager: tonybal
 ms.date: 03/09/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Adobe Acrobat에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3a2bf567352c8d039d02314f0a7909be84e28f7f
-ms.sourcegitcommit: 0bd8c5bf11934d14ea75ec30388534345dcb02a5
+ms.openlocfilehash: b94696ec95be7b58f03aaa048169e7c5b6cd89a0
+ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2022
-ms.locfileid: "63425272"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63459321"
 ---
 # <a name="adobe-acrobat"></a>Adobe Acrobat
 
