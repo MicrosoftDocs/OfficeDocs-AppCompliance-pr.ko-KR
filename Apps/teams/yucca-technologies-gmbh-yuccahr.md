@@ -2,18 +2,19 @@
 title: Yucca Technologies GmbH의 yuccaHR에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: yuccaHR, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f5e1475a1db71c51ac58a6bc062ce9e4b17e8ab3
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: da99569821461232ce6ed852810b85b989f2b944
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251502"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536346"
 ---
 # <a name="yuccahr"></a>yuccaHR
 
@@ -38,9 +39,9 @@ Yucca Technologies GmbH에서 Microsoft에 제공하는 정보:
 | 파트너 회사 이름 | Yucca Technologies GmbH |
 | 회사의 웹 사이트 | [https://www.yuccahr.com](https://www.yuccahr.com) |
 | 앱 사용 약관 | [https://www.yuccahr.com/terms-of-use](https://www.yuccahr.com/terms-of-use) |
-| 앱의 핵심 기능 | 커넥트 팀을 구성하고, 신입사원을 통합하고, 참여를 구축하세요. 직접 Microsoft Teams. |
+| 앱의 핵심 기능 | 커넥트 팀을 구성하고, 신입사원을 통합하고, 참여를 구축합니다. 직접 Microsoft Teams. |
 | 회사 본사 위치 | 독일 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.yuccahr.com/product](https://www.yuccahr.com/product) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -125,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -164,18 +165,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | application | 일치하는 당사자에 대한 일정 이벤트를 예약하는 경우 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
->| Channel.ReadBasic.All | application | 웹 응용 프로그램에 채널 이름 표시 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
->| ChannelMember.Read.All | application | 채널 내의 사람 또는 다른 채널과 일치 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
->| Group.Read.All | application | 웹 응용 프로그램에 팀 이름 표시 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
->| MailboxSettings.Read | application | 사용자가 원하는 언어를 얻으시다가 메시지를 보낼 때 | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
->| User.Read.All | application | 사용자가 직접 채팅할 수 있도록 적응형 카드를 생성하는 데 전자 메일이 필요합니다. | [815a5165-fd61-44b8-be99-6301f780bd68](https://docs.microsoft.com/microsoft-365-app-certification/azure/815a5165-fd61-44b8-be99-6301f780bd68) |
+>| Calendars.ReadWrite | application | 일치하는 당사자에 대한 일정 이벤트를 예약하는 경우 | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
+>| Channel.ReadBasic.All | application | 웹 응용 프로그램에 채널 이름 표시 | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
+>| ChannelMember.Read.All | application | 채널 내의 사람 또는 다른 채널과 일치 | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
+>| Group.Read.All | application | 웹 응용 프로그램에 팀 이름 표시 | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
+>| MailboxSettings.Read | application | 사용자가 원하는 언어를 얻으시다가 메시지를 보낼 때 | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
+>| User.Read.All | application | 사용자가 직접 채팅할 수 있도록 적응형 카드를 생성하는 데 전자 메일이 필요합니다. | [815a5165-fd61-44b8-be99-6301f780bd68](../azure/815a5165-fd61-44b8-be99-6301f780bd68.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -2,18 +2,19 @@
 title: Tendfor의 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Tendfor, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: baf74e60015e41621c070103154d92432d7abdb9
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: ac7e3d8cd1e9a9cf851107f49d7ec305b8292759
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080612"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536386"
 ---
 # <a name="tendfor"></a>Tendfor
 
@@ -39,7 +40,7 @@ Tendfor에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://tendfor.com/tendfor_docs/en/StandardContractMarch20...](https://tendfor.com/tendfor_docs/en/StandardContractMarch2019.pdf) |
 | 앱의 핵심 기능 | 모든 기능이 지원되는 연락처 센터 및 전화 Microsoft Teams. |
 | 회사 본사 위치 | 스웨덴 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.tendfor.com](https://www.tendfor.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -60,7 +61,7 @@ Tendfor에서 Microsoft에 제공한 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 사용자 프로필 데이터, 사용자 일정 데이터 |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 네덜란드(the) |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 30일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
@@ -170,9 +171,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 위임 | 사용자 로그인을 위해 | [b7e8237f-d86d-4874-8f8b-7faa8f768436](https://docs.microsoft.com/microsoft-365-app-certification/azure/b7e8237f-d86d-4874-8f8b-7faa8f768436) |
->| User.Read.All | application | 사용자 정보를 가져올 수 있도록 설정 | [b7e8237f-d86d-4874-8f8b-7faa8f768436](https://docs.microsoft.com/microsoft-365-app-certification/azure/b7e8237f-d86d-4874-8f8b-7faa8f768436) |
->| User.Read.All | 위임 | 사용자 정보를 가져올 수 있도록 설정 | [b7e8237f-d86d-4874-8f8b-7faa8f768436](https://docs.microsoft.com/microsoft-365-app-certification/azure/b7e8237f-d86d-4874-8f8b-7faa8f768436) |
+>| User.Read | 위임 | 사용자 로그인을 위해 | [b7e8237f-d86d-4874-8f8b-7faa8f768436](../azure/b7e8237f-d86d-4874-8f8b-7faa8f768436.md) |
+>| User.Read.All | application | 사용자 정보를 가져올 수 있도록 설정 | [b7e8237f-d86d-4874-8f8b-7faa8f768436](../azure/b7e8237f-d86d-4874-8f8b-7faa8f768436.md) |
+>| User.Read.All | 위임 | 사용자 정보를 가져올 수 있도록 설정 | [b7e8237f-d86d-4874-8f8b-7faa8f768436](../azure/b7e8237f-d86d-4874-8f8b-7faa8f768436.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

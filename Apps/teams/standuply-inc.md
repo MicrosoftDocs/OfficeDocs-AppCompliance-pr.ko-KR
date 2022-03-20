@@ -2,18 +2,19 @@
 title: 응용 프로그램 독립 실행형 Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 독립 실행형, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 3b7292e010ad6e244f4d5e6cdddb9b357520ca94
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 84d9c34f023fd8e4a9247de46443b711b33472c8
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252244"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63537966"
 ---
 # <a name="standuply"></a>Standuply
 
@@ -38,9 +39,9 @@ ms.locfileid: "62252244"
 | 파트너 회사 이름 | Standuply Inc. |
 | 회사의 웹 사이트 | [https://standuply.com](https://standuply.com) |
 | 앱 사용 약관 | [https://standuply.com/terms](https://standuply.com/terms) |
-| 앱의 핵심 기능 | 관리 프로세스를 독립적으로 자동화하고 팀의 생산성을 높이기 위한 내부 Q &amp; A 시스템을 제공합니다. |
+| 앱의 핵심 기능 | 관리 프로세스를 독립적으로 자동화하고 팀의 생산성을 높이기 위한 내부 QA&amp; 시스템을 제공합니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://standuply.com](https://standuply.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Aws |
 
@@ -125,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -165,14 +166,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| MailboxSettings.Read | application | 사용자에 대한 개별 타임존에 대한 보고서를 보내기 위해 | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](https://docs.microsoft.com/microsoft-365-app-certification/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176) |
->| User.Read | 위임 | 제품의 사용자에게 권한을 주시 | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](https://docs.microsoft.com/microsoft-365-app-certification/azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176) |
+>| MailboxSettings.Read | application | 사용자에 대한 개별 타임존에 대한 보고서를 보내기 위해 | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](../azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176.md) |
+>| User.Read | 위임 | 제품의 사용자에게 권한을 주시 | [e9f5cb58-89eb-4f80-9a6c-b73823b62176](../azure/e9f5cb58-89eb-4f80-9a6c-b73823b62176.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -2,18 +2,19 @@
 title: iGlobe의 iPlanner Pro Office 365 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: iPlanner의 모든 보안 및 규정 Pro Office 365, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보.
-zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8108a956e529bc0e80061f961a29cac4adc34d2c
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
+ms.openlocfilehash: 38e21a3059ce7b63b761e85226377c28062a8a7e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63079932"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553017"
 ---
 # <a name="iplanner-pro-office-365"></a>iPlanner Pro Office 365
 
@@ -37,8 +38,9 @@ iGlobe에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://iglobecrm.com/content/end-user-license-agreement-ig...](https://iglobecrm.com/content/end-user-license-agreement-iglobe-iplanner-add-ins) |
 | 앱의 핵심 기능 | Planner 작업의 Office 365 Teams 디바이스에서 손 끝에 있는 Planner &amp; Outlook 확인합니다. 작업 관리 및 만들기가 그 한 번 더 쉬워졌습니다. Planner 작업의 Office 365 Teams, &amp; MAC, IOS 또는 웹 메일에 Outlook Windows 있습니다. |
 | 회사 본사 위치 | 덴마크 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://planner.iglobe.dk](https://planner.iglobe.dk) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,14 +55,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 즉시 삭제 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,17 +159,54 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Contacts.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Files.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| User.ReadBasic.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
->| 프로필 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b) |
+>| Calendars.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Contacts.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Files.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| User.ReadBasic.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
+>| 프로필 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [a6f5c2f4-0bc2-48bf-8afe-6c93583a152b](../azure/a6f5c2f4-0bc2-48bf-8afe-6c93583a152b.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
+
+[!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
+
+::: zone-end
+
+::: zone pivot="certification"
+
+### <a name="certification-information"></a>인증 정보
+
+| **제어** | **Microsoft 365 인증 결과** |
+|:------------|:---------------------------------------|
+| [**응용 프로그램 보안**](../docs/certification-submission-guide.md#application-security) | **해당 없음** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;침투 테스트 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;취약점 평가 검토(DAST/SAST/침투 테스트) | 해당 없음 |
+| [**운영 보안**](../docs/certification-submission-guide.md#operational-security) | **해당 없음** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;맬웨어 보호 - 바이러스 백신 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;맬웨어 보호 - 응용 프로그램 제어 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;패치 관리 - 위험 순위 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;패치 관리 - 패치 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;취약점 검사 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;방화벽 - 방화벽(또는 동등한 기술) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;방화벽 - WAF(웹 응용 프로그램 방화벽)(선택 사항) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;변경 컨트롤 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 소프트웨어 개발/배포 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;계정 관리 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;침입 감지 및 방지(선택 사항) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 이벤트 로깅 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;검토(로깅 데이터) | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;보안 이벤트 경고 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;정보 보안 위험 관리 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;인시던트 대응 | 해당 없음 |
+| [**데이터 처리 보안 개인 정보 &amp;**](../docs/certification-submission-guide.md#data-handling-security-and-privacy) | **해당 없음** |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;전송 중 데이터 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;미사시 데이터 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터 보존 및 폐기 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;데이터 액세스 관리 | 해당 없음 |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GDPR | 해당 없음 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

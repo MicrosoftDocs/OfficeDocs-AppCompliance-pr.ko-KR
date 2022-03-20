@@ -2,18 +2,19 @@
 title: SWOOP Analytics Pty Ltd의 SWOOP 분석에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SWOOP Analytics에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 78a730924782ad8cd2f833bf3c4ee3a8a26d9fe5
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 406eb5a15fc2fc07f2746a6a33953869c2bd0db7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081384"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553087"
 ---
 # <a name="swoop-analytics"></a>SWOOP Analytics
 
@@ -40,9 +41,8 @@ SWOOP Analytics Pty Ltd에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://www.swoopanalytics.com/terms](https://www.swoopanalytics.com/terms) |
 | 앱의 핵심 기능 | SWOOP Analytics는 전 세계의 직원과 리더가 개인 및 엔터프라이즈 데이터를 사용하여 디지털 작업 공간에서 성공할 수 있는 역량을 제공합니다. 당사는 Facebook의 Microsoft Teams, Yammer 및 Workplace의 콘텐츠와 관계를 분석하여 조직에 심도 깊은 공동 작업 및 행동 통찰력을 제공합니다. 더 나은 비즈니스 결과에 도달하고 공동 작업 효율성에 대한 정보를 토로한 의사 결정을 내리기 위해 행동을 조정하는 데 도움이 됩니다. |
 | 회사 본사 위치 | 오스트레일리아 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.swoopanalytics.com](https://www.swoopanalytics.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | IsvHosted |
-| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,14 +57,7 @@ SWOOP Analytics Pty Ltd에서 Microsoft에 제공한 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 아니요 |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? |  |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -168,38 +161,38 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 둘 다 | 사용자 분석을 제공 | [39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db](https://docs.microsoft.com/microsoft-365-app-certification/azure/39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db) |
->| User.Read | 둘 다 | 사용자 분석을 제공 | [39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db](https://docs.microsoft.com/microsoft-365-app-certification/azure/39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db) |
->| ChannelMessage.Read.All | 둘 다 | 채널 분석을 제공 | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| Directory.Read.All | 둘 다 | 사용자 분석을 제공 | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| Group.Read.All | 둘 다 | 분석을 제공 | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| Reports.Read.All | 둘 다 | 를 사용하여 분석을 제공합니다. | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| User.Read | 둘 다 | 사용자 분석을 제공 | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| User.Read.All | 둘 다 | 사용자 분석을 제공 | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](https://docs.microsoft.com/microsoft-365-app-certification/azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d) |
->| ChannelMessage.Read.All | 둘 다 | 채널 분석을 제공 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| Files.Read.All | 둘 다 | 파일 분석을 제공하려면 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| Group.Read.All | 둘 다 | 사용자 분석을 제공 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| Reports.Read.All | 둘 다 | 보고 분석을 제공 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| User.Read | 둘 다 | 사용자 분석을 제공 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| User.Read.All | 둘 다 | 사용자 분석을 제공 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](https://docs.microsoft.com/microsoft-365-app-certification/azure/ad38b691-43a7-4261-8ad6-f6ebbb229116) |
->| ChannelMessage.Read.All | 둘 다 | 채널 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| Chat.Read.All | 둘 다 | 채팅 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| Directory.Read.All | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| Group.Read.All | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| Reports.Read.All | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| TeamsAppInstallation.ReadForUser.All | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| User.Read | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| User.Read.All | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](https://docs.microsoft.com/microsoft-365-app-certification/azure/c6257830-ff1a-4e7f-86ca-da35c0278de2) |
->| ChannelMessage.Read.All | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| Directory.Read.All | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| Directory.Read.All | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| Group.Read.All | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| User.Read | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| User.Read.All | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](https://docs.microsoft.com/microsoft-365-app-certification/azure/e208746a-2666-4d95-b925-e2ff64b3181d) |
->| Group.Read.All | 둘 다 | 사용자 분석을 제공 | [f4609298-6163-4ae3-9366-72a9d9c4c854](https://docs.microsoft.com/microsoft-365-app-certification/azure/f4609298-6163-4ae3-9366-72a9d9c4c854) |
->| People.Read | 둘 다 | 사용자 분석을 제공 | [f4609298-6163-4ae3-9366-72a9d9c4c854](https://docs.microsoft.com/microsoft-365-app-certification/azure/f4609298-6163-4ae3-9366-72a9d9c4c854) |
->| User.Read | 둘 다 | 사용자 분석을 제공 | [f4609298-6163-4ae3-9366-72a9d9c4c854](https://docs.microsoft.com/microsoft-365-app-certification/azure/f4609298-6163-4ae3-9366-72a9d9c4c854) |
->| User.ReadBasic.All | 둘 다 | 사용자 분석을 제공 | [f4609298-6163-4ae3-9366-72a9d9c4c854](https://docs.microsoft.com/microsoft-365-app-certification/azure/f4609298-6163-4ae3-9366-72a9d9c4c854) |
+>| Directory.Read.All | 둘 다 | 사용자 분석을 제공 | [39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db](../azure/39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db.md) |
+>| User.Read | 둘 다 | 사용자 분석을 제공 | [39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db](../azure/39cb9f28-b9d0-4bf7-a4f4-d9e38508a0db.md) |
+>| ChannelMessage.Read.All | 둘 다 | 채널 분석을 제공 | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| Directory.Read.All | 둘 다 | 사용자 분석을 제공 | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| Group.Read.All | 둘 다 | 분석을 제공 | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| Reports.Read.All | 둘 다 | 를 사용하여 분석을 제공합니다. | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| User.Read | 둘 다 | 사용자 분석을 제공 | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| User.Read.All | 둘 다 | 사용자 분석을 제공 | [49bdbb27-4c8b-4ec9-9812-5ed59027c70d](../azure/49bdbb27-4c8b-4ec9-9812-5ed59027c70d.md) |
+>| ChannelMessage.Read.All | 둘 다 | 채널 분석을 제공 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| Files.Read.All | 둘 다 | 파일 분석을 제공하려면 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| Group.Read.All | 둘 다 | 사용자 분석을 제공 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| Reports.Read.All | 둘 다 | 보고 분석을 제공 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| User.Read | 둘 다 | 사용자 분석을 제공 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| User.Read.All | 둘 다 | 사용자 분석을 제공 | [ad38b691-43a7-4261-8ad6-f6ebbb229116](../azure/ad38b691-43a7-4261-8ad6-f6ebbb229116.md) |
+>| ChannelMessage.Read.All | 둘 다 | 채널 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| Chat.Read.All | 둘 다 | 채팅 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| Directory.Read.All | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| Group.Read.All | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| Reports.Read.All | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| TeamsAppInstallation.ReadForUser.All | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| User.Read | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| User.Read.All | 둘 다 | 사용자 분석을 제공 | [c6257830-ff1a-4e7f-86ca-da35c0278de2](../azure/c6257830-ff1a-4e7f-86ca-da35c0278de2.md) |
+>| ChannelMessage.Read.All | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| Directory.Read.All | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| Directory.Read.All | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| Group.Read.All | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| User.Read | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| User.Read.All | 둘 다 | 사용자 분석을 제공 | [e208746a-2666-4d95-b925-e2ff64b3181d](../azure/e208746a-2666-4d95-b925-e2ff64b3181d.md) |
+>| Group.Read.All | 둘 다 | 사용자 분석을 제공 | [f4609298-6163-4ae3-9366-72a9d9c4c854](../azure/f4609298-6163-4ae3-9366-72a9d9c4c854.md) |
+>| People.Read | 둘 다 | 사용자 분석을 제공 | [f4609298-6163-4ae3-9366-72a9d9c4c854](../azure/f4609298-6163-4ae3-9366-72a9d9c4c854.md) |
+>| User.Read | 둘 다 | 사용자 분석을 제공 | [f4609298-6163-4ae3-9366-72a9d9c4c854](../azure/f4609298-6163-4ae3-9366-72a9d9c4c854.md) |
+>| User.ReadBasic.All | 둘 다 | 사용자 분석을 제공 | [f4609298-6163-4ae3-9366-72a9d9c4c854](../azure/f4609298-6163-4ae3-9366-72a9d9c4c854.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

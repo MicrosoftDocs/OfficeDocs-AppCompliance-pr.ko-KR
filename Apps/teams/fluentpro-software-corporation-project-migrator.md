@@ -1,19 +1,20 @@
 ---
-title: FluentPro Software Corporation의 Project 마이그레이션에 대한 응용 프로그램 정보
+title: FluentPro software corporation의 Project 마이그레이션에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 Project 마이그레이션자, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
+description: CSA STAR 레지스트리의 Project 마이그레이션자, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d575f58d47edb104deba3138697d8c948e35e980
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5a46cd25678376abbb92734b3fd4a36292687fb9
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250122"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540014"
 ---
 # <a name="project-migrator"></a>Project Migrator
 
@@ -38,10 +39,11 @@ FluentPro Software Corporation에서 Microsoft에 제공하는 정보:
 | 파트너 회사 이름 | FluentPro Software Corporation |
 | 회사의 웹 사이트 | [https://projectmigrator.com](https://projectmigrator.com) |
 | 앱 사용 약관 | [https://projectmigrator.com/terms-of-use](https://projectmigrator.com/terms-of-use) |
-| 앱의 핵심 기능 | Project 마이그레이션은 자동화된 데이터 마이그레이션 소프트웨어입니다. Microsoft Planner, Trello, Asana, Microsoft Project Online, web, Project 및 Smartsheets 마이그레이션과 같은 가장 인기 있는 프로젝트 관리 Monday.com 여러 마이그레이션 시나리오를 지원합니다. Project Migrator는 회사에서 가장 인기 있는 프로젝트 관리 도구 간에 프로젝트를 마이그레이션하는 데 도움이 되는 완전 자동화, 사용하기 쉬운 클라우드 기반 및 번개 소프트웨어를 제공합니다. |
+| 앱의 핵심 기능 | Project 마이그레이션은 자동화된 데이터 마이그레이션 소프트웨어입니다. Microsoft Planner, Trello, Asana, Microsoft Project Online, 웹, Project 및 스마트시트 마이그레이션과 같은 가장 인기 있는 Project 여러 마이그레이션 Monday.com 시나리오를 지원합니다. Project Migrator는 회사에서 가장 인기 있는 프로젝트 관리 도구 간에 프로젝트를 마이그레이션하는 데 도움이 되는 완전 자동화되고 사용하기 쉬운 클라우드 기반 소프트웨어입니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://help.fluentpro.com/147404-project-migrator](https://help.fluentpro.com/147404-project-migrator) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ FluentPro Software Corporation에서 Microsoft에 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 2주년 내에 삭제되었습니다. |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,19 +155,19 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 위임 | 다른 테넌트로 마이그레이션하기 위해 그룹 및 구성원을 읽습니다. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| Group.ReadWrite.All | 위임 | 그룹 이름, 구성원, 계획 및 작업 Planner 데이터 마이그레이션에 그룹, 계획 및 작업 정보를 사용합니다. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| Sites.ReadWrite.All | 위임 | MS planner SharePoint 첨부 파일에 대한 문서 마이그레이션 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| User.Read | 위임 | 계정에 연결된 MS Planner 마이그레이션 요약 정보를 저장하는 UPN입니다. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| User.ReadBasic.All | 위임 | 사용자 정보를 사용하여 MS Planner 작업 배정 및 그룹 구성원 자격을 마이그레이션합니다. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| offline_access | 위임 | 새로 고침 및 액세스 토큰은 MS Planner 데이터에 액세스하는 데 사용됩니다. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](https://docs.microsoft.com/microsoft-365-app-certification/azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa) |
->| User.Read | 위임 | 이름, 성, 회사 이름, 전화, 회사 전자 메일입니다. 등록 및 인증 프로세스에 사용되는 이 데이터입니다. | [c36d31a2-8de1-4eb5-9e7d-01da45244c04](https://docs.microsoft.com/microsoft-365-app-certification/azure/c36d31a2-8de1-4eb5-9e7d-01da45244c04) |
+>| Directory.Read.All | 위임 | 다른 테넌트로 마이그레이션하기 위해 그룹 및 구성원을 읽습니다. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| Group.ReadWrite.All | 위임 | 그룹 이름, 구성원, 계획 및 작업 Planner 데이터 마이그레이션에 그룹, 계획 및 작업 정보를 사용합니다. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| Sites.ReadWrite.All | 위임 | MS Planner SharePoint 첨부 파일에 대한 문서 마이그레이션 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| User.Read | 위임 | 계정에 연결된 MS Planner 마이그레이션 요약 정보를 저장하는 UPN입니다. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| User.ReadBasic.All | 위임 | 사용자 정보를 사용하여 MS Planner 작업 배정 및 그룹 구성원 자격을 마이그레이션합니다. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| offline_access | 위임 | 새로 고침 및 액세스 토큰은 MS Planner 데이터에 액세스하는 데 사용됩니다. | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](../azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) |
+>| User.Read | 위임 | 이름, 성, 회사 이름, 전화, 회사 전자 메일입니다. 등록 및 인증 프로세스에 사용되는 이 데이터입니다. | [c36d31a2-8de1-4eb5-9e7d-01da45244c04](../azure/c36d31a2-8de1-4eb5-9e7d-01da45244c04.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

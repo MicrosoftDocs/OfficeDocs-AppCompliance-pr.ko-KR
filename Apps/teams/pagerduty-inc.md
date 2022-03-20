@@ -2,18 +2,19 @@
 title: PagerDuty, Inc.의 PagerDuty에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: PagerDuty, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ce084b52bb1159f417649bc8283cab4a1edc8f34
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 8b41c097db43cbce711f7a06dc44147e3aa367cd
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62264755"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539934"
 ---
 # <a name="pagerduty"></a>PagerDuty
 
@@ -38,10 +39,11 @@ PagerDuty, Inc.에서 Microsoft에 제공한 정보:
 | 파트너 회사 이름 | PagerDuty, Inc. |
 | 회사의 웹 사이트 | [https://www.pagerduty.com](https://www.pagerduty.com) |
 | 앱 사용 약관 | [https://www.pagerduty.com/service-terms-use/](https://www.pagerduty.com/service-terms-use/) |
-| 앱의 핵심 기능 | 실시간 작업을 실행합니다. 이 작업을 통해 직접 인시던트 트리거, 보기, 확인 및 Teams. |
+| 앱의 핵심 기능 | 실시간 연산을 주도: 인시던트 트리거, 보기, 확인 및 문제 Teams. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.pagerduty.com/integrations/microsoft-teams](https://www.pagerduty.com/integrations/microsoft-teams) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ PagerDuty, Inc.에서 Microsoft에 제공한 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 보존 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 예 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,32 +155,32 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| OnlineMeetings.ReadWrite | 위임 | 모임 만들기/응답에서 이러한 필드(예: join_web_url, audioConferencing)를 사용하고 있습니다. 이러한 필드는 모임 또는 모임에서 연결하는 다른 방법에 대한 링크를 사용자에게 표시하는 데 필요합니다. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsAppInstallation.ReadForTeam | 위임 | 채팅에 pagerduty 앱을 추가하는 데 사용. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsAppInstallation.ReadWriteForTeam.All | 위임 | 채팅에 pagerduty 앱을 추가하는 데 사용. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| TeamsTab.ReadWrite.All | 위임 | 모임에서 pagerduty 앱을 탭으로 추가하는 데 사용 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| User.Read | 위임 | 데이터가 사용됩니다. id, userPrincipalName . Microsoft Teams 사용자가 모임에 참가자로 추가하게 하는 데 사용됩니다. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| User.ReadBasic.All | 위임 | 데이터가 사용됩니다. id, userPrincipalName . Microsoft Teams 사용자가 모임에 참가자로 추가하게 하는 데 사용됩니다. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| 전자 메일 | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| offline_access | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| openid | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| 프로필 | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](https://docs.microsoft.com/microsoft-365-app-certification/azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a) |
->| OnlineMeetings.ReadWrite | 위임 | 모임 만들기/응답에서 이러한 필드(예: join_web_url, audioConferencing)를 사용하고 있습니다. 이러한 필드는 모임 또는 모임에서 연결하는 다른 방법에 대한 링크를 사용자에게 표시하는 데 필요합니다. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsAppInstallation.ReadForTeam | 위임 | 채팅에 pagerduty 앱을 추가하는 데 사용. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsAppInstallation.ReadForTeam.All | 위임 | 채팅에 pagerduty 앱을 추가하는 데 사용. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| TeamsTab.ReadWrite.All | 위임 | 모임에서 pagerduty 앱을 탭으로 추가하는 데 사용 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| User.Read | 위임 | 데이터가 사용됩니다. id, userPrincipalName . Microsoft Teams 사용자가 모임에 참가자로 추가하게 하는 데 사용됩니다. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| User.ReadBasic.All | 위임 | 데이터가 사용됩니다. id, userPrincipalName . Microsoft Teams 사용자가 모임에 참가자로 추가하게 하는 데 사용됩니다. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| 전자 메일 | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| offline_access | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| openid | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
->| 프로필 | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](https://docs.microsoft.com/microsoft-365-app-certification/azure/8f79a561-d2f1-4a1e-8092-c2039043a40e) |
+>| OnlineMeetings.ReadWrite | 위임 | 모임 만들기/응답에서 이러한 필드(예: join_web_url, audioConferencing)를 사용하고 있습니다. 이러한 필드는 모임 또는 모임에서 연결하는 다른 방법에 대한 링크를 사용자에게 표시하는 데 필요합니다. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsAppInstallation.ReadForTeam | 위임 | 채팅에 pagerduty 앱을 추가하는 데 사용. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsAppInstallation.ReadWriteForTeam.All | 위임 | 채팅에 pagerduty 앱을 추가하는 데 사용. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| TeamsTab.ReadWrite.All | 위임 | 모임에서 pagerduty 앱을 탭으로 추가하는 데 사용 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| User.Read | 위임 | 데이터가 사용됩니다. id, userPrincipalName . Microsoft Teams 사용자가 모임에 참가자로 추가하게 하는 데 사용됩니다. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| User.ReadBasic.All | 위임 | 데이터가 사용됩니다. id, userPrincipalName . Microsoft Teams 사용자가 모임에 참가자로 추가하게 하는 데 사용됩니다. | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| 전자 메일 | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| offline_access | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| openid | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| 프로필 | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](../azure/05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) |
+>| OnlineMeetings.ReadWrite | 위임 | 모임 만들기/응답에서 이러한 필드(예: join_web_url, audioConferencing)를 사용하고 있습니다. 이러한 필드는 모임 또는 모임에서 연결하는 다른 방법에 대한 링크를 사용자에게 표시하는 데 필요합니다. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsAppInstallation.ReadForTeam | 위임 | 채팅에 pagerduty 앱을 추가하는 데 사용. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsAppInstallation.ReadForTeam.All | 위임 | 채팅에 pagerduty 앱을 추가하는 데 사용. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| TeamsTab.ReadWrite.All | 위임 | 모임에서 pagerduty 앱을 탭으로 추가하는 데 사용 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| User.Read | 위임 | 데이터가 사용됩니다. id, userPrincipalName . Microsoft Teams 사용자가 모임에 참가자로 추가하게 하는 데 사용됩니다. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| User.ReadBasic.All | 위임 | 데이터가 사용됩니다. id, userPrincipalName . Microsoft Teams 사용자가 모임에 참가자로 추가하게 하는 데 사용됩니다. | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| 전자 메일 | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| offline_access | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| openid | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
+>| 프로필 | 위임 | 권한 부여 및 토큰 요청에 사용 데이터 사용: access_token, refresh_token, expires_in, 범위 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](../azure/8f79a561-d2f1-4a1e-8092-c2039043a40e.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

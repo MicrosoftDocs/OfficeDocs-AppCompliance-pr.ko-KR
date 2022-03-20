@@ -2,18 +2,19 @@
 title: 구조적 Inc. 구조적 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 구조적, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
+description: CSA STAR 레지스트리의 구조적, 데이터 처리 정책, 해당 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: dc7e32b020dae92b88f2324701c704d5d8303743
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: bcd2ab91502f7057f2a5fd7ec002b80120ac760f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62264005"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553067"
 ---
 # <a name="structural"></a>Structural
 
@@ -38,9 +39,9 @@ ms.locfileid: "62264005"
 | 파트너 회사 이름 | Structural Inc. |
 | 회사의 웹 사이트 | [https://www.structural.com](https://www.structural.com) |
 | 앱 사용 약관 | [https://www.structural.com/terms-of-service](https://www.structural.com/terms-of-service) |
-| 앱의 핵심 기능 | 커넥트 기회를 서로에게로 |
+| 앱의 핵심 기능 | 커넥트 서로에게 기회로 다가가기 |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.structural.com](https://www.structural.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS, GCP |
 
@@ -125,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 예 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -163,17 +164,17 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | 위임 | 예: Single Sign-On 중에 사용자를 인증합니다. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| 전자 메일 | 위임 | 예: Single Sign-On 중에 사용자를 인증합니다. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| offline_access | 위임 | 예: Single Sign-On 중에 사용자를 인증합니다. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| openid | 위임 | 예: Single Sign-On 중에 사용자를 인증합니다. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
->| 프로필 | 위임 | 예: Single Sign-On 중에 사용자를 인증합니다. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](https://docs.microsoft.com/microsoft-365-app-certification/azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae) |
+>| Directory.AccessAsUser.All | 위임 | 예: Single Sign-On 중에 사용자를 인증합니다. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| 전자 메일 | 위임 | 예: Single Sign-On 중에 사용자를 인증합니다. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| offline_access | 위임 | 예: Single Sign-On 중에 사용자를 인증합니다. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| openid | 위임 | 예: Single Sign-On 중에 사용자를 인증합니다. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
+>| 프로필 | 위임 | 예: Single Sign-On 중에 사용자를 인증합니다. | [fb6ddd39-35f2-4110-a45d-d2e73b946cae](../azure/fb6ddd39-35f2-4110-a45d-d2e73b946cae.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

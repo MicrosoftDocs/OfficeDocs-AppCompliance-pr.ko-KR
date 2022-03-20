@@ -2,18 +2,19 @@
 title: OnePlace 솔루션용 OnePlaceMail의 Outlook 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 Outlook OnePlaceMail, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
+description: CSA STAR 레지스트리의 Outlook OnePlaceMail, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 97716d5548180d2e1a4f59ecd9dfeaeb36ee99bf
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 16141496ee26fd338485f09b24004e866854be82
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250302"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553047"
 ---
 # <a name="oneplacemail-for-outlook"></a>OnePlaceMail for Outlook
 
@@ -33,14 +34,15 @@ OnePlace 솔루션에서 Microsoft에 제공하는 정보:
 |:----------------|:-------------|
 | 앱 이름 | OnePlaceMail for Outlook |
 | ID | WA104380723 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상은 Windows, Outlook 2016 이상, Outlook iOS, android, Outlook 웹용 Outlook |
+| Office 365 클라이언트 지원 | Outlook 2013 이상은 Windows, Outlook 2016 이상, Outlook iOS, Outlook Android, 웹용 Outlook |
 | 파트너 회사 이름 | OnePlace 솔루션 |
 | 회사의 웹 사이트 | [https://www.oneplacesolutions.com](https://www.oneplacesolutions.com) |
 | 앱 사용 약관 | [https://www.oneplacesolutions.com/eula.html](https://www.oneplacesolutions.com/eula.html) |
 | 앱의 핵심 기능 | OnePlaceMail을 사용하면 전자 메일 및 첨부 파일을 SharePoint, OneDrive Teams. 또한 전자 메일을 작성하는 SharePoint, OneDrive Teams 콘텐츠를 사용할 수 있습니다. |
 | 회사 본사 위치 | 오스트레일리아 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.oneplacesolutions.com/oneplacemail-sharepoint-a...](https://www.oneplacesolutions.com/oneplacemail-sharepoint-app-for-outlook.html) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ OnePlace 솔루션에서 Microsoft에 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 3month 이내에 삭제 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -121,7 +116,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -159,20 +154,20 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.ReadWrite.All | 위임 | 현재 Teams 구성원인지 확인하는 데 필요합니다. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| Mail.ReadWrite.Shared | 위임 | 메일 속성에 액세스하여 SharePoint 열을 설정하고 메일 항목에 전송된 SharePoint 범주를 추가하는 데 필요합니다. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| MailboxSettings.ReadWrite | 위임 | 수집되거나 사용되지 않습니다. 사용자 사서함의 마스터 범주 목록에 범주를 추가하는 데 사용됩니다. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| Sites.ReadWrite.All | 위임 | 앱이 앱에 업로드한 항목에 대한 속성을 설정하는 데 SharePoint. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.Read | 위임 | Microsoft 365에 대한 인증에 Graph. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.ReadBasic.All | 위임 | 사용자 선택 필드에 사용자 프로필 이미지를 표시하는 데 필요합니다. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.ReadBasic.All | 위임 | 사용자 선택 필드에 사용자 프로필 이미지를 표시하는 데 필요합니다. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
->| User.ReadWrite.All | 위임 | 테넌시의 사용자 내에서 Teams 서비스를 사용할 수 있는지 여부를 Office 365 필요합니다. | [44a72516-136f-4a55-ae26-ef09977230be](https://docs.microsoft.com/microsoft-365-app-certification/azure/44a72516-136f-4a55-ae26-ef09977230be) |
+>| Group.ReadWrite.All | 위임 | 현재 Teams 구성원인지 확인하는 데 필요합니다. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| Mail.ReadWrite.Shared | 위임 | 메일 속성에 액세스하여 SharePoint 열을 설정하고 메일 항목에 SharePoint 전송된 항목 범주를 추가하는 데 필요합니다. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| MailboxSettings.ReadWrite | 위임 | 수집되거나 사용되지 않습니다. 사용자 사서함의 마스터 범주 목록에 범주를 추가하는 데 사용됩니다. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| Sites.ReadWrite.All | 위임 | 앱이 앱에 업로드한 항목에 대한 속성을 설정하는 데 SharePoint. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.Read | 위임 | Microsoft 인증에 Graph. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.ReadBasic.All | 위임 | 사용자 선택 필드에 사용자 프로필 이미지를 표시하는 데 필요합니다. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.ReadBasic.All | 위임 | 사용자 선택 필드에 사용자 프로필 이미지를 표시하는 데 필요합니다. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
+>| User.ReadWrite.All | 위임 | 테넌시의 사용자 내에서 Teams 서비스가 사용하도록 설정되어 있는지 Office 365 필요합니다. | [44a72516-136f-4a55-ae26-ef09977230be](../azure/44a72516-136f-4a55-ae26-ef09977230be.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

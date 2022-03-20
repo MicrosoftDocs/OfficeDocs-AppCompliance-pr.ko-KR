@@ -2,18 +2,19 @@
 title: 기술베이스를 통해 웨이트에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/24/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Wats에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 49aba56648206ad302a6b078bb28ad3b055bbc5f
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 9de720a140a3e4118815305fd03245c2b3f63644
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251668"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63539864"
 ---
 # <a name="wats"></a>Wats
 
@@ -40,7 +41,7 @@ Skillbase에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://wats.ai/en/terms-of-use/](https://wats.ai/en/terms-of-use/) |
 | 앱의 핵심 기능 | 지식을 공유하고 액세스하기 위한 공동 작업 솔루션입니다. Wats를 통해 활발한 매너를 하세요! |
 | 회사 본사 위치 | 프랑스 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://wats.ai/solutions/](https://wats.ai/solutions/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -59,14 +60,7 @@ Skillbase에서 Microsoft에 제공한 정보:
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 예 |
 | 앱에서 처리되는 데이터는 무엇입니까? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? |  |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -125,7 +119,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -163,25 +157,25 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.Read | 위임 | 강의 des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Files.Read.All | 위임 | 강의 des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Group.Read.All | 위임 | avoir acc&#232;s aux groupes pour le ask for it | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Organization.Read.All | 위임 | recup&#233;rer le tenant ID pour bien configurer l'application WATS et g&#233;rer le cloisonnement des donn&#233;es | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Presence.Read | 위임 | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Presence.Read.All | 위임 | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| Sites.Read.All | 위임 | acces aux infos des sharepoints | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| TeamsActivity.Send | 둘 다 | envoie d'activit&#233;s aux utilisateurs quand un ask for it est cr&#233;&#233; | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| User.Read | 위임 | 로그인 | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| User.Read.All | 위임 | info sur les autres utilisateurs | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| offline_access | 위임 | 휴대폰 | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| openid | 위임 | OBO | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
->| 프로필 | 위임 | info sur l'utilisateur | [f9eaef18-fbd1-4045-b417-c26598755298](https://docs.microsoft.com/microsoft-365-app-certification/azure/f9eaef18-fbd1-4045-b417-c26598755298) |
+>| Files.Read | 위임 | 강의 des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Files.Read.All | 위임 | 강의 des fichiers sharepoint | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Group.Read.All | 위임 | avoir acc&#232;s aux groupes pour le ask for it | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Organization.Read.All | 위임 | recup&#233;rer le tenant ID pour bien configurer l'application WATS et g&#233;rer le cloisonnement des donn&#233;es | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Presence.Read | 위임 | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Presence.Read.All | 위임 | afficher, comme sur les apps office, si un utilisateur est connect&#233; ou pas | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| Sites.Read.All | 위임 | acces aux infos des sharepoints | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| TeamsActivity.Send | 둘 다 | envoie d'activit&#233;s aux utilisateurs quand un ask for it est cr&#233;&#233; | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| User.Read | 위임 | 로그인 | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| User.Read.All | 위임 | info sur les autres utilisateurs | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| offline_access | 위임 | 휴대폰 | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| openid | 위임 | OBO | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
+>| 프로필 | 위임 | info sur l'utilisateur | [f9eaef18-fbd1-4045-b417-c26598755298](../azure/f9eaef18-fbd1-4045-b417-c26598755298.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

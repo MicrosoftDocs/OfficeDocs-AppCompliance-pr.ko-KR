@@ -2,18 +2,19 @@
 title: YATTEE Inc.의 Canary에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/23/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Canary에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
+description: Canary에 사용할 수 있는 모든 보안 및 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b9702c280c874437826c4fd760f22b27359e1006
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a53e32f6826c21c73432e2c0bac40671ca14714d
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62261204"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540406"
 ---
 # <a name="canary"></a>카나리아
 
@@ -40,7 +41,7 @@ YATTEE Inc.에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://www.yattee.co.jp/company/term-of-use/](https://www.yattee.co.jp/company/term-of-use/) |
 | 앱의 핵심 기능 | &#12459;&#12524;&#12531;&#12480;&#12540;&#22411;&#12473;&#12465;&#12472;&#12517;&#12540;&#12523;&#31649;&#29702;&#12450;&#12503;&#12522;&#12391;&#12377;&#12290;&#20104;&#23450;&#12398;&#26178;&#38291;&#12364;&#36817;&#12367;&#12394;&#12427;&#12392;&#12289;&#12473;&#12510;&#12540;&#12488;&#12501;&#12457;&#12531;&#12408;&#12398;&#38899;&#22768;&#36890;&#30693;&#12394;&#12393;&#12289;&#12354;&#12425;&#12422;&#12427;&#12450;&#12521;&#12540;&#12488;&#12364;&#35373;&#23450;&#12391;&#12365;&#12427;&#12398;&#12391;&#12289;&#12358;&#12387;&#12363;&#12426;&#24536;&#12428;&#12434;&#38450;&#12366;&#12414;&#12377;&#12290; |
 | 회사 본사 위치 | 일본 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.yattee.co.jp/canary-signin/](https://www.yattee.co.jp/canary-signin/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure, Aws |
 
@@ -125,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 아니요 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 아니요 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 아니요 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 아니요 |
 | 앱이 NIST 800-171을 준수하나요? | 아니요 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -163,13 +164,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calls.JoinGroupCallasGuest.All | application | &#12518;&#12540;&#12470;&#12540;&#12408;&#12398;&#36890;&#35441;&#12434;&#34892;&#12358;&#12383;&#12417; | [626ce0a3-4620-483d-953d-53b106b9ffad](https://docs.microsoft.com/microsoft-365-app-certification/azure/626ce0a3-4620-483d-953d-53b106b9ffad) |
+>| Calls.JoinGroupCallasGuest.All | application | &#12518;&#12540;&#12470;&#12540;&#12408;&#12398;&#36890;&#35441;&#12434;&#34892;&#12358;&#12383;&#12417; | [626ce0a3-4620-483d-953d-53b106b9ffad](../azure/626ce0a3-4620-483d-953d-53b106b9ffad.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

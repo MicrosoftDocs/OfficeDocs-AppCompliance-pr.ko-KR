@@ -2,18 +2,19 @@
 title: DELTAoverC의 DELTAoverC에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/30/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: DELTAoverC, 해당 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: DELTAoverC, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 80273bfba0db86b443e84b46343ab6b04a264ac8
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 315d62622741a685849ee679d584624ccce19d75
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259684"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538176"
 ---
 # <a name="deltaoverc"></a>DELTAoverC
 
@@ -40,7 +41,7 @@ DELTAoverC에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://go.microsoft.com](https://go.microsoft.com) |
 | 앱의 핵심 기능 | DELTAoverC는 변경 이니셔티브 중에 내부 리더에게 실행 가능한 팀 수준 데이터를 제공하여 조직 변경 및 변환을 지원하도록 디자인된 후 변경 저항 영역이나 낮은 참여 영역을 효과적으로 해결할 수 있도록 합니다. 참여 최대화 - 중단 중에 팀이 번성할 수 있도록 실시간으로 참여 점수를 추적합니다. 위험 및 노력 줄이기 - 이러한 나선형이 주요 과제로 되기 전에 문제를 예상하기 위한 직원 수준 데이터를 분석합니다. |
 | 회사 본사 위치 | 캐나다 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://DELTAoverC.info/change-application](https://DELTAoverC.info/change-application) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -57,14 +58,7 @@ DELTAoverC에서 Microsoft에 제공한 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 아니요 |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? |  |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -123,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -162,18 +156,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | 둘 다 | 모든 그룹 읽기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
->| Group.ReadWrite.All | 둘 다 | 모든 그룹 읽기 및 쓰기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
->| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
->| User.Read.All | application | 모든 사용자 전체 프로필 읽기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
->| User.ReadWrite | 위임 | 사용자 프로필에 대한 읽기 및 쓰기 액세스 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
->| User.ReadWrite.All | 둘 다 | 모든 사용자 전체 프로필 읽기 및 쓰기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](https://docs.microsoft.com/microsoft-365-app-certification/azure/8b893db3-8c29-4983-b905-ee0b3daa6a46) |
+>| Group.Read.All | 둘 다 | 모든 그룹 읽기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
+>| Group.ReadWrite.All | 둘 다 | 모든 그룹 읽기 및 쓰기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
+>| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
+>| User.Read.All | application | 모든 사용자 전체 프로필 읽기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
+>| User.ReadWrite | 위임 | 사용자 프로필에 대한 읽기 및 쓰기 액세스 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
+>| User.ReadWrite.All | 둘 다 | 모든 사용자 전체 프로필 읽기 및 쓰기 | [8b893db3-8c29-4983-b905-ee0b3daa6a46](../azure/8b893db3-8c29-4983-b905-ee0b3daa6a46.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -1,19 +1,20 @@
 ---
-title: Neelix.Team의 응용 프로그램 Neelix.IO
+title: Application Information for Neelix.Team by Neelix.IO
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Neelix.Team, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: Neelix.Team에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ca9cdd0cbf9cd6c3a431e5b3864fcaf1170c8346
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 1af40c59e7c72991a3e127cb37996155f2c67499
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253594"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63553177"
 ---
 # <a name="neelixteam"></a>Neelix.Team
 
@@ -40,8 +41,9 @@ Microsoft에 Neelix.IO 제공한 정보:
 | 앱 사용 약관 | [https://www.neelix.io/terms-of-use-en](https://www.neelix.io/terms-of-use-en) |
 | 앱의 핵심 기능 | Neelix 플랫폼은 피드백 루프를 전체 주기로 관리합니다. 사용자는 진행하는 환경, 피드백 및 정서에 대한 의견을 팀의 저널에 채널링할 수 있습니다. |
 | 회사 본사 위치 | 오스트레일리아 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.neelix.team](https://www.neelix.team) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,19 +53,12 @@ Microsoft에 Neelix.IO 제공한 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 Neelix.IO 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 컨트롤에 대한 정보를 제공합니다.
+이 정보는 Neelix.IO 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 즉시 삭제 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,18 +155,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | 위임 | 앱에서는 MS Treams에서 피드백을 보낼 때 사용자에게 기본 기본 설정을 관리하기 위한 편의를 제공하기 위해 채널 ID 및 이름을 사용함 | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |
->| Team.ReadBasic.All | 위임 | 앱에서는 MS Treams에서 피드백을 보낼 때 사용자에게 기본 기본 설정을 관리하기 위한 편의를 제공하기 위해 팀 ID 및 이름을 사용함 | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |
->| 전자 메일 | 위임 | 전자 메일은 Neelix 내에서 사용자 등록의 일부로 사용됩니다. 초기 등록 후 전자 메일이 알림에 사용됩니다.  | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |
->| offline_access | 위임 | 새로 고침 토큰을 사용하는 데 사용됩니다. | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |
->| 프로필 | 위임 | 사용자 이름은 Neelix에 등록할 때 사용자 계정을 만드는 데 사용됩니다.  | [6996cad6-a969-487a-9182-f4dc4c6c8803](https://docs.microsoft.com/microsoft-365-app-certification/azure/6996cad6-a969-487a-9182-f4dc4c6c8803) |
->| User.Read | 위임 | 봇 앱은 Neelix 핵심 플랫폼에서 사용자를 식별할 수 있도록 정보 사용자를 보낼 수 있도록 user.read를 사용 | [bed170ee-dbd7-4efa-b48e-b0937ded1689](https://docs.microsoft.com/microsoft-365-app-certification/azure/bed170ee-dbd7-4efa-b48e-b0937ded1689) |
+>| Channel.ReadBasic.All | 위임 | 앱에서는 MS Treams에서 피드백을 보낼 때 사용자에게 기본 기본 설정을 관리하기 위한 편의를 제공하기 위해 채널 ID 및 이름을 사용함 | [6996cad6-a969-487a-9182-f4dc4c6c8803](../azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md) |
+>| Team.ReadBasic.All | 위임 | 앱에서는 MS Treams에서 피드백을 보낼 때 사용자에게 기본 기본 설정을 관리하기 위한 편의를 제공하기 위해 팀 ID 및 이름을 사용함 | [6996cad6-a969-487a-9182-f4dc4c6c8803](../azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md) |
+>| 전자 메일 | 위임 | 전자 메일은 Neelix 내에서 사용자 등록의 일부로 사용됩니다. 초기 등록 후 전자 메일이 알림에 사용됩니다.  | [6996cad6-a969-487a-9182-f4dc4c6c8803](../azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md) |
+>| offline_access | 위임 | 새로 고침 토큰을 사용하는 데 사용됩니다. | [6996cad6-a969-487a-9182-f4dc4c6c8803](../azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md) |
+>| 프로필 | 위임 | 사용자 이름은 Neelix에 등록할 때 사용자 계정을 만드는 데 사용됩니다.  | [6996cad6-a969-487a-9182-f4dc4c6c8803](../azure/6996cad6-a969-487a-9182-f4dc4c6c8803.md) |
+>| User.Read | 위임 | 봇 앱은 Neelix 핵심 플랫폼에서 사용자를 식별할 수 있도록 정보 사용자를 보낼 수 있도록 user.read를 사용 | [bed170ee-dbd7-4efa-b48e-b0937ded1689](../azure/bed170ee-dbd7-4efa-b48e-b0937ded1689.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

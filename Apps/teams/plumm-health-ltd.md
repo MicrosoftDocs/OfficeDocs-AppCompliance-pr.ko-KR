@@ -2,18 +2,19 @@
 title: Plumm Health LTD의 Plumm에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/14/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Plumm, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: Plumm, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6ba4a1853102f77129d740418b81f9de67146da0
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: f46060403be7542e485ca78cbbd3022bef51506e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255600"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63538036"
 ---
 # <a name="plumm"></a>Plumm
 
@@ -40,8 +41,9 @@ Plumm Health LTD에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://www.plummhealth.com/terms-of-use](https://www.plummhealth.com/terms-of-use) |
 | 앱의 핵심 기능 | Plumm은 직원들이 정신적 웰리에 필요한 지원을 제공합니다. 모든 Plumm 구성원은 150개 이상의 공인 치료사, 치료사 주도 웰링 과정의 디지털 라이브러리, 채팅 및 안내된 중재를 한 &#8211; 높은 수준의 정신적 건강 지원에 액세스할 수 있습니다. 사용자는 1:1 온라인 비디오 에 대한 치료사와 연결하거나 요구 사항에 대해 비공개로 채팅할 수 있습니다. 치료가 주도하는 온라인 과정 및 명상은 자가진단 지원을 제공합니다. |
 | 회사 본사 위치 | 영국 및 북아일랜드 (the) |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.plummhealth.com/about-us](https://www.plummhealth.com/about-us) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Plumm Health LTD에서 Microsoft에 제공한 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 보존 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,19 +155,19 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| TeamsActivity.Send | application | 이 사용 권한에서 userID를 사용 합니다. 이 서비스는 서비스 사용 현황에 따라 사용자에게 요청 알림을 보내는 데 사용됩니다. 이는 사용자가 앱에서 계정에 대한 적절한 알림을 받기 위해 중요합니다. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| TeamsAppInstallation.ReadWriteForUser.All | application | 이 사용 권한을 사용하여 설치 ID를 받게 됩니다. 이는 각 개별 사용자에 대해 적절하고 올바른 알림을 보낼 수 있도록 하는 데 중요합니다. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| User.Read | 위임 | 이 사용 권한을 통해 사용자에 대한 이름, 사진 및 전자 메일을 수집하고 있습니다. 이는 개별 사용자를 식별할 수 있도록 하는 데 필요하며, 이러한 데이터 지점은 개별 프로필 페이지와 전자 메일/알림 통신과 같이 필요한 모든 곳에 표시해야 합니다. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| User.Read.All | application | 이 사용 권한은 앱에서 로그인한 사용자 없이 사용자 프로필을 읽을 수 있도록 허용합니다. 현재 이름, 프로필 사진 및 전자 메일만 수집하고 있습니다. 이는 개별 사용자를 식별할 수 있도록 하는 데 필요하며, 이러한 데이터 지점은 개별 프로필 페이지와 전자 메일/알림 통신과 같이 필요한 모든 곳에 표시해야 합니다. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| 전자 메일 | 위임 | 사용자의 전자 메일 ID가 수집됩니다. 서비스에 대한 액세스 권한을 사용자에게 부여하고 앱에 로그인하고 해당 계정 및 이 전자 메일 ID에 대한 서비스 관련 알림을 받으기 위해 이 데이터가 요구됩니다.  | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| openid | 위임 | 이 사용 권한의 경우 데이터를 수집하지 않습니다.  | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
->| 프로필 | 위임 | 이 사용 권한을 통해 사용자에 대한 이름, 사진 및 전자 메일을 수집하고 있습니다. 이는 개별 사용자를 식별할 수 있도록 하는 데 필요하며, 이러한 데이터 지점은 개별 프로필 페이지와 전자 메일/알림 통신과 같이 필요한 모든 곳에 표시해야 합니다. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](https://docs.microsoft.com/microsoft-365-app-certification/azure/b1d1c038-a1f3-4802-be93-0f4a66589e73) |
+>| TeamsActivity.Send | application | 이 사용 권한에서 userID를 사용 합니다. 이 서비스는 서비스 사용 현황에 따라 사용자에게 요청 알림을 보내는 데 사용됩니다. 이는 사용자가 앱에서 계정에 대한 적절한 알림을 받기 위해 중요합니다. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| TeamsAppInstallation.ReadWriteForUser.All | application | 이 사용 권한을 사용하여 설치 ID를 받게 됩니다. 이는 각 개별 사용자에 대해 적절하고 올바른 알림을 보낼 수 있도록 하는 데 중요합니다. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| User.Read | 위임 | 이 사용 권한을 통해 사용자에 대한 이름, 사진 및 전자 메일을 수집하고 있습니다. 이는 개별 사용자를 식별할 수 있도록 하는 데 필요하며, 이러한 데이터 지점은 개별 프로필 페이지와 전자 메일/알림 통신과 같이 필요한 모든 곳에 표시해야 합니다. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| User.Read.All | application | 이 사용 권한은 앱에서 로그인한 사용자 없이 사용자 프로필을 읽을 수 있도록 허용합니다. 현재 이름, 프로필 사진 및 전자 메일만 수집하고 있습니다. 이는 개별 사용자를 식별할 수 있도록 하는 데 필요하며, 이러한 데이터 지점은 개별 프로필 페이지와 전자 메일/알림 통신과 같이 필요한 모든 곳에 표시해야 합니다. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| 전자 메일 | 위임 | 사용자의 전자 메일 ID가 수집됩니다. 서비스에 대한 액세스 권한을 사용자에게 부여하고 앱에 로그인하고 해당 계정 및 이 전자 메일 ID에 대한 서비스 관련 알림을 받으기 위해 이 데이터가 요구됩니다.  | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| openid | 위임 | 이 사용 권한의 경우 데이터를 수집하지 않습니다.  | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
+>| 프로필 | 위임 | 이 사용 권한을 통해 사용자에 대한 이름, 사진 및 전자 메일을 수집하고 있습니다. 이는 개별 사용자를 식별할 수 있도록 하는 데 필요하며, 이러한 데이터 지점은 개별 프로필 페이지와 전자 메일/알림 통신과 같이 필요한 모든 곳에 표시해야 합니다. | [b1d1c038-a1f3-4802-be93-0f4a66589e73](../azure/b1d1c038-a1f3-4802-be93-0f4a66589e73.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

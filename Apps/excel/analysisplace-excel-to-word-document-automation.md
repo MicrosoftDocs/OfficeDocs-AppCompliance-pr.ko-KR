@@ -2,18 +2,19 @@
 title: AnalysisPlace의 Excel Word 문서 자동화에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Excel Word 문서 자동화, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6ede1a98c44b8d6e71a12069c15065f7499bb5e2
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: ceb3175ecfbe45b33fe7c1fe62ae59e62f00d7ad
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63079542"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63536586"
 ---
 # <a name="excel-to-word-document-automation"></a>Excel 문서 자동화
 
@@ -39,7 +40,7 @@ AnalysisPlace에서 Microsoft에 제공하는 정보:
 | 앱 사용 약관 | [https://analysisplace.com/Terms](https://analysisplace.com/Terms) |
 | 앱의 핵심 기능 | AnalysisPlace는 문서 업데이트 자동화를 위한 Microsoft Office 제공합니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://analysisplace.com/Document-Automation](https://analysisplace.com/Document-Automation) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -60,7 +61,7 @@ AnalysisPlace에서 Microsoft에 제공하는 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 사용자 이름, 사용자 전자 메일 주소, 조직 테넌트 ID |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 90일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
