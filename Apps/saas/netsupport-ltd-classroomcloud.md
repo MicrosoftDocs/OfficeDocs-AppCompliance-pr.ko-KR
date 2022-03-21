@@ -2,18 +2,19 @@
 title: NETSUPPORT LTD의 Classroom.cloud 응용 프로그램 정보입니다.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 Classroom.cloud, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
+description: CSA STAR 레지스트리의 Classroom.cloud, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4e7fce8118f65a9fb01153baa2ccef8a1282df3c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 0c3ea969681ec5139ed762346729bcf444d2f4b7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260831"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540666"
 ---
 # <a name="classroomcloud"></a>Classroom.cloud
 
@@ -38,9 +39,8 @@ NETSUPPORT LTD에서 제공하는 정보입니다. Microsoft에:
 | 앱 사용 약관 | [https://classroom.cloud/terms-of-service/](https://classroom.cloud/terms-of-service/) |
 | 앱의 핵심 기능 | 학교 및 교육구에 대한 저렴한 클라우드 기반 강의실 관리, 지침 및 온라인 안전.  |
 | 회사 본사 위치 | 영국 및 북아일랜드 (the) |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.classroom.cloud](https://www.classroom.cloud) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
-| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -123,7 +123,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 예 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 예 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -164,18 +164,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 지원되는 정책 유형 나열 | MFA, IP/장치로 제한, 등록된 장치만 액세스  |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | application | 학생 Teams 온라인 보안 모니터링을 제공하기 위해 classroom.cloud 통합에 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
->| ChannelMessage.Read.All | application | 학생 Teams 온라인 보안 모니터링을 제공하기 위해 classroom.cloud 통합에 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
->| ChannelSettings.Read.All | application | 학생 Teams 온라인 보안 모니터링을 제공하기 위해 classroom.cloud 통합에 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
->| Chat.Read.All | application | 학생 Teams 온라인 보안 모니터링을 제공하기 위해 classroom.cloud 통합에 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
->| Directory.Read.All | application | 학생 Teams 온라인 보안 모니터링을 제공하기 위해 classroom.cloud 통합에 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
->| Team.ReadBasic.All | application | 학생 Teams 온라인 보안 모니터링을 제공하기 위해 classroom.cloud 통합에 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](https://docs.microsoft.com/microsoft-365-app-certification/azure/99455ec0-6207-4889-9c8c-96216a274a6b) |
+>| Channel.ReadBasic.All | application | 학생 Teams 온라인 보안 모니터링을 classroom.cloud 통합하는 데 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](../azure/99455ec0-6207-4889-9c8c-96216a274a6b.md) |
+>| ChannelMessage.Read.All | application | 학생 Teams 온라인 보안 모니터링을 classroom.cloud 통합하는 데 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](../azure/99455ec0-6207-4889-9c8c-96216a274a6b.md) |
+>| ChannelSettings.Read.All | application | 학생 Teams 온라인 보안 모니터링을 classroom.cloud 통합하는 데 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](../azure/99455ec0-6207-4889-9c8c-96216a274a6b.md) |
+>| Chat.Read.All | application | 학생 Teams 온라인 보안 모니터링을 classroom.cloud 통합하는 데 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](../azure/99455ec0-6207-4889-9c8c-96216a274a6b.md) |
+>| Directory.Read.All | application | 학생 Teams 온라인 보안 모니터링을 classroom.cloud 통합하는 데 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](../azure/99455ec0-6207-4889-9c8c-96216a274a6b.md) |
+>| Team.ReadBasic.All | application | 학생 Teams 온라인 보안 모니터링을 classroom.cloud 통합하는 데 사용됩니다. | [99455ec0-6207-4889-9c8c-96216a274a6b](../azure/99455ec0-6207-4889-9c8c-96216a274a6b.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

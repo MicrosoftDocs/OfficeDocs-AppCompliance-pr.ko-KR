@@ -2,18 +2,19 @@
 title: AIVISION PRODUCTS SRL의 Meetgeek에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/28/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Meetgeek, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 334a0658f1ce5403153bd1c94849148dce45ce8c
-ms.sourcegitcommit: c02a78e87cd408ded50ad143138502ce1f1d883e
+ms.openlocfilehash: b020c5d318f563a9431ab68db48cb0af206c21f3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62335864"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543726"
 ---
 # <a name="meetgeek"></a>Meetgeek
 
@@ -40,7 +41,7 @@ AIVISION PRODUCTS SRL에서 Microsoft에 제공하는 정보:
 | 앱 사용 약관 | [https://meetgeek.ai/terms](https://meetgeek.ai/terms) |
 | 앱의 핵심 기능 | 온라인 모임의 생산성을 최대화하세요! 모임 정보를 자동으로 기록하고, 기록하고, 요약을 공유하고, 모임 정보에 액세스합니다. |
 | 회사 본사 위치 | 루마니아 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://meetgeek.ai](https://meetgeek.ai) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -125,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -164,23 +165,23 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 위임 | 사용자에 대한 일정 데이터 동기화 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| OnlineMeetings.ReadWrite | 위임 | 사용자를 위한 온라인 모임 동기화 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| User.Read | 위임 | 로그인한 사용자 식별 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| 전자 메일 | 위임 | 로그인한 사용자 식별 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| offline_access | 위임 | 사용자에 대한 일정 데이터 동기화 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| openid | 위임 | 로그인한 사용자 식별 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| 프로필 | 위임 | 로그인한 사용자 식별 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](https://docs.microsoft.com/microsoft-365-app-certification/azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2) |
->| Calls.AccessMedia.All | 위임 | Meetgeek 봇을 트리거하여 사용자의 MS Teams 참가 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
->| Calls.Initiate.All | 위임 | Meetgeek 봇을 트리거하여 사용자의 MS Teams 참가 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
->| Calls.InitiateGroupCall.All | 위임 | Meetgeek 봇을 트리거하여 사용자의 MS Teams 참가 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
->| Calls.JoinGroupCall.All | 위임 | Meetgeek 봇을 트리거하여 사용자의 MS Teams 참가 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](https://docs.microsoft.com/microsoft-365-app-certification/azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba) |
+>| Calendars.ReadWrite | 위임 | 사용자에 대한 일정 데이터 동기화 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| OnlineMeetings.ReadWrite | 위임 | 사용자를 위한 온라인 모임 동기화 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| User.Read | 위임 | 로그인한 사용자 식별 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| 전자 메일 | 위임 | 로그인한 사용자 식별 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| offline_access | 위임 | 사용자에 대한 일정 데이터 동기화 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| openid | 위임 | 로그인한 사용자 식별 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| 프로필 | 위임 | 로그인한 사용자 식별 | [3f1a3775-c192-4e8c-ae48-d70d144a46c2](../azure/3f1a3775-c192-4e8c-ae48-d70d144a46c2.md) |
+>| Calls.AccessMedia.All | 위임 | Meetgeek 봇을 트리거하여 사용자의 MS Teams 참가 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
+>| Calls.Initiate.All | 위임 | Meetgeek 봇을 트리거하여 사용자의 MS Teams 참가 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
+>| Calls.InitiateGroupCall.All | 위임 | Meetgeek 봇을 트리거하여 사용자의 MS Teams 참가 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
+>| Calls.JoinGroupCall.All | 위임 | Meetgeek 봇을 트리거하여 사용자의 MS Teams 참가 | [6f5cab29-c1ad-4048-bf96-fdbe54dba6ba](../azure/6f5cab29-c1ad-4048-bf96-fdbe54dba6ba.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

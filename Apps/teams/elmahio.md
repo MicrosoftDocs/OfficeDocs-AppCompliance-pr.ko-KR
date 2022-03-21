@@ -2,12 +2,19 @@
 title: 응용 프로그램 elmah.io 대한 elmah.io
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 'CSA STAR 레지스트리의 elmah.io, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.'
+description: CSA STAR 레지스트리의 elmah.io, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: e3250fd5c8cbbc90aeaf33766f70bbb5b5573343
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544786"
 ---
 # <a name="elmahio"></a>elmah.io
 
@@ -32,9 +39,9 @@ Microsoft에 elmah.io 정보:
 | 파트너 회사 이름 | elmah.io |
 | 회사의 웹 사이트 | [https://elmah.io](https://elmah.io) |
 | 앱 사용 약관 | [https://elmah.io/legal/terms-of-use/](https://elmah.io/legal/terms-of-use/) |
-| 앱의 핵심 기능 | elmah.io .NET 웹 개발자를 위한 오류 로깅 및 사용 시간 모니터링 서비스입니다. elmah.io 모든 주요 웹 및 로깅 프레임워크와 통합되고 웹, 웹 응용 프로그램 및 모바일 응용 프로그램 전반에 Windows 모니터링 환경을 제공합니다. |
+| 앱의 핵심 기능 | elmah.io .NET 웹 개발자를 위한 오류 로깅 및 시간 모니터링 서비스입니다. elmah.io 모든 주요 웹 및 로깅 프레임워크와 통합되고 웹, Windows 응용 프로그램 전반에 걸쳐 광범위한 모니터링 환경을 제공합니다. |
 | 회사 본사 위치 | 덴마크 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://docs.elmah.io/elmah-io-apps-teams/](https://docs.elmah.io/elmah-io-apps-teams/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure, Aws |
 
@@ -46,7 +53,7 @@ Microsoft에 elmah.io 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 elmah.io 조직 데이터를 수집하고 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 컨트롤에 대한 정보를 제공합니다.
+이 정보는 elmah.io 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
@@ -119,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -158,7 +165,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

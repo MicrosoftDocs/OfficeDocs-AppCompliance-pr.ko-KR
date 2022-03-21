@@ -2,18 +2,19 @@
 title: FastOrg의 응용 프로그램 &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: FastOrg에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 59fef5c8e9a5013bf7fea045fdc0e759b66950fc
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 2c31f6db2caf41880f93cc702fa4b9ee713fbb4c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200869"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542986"
 ---
 # <a name="fastorg"></a>FastOrg
 
@@ -28,7 +29,7 @@ ms.locfileid: "62200869"
 
 ### <a name="general-information"></a>일반 정보
 
-Microsoft에 &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 제공한 정보:
+Microsoft에 &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
@@ -40,9 +41,8 @@ Microsoft에 &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#3
 | 앱 사용 약관 | [https://www.dynamics365.cn/termofuse](https://www.dynamics365.cn/termofuse) |
 | 앱의 핵심 기능 | &#33258;&#23450;&#20041;&#21019;&#24314;&#20225;&#19994;&#32452;&#32455;&#26550;&#26500;&#32479;&#19968;&#31649;&#29702;&#65292;&#24555;&#36895;&#22312;Microsoft Teams&#25214;&#21040;&#21516;&#20107;&#65292;&#20449;&#24687;&#20934;&#30830;&#12289;&#26041;&#20415;&#26597;&#38405;&#12290;&#23454;&#29616;&#32452;&#32455;&#26550;&#26500;&#25153;&#24179;&#21270;&#12289;&#21487;&#35270;&#21270;&#12290; |
 | 회사 본사 위치 | 중국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.dynamics365.cn/fastorgs](https://www.dynamics365.cn/fastorgs) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | IsvHosted |
-| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -52,7 +52,7 @@ Microsoft에 &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#3
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
+이 정보는 &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 컨트롤에 대한 정보를 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
@@ -125,7 +125,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -163,7 +163,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

@@ -2,18 +2,19 @@
 title: 정확도 소프트웨어 Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 세분화, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1106b9e00a94d133c167b04bb31e4bc71c060c73
-ms.sourcegitcommit: 0465c6dd3a2c42fb1fd785548654d5b7f2601adc
+ms.openlocfilehash: 3adb6387e276e8f6a9827262227bb759514eebde
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/19/2022
-ms.locfileid: "62909070"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543746"
 ---
 # <a name="taxonomy"></a>분류
 
@@ -39,7 +40,7 @@ Accuracy Software Inc.에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://accuracysoftware.ca/taxonomy-terms-of-service](https://accuracysoftware.ca/taxonomy-terms-of-service) |
 | 앱의 핵심 기능 | 분류는 다양한 이해 관계자와 IM 전문가의 공동 작업을 통해 파일 계획을 만들고 검토하고 전체 조직에 게시할 수 있도록 함으로써 파일 분류 계획을 효율적으로 관리할 수 있는 방법을 제공합니다. 또한 분류 Microsoft 준수 센터로 가져올 수 있는 M365 보존 레이블 내보내기 및 파일 계획을 용어 저장소로 가져올 수 있는 용어 집합 형식으로 내보낼 수 SharePoint 있습니다. |
 | 회사 본사 위치 | 캐나다 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.accuracysoftware.ca/taxonomy-sharepoint-webpart/](https://www.accuracysoftware.ca/taxonomy-sharepoint-webpart/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | 클라이언트 SharePoint 테넌트 |
 
@@ -58,7 +59,7 @@ Accuracy Software Inc.에서 Microsoft에 제공한 정보:
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 아니요 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 파일 계획 분류 데이터 |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 캐나다 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 아니요 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 유지되지 않음 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 아니요 |
@@ -122,7 +123,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,7 +161,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 예 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

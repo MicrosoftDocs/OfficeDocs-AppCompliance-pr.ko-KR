@@ -2,18 +2,19 @@
 title: Witivio에서 Pro 연락처에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Pro, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: ca10bb626f33ce2c4b5bafc618c784b46fe3e1e7
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 9c5744d35076dbe6453a54dae466f99856e23030
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080262"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544136"
 ---
 # <a name="contacts-pro"></a>Contacts Pro
 
@@ -61,7 +62,7 @@ Witivio에서 Microsoft에 제공하는 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | Contacts |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 아일랜드 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 60일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
@@ -170,11 +171,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| 전자 메일 | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| offline_access | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| openid | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
->| 프로필 | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](https://docs.microsoft.com/microsoft-365-app-certification/azure/b2380441-bb33-439e-bf4a-8cd277dcebc8) |
+>| User.Read | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| 전자 메일 | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| offline_access | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| openid | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
+>| 프로필 | 위임 | Microsoft Teams SSO | [b2380441-bb33-439e-bf4a-8cd277dcebc8](../azure/b2380441-bb33-439e-bf4a-8cd277dcebc8.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

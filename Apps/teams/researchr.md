@@ -2,18 +2,19 @@
 title: KBE를 통해 researcHR에 대한 응용 프로그램&#26666;&#24335;&#20250;&#31038;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/20/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: researcHR에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 18a434a7c034802fb4fbb181dae32d06c278f934
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d9190b5c268a2ff73f204e3c81015532b1b3e4df
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255584"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543426"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -40,8 +41,9 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 정보:
 | 앱 사용 약관 | [https://app.researchr.work/tos](https://app.researchr.work/tos) |
 | 앱의 핵심 기능 | 팀의 신 &quot;원을 알고 있는 팀을 통합하고 공유합니다&quot;. |
 | 회사 본사 위치 | 일본 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://app.researchr.work](https://app.researchr.work) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,19 +53,12 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 KBE에서&#26666;&#24335;&#20250;&#31038; 조직 데이터를 수집 및 저장하는 방법과 앱이 수집하는 데이터에 대해 조직이 제어할 수 있는 컨트롤에 대해 제공합니다.
+이 정보는 KBE에서&#26666;&#24335;&#20250;&#31038; 조직 데이터를 수집하고 저장하는 방법과 앱이 수집하는 데이터에 대해 조직에서 제어할 수 있는 컨트롤에 대해 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 즉시 삭제 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,19 +155,19 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | application | 이 범위를 사용하여 봇이 클라이언트에서 새 채널을 만들 수 Teams 있습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Directory.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Group.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Team.ReadBasic.All | application | 사용자가 웹 사이트에서 팀 구성원을 볼 수 있도록 이 범위를 사용하여 팀의 구성원을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.Read.All | application | 사용자가 웹 사이트에서 참가한 팀을 볼 수 있도록 이 범위를 사용하여 사용자의 참가 채널을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.ReadBasic.All | 위임 | 이 범위를 사용하여 OAuth 로그인을 사용하도록 설정하고 사용자의 AAD, 액세스 토큰 및 새로 고침 토큰을 수집합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| offline_access | 위임 | 사용자 상호 작용 없이도 권한이 부여된 사용자의 액세스 토큰을 새로 고칠 수 있도록 이 범위를 사용하여 새로 고침 토큰을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
+>| Channel.Create | application | 이 범위를 사용하여 봇이 Teams 채널을 만들 수 있습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Directory.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Group.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Team.ReadBasic.All | application | 사용자가 웹 사이트에서 팀 구성원을 볼 수 있도록 이 범위를 사용하여 팀의 구성원을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.Read.All | application | 사용자가 웹 사이트에서 참가한 팀을 볼 수 있도록 이 범위를 사용하여 사용자의 참가 채널을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.ReadBasic.All | 위임 | 이 범위를 사용하여 OAuth 로그인을 사용하도록 설정하고 사용자의 AAD, 액세스 토큰 및 새로 고침 토큰을 수집합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| offline_access | 위임 | 사용자 상호 작용 없이도 권한이 부여된 사용자의 액세스 토큰을 새로 고칠 수 있도록 이 범위를 사용하여 새로 고침 토큰을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

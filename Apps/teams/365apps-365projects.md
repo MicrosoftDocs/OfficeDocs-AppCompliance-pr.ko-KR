@@ -2,12 +2,19 @@
 title: 365Apps의 365Projects에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/03/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: '365Projects에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보'
+description: 365Projects에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
+ms.openlocfilehash: 6a55ea670ee4fa1a1aed5c0968d477245e2a5712
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541346"
 ---
 # <a name="365projects"></a>365Projects
 
@@ -35,7 +42,7 @@ Microsoft에 365Apps에서 제공하는 정보:
 | 앱의 핵심 기능 | 프로젝트 Microsoft Teams &amp; 함께 가져오기
 새 Project 만들기,기존/새 채널에 연결 |
 | 회사 본사 위치 | 오스트레일리아 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://365projects.app](https://365projects.app) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -118,7 +125,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -156,14 +163,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Tasks.ReadWrite | 위임 | 플래너 작업 읽기 및 업데이트 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
->| User.Read | 위임 | 사용자 전자 메일 읽기 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a0a9b1-5d28-45df-9f99-792aa32795f4) |
+>| Tasks.ReadWrite | 위임 | 플래너 작업 읽기 및 업데이트 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](../azure/99a0a9b1-5d28-45df-9f99-792aa32795f4.md) |
+>| User.Read | 위임 | 사용자 전자 메일 읽기 | [99a0a9b1-5d28-45df-9f99-792aa32795f4](../azure/99a0a9b1-5d28-45df-9f99-792aa32795f4.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -2,18 +2,19 @@
 title: kRevealLLC의 CrossCheck에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CrossCheck, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fbbc49d1aa1c0dd2f5acad1caf9c729f69540047
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: eec621105155589819b55ec3d8b94274b4e50e56
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255334"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542026"
 ---
 # <a name="crosscheck"></a>CrossCheck
 
@@ -39,8 +40,9 @@ kRevealLLC에서 Microsoft에 제공하는 정보:
 | 앱 사용 약관 | [https://crosscheck.krevealaddins.com/docs/license.htm](https://crosscheck.krevealaddins.com/docs/license.htm) |
 | 앱의 핵심 기능 | CrossCheck은 문서 검토를 간소화하고 일반적인 초안 작성 실수를 고정합니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://admin.krevealaddins.com/help](https://admin.krevealaddins.com/help) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ kRevealLLC에서 Microsoft에 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 즉시 삭제 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -121,7 +116,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 예 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 예 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 예 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -159,13 +154,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| openid | application | 데이터가 수집되거나 사용되지 않습니다. | [5edad654-f2d5-41d8-bfc0-92c2735252e1](https://docs.microsoft.com/microsoft-365-app-certification/azure/5edad654-f2d5-41d8-bfc0-92c2735252e1) |
+>| openid | application | 데이터가 수집되거나 사용되지 않습니다. | [5edad654-f2d5-41d8-bfc0-92c2735252e1](../azure/5edad654-f2d5-41d8-bfc0-92c2735252e1.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

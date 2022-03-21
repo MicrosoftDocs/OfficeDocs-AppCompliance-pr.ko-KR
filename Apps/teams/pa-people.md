@@ -2,18 +2,19 @@
 title: PHONE APPLI를 통해 PA 사용자에 &#26666;&#24335;&#20250;&#31038;정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: PA PEOPLE에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0c12acb97dcb14aca0b64531eb044f13b71425ee
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: bb4f6667e18c5213194457c816e48a27262a9929
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253544"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543566"
 ---
 # <a name="pa-people"></a>PA PEOPLE
 
@@ -40,7 +41,7 @@ PHONE APPLI에서 &#26666;&#24335;&#20250;&#31038;Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://phoneappli.net/product/agreement/renraku/](https://phoneappli.net/product/agreement/renraku/) |
 | 앱의 핵심 기능 | 직원 검색을 간소화하고 직원과 비즈니스 파트너 간의 연결을 용이하게 합니다. (&#20154;&#12398;&#26908;&#32034;&#12434;&#21177;&#29575;&#21270;&#12375;&#12289;&#24467;&#26989;&#21729;&#21516;&#22763;&#21450;&#12403;&#21462;&#24341;&#20808;&#12392;&#12398;&#12388;&#12394;&#12364;&#12426;&#12434;&#20870;&#28369;&#12395;&#12375;&#12414;&#12377;&#12290;) |
 | 회사 본사 위치 | 일본 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://phoneappli.net/product/service/papeople/](https://phoneappli.net/product/service/papeople/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -52,19 +53,12 @@ PHONE APPLI에서 &#26666;&#24335;&#20250;&#31038;Microsoft에 제공한 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 &#26666;&#24335;&#20250;&#31038;수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 컨트롤에 대해 PHONE APPLI에서 제공했습니다.
+이 정보는 &#26666;&#24335;&#20250;&#31038;앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 PHONE APPLI에서 제공했습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 아니요 |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? |  |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -123,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 아니요 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -161,13 +155,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 위임 | 사용자 프로필을 읽고 해당 프로필(기본적으로 userId)과 데이터베이스와 일치하여 PEOPLE.&#65288;&#12518;&#12540;&#12470;&#12540;&#12398;&#12503;&#12525;&#12501;&#12449;&#12452;&#12523;&#12434;&#35501;&#12415;&#21462;&#12426;&#12289;&#12381;&#12398;&#12503;&#12525;&#12501;&#12449;&#12452;&#12523;&#65288;&#22522;&#26412;&#30340;&#12395;&#12399;userId&#65289;&#12434;&#12487;&#12540;&#12479;&#12505;&#12540;&#12473;&#12392;&#29031;&#21512;&#12375;&#12390;&#12289;일치&#12395;&#12525;&#12464;&#12452;&#12531;&#12391;&#12365;&#12427;&#12424;&#12358;&#12395;&#12375;&#12414;&#12377;&#12290;&#65289; | [894d2c27-987c-4426-ab25-b0d6ea4bd0d6](https://docs.microsoft.com/microsoft-365-app-certification/azure/894d2c27-987c-4426-ab25-b0d6ea4bd0d6) |
+>| User.Read | 위임 | 사용자 프로필을 읽고 해당 프로필(기본적으로 userId)과 데이터베이스와 일치하여 PEOPLE.&#65288;&#12518;&#12540;&#12470;&#12540;&#12398;&#12503;&#12525;&#12501;&#12449;&#12452;&#12523;&#12434;&#35501;&#12415;&#21462;&#12426;&#12289;&#12381;&#12398;&#12503;&#12525;&#12501;&#12449;&#12452;&#12523;&#65288;&#22522;&#26412;&#30340;&#12395;&#12399;userId&#65289;&#12434;&#12487;&#12540;&#12479;&#12505;&#12540;&#12473;&#12392;&#29031;&#21512;&#12375;&#12390;&#12289;일치&#12395;&#12525;&#12464;&#12452;&#12531;&#12391;&#12365;&#12427;&#12424;&#12358;&#12395;&#12375;&#12414;&#12377;&#12290;&#65289; | [894d2c27-987c-4426-ab25-b0d6ea4bd0d6](../azure/894d2c27-987c-4426-ab25-b0d6ea4bd0d6.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

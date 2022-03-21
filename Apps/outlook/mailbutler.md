@@ -2,18 +2,19 @@
 title: Mailbutler의 Mailbutler에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/09/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Mailbutler, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a2ddc871a1be8a15f2f1de222349b8a80f224ddd
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: 9b3ff23c3e8a8f27c53101116930f73f456f1d34
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200752"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540926"
 ---
 # <a name="mailbutler"></a>Mailbutler
 
@@ -39,7 +40,7 @@ Mailbutler에서 Microsoft에 제공하는 정보:
 | 앱 사용 약관 | [https://www.mailbutler.io/terms-and-conditions](https://www.mailbutler.io/terms-and-conditions) |
 | 앱의 핵심 기능 | Mailbutler는 생산성을 최대화하고 전자 메일을 유지하는 데 필요한 모든 것을 제공하는 전자 메일 플러그 인입니다. Mailbutler는 받은 편지함에서 바로 액세스할 수 있는 유용한 생산성 향상 기능을 다수 제공합니다. 해당 기능은 고객 커뮤니케이션을 개선하고, 브랜드를 유지하며, 전자 메일 게임을 최적화하는 데 도움이 됩니다. |
 | 회사 본사 위치 | 독일 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.mailbutler.io](https://www.mailbutler.io) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Aws |
 
@@ -124,7 +125,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -163,7 +164,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

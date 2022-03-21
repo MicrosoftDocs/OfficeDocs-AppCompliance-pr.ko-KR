@@ -2,18 +2,19 @@
 title: Netskope의 응용 프로그램 Microsoft Teams 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Microsoft Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 Netskope에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c4c65c048423c0f0e7bc1c1b396dd832cbebf341
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: b99ebb361f002a5ebb3a161d0b12d0eab8457689
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62254006"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542446"
 ---
 # <a name="netskope-for-microsoft-teams"></a>Netskope for Microsoft Teams
 
@@ -36,11 +37,10 @@ Netskope에서 Microsoft에 제공한 정보:
 | 파트너 회사 이름 | Netskope |
 | 회사의 웹 사이트 | [https://www.netskope.com](https://www.netskope.com) |
 | 앱 사용 약관 | [https://www.netskope.com/subscription-terms/](https://www.netskope.com/subscription-terms/) |
-| 앱의 핵심 기능 | Netskope에는 업계 최고의 통합&#8217;, 차세대 SWG, 원격 브라우저 차단, 클라우드 방화벽, 공용 클라우드 보안 및 Zero-trust Private Access가 있는 업계 유일한 솔루션인 Netskope Security Cloud가 있습니다.  이러한 모듈식 기능 외에도 Netskope은 고급 DLP, 암호화 및 위협 방지 기능과 같은 고객의 보안태세를 추가로 조정하기 위해 추가될 수 있는 추가 보안 마이크로 서비스도 제공합니다. |
+| 앱의 핵심 기능 | Netskope에는 시장을 선도하는 통합된&#8217;, 차세대 SWG, 원격 브라우저 차단, 클라우드 방화벽, 공용 클라우드 보안 및 Zero-trust Private Access가 있는 업계 유일한 솔루션인 Netskope 보안 클라우드가 있습니다.  이러한 모듈식 기능 외에도 Netskope은 고급 DLP, 암호화 및 위협 방지 기능과 같은 고객의 보안태세를 추가로 조정하기 위해 추가될 수 있는 추가 보안 마이크로 서비스도 제공합니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://docs.netskope.com](https://docs.netskope.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | IsvHosted |
-| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -123,7 +123,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 예 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 아니요 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 아니요 |
 | 앱이 NIST 800-171을 준수하나요? | 예 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 예 |
 
@@ -163,27 +163,27 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMessage.Read.All | application | 채널 메시지 및 게시물의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| ChannelMessage.UpdatePolicyViolation.All | application | 채널 메시지 및 게시물의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.Read.All | application | 채널/DM 채팅의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.ReadBasic.All | application | 채널/DM 채팅의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.ReadWrite | application | 채널/DM 채팅의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Chat.UpdatePolicyViolation.All | application | 채널 메시지 및 게시물의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Directory.Read.All | application | 사용자 멤버 자격 식별 및 표시 여부 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Files.Read.All | application | MSTeams에 게시된 파일의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Files.ReadWrite.All | application | MSTeams에 게시된 파일의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Group.Read.All | application | 그룹 식별 및 표시 여부 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| GroupMember.Read.All | application | 그룹 식별 및 표시 여부 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Reports.Read.All | application | 보고 및 표시 여부 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| Sites.Read.All | application | 팀의 SharePoint 사이트 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| TeamsActivity.Read | application | 사용자 활동 기반 정책 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
->| User.Read.All | application | 사용자 식별 및 표시 여부 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](https://docs.microsoft.com/microsoft-365-app-certification/azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae) |
+>| ChannelMessage.Read.All | application | 채널 메시지 및 게시물의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| ChannelMessage.UpdatePolicyViolation.All | application | 채널 메시지 및 게시물의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.Read.All | application | 채널/DM 채팅의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.ReadBasic.All | application | 채널/DM 채팅의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.ReadWrite | application | 채널/DM 채팅의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Chat.UpdatePolicyViolation.All | application | 채널 메시지 및 게시물의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Directory.Read.All | application | 사용자 멤버 자격 식별 및 표시 여부 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Files.Read.All | application | MSTeams에 게시된 파일의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Files.ReadWrite.All | application | MSTeams에 게시된 파일의 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Group.Read.All | application | 그룹 식별 및 표시 여부 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| GroupMember.Read.All | application | 그룹 식별 및 표시 여부 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Reports.Read.All | application | 보고 및 표시 여부 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| Sites.Read.All | application | 팀의 SharePoint 사이트 DLP | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| TeamsActivity.Read | application | 사용자 활동 기반 정책 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
+>| User.Read.All | application | 사용자 식별 및 표시 여부 | [9b5751f4-eb23-43ad-ad90-da7afb9300ae](../azure/9b5751f4-eb23-43ad-ad90-da7afb9300ae.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

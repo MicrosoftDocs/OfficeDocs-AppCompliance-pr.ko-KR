@@ -2,18 +2,19 @@
 title: MoveInSync의 WorkInSync에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: WorkInSync, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: WorkInSync, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: aa528136089b1ff6e54f24a82a0184bef58ee233
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: e8620c57d74d71649ed418f08fd8e634c7de47d6
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255654"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543596"
 ---
 # <a name="workinsync"></a>WorkInSync
 
@@ -40,8 +41,9 @@ Microsoft에 MoveInSync에서 제공하는 정보:
 | 앱 사용 약관 | [https://www.workinsync.io/terms-and-condition/](https://www.workinsync.io/terms-and-condition/) |
 | 앱의 핵심 기능 | WorkInSync를 사용하면 조직 &amp; 에서 사무실에 대한 유연한 책상 예약 모델을 쉽게 계획할 수 있습니다.  직원은 다음을 할 수 있습니다. - 책상 예약 만들기 및 관리 - &amp; 하루 종일 집에서 시계로 작업할 때 시계 인 - 팀 구성원에게 시계 방향/ &amp; 시계아웃 계획에 대한 알림을 하게 됩니다. 채널 컨텍스트에서 설치할 수 있는 팀 활동 탭에서 - &amp; 전체 팀이 현재 상태에서 작업하는 위치 확인 - 전체 팀이 자신의 현재 상태에서 작업하는 위치 확인 - 전체 팀 전체에서 특정 동료 검색 |
 | 회사 본사 위치 | 인도 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.workinsync.io/teams-app-for-workinsync/](https://www.workinsync.io/teams-app-for-workinsync/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Microsoft에 MoveInSync에서 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 3month 이내에 삭제 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -161,22 +156,22 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 지원되는 정책 유형 나열 | 다단계 인증 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 위임 | 1. 전이적 그룹 구성원 세부 정보를 얻습니다. 채널 컨텍스트에서 설치하면 '팀 활동 탭'에서 사용됩니다. 2. 조직의 사용자 프로필 &amp;  세부 정보 목록에 로그인하려면 이러한 탭은 개인 컨텍스트에서 팀 활동 탭이 설치되는 경우 사용자 API가 실패할 경우(비 Outlook 사용자)에 대한 팀 동료의 미리 보기를 표시하기 위해 사용됩니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| People.Read | 위임 | 로그인한 사용자와 가장 관련된 사람이 팀 활동 탭에 표시하도록 개인 컨텍스트에 설치됩니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| Presence.Read | 위임 | 개인 및 채널 컨텍스트에서 팀 활동 탭의 사용자 목록의 현재 상태 정보를 얻습니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| Presence.Read.All | 위임 | 개인 및 채널 컨텍스트에서 팀 활동 탭의 사용자 목록의 현재 상태 정보를 얻습니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| User.Read.All | application | 관리자에게 예약 및 체크 인/체크 아웃 알림을 보내기 위해 사용자의 보고 관리자 정보를 얻습니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| User.ReadBasic.All | 위임 | 직원의 프로필 사진을 읽는 데 사용됩니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| 전자 메일 | 위임 | 클라이언트 라이브러리를 사용하여 SSO 토큰을 Teams 필요 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| offline_access | 위임 | 클라이언트 라이브러리를 사용하여 SSO 토큰을 Teams 필요 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| openid | 위임 | 클라이언트 라이브러리를 사용하여 SSO 토큰을 Teams 필요 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
->| 프로필 | 위임 | 클라이언트 라이브러리를 사용하여 SSO 토큰을 Teams 필요 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](https://docs.microsoft.com/microsoft-365-app-certification/azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc) |
+>| Directory.Read.All | 위임 | 1. 전이적 그룹 구성원 세부 정보를 얻습니다. 채널 컨텍스트에서 설치하면 '팀 활동 탭'에서 사용됩니다. 2. 조직의 사용자 프로필 &amp;  세부 정보 목록에 로그인하려면 이러한 탭은 개인 컨텍스트에서 팀 활동 탭이 설치되는 경우 사용자 API가 실패할 경우(비 Outlook 사용자)에 대한 팀 동료의 미리 보기를 표시하기 위해 사용됩니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| People.Read | 위임 | 로그인한 사용자와 가장 관련된 사람이 팀 활동 탭에 표시하도록 개인 컨텍스트에 설치됩니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| Presence.Read | 위임 | 개인 및 채널 컨텍스트에서 팀 활동 탭의 사용자 목록의 현재 상태 정보를 얻습니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| Presence.Read.All | 위임 | 개인 및 채널 컨텍스트에서 팀 활동 탭의 사용자 목록의 현재 상태 정보를 얻습니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| User.Read.All | application | 관리자에게 예약 및 체크 인/체크 아웃 알림을 보내기 위해 사용자의 보고 관리자 정보를 얻습니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| User.ReadBasic.All | 위임 | 직원의 프로필 사진을 읽는 데 사용됩니다. | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| 전자 메일 | 위임 | 클라이언트 라이브러리를 사용하여 SSO 토큰을 Teams 필요 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| offline_access | 위임 | 클라이언트 라이브러리를 사용하여 SSO 토큰을 Teams 필요 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| openid | 위임 | 클라이언트 라이브러리를 사용하여 SSO 토큰을 Teams 필요 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
+>| 프로필 | 위임 | 클라이언트 라이브러리를 사용하여 SSO 토큰을 Teams 필요 | [fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc](../azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -1,19 +1,20 @@
 ---
-title: 팀원의 전자 메일 팀원에 대한 응용 프로그램 harmon.ie
+title: 팀원의 전자 메일 팀원에 대한 응용 harmon.ie
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Email TeamMate, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: Email TeamMate에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7e076f074f670c64726c2f7304da8956de976a56
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 7224ee3e7a964ceff6b4edce02634bef6e3716c0
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62264804"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541666"
 ---
 # <a name="email-teammate"></a>Email TeamMate
 
@@ -40,8 +41,9 @@ Microsoft에 harmon.ie 정보:
 | 앱 사용 약관 | [https://harmon.ie/legal/teammate-eula](https://harmon.ie/legal/teammate-eula) |
 | 앱의 핵심 기능 | 전자 메일 팀원과 Microsoft Teams 대화에 전자 메일 추가  |
 | 회사 본사 위치 | 이스라엘 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://harmon.ie](https://harmon.ie) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,19 +53,12 @@ Microsoft에 harmon.ie 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 조직 harmon.ie 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대한 정보를 제공합니다.
+이 정보는 이 harmon.ie 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 보존 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 아니요 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 아니요 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,18 +155,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Chat.Read | 위임 | 팀원이 대화 채팅 구성원과 파일 저장을 공유하기 위해 SharePoint/One 드라이브에서 특정 대화의 채팅 구성원을 다운로드하는 데 필요합니다. | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| Files.ReadWrite.All | 위임 | 팀원이 전자 메일 첨부 파일을 SharePoint /Teams &amp; /OneDrive | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| Mail.ReadWrite | 위임 | TeamMate가 사용자의 전자 메일을 표시하고 팀에 저장된 전자 메일에 회신하는 Teams | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| People.Read | 위임 | 팀원이 사용자에 의해 전자 메일을 검색하고 자주 연락하는 사람에 대해 제안하는 데 필요합니다. | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| User.Read | 위임 | 사용자가 계정으로 TeamMate에 로그인할 수 있도록 허용하고 TeamMate가 기본 사용자 프로필 정보를 볼 수 있도록 허용 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
->| User.ReadBasic.All | 위임 | 팀원이 채팅 구성원 전자 메일 주소를 확인하려면 팀원과 함께 저장한 공유 OneDrive 필요  | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](https://docs.microsoft.com/microsoft-365-app-certification/azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4) |
+>| Chat.Read | 위임 | 팀원이 대화 채팅 구성원과 파일 저장을 공유하기 위해 SharePoint/One 드라이브에서 특정 대화의 채팅 구성원을 다운로드하는 데 필요합니다. | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](../azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4.md) |
+>| Files.ReadWrite.All | 위임 | 팀원이 전자 &amp; 메일 첨부 파일을 SharePoint /Teams / OneDrive | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](../azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4.md) |
+>| Mail.ReadWrite | 위임 | TeamMate가 사용자의 전자 메일을 표시하고 팀에 저장된 전자 메일에 Teams | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](../azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4.md) |
+>| People.Read | 위임 | 팀원이 사용자에 의해 전자 메일을 검색하고 자주 연락하는 사람에 대해 제안하는 데 필요합니다. | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](../azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4.md) |
+>| User.Read | 위임 | 사용자가 계정으로 TeamMate에 로그인할 수 있도록 허용하고 TeamMate가 기본 사용자 프로필 정보를 볼 수 있도록 허용 | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](../azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4.md) |
+>| User.ReadBasic.All | 위임 | 팀원이 채팅 구성원 전자 메일 주소를 확인하려면 팀원과 함께 저장한 공유 OneDrive 필요  | [74a31d8c-1ee9-4fb8-bc22-640ba5f457f4](../azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

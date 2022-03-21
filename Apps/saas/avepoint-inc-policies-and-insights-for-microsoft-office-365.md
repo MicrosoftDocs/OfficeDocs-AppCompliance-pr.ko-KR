@@ -1,19 +1,20 @@
 ---
-title: '&amp; AvePoint inc.Insights 정책에 Microsoft Office 365 대한 응용 프로그램 정보입니다.'
+title: '&amp; AvePoint inc.Insights 정책에 Microsoft Office 365 대한 응용 프로그램 정보'
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: '&amp; CSA STAR 레지스트리의 정책, Insights 정책, Microsoft Office 365 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.'
+description: '&amp; CSA STAR 레지스트리의 정책, Insights 정책, Microsoft Office 365 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 272be559137882c7f9f41ed46f2321d41aff9474
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 162bf8c7e05c1caf07bd40a6fa32d2ad216b1cb0
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252474"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541416"
 ---
 # <a name="policies-amp-insights-for-microsoft-office-365"></a>정책 &amp; Insights 정책 Microsoft Office 365
 
@@ -37,7 +38,7 @@ AvePoint Inc.에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
 | 앱의 핵심 기능 | 보안 정보를 얻고 자동화된 정책을 Teams, 그룹, SharePoint 및 OneDrive |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.avepoint.com/products/cloud/policies-insights-m...](https://www.avepoint.com/products/cloud/policies-insights-microsoft-365) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -122,7 +123,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 예 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 예 |
 
@@ -162,18 +163,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 지원되는 정책 유형 나열 | 응용 프로그램이 Azure AD와 페더러입니다. 따라서 모든 조건부 액세스 규칙을 사용할 수 있습니다. |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.ReadWrite.All | application |   조직의 디렉터리에서 사용자 및 그룹 데이터를 읽고 써야 합니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.Read.All | application | 그룹의 구성원 및 설정 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.ReadWrite.All | application | 그룹의 구성원 및 설정 업데이트 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.FullControl.All | application | 사이트 모음 및 그룹/팀 사이트의 정보를 검색하고&#8217; 업데이트합니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.Read.All | application | 모든 사용자의 설정 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.ReadWrite.All | application | 사용자 설정 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Directory.ReadWrite.All | application |   조직의 디렉터리에서 사용자 및 그룹 데이터를 읽고 써야 합니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.Read.All | application | 그룹의 구성원 및 설정 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.ReadWrite.All | application | 그룹의 구성원 및 설정 업데이트 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.FullControl.All | application | 사이트 모음 및 그룹/팀 사이트의 정보를 검색하고&#8217; 업데이트합니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.Read.All | application | 모든 사용자의 설정 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.ReadWrite.All | application | 사용자 설정 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

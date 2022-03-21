@@ -2,18 +2,19 @@
 title: 회의 i/o의 회의 i/o에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 회의 i/o, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: CSA STAR 레지스트리의 회의 i/o, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1d69349a195c896b1373200395425022cb20d421
-ms.sourcegitcommit: 58f40775dd4adee3a6037a74e4ccd98823f4832c
+ms.openlocfilehash: d5cf3a80b25586293e0844b9be0f7d061c442dd0
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/01/2022
-ms.locfileid: "62303733"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63540526"
 ---
 # <a name="conferences-io"></a>Conferences i/o
 
@@ -40,7 +41,7 @@ Microsoft에 대한 회의 i/o에서 제공하는 정보:
 | 앱 사용 약관 | [https://teamsapp.conferences.io/eula/](https://teamsapp.conferences.io/eula/) |
 | 앱의 핵심 기능 | 회의 i&amp;/o에서 대상 QA, 폴링 등 |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.conferences.io/our-platform/features/](https://www.conferences.io/our-platform/features/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Aws, GCP |
 
@@ -56,15 +57,8 @@ Microsoft에 대한 회의 i/o에서 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 아니오 |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? |  |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 아니요 |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -82,7 +76,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? | 예 |
 | 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? | 예 |
 | 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? | 예 |
-| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 아니오 |
+| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 아니요 |
 | 앱 및 이를 지원하는 구조에서 분기별 취약점 검색을 수행하나요? | 예 |
 | 외부 네트워크 경계에 방화벽이 설치되어 있습니까? | 예 |
 | 변경 요청을 프로덕션에 배포하기 전에 검토하고 승인하는 데 사용되는 변경 관리 프로세스가 설정 있습니까? | 예 |
@@ -113,17 +107,17 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 어떤 SOC 2 인증을 획득했나요? | |
 | 가장 최근 SOC2 인증 날짜 | |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니오 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 가장 최근 SOC3 인증 날짜 | |
-| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 아니오 |
-| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니오 |
+| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 해당 없음 |
 | 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
-| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니오 |
+| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 예 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -155,14 +149,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Single Sign-On, API 액세스 등을 위해 응용 프로그램이 Microsoft Id 플랫폼(Azure AD)과 통합하나요? | 아니오 |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 아니오 |
+| Single Sign-On, API 액세스 등을 위해 응용 프로그램이 Microsoft Id 플랫폼(Azure AD)과 통합하나요? | 아니요 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 아니요 |
 | 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? |  |
 | 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니오 |
-| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니오 |
-| 앱에서 코드에 자격 증명을 저장하나요? | 아니오 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니오 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
+| 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

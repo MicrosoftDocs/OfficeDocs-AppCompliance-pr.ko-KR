@@ -2,18 +2,19 @@
 title: Application Information for HelloSign for SharePoint by Dropbox Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 SharePoint, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 HelloSign에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4f35be46f70d1efd5bb0cdbd030f78cc82c67e23
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: df22a223c5f19a022abff6559d7b0a9fc69dae5a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62256814"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541806"
 ---
 # <a name="hellosign-for-sharepoint"></a>HelloSign for SharePoint
 
@@ -37,9 +38,9 @@ Microsoft에 Dropbox 제공한 정보:
 | 파트너 회사 이름 | Dropbox Inc. |
 | 회사의 웹 사이트 | [https://hellosign.com](https://hellosign.com) |
 | 앱 사용 약관 | [https://hellosign.com/terms](https://hellosign.com/terms) |
-| 앱의 핵심 기능 | HelloSign&#8217;디지털 워크플로 &#8211;, 디지털 워크플로 및 전자 팩스 솔루션이 포함된 &#8212; 80,000명 이상의 고객과 수백만의 사용자가 비즈니스를 더 빠르게 할 수 있도록 지원합니다. 고객이 거래를 더 빠르게 마감하고, 신입사원을 쉽게 온보드하고, 오류 없이 문서를 완성하는 등 훨씬 더 많은 작업을 완료할 수 있도록 도와드릴 것입니다. |
+| 앱의 핵심 기능 | HelloSign&#8217;디지털 워크플로 플랫폼 &#8211;, 디지털 워크플로 및 전자 팩스 솔루션이 &#8212; 80,000여 고객 및 수백만의 사용자가 비즈니스를 더 빠르게 할 수 있도록 지원합니다. 고객이 거래를 더 빠르게 마감하고, 신입사원을 쉽게 온보드하고, 오류 없이 문서를 완성하는 등 훨씬 더 많은 작업을 완료할 수 있도록 도와드릴 것입니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.hellosign.com/integrations](https://www.hellosign.com/integrations) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Aws |
 
@@ -124,7 +125,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 예 |
 | 앱이 NIST 800-171을 준수하나요? | 아니요 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 예 |
 
@@ -163,15 +164,15 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite.All | application | 전자적으로 서명된 파일을 다시 전자 서명된 파일로 SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
->| Sites.ReadWrite.All | application | 전자적으로 서명된 파일을 다시 전자 서명된 파일로 SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
->| User.Read | 위임 | 사용자의 전자 메일을 확인 | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](https://docs.microsoft.com/microsoft-365-app-certification/azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6) |
+>| Files.ReadWrite.All | application | 전자적으로 서명된 파일을 다시 전자 서명된 파일로 SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](../azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6.md) |
+>| Sites.ReadWrite.All | application | 전자적으로 서명된 파일을 다시 전자 서명된 파일로 SharePoint | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](../azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6.md) |
+>| User.Read | 위임 | 사용자의 전자 메일을 확인 | [6fcff87e-0f86-49c3-81eb-bc028d1ccfe6](../azure/6fcff87e-0f86-49c3-81eb-bc028d1ccfe6.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -2,18 +2,19 @@
 title: Hugo의 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Hugo, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 408d46c4352292e2c5ad4320675f0283fc65dc16
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: d05c1839ed59c6308ab621f6e3114e262e6f4e4a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148854"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542976"
 ---
 # <a name="hugo"></a>Hugo
 
@@ -38,11 +39,10 @@ Hugo에서 Microsoft에 제공한 정보:
 | 파트너 회사 이름 | Hugo |
 | 회사의 웹 사이트 | [https://www.hugo.team](https://www.hugo.team) |
 | 앱 사용 약관 | [https://www.hugo.team/terms](https://www.hugo.team/terms) |
-| 앱의 핵심 기능 | Hugo는 모임, 메모 및 작업을 위한 한 &#8211; 장소로, Microsoft Teams. Hugo의 일정 중심 메모 작성 플랫폼은 사용자와 팀이 모임 어데이트 및 메모, 작업 및 작업을 위한 중앙 위치 하나를 &#8211; 모임 연락처 및 회사가 자동으로 구성하고 매일 사용하는 20개 이상의 앱에 연결됩니다. |
+| 앱의 핵심 기능 | Hugo는 모임, 메모 및 작업을 위한 &#8211; 장소 중 하나일 Microsoft Teams. Hugo의 일정 중심 메모 작성 플랫폼을 사용하면 사용자와 팀이 모임 의제와 메모, 작업 및 작업을 하나의 중앙 위치로 사용할 수 &#8211; 연락처 및 회사가 자동으로 구성하고 매일 사용하는 20개 이상의 앱에 연결됩니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.hugo.team/teams](https://www.hugo.team/teams) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | IsvHosted |
-| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -125,7 +125,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 아니요 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 아니요 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 아니요 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 아니요 |
 | 앱이 NIST 800-171을 준수하나요? | 아니요 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -164,7 +164,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

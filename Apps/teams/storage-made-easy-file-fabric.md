@@ -2,18 +2,19 @@
 title: 간편한 구성을 통해 파일 패브릭에 Storage 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 파일 패브릭, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7000bee22c385c2c4909d60c7c7db13e81e83181
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: c39801f2fdaa87790782b310a0121492d8cd07ef
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260414"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542786"
 ---
 # <a name="file-fabric"></a>File Fabric
 
@@ -28,7 +29,7 @@ ms.locfileid: "62260414"
 
 ### <a name="general-information"></a>일반 정보
 
-Microsoft에서 제공하는 Storage 쉽게 사용할 수 있습니다.
+Microsoft에서 제공하는 Storage 쉽게 만들 수 있습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
@@ -40,8 +41,9 @@ Microsoft에서 제공하는 Storage 쉽게 사용할 수 있습니다.
 | 앱 사용 약관 | [https://www.storagemadeeasy.com/terms](https://www.storagemadeeasy.com/terms) |
 | 앱의 핵심 기능 | Azure Files, Azure Blob Storage 및 기타 저장소에 저장된 파일을 검색, 찾아보기, 편집 및 공유합니다. |
 | 회사 본사 위치 | 영국 및 북아일랜드 (the) |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://docs.storagemadeeasy.com/microsoft-teams](https://docs.storagemadeeasy.com/microsoft-teams) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | SelfHosted, Azure, AWS, GCP, IBMCloud, 사용자가 Wasabi, Backblaze, Cloudian, Dropbox, Box.com, Salesforce, S3 호환, FTP 및 WebDAV 서비스와 연결할 수 있습니다. |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,19 +53,12 @@ Microsoft에서 제공하는 Storage 쉽게 사용할 수 있습니다.
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 Storage 앱이 조직 데이터를 수집하고 저장하는 방법과 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대해 쉽게 알 수 있습니다.
+이 정보는 Storage 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직에서 사용할 컨트롤에 대해 쉽게 알 수 있습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 2주년 내에 삭제되었습니다. |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 예 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,14 +155,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite | application | 사용자가 앱을 통해 지정된 파일을 다운로드, 업로드 또는 편집할 때 읽거나 쓰는 파일 데이터입니다. | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
->| Sites.ReadWrite.All | application | 모든 파일 서비스에서&#8217;보기를 제공하는 모든 사용자에 대해 수집된 메타데이터입니다. | [0752d800-857f-49bd-87eb-e60985516c67](https://docs.microsoft.com/microsoft-365-app-certification/azure/0752d800-857f-49bd-87eb-e60985516c67) |
+>| Files.ReadWrite | application | 사용자가 앱을 통해 지정된 파일을 다운로드, 업로드 또는 편집할 때 읽거나 쓰는 파일 데이터입니다. | [0752d800-857f-49bd-87eb-e60985516c67](../azure/0752d800-857f-49bd-87eb-e60985516c67.md) |
+>| Sites.ReadWrite.All | application | 모든 파일 서비스에서&#8217;보기를 제공하는 폴더 및 모든 사용자에 대해 수집된 메타데이터입니다. | [0752d800-857f-49bd-87eb-e60985516c67](../azure/0752d800-857f-49bd-87eb-e60985516c67.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

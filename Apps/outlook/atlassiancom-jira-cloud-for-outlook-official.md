@@ -2,18 +2,19 @@
 title: Jira Cloud for Outlook(공식)에 대한 응용 프로그램 Atlassian.com
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Outlook(공식), 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6b9a6a2cdcc6f7c214a8e27f73ca3e4554fff1fb
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 93a78e68536d3a5213d9367033bb9eb50cfed96e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62146706"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541896"
 ---
 # <a name="jira-cloud-for-outlook-official"></a>Jira Cloud for Outlook(공식)
 
@@ -33,7 +34,7 @@ Microsoft에 Atlassian.com 정보:
 |:----------------|:-------------|
 | 앱 이름 | Jira Cloud for Outlook(공식) |
 | ID | WA200000056 |
-| Office 365 클라이언트 지원 | Outlook 2013 이상은 Windows, Outlook 2016 이상, Outlook iOS, android, Outlook 웹용 Outlook |
+| Office 365 클라이언트 지원 | Outlook 2013 이상은 Windows, Outlook 2016 이상, Outlook iOS, Outlook Android, 웹용 Outlook |
 | 파트너 회사 이름 | Atlassian.com |
 | 회사의 웹 사이트 | [https://www.atlassian.com](https://www.atlassian.com) |
 | 앱 사용 약관 | [https://www.atlassian.com/licensing/marketplace/termsofuse](https://www.atlassian.com/licensing/marketplace/termsofuse) |
@@ -51,21 +52,14 @@ Microsoft에 Atlassian.com 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 이 Atlassian.com 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
+이 정보는 조직 Atlassian.com 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대한 정보를 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 예 |
 | 앱에서 처리되는 데이터는 무엇입니까? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? |  |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -124,7 +118,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 아니요 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 아니요 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 예 |
 | 앱이 NIST 800-171을 준수하나요? | 아니요 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 예 |
 
@@ -162,7 +156,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

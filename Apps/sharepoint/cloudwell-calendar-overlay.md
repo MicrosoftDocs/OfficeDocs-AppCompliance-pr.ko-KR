@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 일정 오버레이, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a623b5e2887f0e08cdf5939e63dabd91ca47033a
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 9cf8d0d45c519fb22188b220bd2dff932f834591
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63454281"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63543136"
 ---
 # <a name="calendar-overlay"></a>일정 오버레이
 
@@ -61,7 +61,7 @@ Cloudwell에서 Microsoft에 제공하는 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 사용자 전자 메일 주소, 사용자 테넌트 ID |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 30일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |

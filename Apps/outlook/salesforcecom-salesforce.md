@@ -1,19 +1,20 @@
 ---
-title: Application Information for Salesforce by salesforce.com
+title: Salesforce.com
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Salesforce에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: fced2d4e5d9587512aa05d94dec3b04d68f332e3
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a25d57beea2c55251723aaf26c2e11be5662ac8c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62250301"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544576"
 ---
 # <a name="salesforce"></a>Salesforce
 
@@ -37,10 +38,11 @@ Microsoft에 salesforce.com 정보:
 | 파트너 회사 이름 | salesforce.com |
 | 회사의 웹 사이트 | [https://www.salesforce.com](https://www.salesforce.com) |
 | 앱 사용 약관 | [https://www.salesforce.com/content/dam/web/en_us/www/docume...](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/software-order-form-supplements/Salesforce_Outlook_TOU_Order_Form_Addendum.pdf) |
-| 앱의 핵심 기능 | 영업부에서 바로 Salesforce를 Outlook. 통합은 푸시, 설치 또는 유지 관리하는 소프트웨어가 없는 100% 클라우드 기반입니다. Salesforce와 Outlook 전환하지 않고 전자 메일 및 약속과 관련된 모든 연락처, 잠재 고객, 계정, 기회 및 사례를 볼 수 있습니다Outlook Salesforce 데이터는 모든 연락처에 Outlook. 사용자 지정 개체 레코드를 포함하여 새 Salesforce 레코드를 직접 Outlook. 메일을 작성하는 경우에도 한 번의 클릭으로 Salesforce 레코드에 전자 메일 및 약속 추가 |
+| 앱의 핵심 기능 | 2013에서 바로 Salesforce를 Outlook. 통합은 푸시, 설치 또는 유지 관리하는 소프트웨어가 없는 100% 클라우드 기반입니다. Salesforce와 Outlook 전환하지 않고 전자 메일 및 약속과 연결된 모든 연락처, 잠재 고객, 계정, 기회 및 사례를 볼 수 있습니다. Salesforce 데이터는 Outlook. 사용자 지정 개체 레코드를 포함하여 새 Salesforce 레코드를 직접 Outlook. 메일을 작성하는 경우에도 한 번의 클릭으로 Salesforce 레코드에 전자 메일 및 약속 추가 |
 | 회사 본사 위치 | 미국 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | SelfHosted |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,19 +52,12 @@ Microsoft에 salesforce.com 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 이 salesforce.com 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
+이 정보는 salesforce.com 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대한 정보를 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 보존 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -121,7 +116,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 아니요 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 아니요 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 아니요 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 아니요 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -159,7 +154,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

@@ -2,24 +2,25 @@
 title: 독립 실행형(남아프리카 Outlook)PTE Limited의 전자 메일주에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.date: 02/10/2022
+manager: tonybal
+ms.date: 12/10/2021
 ms.topic: article
 ms.service: attestation
-certification_type: certified
+certification_type: attested
 description: CSA STAR 레지스트리의 Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 EmailNotes에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d1287dc50181b69c6f1d8f3f31b43c84db569641
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 4bd54849249220757f9c657380716ea27e7ac499
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63076192"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63541386"
 ---
 # <a name="emailnotes-for-outlook"></a>EmailNotes for Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 1월 17일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2021년 11월 28일</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/standsssouthpacificltd1581455821226.emailnotes" target="_blank">AppSource의 보기</a>
 
@@ -38,7 +39,7 @@ ms.locfileid: "63076192"
 | 앱 사용 약관 | [https://www.standss.com/sendguard_m365/terms_conditions.htm](https://www.standss.com/sendguard_m365/terms_conditions.htm) |
 | 앱의 핵심 기능 | Outlook M365용 SendGuard는 사용자를 감지, 프롬프트, 경고 및 보호하는 위험 및 준수 도구로, 의도하지 않은 받는 사람에게 중요하거나 기밀 또는 부적절한 정보를 전자 메일로 전송하지 않습니다. |
 | 회사 본사 위치 | 피지 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.standss.com/sendguard_m365/default.htm](https://www.standss.com/sendguard_m365/default.htm) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -57,14 +58,7 @@ ms.locfileid: "63076192"
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 예 |
 | 앱에서 처리되는 데이터는 무엇입니까? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? |  |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -169,11 +163,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 위임 | 모임 요청에 첨부된 첨부 파일 제목, 본문의 내용을 읽으면  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| Mail.ReadWrite | 위임 | 메일 항목에 첨부된 첨부 파일 제목, 본문의 내용을 읽으면  | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| User.Read | 위임 | 이는 사용자 데이터를 읽고 도메인/사용자 계정에 대한 라이선스 정보를 확인하기 위한 것입니다. | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| openid | 위임 | SSO(Single Sign-On) 권한 요구 사항 | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
->| 프로필 | 위임 | SSO(Single Sign-On) 권한 요구 사항 | [471294e9-96d6-475b-b503-e02acd9ed2cd](https://docs.microsoft.com/microsoft-365-app-certification/azure/471294e9-96d6-475b-b503-e02acd9ed2cd) |
+>| Calendars.ReadWrite | 위임 | 모임 요청에 첨부된 첨부 파일 제목, 본문의 내용을 읽으면  | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| Mail.ReadWrite | 위임 | 메일 항목에 첨부된 첨부 파일 제목, 본문의 내용을 읽으면  | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| User.Read | 위임 | 이는 사용자 데이터를 읽고 도메인/사용자 계정에 대한 라이선스 정보를 확인하기 위한 것입니다. | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| openid | 위임 | SSO(Single Sign-On) 권한 요구 사항 | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
+>| 프로필 | 위임 | SSO(Single Sign-On) 권한 요구 사항 | [471294e9-96d6-475b-b503-e02acd9ed2cd](../azure/471294e9-96d6-475b-b503-e02acd9ed2cd.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

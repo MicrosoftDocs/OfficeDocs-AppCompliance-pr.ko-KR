@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: 0a8b6acd0a89f93483a64fb65389cc13f824ae6e
-ms.sourcegitcommit: 6f2370c0eb79cc4acc9b53b2215b7a61c2ab30d6
+ms.openlocfilehash: eaec2588c9f615078b0e564e8092fc56f56f847e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/17/2022
-ms.locfileid: "63563682"
+ms.locfileid: "63540426"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -38,7 +38,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [AMEX GBT](./30secondstofly-thailand-co-ltd-amex-gbt.md) | 30SecondsToFly(태국) Co Ltd | **✓** |  |
 | [Amplify - Hootsuite](./hootsuite-inc-amplify-by.md) | Hootsuite Inc. | **✓** |  |
 | [AmTrav Business Travel](./amtrav-business-travel.md) | AmTrav | **✓** |  |
-| [AnnounceBot](./avista-technology-solutions-announcebot.md) | Avista Technology Solutions | **✓** |  |
 | [Appraisd](./appraisd-ltd.md) | Appraisd Ltd. | **✓** |  |
 | [Appspace](./appspace-inc.md) | Appspace, Inc. | **✓** |  |
 | [ArcGIS Maps](./esri-arcgis-maps.md) | Esri | **✓** |  |
@@ -209,7 +208,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [huminos](./soe-technologies-huminos.md) | SOE 기술 | **✓** |  |
 | [Humu](./humu-inc.md) | Humu Inc. | **✓** |  |
 | [Hyperproof](./hyperproof.md) | Hyperproof | **✓** |  |
-| [Sideways 6의 아이디어](./sideways-6-ideas-by.md) | Sideways 6 | **✓** |  |
 | [Teams용 iGlobe CRM](./iglobe-crm-for-teams.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iManage](./imanage.md) | iManage | **✓** |  |
 | [imDocShare](./kl-software-technologies-imdocshare.md) | KL Software Technologies | **✓** |  |
@@ -479,4 +477,3 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Yeeflow](./akmii-yeeflow.md) | Akmii | **✓** |  |
 | [yuccaHR](./yucca-technologies-gmbh-yuccahr.md) | Yucca Technologies GmbH | **✓** |  |
 | [Zignals](./alight-zignals.md) | Alight | **✓** |  |
-| [Zoho Sign](./zoho-corporation-private-limited-sign.md) | Zoho Corporation Private Limited | **✓** |  |

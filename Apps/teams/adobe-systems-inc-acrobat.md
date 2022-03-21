@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Adobe Acrobat에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b94696ec95be7b58f03aaa048169e7c5b6cd89a0
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 015ddceffb9bf0a0a7a45bdff8ac0f4ddbb9faad
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459321"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544036"
 ---
 # <a name="adobe-acrobat"></a>Adobe Acrobat
 
@@ -62,7 +62,7 @@ Adobe Systems Inc.에서 Microsoft에 제공하는 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | tenant_id, upn_hash, profile_and_token_info, oauth_state, ims_login_changed_at, preference_data, updated_at, created_at, expires_at |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 30일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
@@ -171,13 +171,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Files.ReadWrite.All | 위임 | 사용자의 채널 파일 및 폴더를 목록으로 OneDrive, Teams 탐색할 수 있습니다. 사용자가 이러한 파일에 액세스하고, 파일을 사용하여 작업을 수행하고, 파일을 저장소에 다시 저장할 수 있습니다. | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| Team.ReadBasic.All | 위임 | 팀의 이름과 설명 읽기 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| 전자 메일 | 위임 | 사용자의 전자 메일 주소 보기 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| offline_access | 위임 | 제공한 데이터에 대한 액세스 유지 관리 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| openid | 위임 | 사용자 로그인 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
->| 프로필 | 위임 | 사용자 기본 프로필 보기 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac) |
+>| Files.ReadWrite.All | 위임 | 사용자의 채널 파일 및 폴더를 목록으로 OneDrive, Teams 탐색할 수 있습니다. 사용자가 이러한 파일에 액세스하고, 파일을 사용하여 작업을 수행하고, 파일을 저장소에 다시 저장할 수 있습니다. | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| Team.ReadBasic.All | 위임 | 팀의 이름과 설명 읽기 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| 전자 메일 | 위임 | 사용자의 전자 메일 주소 보기 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| offline_access | 위임 | 제공한 데이터에 대한 액세스 유지 관리 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| openid | 위임 | 사용자 로그인 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
+>| 프로필 | 위임 | 사용자 기본 프로필 보기 | [ecff17cf-5629-49ba-a629-7f575496aeac](../azure/ecff17cf-5629-49ba-a629-7f575496aeac.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

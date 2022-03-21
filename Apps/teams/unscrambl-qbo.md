@@ -2,18 +2,19 @@
 title: Unscrambl의 qbo에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: qbo에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f48255e8f29512bfc18a9d9c1a3d079829d31769
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: a02dec60c2eb9ab25fce28ac45271629b4700011
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148347"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63542686"
 ---
 # <a name="qbo"></a>qbo
 
@@ -40,7 +41,7 @@ Unscrambl에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://qbo.ai/legal/#service](https://qbo.ai/legal/#service) |
 | 앱의 핵심 기능 | qbo는 Unscrambl qbo insights를 통해 동급 최고의 NLP를 사용하여 대화형 분석을 제공합니다. 사용자가 질문을 입력하고 qbo는 가장 관련성이 높은 인사이트 및 시각화를 한 눈에 파악할 수 있습니다. 사용자는 동료와 적극적으로 공동 작업하고, 의사 결정을 내리고, 프레젠테이션 준비 보드에서 결과를 캡처할 수 있습니다. qbo는 조직의 모든 사람이 데이터 기반 의사 결정을 내릴 수 있도록 합니다. qbo는 다양한 클라우드 또는 사내 원본에 직접 연결하며, Microsoft Teams 또는 브라우저를 통해 액세스할 수 있습니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://qbo.ai](https://qbo.ai) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -125,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -164,7 +165,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 
