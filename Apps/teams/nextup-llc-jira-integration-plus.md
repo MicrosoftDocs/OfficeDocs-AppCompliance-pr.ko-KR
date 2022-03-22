@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Jira Integration Plus, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8adf13a171e6a075ff4b22e9325912f6c1738cf8
-ms.sourcegitcommit: 4d215076edbae690d7c44cd05dc15d0a495b82bf
+ms.openlocfilehash: 92f2d7375e92a2ff69e83af28380d6e6d038700c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/14/2022
-ms.locfileid: "63470224"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548386"
 ---
 # <a name="jira-integration-plus"></a>Jira Integration Plus
 
@@ -43,7 +43,6 @@ Nextup, LLC에서 Microsoft에 제공하는 정보:
 | 회사 본사 위치 | 미국 |
 | 앱 정보 페이지 | [https://www.nextup.ai/microsoft-teams/jira-integration-plus/](https://www.nextup.ai/microsoft-teams/jira-integration-plus/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | IsvHosted |
-| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -62,7 +61,7 @@ Nextup, LLC에서 Microsoft에 제공하는 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 고유 식별자 및 전자 메일 주소 |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 30일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
@@ -113,17 +112,17 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 HITRUST CSF(Common Security Framework)인 Health Information Trust Alliance를 준수하나요? | 해당 없음 |
 | 앱이 SOC(서비스 조직 제어)를 준수하나요? | 예 |
 | 가장 최근 SOC1 인증 날짜 |  2021-04-01 |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니오 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 어떤 SOC 2 인증을 획득했나요? | |
 | 가장 최근 SOC2 인증 날짜 | |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니오 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 가장 최근 SOC3 인증 날짜 | |
 | 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 예 |
 | 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
-| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니오 |
-| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니오 |
-| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니오 |
-| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니오 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
+| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
@@ -141,9 +140,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? | 예 |
 | 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 연결 개인 정보 취급 방침이 있나요? | 예 |
 | 개인 정보 취급 방침 URL | https://www.nextup.ai/data-processing-agreement/ |
-| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? | 아니오 |
-| 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니오 |
-| 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? | 아니오 |
+| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? | 아니요 |
+| 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니요 |
+| 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? | 아니요 |
 | 앱이 미성년자(예: 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? | 아니요 |
 | 앱에 요청 시 개인의 개인 데이터를 삭제할 수 있는 기능이 있나요? | 예 |
 | 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한할 수 있는 기능이 있나요? | 예 |
@@ -162,7 +161,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 예 |
 | 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? | 예 |
 | 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니오 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
 | 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
@@ -171,16 +170,16 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AccessReview.Read.All | 둘 다 | 이 API를 사용하여 사용자에게 응용 프로그램에 액세스할 수 있는 권한이 있는지 확인 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| AccessReview.ReadWrite.All | 둘 다 | 이 API를 사용하여 사용자에게 응용 프로그램에 액세스할 수 있는 권한이 있는지 확인 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Directory.Read.All | 둘 다 | 이 API를 사용하여 사용자가 Teams 및 채널에서 봇을 사용할 수 있도록 합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Directory.Read.All | 둘 다 | 이 API를 사용하여 사용자가 Teams 및 채널에서 봇을 사용할 수 있도록 합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Files.ReadWrite.All | 둘 다 | 이 API를 사용하여 사용자가 Jira 문제에 첨부할 수 있는 파일을 수락합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Files.ReadWrite.All | 둘 다 | 이 API를 사용하여 사용자가 Jira 문제에 첨부할 수 있는 파일을 수락합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Sites.Read.All | 둘 다 | 이 API를 사용하여 사용자가 적절한 장소에서 티켓을 만들 수 있도록 사용자가 액세스할 수 있는 사이트를 볼 수 있습니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| Sites.Read.All | 둘 다 | 이 API를 사용하여 사용자가 적절한 장소에서 티켓을 만들 수 있도록 사용자가 액세스할 수 있는 사이트를 볼 수 있습니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| User.ReadWrite.All | 둘 다 | 이 API를 사용하여 관리자가 조직에서 Jira와 함께 응용 프로그램을 사용할 수 있는 권한을 제공하도록 허용합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
->| User.ReadWrite.All | 둘 다 | 이 API를 사용하여 관리자가 조직에서 Jira와 함께 응용 프로그램을 사용할 수 있는 권한을 제공하도록 허용합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68) |
+>| AccessReview.Read.All | 둘 다 | 이 API를 사용하여 사용자에게 응용 프로그램에 액세스할 수 있는 권한이 있는지 확인 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| AccessReview.ReadWrite.All | 둘 다 | 이 API를 사용하여 사용자에게 응용 프로그램에 액세스할 수 있는 권한이 있는지 확인 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Directory.Read.All | 둘 다 | 이 API를 사용하여 사용자가 Teams 및 채널에서 봇을 사용할 수 있도록 합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Directory.Read.All | 둘 다 | 이 API를 사용하여 사용자가 Teams 및 채널에서 봇을 사용할 수 있도록 합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Files.ReadWrite.All | 둘 다 | 이 API를 사용하여 사용자가 Jira 문제에 첨부할 수 있는 파일을 수락합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Files.ReadWrite.All | 둘 다 | 이 API를 사용하여 사용자가 Jira 문제에 첨부할 수 있는 파일을 수락합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Sites.Read.All | 둘 다 | 이 API를 사용하여 사용자가 적절한 장소에서 티켓을 만들 수 있도록 사용자가 액세스할 수 있는 사이트를 볼 수 있습니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| Sites.Read.All | 둘 다 | 이 API를 사용하여 사용자가 적절한 장소에서 티켓을 만들 수 있도록 사용자가 액세스할 수 있는 사이트를 볼 수 있습니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| User.ReadWrite.All | 둘 다 | 이 API를 사용하여 관리자가 조직에서 Jira와 함께 응용 프로그램을 사용할 수 있는 권한을 제공하도록 허용합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
+>| User.ReadWrite.All | 둘 다 | 이 API를 사용하여 관리자가 조직에서 Jira와 함께 응용 프로그램을 사용할 수 있는 권한을 제공하도록 허용합니다. | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](../azure/0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

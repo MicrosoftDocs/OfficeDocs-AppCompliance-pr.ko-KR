@@ -1,19 +1,20 @@
 ---
-title: AvePoint Inc.Teams MyHub에 대한 응용 프로그램 정보입니다.
+title: AvePoint Inc.Teams MyHub에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/06/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 MyHub에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: abf2df95a61552899c392b884fc306481aa72a08
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 85284efb009be8af3e7232782ddb85f5e7d6569a
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255110"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549826"
 ---
 # <a name="myhub-for-teams"></a>MyHub for Teams
 
@@ -36,10 +37,11 @@ AvePoint Inc.에서 Microsoft에 제공한 정보:
 | 파트너 회사 이름 | AvePoint Inc. |
 | 회사의 웹 사이트 | [https://www.avepoint.com](https://www.avepoint.com) |
 | 앱 사용 약관 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| 앱의 핵심 기능 | 기존 작업 영역 관리 작업 영역의 새 요청을 위한 원스톱 Office 365 MyHub &amp; 를 충족합니다. MyHub는 IT 팀에 부담을 주지 않고 사용하기 쉬운 프로비저닝, 재인증, &amp; 수명 주기 서비스를 제공합니다. 사용자는 작업을 수행 &amp; &amp; 하면 보안 작업 영역의 규모를 확장하고 자동화할 수 있어 작업 목록을 보다 쉽게 완료할 수 있습니다. MyHub&#65533;&amp; 지속 가능한 보안 프레임워크는 AvePoint&#65533;클라우드 거버넌스를 통해 지원됩니다. |
+| 앱의 핵심 기능 | 기존 작업 영역 관리 작업 영역의 새 요청을 위한 원스톱 쇼핑인 MyHub &amp; 를 Office 365 충족합니다. MyHub는 IT 팀에 부담을 주지 않고 사용하기 쉬운 프로비저닝, 재인증, &amp; 수명 주기 서비스를 제공합니다. 사용자는 작업을 수행 &amp; &amp; 하면 보안 작업 영역의 규모를 확장하고 자동화할 수 있어 작업 목록을 보다 쉽게 완료할 수 있습니다. MyHub&#65533;&amp; 지속 가능한 보안 프레임워크는 AvePoint&#65533;클라우드 거버넌스를 통해 지원됩니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.avepoint.com/products/cloud/myhub](https://www.avepoint.com/products/cloud/myhub) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ AvePoint Inc.에서 Microsoft에 제공한 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 한 달 내에 삭제되었습니다. |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -120,7 +115,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 예 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 예 |
 
@@ -159,20 +154,20 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 지원되는 정책 유형 나열 | 응용 프로그램이 Azure AD와 페더러입니다. 따라서 모든 조건부 액세스 규칙을 사용할 수 있습니다. |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.ReadWrite.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Mail.Send | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Reports.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.FullControl.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.ReadWrite.All | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| Directory.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.ReadWrite.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Mail.Send | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Reports.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.FullControl.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.Read.All | application | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.ReadWrite.All | 위임 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.Read.All | 둘 다 | 응용 프로그램 구성 데이터는 데이터 처리 관점에서 저장됩니다. | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

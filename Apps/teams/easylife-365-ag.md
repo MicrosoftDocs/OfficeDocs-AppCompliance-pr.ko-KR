@@ -2,18 +2,19 @@
 title: EasyLife 365 AG의 EasyLife 365에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/04/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: EasyLife 365에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 489c314ca81a9701d1e8304ca5c278f20f270d97
-ms.sourcegitcommit: dd610febc885b7c5766014e7364ed43c4bd942ac
+ms.openlocfilehash: cf7a3b8b77e915f42d1a8d3d1573ca23fcf1cf78
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/08/2022
-ms.locfileid: "62449462"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548496"
 ---
 # <a name="easylife-365"></a>EasyLife 365
 
@@ -40,9 +41,8 @@ EasyLife 365 AG에서 Microsoft에 제공하는 정보:
 | 앱 사용 약관 | [https://www.easylife365.cloud/terms](https://www.easylife365.cloud/terms) |
 | 앱의 핵심 기능 | 거버넌스를 쉽게 만들 수 있습니다. |
 | 회사 본사 위치 | 스위스 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.easylife365.cloud/governance/features](https://www.easylife365.cloud/governance/features) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | IsvHosted |
-| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -125,7 +125,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 아니요 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 아니요 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 아니요 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 아니요 |
 | 앱이 NIST 800-171을 준수하나요? | 아니요 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -164,32 +164,32 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | 위임 | 앱에서 Microsoft 365 그룹을 관리할 수 있습니다. | [192ba193-b68c-464c-a920-7eaa93b59a12](https://docs.microsoft.com/microsoft-365-app-certification/azure/192ba193-b68c-464c-a920-7eaa93b59a12) |
->| User.Read.All | 위임 | 응용 프로그램에서 사용자 정보를 검색하는 데 사용됩니다. 사람 선택에 사용 | [192ba193-b68c-464c-a920-7eaa93b59a12](https://docs.microsoft.com/microsoft-365-app-certification/azure/192ba193-b68c-464c-a920-7eaa93b59a12) |
->| ChannelMember.ReadWrite.All | application | 백end 앱에서 채널 구성원을 읽고 조작하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Directory.ReadWrite.All | 둘 다 | EasyLife 365에 대한 테넌트의 앱 권한이 있는지 확인하는 데 사용됩니다. 백end에서 Microsoft 365 그룹에 대한 게스트 액세스를 사용하지 않도록 설정하거나 사용하도록 설정하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Group.ReadWrite.All | application | 그룹 Microsoft 365 프로비전하고, 그룹 소유자를 확인하고, Teams 서비스에서 그룹을 삭제하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Mail.Send | application | 환경의 사서함이 있는 사용자에게 메일 알림을 보낼 수 있습니다. 이 구성은 관리자가 공유 사서함 또는 사용자의 메일을 보내도록 구성됩니다. 일반적으로 관리자는 이 앱의 사용 권한을 앱 ID로 제한합니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| MailboxSettings.Read | application | 특정 언어로 알림을 보내기 전에 사용자 사서함의 언어 설정을 읽는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Reports.Read.All | application | 백end에서 Microsoft 365 그룹의 사용 현황을 확인하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| Sites.Read.All | application | 테넌트에서 SharePoint Online 사이트를 열000개하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| User.Read.All | application | 사용자를 검색하고 알림을 보내기 위해 기본 정보를 검색하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| User.ReadWrite.All | application | 게스트 계정을 초대하고, 게스트 계정 메타데이터를 수정하고, 백end 응용 프로그램에서 필요한 경우 게스트 계정을 삭제하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](https://docs.microsoft.com/microsoft-365-app-certification/azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a) |
->| ChannelMember.ReadWrite.All | 위임 | 사용자가 팀의 채널 구성원을 조작하는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| Group.ReadWrite.All | 위임 | Microsoft 365 그룹의 메타데이터를 조작하는 데 Teams. 환경에서 그룹을 검색하는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| TeamsActivity.Send | application | 백end에서 Teams 알림을 보내는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| TeamsAppInstallation.ReadForUser.All | application | 사용자를 통해 알림을 보내기 전에 EasyLife 앱이 설치되어 있는지 Teams. | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| User.Read.All | 위임 | 사용자 선택에서 조직의 사용자를 검색하는 데 사용됩니다. 게스트 계정을 열000개하는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| 전자 메일 | 위임 | SSO 인증에서 사용 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| offline_access | 위임 | SSO 인증에서 사용 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| openid | 위임 | SSO 인증에서 사용 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
->| 프로필 | 위임 | SSO 인증에서 사용 | [716a0b19-6f38-4909-a80a-ffaac7957316](https://docs.microsoft.com/microsoft-365-app-certification/azure/716a0b19-6f38-4909-a80a-ffaac7957316) |
+>| Group.Read.All | 위임 | 앱에서 Microsoft 365 그룹을 관리할 수 있습니다. | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| User.Read.All | 위임 | 응용 프로그램에서 사용자 정보를 검색하는 데 사용됩니다. 사람 선택에 사용 | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| ChannelMember.ReadWrite.All | application | 백end 앱에서 채널 구성원을 읽고 조작하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Directory.ReadWrite.All | 둘 다 | EasyLife 365에 대한 테넌트의 앱 권한이 있는지 확인하는 데 사용됩니다. 백end의 Microsoft 365 그룹에 대한 게스트 액세스를 사용하지 않도록 설정하거나 사용하도록 설정하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Group.ReadWrite.All | application | 그룹 Microsoft 365 프로비전하고, 그룹 소유자를 확인하고, Teams 서비스에서 그룹을 삭제하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Mail.Send | application | 환경의 사서함이 있는 사용자에게 메일 알림을 보낼 수 있습니다. 이 구성은 관리자가 공유 사서함 또는 사용자의 메일을 보내도록 구성됩니다. 일반적으로 관리자는 이 앱의 사용 권한을 앱 ID로 제한합니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| MailboxSettings.Read | application | 특정 언어로 알림을 보내기 전에 사용자 사서함의 언어 설정을 읽는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Reports.Read.All | application | 백end에서 Microsoft 365 그룹의 사용 현황을 확인하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Sites.Read.All | application | 테넌트에서 SharePoint 온라인 사이트를 열000개하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| User.Read.All | application | 사용자를 검색하고 알림을 보내기 위해 기본 정보를 검색하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| User.ReadWrite.All | application | 게스트 계정을 초대하고, 게스트 계정 메타데이터를 수정하고, 백end 응용 프로그램에서 필요한 경우 게스트 계정을 삭제하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| ChannelMember.ReadWrite.All | 위임 | 사용자가 팀의 채널 구성원을 조작하는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| Group.ReadWrite.All | 위임 | Microsoft 365 그룹에 대한 메타데이터를 조작하는 데 Teams. 환경에서 그룹을 검색하는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| TeamsActivity.Send | application | 백end에서 Teams 알림을 보내는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| TeamsAppInstallation.ReadForUser.All | application | 사용자를 통해 알림을 보내기 전에 EasyLife 앱이 설치되어 있는지 Teams. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| User.Read.All | 위임 | 사용자 선택에서 조직의 사용자를 검색하는 데 사용됩니다. 게스트 계정을 열000개하는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| 전자 메일 | 위임 | SSO 인증에서 사용 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| offline_access | 위임 | SSO 인증에서 사용 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| openid | 위임 | SSO 인증에서 사용 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| 프로필 | 위임 | SSO 인증에서 사용 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

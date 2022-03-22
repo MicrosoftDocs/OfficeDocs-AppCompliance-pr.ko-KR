@@ -2,18 +2,19 @@
 title: UAB Lucid 계약에 의해 isLucid에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/02/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: isLucid, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
+description: isLucid, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 83c9786dcb0cd7f8ff6c5d744c5eaf3fb63b9ab3
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: ac2d52a234c50cd0a59ecb4bbbc62bd346a929d7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62255464"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547756"
 ---
 # <a name="islucid"></a>isLucid
 
@@ -38,9 +39,9 @@ Microsoft에 대한 UAB Lucid 계약에서 제공하는 정보:
 | 파트너 회사 이름 | UAB Lucid 계약 |
 | 회사의 웹 사이트 | [https://islucid.com](https://islucid.com) |
 | 앱 사용 약관 | [https://islucid.com/eula/](https://islucid.com/eula/) |
-| 앱의 핵심 기능 | 팀에서 팀을 Microsoft Teams 실시간으로 전사에서 작업을 캡처하고 만들 수 있습니다. 이러한 작업을 기존 관리 소프트웨어와 Project 통합합니다. |
+| 앱의 핵심 기능 | 팀에서 Microsoft Teams 실시간으로 전사에서 작업을 캡처하고 만들 수 있도록 합니다. 이러한 작업을 기존 관리 소프트웨어와 Project 통합합니다. |
 | 회사 본사 위치 | 리투아니아 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://islucid.com](https://islucid.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 하이브리드 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -125,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 아니요 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 아니요 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -163,19 +164,19 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calls.AccessMedia.All | 둘 다 | 각 통화에 대한 사용자별 동의(시작된 녹음)를 통해 오디오 스트림에 액세스합니다. 오디오 스트림은 사용자가 추가 기능을 사용할 수 있도록 녹음 서비스로 전달됩니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| Calls.JoinGroupCall.All | 둘 다 | 각 통화에 대한 사용자별 동의(시작된 녹음)를 통해 오디오 스트림에 액세스합니다. 오디오 스트림은 사용자가 추가 기능을 사용할 수 있도록 녹음 서비스로 전달됩니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| Group.ReadWrite.All | 둘 다 | 사용자가 Microsoft Planner와의 통합을 사용하여 통화에서 작업을 만들고 MS Planner에 자동으로 저장하는 경우 isLucid는 해당 사용자 사용 가능한 그룹, 계획, 담당자에 대해 수집합니다. 이 권한이 없는 사용자는 isLucid를 사용하여 전사에서 작업을 만들 수 없습니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| OnlineMeetings.Read.All | 둘 다 | 응용 프로그램은 모임 제목을 수집하여 나중에 사용자가 이전 대화 및 작업을 더 쉽게 찾을 수 있도록 합니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| Tasks.ReadWrite | 둘 다 | 사용자가 Microsoft Planner와의 통합을 사용하여 통화에서 작업을 만들고 MS Planner에 자동으로 저장하는 경우 isLucid는 해당 사용자 사용 가능한 그룹, 계획, 담당자에 대해 수집합니다. 이 권한이 없는 사용자는 isLucid를 사용하여 전사에서 작업을 만들 수 없습니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| User.ReadWrite.All | 둘 다 | 사용자가 Microsoft Planner와의 통합을 사용하여 통화에서 작업을 만들고 MS Planner에 자동으로 저장하는 경우 isLucid는 해당 사용자 사용 가능한 그룹, 계획, 담당자에 대해 수집합니다. 이 권한이 없는 사용자는 isLucid를 사용하여 전사에서 작업을 만들 수 없습니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
->| openid | 둘 다 | 사용자 ID, 사용자에 대한 Azure Active Directory 기능을 제공하기 위해 수집된 테넌트 ID | [98b70422-b0b2-41bf-8673-60d85f5d38c7](https://docs.microsoft.com/microsoft-365-app-certification/azure/98b70422-b0b2-41bf-8673-60d85f5d38c7) |
+>| Calls.AccessMedia.All | 둘 다 | 각 통화에 대한 사용자별 동의(시작된 녹음)를 통해 오디오 스트림에 액세스합니다. 오디오 스트림은 사용자가 추가 기능을 사용할 수 있도록 녹음 서비스로 전달됩니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| Calls.JoinGroupCall.All | 둘 다 | 각 통화에 대한 사용자별 동의(시작된 녹음)를 통해 오디오 스트림에 액세스합니다. 오디오 스트림은 사용자가 추가 기능을 사용할 수 있도록 녹음 서비스로 전달됩니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| Group.ReadWrite.All | 둘 다 | 사용자가 Microsoft Planner와의 통합을 사용하여 통화에서 작업을 만들고 MS Planner에 자동으로 저장하는 경우 isLucid는 해당 사용자 사용 가능한 그룹, 계획, 담당자에 대해 수집합니다. 이 권한이 없는 사용자는 isLucid를 사용하여 전사에서 작업을 만들 수 없습니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| OnlineMeetings.Read.All | 둘 다 | 응용 프로그램은 모임 제목을 수집하여 나중에 사용자가 이전 대화 및 작업을 더 쉽게 찾을 수 있도록 합니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| Tasks.ReadWrite | 둘 다 | 사용자가 Microsoft Planner와의 통합을 사용하여 통화에서 작업을 만들고 MS Planner에 자동으로 저장하는 경우 isLucid는 해당 사용자 사용 가능한 그룹, 계획, 담당자에 대해 수집합니다. 이 권한이 없는 사용자는 isLucid를 사용하여 전사에서 작업을 만들 수 없습니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| User.ReadWrite.All | 둘 다 | 사용자가 Microsoft Planner와의 통합을 사용하여 통화에서 작업을 만들고 MS Planner에 자동으로 저장하는 경우 isLucid는 해당 사용자 사용 가능한 그룹, 계획, 담당자에 대해 수집합니다. 이 권한이 없는 사용자는 isLucid를 사용하여 전사에서 작업을 만들 수 없습니다. | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
+>| openid | 둘 다 | 사용자 ID, 사용자에 대한 Azure Active Directory 기능을 제공하기 위해 수집된 테넌트 ID | [98b70422-b0b2-41bf-8673-60d85f5d38c7](../azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

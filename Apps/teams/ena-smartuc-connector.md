@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: ENA SmartUC Connector에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d2095a16fc5f3d9a0e28f8cf782ae292c330a947
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: 4f3825a2a210998277fcf00634fc8e78679ff6a5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459823"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548886"
 ---
-# <a name="ena-smartuc-connector"></a>ENA SmartUC 커넥터
+# <a name="ena-smartuc-connector"></a>ENA SmartUC Connector
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ ENA가 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | ENA SmartUC 커넥터 |
+| 앱 이름 | ENA SmartUC Connector |
 | ID | WA200003354 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | ENA |
@@ -163,13 +163,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember.Read.All | 위임 | 사용자 ID 및 현재 채널/채팅의 구성원 이름을 표시합니다. 앱은 이를 사용하여 사용자에게 통화할 채널/채팅 구성원 목록을 제공합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| Chat.ReadBasic | 위임 | 사용자 ID 및 현재 채팅 구성원의 이름을 표시합니다. 앱은 이를 사용하여 사용자에게 통화할 채팅 구성원 목록을 제공합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| People.Read.All | 위임 | 사용자 ID 및 현재 팀 구성원의 이름을 표시합니다. 앱은 이를 사용하여 사용자에게 통화할 팀 구성원 목록을 제공합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| User.Read.All | 위임 | 사용자의 업무 및 휴대폰 번호입니다. 이러한 번호로의 전화 통화를 시작할 수 있도록 이 작업을 시작해야 합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| offline_access | 위임 | 사용자를 대신하여 나열된 다른 Graph API 끝점에 액세스하도록 앱에 권한을 부여하는 사용자에 대한 권한 부여 토큰입니다. Microsoft Identity 플랫폼 응용 프로그램이 작동하려면 이러한 액세스 권한이 필요합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| openid | 위임 | 사용자를 대신하여 나열된 다른 Graph API 끝점에 액세스하도록 앱에 권한을 부여하는 사용자에 대한 권한 부여 토큰입니다. Microsoft Identity 플랫폼 응용 프로그램이 작동하려면 이러한 액세스 권한이 필요합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
->| 프로필 | 위임 | 사용자를 대신하여 나열된 다른 Graph API 끝점에 액세스하도록 앱에 권한을 부여하는 사용자에 대한 권한 부여 토큰입니다. Microsoft Identity 플랫폼 응용 프로그램이 작동하려면 이러한 액세스 권한이 필요합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e) |
+>| ChannelMember.Read.All | 위임 | 사용자 ID 및 현재 채널/채팅의 구성원 이름을 표시합니다. 앱은 이를 사용하여 사용자에게 통화할 채널/채팅 구성원 목록을 제공합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| Chat.ReadBasic | 위임 | 사용자 ID 및 현재 채팅 구성원의 이름을 표시합니다. 앱은 이를 사용하여 사용자에게 통화할 채팅 구성원 목록을 제공합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| People.Read.All | 위임 | 사용자 ID 및 현재 팀 구성원의 이름을 표시합니다. 앱은 이를 사용하여 사용자에게 통화할 팀 구성원 목록을 제공합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| User.Read.All | 위임 | 사용자의 업무 및 휴대폰 번호입니다. 이러한 번호로의 전화 통화를 시작할 수 있도록 이 작업을 시작해야 합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| offline_access | 위임 | 사용자를 대신하여 나열된 다른 Graph API 끝점에 액세스하도록 앱에 권한을 부여하는 사용자에 대한 권한 부여 토큰입니다. Microsoft Identity 플랫폼 응용 프로그램이 작동하려면 이러한 액세스 권한이 필요합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| openid | 위임 | 사용자를 대신하여 나열된 다른 Graph API 끝점에 액세스하도록 앱에 권한을 부여하는 사용자에 대한 권한 부여 토큰입니다. Microsoft Identity 플랫폼 응용 프로그램이 작동하려면 이러한 액세스 권한이 필요합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
+>| 프로필 | 위임 | 사용자를 대신하여 나열된 다른 Graph API 끝점에 액세스하도록 앱에 권한을 부여하는 사용자에 대한 권한 부여 토큰입니다. Microsoft Identity 플랫폼 응용 프로그램이 작동하려면 이러한 액세스 권한이 필요합니다. | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](../azure/029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

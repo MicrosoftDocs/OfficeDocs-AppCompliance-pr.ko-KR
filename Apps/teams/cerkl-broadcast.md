@@ -2,18 +2,19 @@
 title: Cerkl의 브로드캐스트에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 브로드캐스트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: CSA STAR 레지스트리의 브로드캐스트, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 527f245f00a281a4b0ec7e830ec297bc0db62fdd
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 2868de9f42250c8dff2e1b8302490082400a8fa3
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251694"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63548916"
 ---
 # <a name="broadcast"></a>브로드캐스트
 
@@ -38,10 +39,11 @@ Cerkl이 Microsoft에 제공한 정보:
 | 파트너 회사 이름 | Cerkl |
 | 회사의 웹 사이트 | [https://cerkl.com](https://cerkl.com) |
 | 앱 사용 약관 | [https://cerkl.com/terms](https://cerkl.com/terms) |
-| 앱의 핵심 기능 | Cerkl Broadcast는 직원 대상을 조직과 연결하고&#8217;커뮤니케이션을 합니다. 브로드캐스트는 동작 기반 개인 설정 기능을 사용하여 올바른 채널의 올바른 직원에게 올바른 메시지를 전달합니다. 이&#8217;경쟁업체와 실제로 분리되어 있습니다. 우리는 노력을 중복하지 않고도 정통 커뮤니케이션자들이 채널을 통해 통신할 수 있도록 합니다. 또한 브로드캐스트는 클라이언트가 대상 고객을 위해 어떤 작업을 하는지 알 수 있도록&#8217;업계 최고의 메트릭을 제공합니다. |
+| 앱의 핵심 기능 | Cerkl Broadcast는 직원 대상을 조직과 연결하고&#8217;커뮤니케이션을 합니다. 브로드캐스트는 동작 기반 개인 설정 기능을 사용하여 올바른 채널의 올바른 직원에게 올바른 메시지를 전달합니다. 이&#8217;경쟁업체와 실제로 분리되어 있습니다. 우리는 노력을 중복하지 않고도 정통 커뮤니케이션자들이 채널을 통해 통신할 수 있도록 합니다. 또한 브로드캐스트는 클라이언트가 대상을 위해 어떤 작업을 하는지 알 수 있도록&#8217;업계 최고의 메트릭을 제공합니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://cerkl.com/broadcast/microsoft-teams/](https://cerkl.com/broadcast/microsoft-teams/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Cerkl이 Microsoft에 제공한 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 한 달 내에 삭제되었습니다. |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,13 +155,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 위임 | 사용자의 전자 메일은 수집되고 사용자가 현재 시스템에 있으며 조직에서 추가한 경우 이를 보는 데 사용됩니다. | [74ef25ab-3685-446c-aa43-4e9cc251ed62](https://docs.microsoft.com/microsoft-365-app-certification/azure/74ef25ab-3685-446c-aa43-4e9cc251ed62) |
+>| User.Read | 위임 | 사용자의 전자 메일은 수집되고 사용자가 현재 시스템에 있으며 조직에서 추가한 경우 이를 보는 데 사용됩니다. | [74ef25ab-3685-446c-aa43-4e9cc251ed62](../azure/74ef25ab-3685-446c-aa43-4e9cc251ed62.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

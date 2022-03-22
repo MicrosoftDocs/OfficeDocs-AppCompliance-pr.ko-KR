@@ -2,18 +2,19 @@
 title: 작업 GmbH를 통해 클라우드 허브에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 클라우드 허브, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: 클라우드 허브에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6e982e29c1ba09097f3c2415aae5e1f644a87c5a
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 2a4f56d9bf23739abd8c7c9d40f6023fbfe43f91
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259852"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63549466"
 ---
 # <a name="cloud-hub"></a>Cloud Hub
 
@@ -38,9 +39,9 @@ Atwork GmbH에서 Microsoft에 제공하는 정보:
 | 파트너 회사 이름 | atwork GmbH |
 | 회사의 웹 사이트 | [https://www.atwork-it.com](https://www.atwork-it.com) |
 | 앱 사용 약관 | [https://www.atwork-it.com/eula](https://www.atwork-it.com/eula) |
-| 앱의 핵심 기능 | 클라우드 허브는 클라우드 기반 비즈니스 Microsoft Teams. 사용자가 Microsoft 메시지 센터의 새 기능 및 변경된 기능, 계획된 유지 관리 및 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적할 수 있습니다. 클라우드 허브 앱을 클라우드 허브 앱의 앱 바에 고정할 수 Microsoft Teams. 앱은 현재 영어로 지원됩니다( 비용 없음).  |
+| 앱의 핵심 기능 | 클라우드 허브는 클라우드 기반 비즈니스 Microsoft Teams. 사용자가 Microsoft 메시지 센터의 새 기능 및 변경된 기능, 계획된 유지 관리 및 기타 중요한 공지 사항을 포함하여 예정된 변경 내용을 추적할 수 있습니다. 클라우드 허브 앱을 앱 바에 고정할 수 Microsoft Teams. 앱은 현재 영어로 지원됩니다( 비용 없음).  |
 | 회사 본사 위치 | 오스트리아 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.atwork-it.com/solutions/cloudhub/](https://www.atwork-it.com/solutions/cloudhub/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -125,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -161,19 +162,19 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? | 예 |
 | 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
-| 지원되는 정책 유형 나열 | 다중 테넌트 앱, 고객 및&#180;따라 다를 수 있습니다. |
+| 지원되는 정책 유형 나열 | 다중 테넌트 앱은 고객 및&#180;따라 다를 수 있습니다. |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | application | 메시지 센터에서 메시지를 게시할 채널을 선택하는 데 사용됩니다. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
->| Mail.Send | application | 앱에서 채널 또는 개별 사용자에게 직접 메일을 보내는 데 사용됩니다.  | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
->| TeamSettings.Read.All | application | 메시지 센터에서 메시지를 게시할 팀을 선택하는 데 사용됩니다. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
->| User.Read.All | application | 전자 메일을 보낼 사람을 선택하는 데 사용됩니다. | [b5d4e933-e001-4168-83f8-abdd974877bd](https://docs.microsoft.com/microsoft-365-app-certification/azure/b5d4e933-e001-4168-83f8-abdd974877bd) |
+>| Channel.ReadBasic.All | application | 메시지 센터에서 메시지를 게시할 채널을 선택하는 데 사용됩니다. | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
+>| Mail.Send | application | 앱에서 채널 또는 개별 사용자에게 직접 메일을 보내는 데 사용됩니다.  | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
+>| TeamSettings.Read.All | application | 메시지 센터에서 메시지를 게시할 팀을 선택하는 데 사용됩니다. | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
+>| User.Read.All | application | 전자 메일을 보낼 사람을 선택하는 데 사용됩니다. | [b5d4e933-e001-4168-83f8-abdd974877bd](../azure/b5d4e933-e001-4168-83f8-abdd974877bd.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 
