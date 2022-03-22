@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: UserVoice에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0abf55a4dbed692837abab9beaa3ef01426b9991
-ms.sourcegitcommit: 6f2370c0eb79cc4acc9b53b2215b7a61c2ab30d6
+ms.openlocfilehash: b815858d1846f5388114a3c0c3329f4d54b97f06
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/17/2022
-ms.locfileid: "63563695"
+ms.locfileid: "63547236"
 ---
 # <a name="uservoice"></a>UserVoice
 
@@ -37,11 +37,11 @@ UserVoice에서 Microsoft에 제공한 정보:
 | ID | WA200001944 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | UserVoice |
-| 회사의 웹 사이트 | 해당 없음 |
-| 앱 사용 약관 | 해당 없음 |
+| 회사의 웹 사이트 | [https://www.uservoice.com](https://www.uservoice.com) |
+| 앱 사용 약관 | [https://www.uservoice.com/tos](https://www.uservoice.com/tos) |
 | 앱의 핵심 기능 | 내 제품 피드백 프로그램에 대한 실시간 업데이트를 Microsoft Teams. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | 해당 없음 |
+| 앱 정보 페이지 | [https://help.uservoice.com/hc/en-us/articles/360052330913-M...](https://help.uservoice.com/hc/en-us/articles/360052330913-Microsoft-Teams-Integration) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | GCP |
 

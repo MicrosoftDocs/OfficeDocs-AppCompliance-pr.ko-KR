@@ -2,19 +2,19 @@
 title: Casedoc의 Casedoc 가상 청각에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
-ms.manager: tonybal
+manager: tonybal
 ms.date: 03/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Casedoc Virtual Hearing에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b9d0b7d3800ad464cc49ab2afc7af483dd0de24b
-ms.sourcegitcommit: 0bd8c5bf11934d14ea75ec30388534345dcb02a5
+ms.openlocfilehash: 1baabac739db8e5bd286386eec6835d443de181b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2022
-ms.locfileid: "63424646"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546106"
 ---
 # <a name="casedoc-virtual-hearing"></a>Casedoc Virtual Hearing
 
@@ -161,20 +161,20 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog.ReadWrite.All | 위임 | 앱 카탈로그의 앱을 모임에 추가 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Calendars.ReadWrite | 위임 | 모임 업데이트를 구독할 수 있게 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Calendars.ReadWrite | application | 모임을 만들 수 있게 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Directory.ReadWrite.All | application | 모임과 연결된 그룹을 만들 수 있게 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Files.ReadWrite.All | 위임 | 사용자가 모임 그룹에 파일을 업로드할 수 있도록 설정하려면 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Files.ReadWrite.All | application | 응용 프로그램에서 모임 데이터를 모임 그룹에 업로드할 수 있습니다. | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| Group.ReadWrite.All | application | 응용 프로그램에서 모임과 연결된 그룹을 만들 수 있도록 설정하려면 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| MailboxSettings.Read | application | 응용 프로그램에서 사용자 표준 시간대를 읽을 수 있도록 설정하려면 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| OnlineMeetings.ReadWrite | 위임 | 모임 유형 표시를 사용하도록 설정하려면 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsAppInstallation.ReadForUser | 위임 | 모임에 응용 프로그램을 추가합니다. | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsAppInstallation.ReadWriteSelfForUser | 위임 | 모임에 응용 프로그램을 추가합니다. | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsTab.Create | 위임 | 모임에 응용 프로그램을 추가합니다. | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| TeamsTab.ReadWrite.All | 위임 | 모임에 응용 프로그램을 추가합니다. | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
->| User.Read.All | application | 앱에서 로그인한 사용자 없이 사용자 프로필을 읽을 수 있도록 허용 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998) |
+>| AppCatalog.ReadWrite.All | 위임 | 앱 카탈로그의 앱을 모임에 추가 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| Calendars.ReadWrite | 위임 | 모임 업데이트를 구독할 수 있게 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| Calendars.ReadWrite | application | 모임을 만들 수 있게 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| Directory.ReadWrite.All | application | 모임과 연결된 그룹을 만들 수 있게 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| Files.ReadWrite.All | 위임 | 사용자가 모임 그룹에 파일을 업로드할 수 있도록 설정하려면 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| Files.ReadWrite.All | application | 응용 프로그램에서 모임 데이터를 모임 그룹에 업로드할 수 있습니다. | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| Group.ReadWrite.All | application | 응용 프로그램에서 모임과 연결된 그룹을 만들 수 있도록 설정하려면 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| MailboxSettings.Read | application | 응용 프로그램에서 사용자 표준 시간대를 읽을 수 있도록 설정하려면 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| OnlineMeetings.ReadWrite | 위임 | 모임 유형 표시를 사용하도록 설정하려면 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| TeamsAppInstallation.ReadForUser | 위임 | 모임에 응용 프로그램을 추가합니다. | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| TeamsAppInstallation.ReadWriteSelfForUser | 위임 | 모임에 응용 프로그램을 추가합니다. | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| TeamsTab.Create | 위임 | 모임에 응용 프로그램을 추가합니다. | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| TeamsTab.ReadWrite.All | 위임 | 모임에 응용 프로그램을 추가합니다. | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
+>| User.Read.All | application | 앱에서 로그인한 사용자 없이 사용자 프로필을 읽을 수 있도록 허용 | [3e701664-cc46-49e4-b356-1a7ac6500998](../azure/3e701664-cc46-49e4-b356-1a7ac6500998.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

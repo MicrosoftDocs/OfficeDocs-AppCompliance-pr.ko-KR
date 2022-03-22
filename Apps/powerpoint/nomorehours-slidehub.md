@@ -2,18 +2,19 @@
 title: Nomorehours의 SlideHub에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: SlideHub에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0a8f6380a952305141bc13bfe03df52f3c209a21
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 074bf49ca573e6d8ce5797bce9f14daa42f88a39
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62261624"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545206"
 ---
 # <a name="slidehub"></a>SlideHub
 
@@ -37,10 +38,11 @@ Nomorehours에서 Microsoft에 제공하는 정보:
 | 파트너 회사 이름 | nomorehours |
 | 회사의 웹 사이트 | [https://nomorehours.com](https://nomorehours.com) |
 | 앱 사용 약관 | [https://nomorehours.com/eula](https://nomorehours.com/eula) |
-| 앱의 핵심 기능 | NoMore은 비즈니스 PowerPoint 서비스 및 PowerPoint 보다 효율적으로 만들기 위한 PowerPoint. NoMore는 디자인 서비스의 일부로 대략적인 초안을 클라이언트 준비 슬라이드로 8시간만에 변환합니다. 추가 기능을 사용하면 서비스에 더 빠르게 액세스할 수 있을 뿐만 아니라 사용자가 미리 만든 슬라이드 디자인 및 회사별 슬라이드 라이브러리와 다양한 생산성 도구를 포함하는 &#8220;컨설팅 도구&#8221; 액세스할 수 있습니다. |
+| 앱의 핵심 기능 | NoMore는 비즈니스 사용자에게 PowerPoint 서비스 및 PowerPoint 보다 효율적으로 만들기 위한 추가 기능을 PowerPoint. NoMore는 디자인 서비스의 일부로 대략적인 초안을 클라이언트 준비 슬라이드로 8시간만에 변환합니다. 추가 기능을 사용하면 서비스에 더 빠르게 액세스할 수 있을 뿐만 아니라 사용자가 미리 만든 슬라이드 디자인 및 회사별 슬라이드 라이브러리에 액세스할 수 있을 뿐만 아니라 다양한 생산성 도구가 포함된 &#8220;컨설팅 도구&#8221; 액세스할 수 있습니다. |
 | 회사 본사 위치 | 덴마크 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://nomorehours.com](https://nomorehours.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -55,14 +57,7 @@ Nomorehours에서 Microsoft에 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 한 달 내에 삭제되었습니다. |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -121,7 +116,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -159,13 +154,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | application | 전자 메일 및 이름. 전자 메일은 응용 프로그램의 사용자 이름으로 사용됩니다. 전자 메일을 수집하면 응용 프로그램을 더 빠르게 등록하고 로그인하는 데 도움이 될 수 있습니다. 이 이름은 등록 이벤트의 경우 사용됩니다. | [33ccef75-8248-44e8-88d3-24526ca9c2d3](https://docs.microsoft.com/microsoft-365-app-certification/azure/33ccef75-8248-44e8-88d3-24526ca9c2d3) |
+>| User.Read | application | 전자 메일 및 이름. 전자 메일은 응용 프로그램의 사용자 이름으로 사용됩니다. 전자 메일을 수집하면 응용 프로그램을 더 빠르게 등록하고 로그인하는 데 도움이 될 수 있습니다. 이 이름은 등록 이벤트의 경우 사용됩니다. | [33ccef75-8248-44e8-88d3-24526ca9c2d3](../azure/33ccef75-8248-44e8-88d3-24526ca9c2d3.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

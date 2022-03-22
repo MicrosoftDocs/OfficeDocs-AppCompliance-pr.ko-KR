@@ -1,19 +1,20 @@
 ---
-title: 응용 프로그램 Zrt를 통해 Teams Buzzeasy Geomant-Algotech 정보입니다.
+title: Buzzeasy 연락처 센터에 대한 응용 Teams Zrt를 Geomant-Algotech 정보입니다.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/29/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보용 Buzzeasy 연락처 센터에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: b73e059f9b820a1f3f880a4bd4237649121b9c5b
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 10c37808d1ec33fb38927294c104c50a98dda001
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251324"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546896"
 ---
 # <a name="buzzeasy-contact-center-for-teams"></a>Buzzeasy Contact Center for Teams
 
@@ -38,7 +39,7 @@ Zrt에서 제공하는 Geomant-Algotech. Microsoft에:
 | 앱 사용 약관 | [https://docs.geomant.com/buzzeasy/portal/Buzzeasy_Service_L...](https://docs.geomant.com/buzzeasy/portal/Buzzeasy_Service_Level_Agreement.html) |
 | 앱의 핵심 기능 | 고객 센터 솔루션 Microsoft Teams |
 | 회사 본사 위치 | 헝가리 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.geomant.com/buzzeasy-contact-centre-for-microso...](https://www.geomant.com/buzzeasy-contact-centre-for-microsoft-teams) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -123,7 +124,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -162,20 +163,20 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Mail.Send | application | 서비스 사용자를 대신하여 초대장 보내기. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
->| Presence.Read.All | 위임 | 다른 에이전트의 에이전트/사용자 상태를 표시하고 에이전트 상태와 동기화합니다. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
->| User.Read | 위임 | 등록을 위해 관리자의 사용자 목록을 표시합니다. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
->| User.Read.All | 위임 | 관리자/AAD 사용자 인터페이스에 대한 사용자 정보 표시 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
->| User.ReadBasic.All | 위임 | 관리자/AAD 사용자 인터페이스에 대한 사용자 정보 표시 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](https://docs.microsoft.com/microsoft-365-app-certification/azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c) |
->| Mail.ReadWrite | application | 에이전트가 에이전트 사용자 인터페이스를 통해 특정(공유) 사서함을 읽고 쓸 수 있도록 합니다. (특정 사서함으로 필터링할 수 있습니다.) | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
->| Mail.Send | application | 공유 사서함을 대신하여 전자 메일 보내기 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
->| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](https://docs.microsoft.com/microsoft-365-app-certification/azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e) |
+>| Mail.Send | application | 서비스 사용자를 대신하여 초대장 보내기. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| Presence.Read.All | 위임 | 다른 에이전트의 에이전트/사용자 상태를 표시하고 에이전트 상태와 동기화합니다. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| User.Read | 위임 | 등록을 위해 관리자의 사용자 목록을 표시합니다. | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| User.Read.All | 위임 | 관리자/AAD 사용자 인터페이스에 대한 사용자 정보 표시 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| User.ReadBasic.All | 위임 | 관리자/AAD 사용자 인터페이스에 대한 사용자 정보 표시 | [1b81b79d-10ff-4614-81cc-5ac3dc64a40c](../azure/1b81b79d-10ff-4614-81cc-5ac3dc64a40c.md) |
+>| Mail.ReadWrite | application | 에이전트가 에이전트 사용자 인터페이스를 통해 특정(공유) 사서함을 읽고 쓸 수 있도록 합니다. (특정 사서함으로 필터링할 수 있습니다.) | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](../azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) |
+>| Mail.Send | application | 공유 사서함을 대신하여 전자 메일 보내기 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](../azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) |
+>| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](../azure/cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -2,18 +2,19 @@
 title: LawVu의 LawVu APAC에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: LawVu APAC, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 13067a989948468c3cfef21c486e93d52ae38e4a
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 84bc836f026ce2b45f58adb58567e5950cff20ac
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081321"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63545976"
 ---
 # <a name="lawvu-apac"></a>LawVu APAC
 
@@ -40,7 +41,7 @@ LawVu에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://lawvu.com/wp-content/uploads/Std-Saas-Agreement-202...](https://lawvu.com/wp-content/uploads/Std-Saas-Agreement-2021.pdf) |
 | 앱의 핵심 기능 | 비즈니스 사용자는 비즈니스 사용자로부터 법적 요청을 바로 Teams.  통합은 원본 메시지의 콘텐츠 및 첨부 파일을 비롯한 모든 관련 필드를 캡처하고 LawVu에서 이&#8217;법률 팀의&#8217;수 있도록 만듭니다. |
 | 회사 본사 위치 | 뉴질랜드 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://help.lawvu.com/en/articles/5953276-microsoft-teams-...](https://help.lawvu.com/en/articles/5953276-microsoft-teams-integration-coming-soon) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -61,7 +62,7 @@ LawVu에서 Microsoft에 제공한 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | MS 팀의 첨부 파일에서 데이터 저장소로 끌어오게 됩니다. |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 오스트레일리아 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 90일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |

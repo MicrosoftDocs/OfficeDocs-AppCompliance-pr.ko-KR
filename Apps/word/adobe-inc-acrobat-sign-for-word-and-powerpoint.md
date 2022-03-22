@@ -2,18 +2,19 @@
 title: Adobe Acrobat Sign for Word 및 Adobe Inc.PowerPoint 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Adobe Acrobat Sign for Word 및 PowerPoint, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6acf8769762f9401cb92785de1d0fda1214575b4
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: a3868fdf799ff05543aa2af71e52a427b382aec5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081351"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547146"
 ---
 # <a name="adobe-acrobat-sign-for-word-and-powerpoint"></a>Word 및 Word용 Adobe Acrobat PowerPoint
 
@@ -38,7 +39,7 @@ Adobe Inc.에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 | 앱의 핵심 기능 | Adobe Sign for Office. 이제 Word 및 Office 같은 PowerPoint 앱에서 문서에 서명하고 법적 구속력이 있는 전자 서명 및 승인을 &#8212; Microsoft의 기본 설정 전자 서명 솔루션으로 전송할 수 있습니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://helpx.adobe.com/sign/help/adobesign_microsoft_teams...](https://helpx.adobe.com/sign/help/adobesign_microsoft_teams.html) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 하이브리드 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS, Azure |
 
@@ -167,11 +168,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Mail.ReadWrite | 위임 | 첨부된 문서, 보낸 사람 및 받는 사람 전자 메일, 전자 메일에서 Adobe로 보내는 메시지 콘텐츠를 채우기 위해 서명을 위해 보낼 수 있습니다. 이 경우 Adobe Sign에서 해당 필드를 다시 입력할 수 있는 시간을 절약할 수 있습니다. 계약이 서명된 후 사용자가 거래가 완료된 것으로 받는 사람에게 알리는 전자 메일을 보낼 수 있도록 자동으로 새 전자 메일을 작성합니다. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| People.Read | 위임 | 서명을 위해 보내 &quot;&quot; 기 환경의 전자 메일 주소를 자동 입력하려면 일부 초기 문자를 입력하여 사용자가 전체 전자 메일을 입력할 필요가 없습니다. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| User.Read | 위임 | 사용자의 프로필을 읽고 자신의 프로필(기본적으로 전자 메일 및 userId)을 Adobe Sign을 사용할 수 있도록 데이터베이스에 일치합니다. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| offline_access | 위임 | 액세스 토큰을 새로 고치기 위해 현재 토큰이 만료된 경우 예를 들어 사용자가 &quot;&quot; 서명을 위해 보내기 창에 있는 경우 너무 오래 비활성 상태인 경우 사용자가 활성 상태일 때 새 토큰을 새로 고쳐야 합니다. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
->| openid | 위임 | 전자 메일 및 UserId. 사용자를 로그인하여 Adobe Sign 앱 사용 권한에 대한 동의를 보장합니다.  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](https://docs.microsoft.com/microsoft-365-app-certification/azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b) |
+>| Mail.ReadWrite | 위임 | 첨부된 문서, 보낸 사람 및 받는 사람 전자 메일, 전자 메일에서 Adobe로 보내는 메시지 콘텐츠를 채우기 위해 서명을 위해 보낼 수 있습니다. 이 경우 Adobe Sign에서 해당 필드를 다시 입력할 수 있는 시간을 절약할 수 있습니다. 계약이 서명된 후 사용자가 거래가 완료된 것으로 받는 사람에게 알리는 전자 메일을 보낼 수 있도록 자동으로 새 전자 메일을 작성합니다. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| People.Read | 위임 | 서명을 위해 보내 &quot;&quot; 기 환경의 전자 메일 주소를 자동 입력하려면 일부 초기 문자를 입력하여 사용자가 전체 전자 메일을 입력할 필요가 없습니다. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| User.Read | 위임 | 사용자의 프로필을 읽고 자신의 프로필(기본적으로 전자 메일 및 userId)을 Adobe Sign을 사용할 수 있도록 데이터베이스에 일치합니다. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| offline_access | 위임 | 액세스 토큰을 새로 고치기 위해 현재 토큰이 만료된 경우 예를 들어 사용자가 &quot;&quot; 서명을 위해 보내기 창에 있는 경우 너무 오래 비활성 상태인 경우 사용자가 활성 상태일 때 새 토큰을 새로 고쳐야 합니다. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
+>| openid | 위임 | 전자 메일 및 UserId. 사용자를 로그인하여 Adobe Sign 앱 사용 권한에 대한 동의를 보장합니다.  | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

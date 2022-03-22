@@ -2,18 +2,19 @@
 title: Supermetrics로의 Supermetrics에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/22/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 Supermetrics, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
+description: CSA STAR 레지스트리의 Supermetrics, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 044becc7df41ac7e060b0f941e81818bf9525d27
-ms.sourcegitcommit: b7af2c971853a45d85f0039bd73c2ed95e958a80
+ms.openlocfilehash: fe11180f0a71e8ca0f740fb5c194e35f9b069596
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/25/2022
-ms.locfileid: "62200938"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546886"
 ---
 # <a name="supermetrics"></a>Supermetrics
 
@@ -33,13 +34,13 @@ Microsoft에 Supermetrics에서 제공하는 정보:
 |:----------------|:-------------|
 | 앱 이름 | Supermetrics |
 | ID | WA104381807 |
-| Office 365 클라이언트 지원 | Excel 2016 Mac, Windows, Excel 2016 이상에서 웹용 Excel |
+| Office 365 클라이언트 지원 | Excel 2016 Mac, Windows Excel 2016 이상에서 웹용 Excel |
 | 파트너 회사 이름 | Supermetrics |
 | 회사의 웹 사이트 | [https://supermetrics.com](https://supermetrics.com) |
 | 앱 사용 약관 | [https://supermetrics.com/terms-of-service](https://supermetrics.com/terms-of-service) |
 | 앱의 핵심 기능 | 고급 인식을 사용하면 비즈니스는 Facebook 광고, Google Analytics, 인바구니 등의 70개 이상의 마케팅 및 판매 플랫폼에서 사일로된 데이터를 집계할 수 있으며 보고를 위해 데이터를 Excel 직접 전송할 수 있습니다. 이를 통해 다음을 수행할 수 있습니다. - 수동 데이터 가져오기 작업을 자동화합니다. - 이미 Excel 수식 및 도구를 사용하여 마케팅 데이터를 분석하고 시각화합니다. - 데이터 원본에서 직접 여러 데이터 원본을 확인하여 큰 그림을 Excel. |
 | 회사 본사 위치 | 핀란드 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://supermetrics.com/product/excel](https://supermetrics.com/product/excel) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | GCP, Aws |
 
@@ -124,7 +125,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 아니요 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 아니요 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -163,7 +164,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

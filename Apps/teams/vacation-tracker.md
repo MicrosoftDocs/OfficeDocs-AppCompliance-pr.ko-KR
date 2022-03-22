@@ -2,18 +2,19 @@
 title: 휴가 추적기에서 휴가 추적에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 휴가 추적기, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bd7fc61e757600d1d1d87d09e3f67e9ade0546ba
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 3b8b92ed24e229982eac3edbda8b59b19e281a7b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251634"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546316"
 ---
 # <a name="vacation-tracker"></a>Vacation Tracker
 
@@ -38,9 +39,9 @@ ms.locfileid: "62251634"
 | 파트너 회사 이름 | Vacation Tracker |
 | 회사의 웹 사이트 | [https://vacationtracker.io](https://vacationtracker.io) |
 | 앱 사용 약관 | [https://vacationtracker.io/terms-of-service/](https://vacationtracker.io/terms-of-service/) |
-| 앱의 핵심 기능 | 휴가 추적은 회사에서 조직에서 휴가를 추적할 수 있는 도구입니다. 관리자가 조직 설정을 구성할 수 있는 웹 대시보드가 있습니다. 직원은 대시보드에서 요청을 만들고 할당량도 검토할 수 있습니다. 또한 직원이 요청을 할 수 있으며 승인자는 봇 또는 탭을 통해 요청을 Microsoft Teams 수 있습니다. |
+| 앱의 핵심 기능 | 휴가 추적은 회사에서 조직에서 휴가를 추적할 수 있는 도구입니다. 관리자가 조직 설정을 구성할 수 있는 웹 대시보드가 있습니다. 직원은 대시보드에서 요청을 만들고 할당량도 검토할 수 있습니다. 또한 직원이 요청을 할 수 있으며 승인자는 봇 또는 탭을 통해 Microsoft Teams 수 있습니다. |
 | 회사 본사 위치 | 캐나다 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://vacationtracker.io/vacation-calendar-tracker-featur...](https://vacationtracker.io/vacation-calendar-tracker-features/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS |
 
@@ -125,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -163,21 +164,21 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | 위임 | 사용자가 매주 또는 일별 알림을 설정할 때 공개 채널 ID 및 이름을 읽습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| Team.ReadBasic.All | 위임 | 사용자가 휴가 Microsoft Teams 등록할 팀을 선택할 수 있도록 등록하는 동안 참가한 팀의 목록을 제공합니다. 또는 전체 조직에 등록할 수 있습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.Read | 위임 | 이름, ID 및 테넌트 ID를 포함하여 기본 사용자 정보를 수집합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.Read.All | 위임 | 사용자는 자신의 조직 또는 팀에서 모든 Microsoft 365 가져올 Microsoft Teams 있습니다. 이 사용 권한을 사용하여 선택한 팀 또는 조직에 대해 사용이 허가된 사용자만 Microsoft Teams 수 있습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| User.ReadBasic.All | 위임 | 사용자가 조직 또는 조직 팀에서 다른 사용자를 가져올 Microsoft Teams 있습니다. 이 사용 권한을 사용하여 사용 가능한 사용자 및 해당 전자 메일 주소를 가져오기 팝업에 나열합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| 전자 메일 | 위임 | 사용자가 Microsoft AAD 로그인할 때 전자 메일 주소를 고유 식별자로 저장합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| offline_access | 위임 | 이 사용 권한이 있는 데이터는 수집하지 않습니다. 액세스 권한이 있는 데이터에 대한 액세스를 유지 관리하는 데 사용됩니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| openid | 위임 | 이 사용 권한을 사용하여 사용자를 휴가 추적에 로그인하거나 등록합니다. 이 사용 권한이 있는 특정 데이터는 수집하지 않습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
->| 프로필 | 위임 | 이름, ID 및 테넌트 ID를 포함하여 기본 사용자 정보를 수집합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](https://docs.microsoft.com/microsoft-365-app-certification/azure/eab5463e-8168-40ee-887a-7ac78de1d266) |
+>| Group.Read.All | 위임 | 사용자가 매주 또는 일별 알림을 설정할 때 공개 채널 ID 및 이름을 읽습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| Team.ReadBasic.All | 위임 | 사용자가 휴가 Microsoft Teams 등록할 팀을 선택할 수 있도록 등록하는 동안 참가한 팀의 사용자를 나열합니다. 또는 전체 조직에 등록할 수 있습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.Read | 위임 | 이름, ID 및 테넌트 ID를 포함하여 기본 사용자 정보를 수집합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.Read.All | 위임 | 사용자는 자신의 조직 또는 Microsoft 365 팀에서 모든 사용자를 가져올 Microsoft Teams 있습니다. 이 사용 권한을 사용하여 선택한 팀 또는 조직에 대해 사용이 허가된 사용자만 Microsoft Teams 수 있습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| User.ReadBasic.All | 위임 | 사용자가 조직 또는 해당 팀에서 다른 사용자를 가져올 Microsoft Teams 있습니다. 이 사용 권한을 사용하여 사용 가능한 사용자 및 해당 전자 메일 주소를 가져오기 팝업에 나열합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| 전자 메일 | 위임 | 사용자가 Microsoft AAD 로그인하면 전자 메일 주소가 고유 식별자로 저장됩니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| offline_access | 위임 | 이 사용 권한이 있는 데이터는 수집하지 않습니다. 액세스 권한이 있는 데이터에 대한 액세스를 유지 관리하는 데 사용됩니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| openid | 위임 | 이 사용 권한을 사용하여 사용자를 휴가 추적에 로그인하거나 등록합니다. 이 사용 권한이 있는 특정 데이터는 수집하지 않습니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
+>| 프로필 | 위임 | 이름, ID 및 테넌트 ID를 포함하여 기본 사용자 정보를 수집합니다. 이 데이터를 사용하여 로그인한 사용자를 휴가 추적기에서 조직에 연결합니다. | [eab5463e-8168-40ee-887a-7ac78de1d266](../azure/eab5463e-8168-40ee-887a-7ac78de1d266.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

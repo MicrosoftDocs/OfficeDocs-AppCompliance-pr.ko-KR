@@ -2,18 +2,19 @@
 title: SHEETGO EUROPE SL의 Sheetgo에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 11/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Sheetgo, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: CSA STAR 레지스트리의 Sheetgo, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 96f6d9645f7cc2ad601e0d366b5a73e7119e0aee
-ms.sourcegitcommit: d492eaf294e4eb3bb6f5db6d4fcf2ea1de3deabf
+ms.openlocfilehash: 625079885956c18847f3fb1b0032b7dc57b0134c
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/20/2022
-ms.locfileid: "62148612"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546916"
 ---
 # <a name="sheetgo"></a>Sheetgo
 
@@ -33,13 +34,13 @@ SHEETGO EUROPE SL에서 Microsoft에 제공하는 정보:
 |:----------------|:-------------|
 | 앱 이름 | Sheetgo |
 | ID | WA200002128 |
-| Office 365 클라이언트 지원 | Excel 2016 Mac, Excel 2016 이상, Windows 웹용 Excel |
+| Office 365 클라이언트 지원 | Excel 2016 Mac, Excel 2016 이상에서 Windows 웹용 Excel |
 | 파트너 회사 이름 | SHEETGO EUROPE SL |
 | 회사의 웹 사이트 | [https://www.sheetgo.com](https://www.sheetgo.com) |
 | 앱 사용 약관 | [https://www.sheetgo.com/legal/terms/](https://www.sheetgo.com/legal/terms/) |
-| 앱의 핵심 기능 | Sheetgo는 사용자가 온라인 스프레드시트에 연결하고 자동화된 데이터 관리 시스템을 빌드할 수 있도록 하는 워크플로 자동화 플랫폼입니다. Sheetgo 웹앱은 다양한 템플릿과 함께 워크플로를 만들고 관리할 수 있는 플랫폼을 제공합니다. Google Sheets용 Excel 및 추가 기능을 위한 Sheetgo 추가 기능을 사용하면 사용자가 스프레드시트 내에서 직접 연결하고 자동화할 수 있으며, Teams 앱을 사용하면 워크플로 작성자가 연결된 파일을 채널 및 그룹 채팅에서 동료와 공유할 수 있습니다. |
+| 앱의 핵심 기능 | Sheetgo는 사용자가 온라인 스프레드시트에 연결하고 자동화된 데이터 관리 시스템을 빌드할 수 있도록 하는 워크플로 자동화 플랫폼입니다. Sheetgo 웹앱은 다양한 템플릿과 함께 워크플로를 만들고 관리할 수 있는 플랫폼을 제공합니다. Google Sheets용 Excel 및 추가 기능을 위한 Sheetgo 추가 기능을 사용하면 사용자가 스프레드시트 내에서 직접 연결하고 자동화할 수 있으며, Teams 앱은 워크플로 작성자가 연결된 파일을 채널 및 그룹 채팅에서 동료와 공유할 수 있도록 합니다. |
 | 회사 본사 위치 | 스페인 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.sheetgo.com](https://www.sheetgo.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | GCP |
 
@@ -124,7 +125,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -163,7 +164,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

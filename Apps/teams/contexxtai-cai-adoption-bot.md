@@ -2,18 +2,19 @@
 title: 응용 프로그램 C.AI 봇의 응용 프로그램 contexxt.ai
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 C.AI 채택 봇, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6c7c8d1b083cab351889117aa58316332161f466
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: c9aa789941856708605540eb96b6ff24f3526496
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62261354"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63547376"
 ---
 # <a name="cai-adoption-bot"></a>C.AI Adoption Bot
 
@@ -37,10 +38,11 @@ Microsoft에 contexxt.ai 정보:
 | 파트너 회사 이름 | contexxt.ai |
 | 회사의 웹 사이트 | [https://contexxt.ai](https://contexxt.ai) |
 | 앱 사용 약관 | [https://contexxt.ai/terms-of-use](https://contexxt.ai/terms-of-use) |
-| 앱의 핵심 기능 | 전체 채택 제품군을 사용하는 경우 포함 &quot; 개인 코칭 부스터&quot;는 Graph API &amp; 를 통한 분석 엔진(C.AI 채택 분석) 분석 Exchange Teams. 이 데이터를 기반으로 봇 알고리즘(C.AI 채택 &amp; 봇)은 특정 학습 상황을 감지하여 사용자에게 빠른 팁을 전송합니다. 예: 사용자가 Teams 제목을 추가하지 않은 경우 봇은 사용자가 해당 작업을 하는 방법을 모르는 것으로 가정하고 사용자 지정된 학습 자료를 전송합니다. 분석이 없는 경우 QA&amp; 봇일 것입니다. |
+| 앱의 핵심 기능 | 전체 채택 제품군을 사용하는 경우 포함 &quot; 개인 코칭 부스터&quot;는 Graph API의 비음어 있는 사용 데이터를 통한 분석 엔진(C.AI 채택 분석) 분석 &amp; Exchange Teams. 이 데이터를 기반으로 봇 알고리즘(C.AI 채택 &amp; 봇)은 특정 학습 상황을 감지하여 사용자에게 빠른 팁을 전송합니다. 예: 사용자가 Teams 제목을 추가하지 않은 경우 봇에서는 사용자가 해당 작업을 하는 방법을 모르는 것으로 가정하고 사용자 지정된 학습 자료를 전송합니다. 분석이 없는 경우 QA&amp; 봇일 것입니다. |
 | 회사 본사 위치 | 독일 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://contexxt.ai/cai-adoption-bot/](https://contexxt.ai/cai-adoption-bot/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -50,19 +52,12 @@ Microsoft에 contexxt.ai 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 이 contexxt.ai 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
+이 정보는 contexxt.ai 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 2주년 내에 삭제되었습니다. |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -121,7 +116,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -159,19 +154,19 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | application | 예를 들어 포커스 시간 동안이 아닌 올바른 시기에 팁을 보낼 수 있는 사용자의 가용성 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| ChannelMessage.Read.All | application | Microsoft Teams 또는 비공개 또는 채널당 대화의 양과 같은 채널 메타데이터를 사용하여 채널의 사용 현황을 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| Chat.Read.All | application | Microsoft Teams 메시지의 사용 현황을 분석하기 위한 그룹 및 1:1 채팅의 수와 같은 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| Directory.Read.All | application | 나중에 사용자에 대한 팁을 보낼 수 있는 사용자 개체 ID입니다. | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| Group.Read.All | application | Microsoft Teams 사용 현황을 분석하기 위한 Teams 및 채널과 같은 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| Mail.Read | application | Microsoft는 Exchange 그룹 및 1:1 전자 메일의 양과 같은 메타데이터를 사용하여 Exchange(전자 메일과 비교) Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
->| User.Read.All | application | Microsoft Teams 사용 현황을 분석하기 위해 사용자가 언급된 경우와 같이 채팅 및 대화 메타데이터를 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](https://docs.microsoft.com/microsoft-365-app-certification/azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13) |
+>| Calendars.Read | application | 예를 들어 포커스 시간 동안이 아닌 올바른 시기에 팁을 보낼 수 있는 사용자의 가용성 | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| ChannelMessage.Read.All | application | Microsoft Teams 채널 메타데이터(비공개 또는 채널당 대화 수 또는 양)를 사용하여 채널의 사용 현황을 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| Chat.Read.All | application | Microsoft Teams 메시지의 사용을 분석하는 그룹 및 1:1 채팅의 수와 같은 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| Directory.Read.All | application | 나중에 사용자에 대한 팁을 보낼 수 있는 사용자 개체 ID입니다. | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| Group.Read.All | application | Microsoft Teams 사용 현황을 분석하기 위한 Teams 및 채널과 같은 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| Mail.Read | application | Microsoft는 전자 Exchange 그룹 및 1:1 전자 메일과 같은 메타데이터를 사용하여 Exchange(전자 메일과 비교) Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
+>| User.Read.All | application | Microsoft Teams 사용 현황을 분석하기 위해 사용자가 언급된 경우와 같이 채팅 및 대화 메타데이터를 Teams | [abe28a0d-6acc-47d8-9169-cfcc2553bc13](../azure/abe28a0d-6acc-47d8-9169-cfcc2553bc13.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

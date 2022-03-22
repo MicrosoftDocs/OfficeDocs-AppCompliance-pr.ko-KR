@@ -2,18 +2,19 @@
 title: AvePoint Inc.Microsoft Office 365 클라우드 백업에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/27/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: CSA STAR 레지스트리의 클라우드 백업, 데이터 Microsoft Office 365 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: CSA STAR 레지스트리의 클라우드 백업, 데이터 Microsoft Office 365 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 6fc3b2c5bc0fb54b4075f71e21ef1c2d14ace0f7
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: a053ad5e60924f5d45fb8b99f91fe87b6dfe844e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62260944"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546566"
 ---
 # <a name="cloud-backup-for-microsoft-office-365"></a>클라우드용 클라우드 Microsoft Office 365
 
@@ -35,8 +36,8 @@ AvePoint Inc.에서 Microsoft에 제공한 정보:
 | 파트너 회사 이름 | AvePoint Inc. |
 | 회사의 웹 사이트 | [https://www.avepoint.com](https://www.avepoint.com) |
 | 앱 사용 약관 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| 앱의 핵심 기능 | AvePoint 클라우드 백업은&#8217;가장 완벽한 클라우드-클라우드 백업 솔루션으로, Microsoft 365. With
-AvePoint의 무제한, 자동화된 백업 및 보안 저장소&#8217;Azure 저장소 또는 자체 클라우드에서 복구할 정도 및 언제 결정하기만 하면 됩니다. 필요한 경우 세부적인 항목 수준 복원을 통해 업무상 중요한 전자 메일, 파일, 대화, 녹음/ 프로젝트, 작업, 그룹, Teams 액세스할 수 있습니다. | | 회사 본사 위치 | 미국 | | 앱 정보 페이지 | | | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas | | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
+| 앱의 핵심 기능 | AvePoint 클라우드 백업은 비즈니스용&#8217;가장 완벽한 클라우드-클라우드 백업 솔루션으로, Microsoft 365. With
+AvePoint의 무제한, 자동화된 백업 및 보안 저장소&#8217;Azure 저장소 또는 자체 클라우드에서 복구할 정도 및 언제 결정하기만 하면 됩니다. 필요한 경우 세부적인 항목 수준 복원을 통해 업무상 중요한 전자 메일, 파일, 대화, 녹음/ 프로젝트, 작업, 그룹, Teams, Planner 및 사이트에 액세스할 수 있습니다. | | 회사 본사 위치 | 미국 | | 앱 정보 페이지 | [https://www.avepoint.com/products/cloud/backup/microsoft-of...](https://www.avepoint.com/products/cloud/backup/microsoft-office-365-backup) | | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas | | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -119,7 +120,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 예 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 예 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 예 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 예 |
 
@@ -161,21 +162,21 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 지원되는 정책 유형 나열 | 응용 프로그램이 Azure AD와 페더러입니다. 따라서 모든 조건부 액세스 규칙을 사용할 수 있습니다. |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 예 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| ChannelMember.ReadWrite.All | application | 모든 채널에서 구성원 추가 및 제거 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| ChannelMessage.Read.All | application | 모든 채널 메시지 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| ChannelSettings.ReadWrite.All | application | 모든 채널의 이름, 설명 및 설정 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Directory.Read.All | application | 디렉터리 데이터 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Files.Read.All | application | 모든 사이트 모음의 파일 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Group.ReadWrite.All | application | 모든 그룹 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Reports.Read.All | application | 모든 사용 현황 보고서 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| Sites.ReadWrite.All | application | 모든 사이트 모음의 항목 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
->| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](https://docs.microsoft.com/microsoft-365-app-certification/azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b) |
+>| ChannelMember.ReadWrite.All | application | 모든 채널에서 구성원 추가 및 제거 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| ChannelMessage.Read.All | application | 모든 채널 메시지 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| ChannelSettings.ReadWrite.All | application | 모든 채널의 이름, 설명 및 설정 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Directory.Read.All | application | 디렉터리 데이터 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Files.Read.All | application | 모든 사이트 모음의 파일 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Group.ReadWrite.All | application | 모든 그룹 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Reports.Read.All | application | 모든 사용 현황 보고서 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| Sites.ReadWrite.All | application | 모든 사이트 모음의 항목 읽기 및 쓰기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
+>| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | [4d69a8e1-9c38-4b33-b76f-9d59b5ae051b](../azure/4d69a8e1-9c38-4b33-b76f-9d59b5ae051b.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

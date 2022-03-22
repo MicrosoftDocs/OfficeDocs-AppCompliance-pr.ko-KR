@@ -2,18 +2,19 @@
 title: 의사 결정에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 의사 결정, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: CSA STAR 레지스트리의 의사 결정, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 78bb80e67214a26172c6f83f57d8614fb8c9e518
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 0353886df853f0916252e41e8829214ce1e0a4d5
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259744"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63544946"
 ---
 # <a name="decisions"></a>결정
 
@@ -40,7 +41,7 @@ Microsoft에 대한 의사 결정에서 제공하는 정보:
 | 앱 사용 약관 | [https://www.meetingdecisions.com/terms-of-service](https://www.meetingdecisions.com/terms-of-service) |
 | 앱의 핵심 기능 | 회의록 작성기, 분 템플릿 및 모임 내부에서 더 많은 빌드를 사용하여 모임 수를 Teams. |
 | 회사 본사 위치 | 노르웨이 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.meetingdecisions.com](https://www.meetingdecisions.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -125,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 아니요 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 아니요 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -164,29 +165,29 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 지원되는 정책 유형 나열 | 모두 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 위임 | 사용자가 일정을&#8217;정보를 읽어 모임 목록 및 검색과 같은 기능을 사용하도록 설정하는 데 사용됩니다. 또한 사용자가 의사 결정에서 항목을 삭제할 때 일정에서 특정 모임을 삭제할 수 있는 옵션을 제공합니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Chat.ReadWrite | 위임 | 투표 결정을 전송하고 개별 어젠더 항목에 대한 발표자 목록을 모임 채팅에 직접 Microsoft Teams 사용됩니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Directory.Read.All | 위임 | 테넌트 이름 및 확인된 도메인과 Office 365 테넌트에 대한 기본 정보를 수집하는 데 사용됩니다. 또한 그룹 구성원 자격을 확인하는 데도 필요합니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Files.Read.All | 위임 | 이러한 파일을 PDF 모임 책에 병합하기 위해 사용자와 공유되는 파일을 읽는 데 사용됩니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Files.ReadWrite.All | 위임 | 개인 파일 주석에 대한 지원을 사용자에게 제공하는 데 사용됩니다. 주석이 있는 파일은 SSS의 사용자&#8217;개인 비즈니스용 OneDrive. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Group.ReadWrite.All | 위임 | 모임 의제, 관련 파일 및 그룹 대화를 Office 365 그룹&#8217;SharePoint 폴더 구조를 만드는 데 사용됩니다.   참고: 의사 결정 사용자는 조직의 모든 테넌트에서 아직 액세스할 수 없는 리소스(예: 그룹)에 액세스할 Office 365 없습니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Mail.Send | 위임 | 의사 결정 사용자가 모임 참가자에게 어젠더 업데이트 및 공동 작성자의 모임 링크와 같은 알림을 보낼 수 있도록 하는 데 사용됩니다. 전자 메일은 모임 참가자 또는 모임 소유자가 선택한 메일로 이동됩니다. 전송된 모든 알림 및 전자 메일은 의사 결정 사용자가 적극적으로 수행됩니다.  참고: 이렇게 해서 사용자에게 결정을 통해 받은 편지함 액세스 권한을 부여하지는 않습니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| MailboxSettings.Read | 위임 | 언어 기본 설정에&#8217;식별하는 데 사용됩니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Notes.ReadWrite | 위임 | 메모를 작성하고 설명 및 질문을 준비하기 위해 모임에 대한 개인 전자 필기장을 설정하는 데 사용됩니다. 또한 그룹에서 공유 전자 필기장에 그룹 모임 시간(OneNote)을 저장할 수 OneNote. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Sites.ReadWrite.All | 위임 | 모임 정보를 위해 비공개 채널에서 폴더 구조를 만드는 데 사용할 수 있습니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| Tasks.ReadWrite | 위임 | 작업 및 결정을 Microsoft Planner와 동기화하는 데 사용됩니다. 또한 사용자가 작업 및 결정을 내보낼 수 Excel. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsAppInstallation.ReadWriteForUser | 위임 | 채팅에서 의사 결정 앱을 프로그래밍식으로 설치하는 데 필요합니다. 이는 모임 환경의 결정 탭을 추가하기 전에 필요합니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsAppInstallation.ReadWriteForUser.All | 위임 | 채팅에서 의사 결정 앱을 프로그래밍식으로 설치하는 데 필요합니다. 이는 모임 환경의 결정 탭을 추가하기 전에 필요합니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsTab.Create | 위임 | 모임 내/채널 탭을 추가해야 Teams. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| TeamsTab.Read.All | 위임 | 탭이 설치되어 있지 않은지 확인하려면 필요합니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| User.ReadBasic.All | 위임 | 그룹 구성원 및 외부 참가자의 이름과 성, 사진 및 전자 메일 주소를 표시하는 데 사용됩니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
->| 프로필 | 위임 | 로그인하는 데 사용됩니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](https://docs.microsoft.com/microsoft-365-app-certification/azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d) |
+>| Calendars.ReadWrite | 위임 | 모임 목록 및 검색과 같은&#8217;사용자 일정에서 정보를 읽는 데 사용됩니다. 또한 사용자가 의사 결정에서 항목을 삭제할 때 일정에서 특정 모임을 삭제할 수 있는 옵션을 제공합니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Chat.ReadWrite | 위임 | 투표에 대한 결정을 전송하고 개별 어젠더 항목에 대한 발표자 목록을 모임 채팅에 직접 Microsoft Teams 사용됩니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Directory.Read.All | 위임 | 테넌트 이름 및 확인된 도메인과 Office 365 테넌트에 대한 기본 정보를 수집하는 데 사용됩니다. 또한 그룹 구성원 자격을 확인하는 데도 필요합니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Files.Read.All | 위임 | 이러한 파일을 PDF 모임 책에 병합하기 위해 사용자와 공유되는 파일을 읽는 데 사용됩니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Files.ReadWrite.All | 위임 | 개인 파일 주석에 대한 지원을 사용자에게 제공하는 데 사용됩니다. 주석이 있는 파일은 SSS의 사용자&#8217;개인 비즈니스용 OneDrive. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Group.ReadWrite.All | 위임 | 모임 의제, 관련 파일 및 그룹 대화를 Office 365 그룹&#8217;SharePoint 폴더 구조를 만드는 데 사용됩니다.   참고: 의사 결정 사용자는 조직의 Office 365 테넌트에서 아직 액세스할 수 없는 리소스(예: 그룹)에 액세스할 수 없습니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Mail.Send | 위임 | 의사 결정 사용자가 모임 참가자에게 어젠더 업데이트 및 공동 작성자의 모임 링크와 같은 알림을 보낼 수 있도록 하는 데 사용됩니다. 전자 메일은 모임 참가자 또는 모임 소유자가 선택한 메일로 이동됩니다. 전송된 모든 알림 및 전자 메일은 의사 결정 사용자가 적극적으로 수행됩니다.  참고: 이렇게 해서 사용자에게 결정을 통해 받은 편지함 액세스 권한을 부여하지는 않습니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| MailboxSettings.Read | 위임 | 언어 기본 설정에&#8217;식별하는 데 사용됩니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Notes.ReadWrite | 위임 | 메모를 작성하고 설명 및 질문을 준비하기 위해 모임에 대한 개인 전자 필기장을 설정하는 데 사용됩니다. 또한 그룹에서 공유 전자 필기장에 그룹 모임 시간(OneNote)을 저장할 수 OneNote. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Sites.ReadWrite.All | 위임 | 모임 정보를 위해 비공개 채널에서 폴더 구조를 만드는 데 사용할 수 있습니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| Tasks.ReadWrite | 위임 | 작업 및 결정을 Microsoft Planner와 동기화하는 데 사용됩니다. 또한 사용자가 작업 및 결정을 내보낼 수 Excel. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsAppInstallation.ReadWriteForUser | 위임 | 채팅에서 의사 결정 앱을 프로그래밍식으로 설치하는 데 필요합니다. 이는 모임 환경의 결정 탭을 추가하기 전에 필요합니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsAppInstallation.ReadWriteForUser.All | 위임 | 채팅에서 의사 결정 앱을 프로그래밍식으로 설치하는 데 필요합니다. 이는 모임 환경의 결정 탭을 추가하기 전에 필요합니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsTab.Create | 위임 | 모임 내/채널 탭을 추가해야 Teams. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| TeamsTab.Read.All | 위임 | 탭이 설치되어 있지 않은지 확인하려면 필요합니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| User.ReadBasic.All | 위임 | 그룹 구성원 및 외부 참가자의 이름과 성, 사진 및 전자 메일 주소를 표시하는 데 사용됩니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
+>| 프로필 | 위임 | 로그인하는 데 사용됩니다. | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](../azure/1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

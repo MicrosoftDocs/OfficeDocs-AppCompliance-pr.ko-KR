@@ -2,18 +2,19 @@
 title: CodeTwo에서 사용할 수 있는 CodeTwo 전자 메일 서명에 대한 Office 365 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Office 365, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대한 CodeTwo 전자 메일 서명에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 84b557eb3ae79dcc747bb4d3d1492e2963a13da1
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 4662ec055aa9c74c091d8a2dffc648215bd5e676
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080082"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63546146"
 ---
 # <a name="codetwo-email-signatures-for-office-365"></a>CodeTwo Email Signatures for Office 365
 
@@ -38,7 +39,7 @@ CodeTwo에서 Microsoft에 제공하는 정보:
 | 앱 사용 약관 | [https://www.codetwo.com/license-agreement](https://www.codetwo.com/license-agreement) |
 | 앱의 핵심 기능 | CodeTwo Email Signatures for Office 365 전자 메일 클라이언트 장치에서 보낸 메시지에 자동 전자 메일 서명, 법적 고지지 및 브랜더링을 추가하는 Azure 기반 클라우드 서비스 &amp; 입니다. 이를 통해 사용자(관리자 또는 위임된 사용자) 또는 팀이 Microsoft 365 (Office 365) 조직의 전자 메일 서명을 중앙에서 관리할 수 있습니다. 서명은 사용자가 입력할 때 클라우드에서(전자 메일을 보낸 후) Outlook 수 있습니다. |
 | 회사 본사 위치 | 폴란드 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://www.codetwo.com/email-signatures/](https://www.codetwo.com/email-signatures/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -59,7 +60,7 @@ CodeTwo에서 Microsoft에 제공하는 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 사용자 프로필 데이터 |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 90일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
@@ -168,16 +169,16 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read | 위임 | 사용자가 앱에 로그인할 수 있도록 허용하고 앱에서 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. 또한 앱에서 로그인한 사용자의 기본 회사 정보를 읽을 수 있습니다. | [2a93620e-4345-4e3b-9bae-0195f08aab69](https://docs.microsoft.com/microsoft-365-app-certification/azure/2a93620e-4345-4e3b-9bae-0195f08aab69) |
->| User.Read | 위임 | 사용자가 앱에 로그인할 수 있도록 허용하고 앱에서 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. 또한 앱에서 로그인한 사용자의 기본 회사 정보를 읽을 수 있습니다. | [7afd058a-f568-4496-96b1-28d06ab3500f](https://docs.microsoft.com/microsoft-365-app-certification/azure/7afd058a-f568-4496-96b1-28d06ab3500f) |
->| Directory.AccessAsUser.All | 위임 | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](https://docs.microsoft.com/microsoft-365-app-certification/azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b) |
->| Directory.Read.All | 둘 다 | 앱이 사용자, 그룹 및 앱과 같은&#8217;조직의 데이터를 읽을 수 있도록 허용합니다. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](https://docs.microsoft.com/microsoft-365-app-certification/azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b) |
->| User.ReadBasic.All | 위임 | 앱에서 로그인한 사용자를 대신하여 조직의 다른 사용자의 기본 프로필 속성 집합을 읽을 수 있도록 합니다. 여기에는 표시 이름, 이름 및 성, 전자 메일 주소 및 사진이 포함됩니다. 정보는 사용자의 전자 메일 서명을 자동으로 개인 설정하는 데 사용됩니다. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](https://docs.microsoft.com/microsoft-365-app-certification/azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b) |
->| User.Read | 위임 | 사용자가 앱에 로그인할 수 있도록 허용하고 앱에서 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. 또한 앱에서 로그인한 사용자의 기본 회사 정보를 읽을 수 있습니다. CodeTwo 서비스에 사용자를 등록하는 데 사용됩니다. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| 전자 메일 | 위임 | 앱에서 사용자의 기본 전자 메일 주소를 읽을 수 있도록 허용합니다. CodeTwo 서비스에 사용자를 등록하는 데 사용됩니다. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| offline_access | 위임 | 사용자가 현재 앱을 사용하지 않는 경우에도 앱에서 액세스 권한을 부여한 데이터를 보고 업데이트할 수 있습니다. 이렇게 해서 앱에 추가 사용 권한이 부여되지는 않습니다. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| openid | 위임 | 사용자가 자신의 직장 또는 학교 계정으로 앱에 로그인할 수 있도록 허용하고 앱에서 기본 사용자 프로필 정보를 볼 수 있습니다. CodeTwo 서비스에 사용자를 등록하는 데 사용됩니다. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
->| 프로필 | 위임 | 앱에서 사용자의 기본 프로필(이름, 사진, 사용자 이름)을 볼 수 있습니다. CodeTwo 서비스에 사용자를 등록하는 데 사용됩니다. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](https://docs.microsoft.com/microsoft-365-app-certification/azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d) |
+>| User.Read | 위임 | 사용자가 앱에 로그인할 수 있도록 허용하고 앱에서 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. 또한 앱에서 로그인한 사용자의 기본 회사 정보를 읽을 수 있습니다. | [2a93620e-4345-4e3b-9bae-0195f08aab69](../azure/2a93620e-4345-4e3b-9bae-0195f08aab69.md) |
+>| User.Read | 위임 | 사용자가 앱에 로그인할 수 있도록 허용하고 앱에서 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. 또한 앱에서 로그인한 사용자의 기본 회사 정보를 읽을 수 있습니다. | [7afd058a-f568-4496-96b1-28d06ab3500f](../azure/7afd058a-f568-4496-96b1-28d06ab3500f.md) |
+>| Directory.AccessAsUser.All | 위임 | 앱에서 로그인한 사용자와 디렉터리의 정보에 동일한 액세스 권한을 부여할 수 있습니다. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](../azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md) |
+>| Directory.Read.All | 둘 다 | 앱이 사용자, 그룹 및 앱과 같은&#8217;조직의 데이터를 읽을 수 있도록 허용합니다. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](../azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md) |
+>| User.ReadBasic.All | 위임 | 앱에서 로그인한 사용자를 대신하여 조직의 다른 사용자의 기본 프로필 속성 집합을 읽을 수 있도록 합니다. 여기에는 표시 이름, 이름 및 성, 전자 메일 주소 및 사진이 포함됩니다. 정보는 사용자의 전자 메일 서명을 자동으로 개인 설정하는 데 사용됩니다. | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](../azure/cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md) |
+>| User.Read | 위임 | 사용자가 앱에 로그인할 수 있도록 허용하고 앱에서 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. 또한 앱에서 로그인한 사용자의 기본 회사 정보를 읽을 수 있습니다. CodeTwo 서비스에 사용자를 등록하는 데 사용됩니다. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| 전자 메일 | 위임 | 앱에서 사용자의 기본 전자 메일 주소를 읽을 수 있도록 허용합니다. CodeTwo 서비스에 사용자를 등록하는 데 사용됩니다. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| offline_access | 위임 | 사용자가 현재 앱을 사용하지 않는 경우에도 앱에서 액세스 권한을 부여한 데이터를 보고 업데이트할 수 있습니다. 이렇게 해서 앱에 추가 사용 권한이 부여되지는 않습니다. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| openid | 위임 | 사용자가 자신의 직장 또는 학교 계정으로 앱에 로그인할 수 있도록 허용하고 앱에서 기본 사용자 프로필 정보를 볼 수 있습니다. CodeTwo 서비스에 사용자를 등록하는 데 사용됩니다. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
+>| 프로필 | 위임 | 앱에서 사용자의 기본 프로필(이름, 사진, 사용자 이름)을 볼 수 있습니다. CodeTwo 서비스에 사용자를 등록하는 데 사용됩니다. | [ce60db2f-439f-4e45-bfdc-d4c827c1820d](../azure/ce60db2f-439f-4e45-bfdc-d4c827c1820d.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 
