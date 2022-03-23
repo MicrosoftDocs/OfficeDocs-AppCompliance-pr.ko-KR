@@ -2,18 +2,19 @@
 title: Trivie, Inc.의 Trivie에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Trivie에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+description: Trivie, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9bd5ca53c6108da34ff26ce05b679f2bac8af9fb
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: d678d98c42a3c178ec71403c8cae72b18587f336
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60444448"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63750986"
 ---
 # <a name="trivie"></a>Trivie
 
@@ -37,7 +38,7 @@ Trivie, Inc.에서 Microsoft에 제공한 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Trivie, Inc. |
 | 파트너 웹 사이트의 URL | [https://trivie.com](https://trivie.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://trivie.com](https://trivie.com) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://trivie.com](https://trivie.com) |
 | 개인 정보 취급 방침의 URL | [https://trivie.com/privacy-policy](https://trivie.com/privacy-policy) |
 | 사용 약관 URL | [https://trivie.com/terms-of-service](https://trivie.com/terms-of-service) |
 
@@ -51,7 +52,7 @@ Trivie, Inc.에서 Microsoft에 제공한 정보:
 
 이 정보는 Trivie, Inc.에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 제공합니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 

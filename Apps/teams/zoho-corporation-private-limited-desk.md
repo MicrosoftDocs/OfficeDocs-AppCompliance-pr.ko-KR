@@ -2,18 +2,19 @@
 title: Zoho Corporation Private Limited의 Zoho Desk에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 Zoho Desk, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: CSA STAR 레지스트리의 Zoho Desk에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 8b934d980843f06ad78ca65ceb5782ce951fa41b
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: ee371d3cd431fae46b5f97d434ff9acb0fbcbe1e
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430276"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63751086"
 ---
 # <a name="zoho-desk"></a>Zoho Desk
 
@@ -37,7 +38,7 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Zoho Corporation Private Limited |
 | 파트너 웹 사이트의 URL | [https://www.zoho.com/desk](https://www.zoho.com/desk) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://help.zoho.com/portal/kb/zoho-desk](https://help.zoho.com/portal/kb/zoho-desk) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://help.zoho.com/portal/kb/zoho-desk](https://help.zoho.com/portal/kb/zoho-desk) |
 | 개인 정보 취급 방침의 URL | [https://www.zoho.com/privacy.html](https://www.zoho.com/privacy.html) |
 | 사용 약관 URL | [https://www.zoho.com/terms.html](https://www.zoho.com/terms.html) |
 
@@ -51,19 +52,19 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 
 이 정보는 Zoho Corporation Private Limited에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터에 대해 조직이 제어할 수 있는 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Files.Read | 위임 |  | 사용자 파일을 읽습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| Files.Read.All | 위임 |  | 사용자가 액세스할 수 있는 모든 파일을 읽습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| User.Read | 위임 |  | 로그인하고 사용자 프로필을 읽습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| User.ReadBasic.All | 위임 |  | 모든 사용자의 기본 프로필을 읽습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| 전자 메일 | 위임 |  | 사용자의 전자 메일 주소를 볼 수 있습니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| offline_access | 위임 |  | 액세스 권한을 부여한 데이터에 대한 액세스를 유지 관리합니다. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
->| 프로필 | 위임 |  | 사용자의 기본 프로필을 시청하세요. | [](https://docs.microsoft.com/microsoft-365-app-certification/azure/) |
+>| Files.Read | 위임 |  | 사용자 파일을 읽습니다. |  |
+>| Files.Read.All | 위임 |  | 사용자가 액세스할 수 있는 모든 파일을 읽습니다. |  |
+>| User.Read | 위임 |  | 로그인하고 사용자 프로필을 읽습니다. |  |
+>| User.ReadBasic.All | 위임 |  | 모든 사용자의 기본 프로필을 읽습니다. |  |
+>| 전자 메일 | 위임 |  | 사용자의 전자 메일 주소를  볼 수 있습니다. |  |
+>| offline_access | 위임 |  | 액세스 권한을 부여한 데이터에 대한 액세스를 유지 관리합니다. |  |
+>| 프로필 | 위임 |  | 사용자의 기본 프로필을  시청하세요. |  |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

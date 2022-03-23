@@ -2,18 +2,19 @@
 title: Guru 기술의 Guru에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Guru에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2697126a901dde102be0ee29c153b69d0021acf5
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: a0fbc5fb17729e2551e65c170ea2c59c4cf866f3
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60437152"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63748269"
 ---
 # <a name="guru"></a>Guru
 
@@ -37,7 +38,7 @@ Guru Technologies에서 Microsoft에 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Guru Technologies |
 | 파트너 웹 사이트의 URL | [https://www.getguru.com](https://www.getguru.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.getguru.com/integrations/microsoft-teams](https://www.getguru.com/integrations/microsoft-teams) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://www.getguru.com/integrations/microsoft-teams](https://www.getguru.com/integrations/microsoft-teams) |
 | 개인 정보 취급 방침의 URL | [https://www.getguru.com/privacy/](https://www.getguru.com/privacy/) |
 | 사용 약관 URL | [https://www.getguru.com/terms-of-service](https://www.getguru.com/terms-of-service) |
 
@@ -51,7 +52,7 @@ Guru Technologies에서 Microsoft에 제공하는 정보:
 
 이 정보는 Guru Technologies에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
@@ -64,7 +65,7 @@ Guru Technologies에서 Microsoft에 제공하는 정보:
 
 >| **모든 비 Microsoft 서비스 OII가 다음으로 전송됩니다.** |  **전송되는 OII는 무엇입니까?** | **OII 전송의 사당성** |
 >|:-----------------------------------------------------|:------------------------------|:----------------------------------------|
->| Guru의 최종 사용자 응용 프로그램 및 내부 데이터베이스 | 사용자 또는 회사에서 사용자 Teams 대해 Guru 앱을 설정하면 사용자 프로필과 연결된 사용자 이름, 전자 메일 및 회사 이름과 같은 일반적인 정보가 기록되어 액세스할 수 있습니다. | 사용자에게 통합을 사용하려면 Teams 계정과 Guru 계정이 모두 있어야 하는 경우 통합을 사용하도록 설정하는 사용자를 추적하고 추적하여 해당 사용자에게 지원 및 관리를 제공합니다. |
+>| Guru의 최종 사용자 응용 프로그램 및 내부 데이터베이스 | 사용자 또는 회사에서 사용자용 Guru 앱을 설정하는 Teams 사용자 프로필과 연결된 사용자 이름, 전자 메일 및 회사 이름과 같은 일반적인 정보가 기록되어 Guru가 액세스할 수 있습니다. | 사용자에게 통합을 사용하려면 Teams 계정과 Guru 계정이 모두 있어야 하는 경우 통합을 사용하도록 설정하는 사용자를 추적하고 추적하여 해당 사용자에게 지원 및 관리를 제공합니다. |
 
 #### <a name="data-access-via-bots"></a>봇을 통한 데이터 액세스
 
@@ -83,13 +84,13 @@ Guru Technologies에서 Microsoft에 제공하는 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->Guru의 팀 설정 팀의 관리자는 카드를 추가, 제거 및 다시 할당할 수 있는 기능을 사용하여 컬렉션에 따라 프로비전할 그룹 및 액세스/역할 컨트롤을 결정할 수 있습니다. Enterprise SSO를 배포한 고객도 SSO 공급자 콘솔을 통해 온보드/오프보드를 통해 SCIM을 통해 그룹을 설정할 수 있습니다.
+>Guru의 팀 설정 팀 관리자는 카드를 추가, 제거 및 대체 개인에게 다시 할당할 수 있는 기능을 사용하여 컬렉션에 따라 프로비전할 그룹 및 액세스/역할 컨트롤을 결정할 수 있습니다. Enterprise SSO를 배포한 고객도 SSO 공급자 콘솔을 통해 SSO 공급자 콘솔을 통해 온보드/오프보드를 통해 SCIM을 통해 그룹을 설정할 수 있습니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요
+>아니오
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

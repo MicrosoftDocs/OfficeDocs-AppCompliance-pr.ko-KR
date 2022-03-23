@@ -2,18 +2,19 @@
 title: Hyperproof의 Hyperproof에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Hyperproof, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 61874a0b54123d9276301f9e386326f5fa0f8a23
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 34d6bd23d2da450515edebf3720c617f89b65fa0
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428585"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63750719"
 ---
 # <a name="hyperproof"></a>Hyperproof
 
@@ -37,7 +38,7 @@ Hyperproof에서 Microsoft에 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Hyperproof |
 | 파트너 웹 사이트의 URL | [https://hyperproof.io](https://hyperproof.io) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://hyperproof.io/product](https://hyperproof.io/product) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://hyperproof.io/product](https://hyperproof.io/product) |
 | 개인 정보 취급 방침의 URL | [https://hyperproof.io/privacy-policy](https://hyperproof.io/privacy-policy) |
 | 사용 약관 URL | [https://hyperproof.io/terms-of-use](https://hyperproof.io/terms-of-use) |
 
@@ -51,7 +52,7 @@ Hyperproof에서 Microsoft에 제공하는 정보:
 
 이 정보는 Hyperproof에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
@@ -87,7 +88,7 @@ Hyperproof에서 Microsoft에 제공하는 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요
+>아니오
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -115,16 +116,16 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니오 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니오 |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 아니요 |
+| 앱에 기밀 클라이언트가 있나요? | 아니오 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱에서 웹 API를 노출하나요? | 예 |
 | 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니오 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
