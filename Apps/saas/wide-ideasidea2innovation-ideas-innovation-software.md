@@ -2,18 +2,19 @@
 title: 광범위한 아이디어에 대한 응용 프로그램 정보 - 광범위한 아이디어/아이디어2Innovation의 혁신 소프트웨어
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/08/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 광범위한 아이디어 - 혁신 소프트웨어, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
+description: 광범위한 아이디어 - 혁신 소프트웨어, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d5bbf1d032d5537dab0775522f80d83a472db661
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 60d577d402e68c31f10ed0e5f73ea92f047dfc73
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62251204"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550827"
 ---
 # <a name="wide-ideas---innovation-software"></a>광범위한 아이디어 - 혁신 소프트웨어
 
@@ -36,11 +37,10 @@ ms.locfileid: "62251204"
 | 파트너 회사 이름 | 넓은 아이디어/아이디어2Innovation |
 | 회사의 웹 사이트 | [https://getwideideas.com](https://getwideideas.com) |
 | 앱 사용 약관 | [https://getwideideas.com/eula](https://getwideideas.com/eula) |
-| 앱의 핵심 기능 | Microsoft 365 및 Teams 포함된 Wide Ideas의 혁신 관리 소프트웨어를 사용하면 고객 환경과 새로운 솔루션의 아이디어가 직원 작업 문화의 일부가 됩니다. |
+| 앱의 핵심 기능 | Microsoft 365 및 Teams 포함된 광범위한 아이디어의 혁신 관리 소프트웨어를 사용하여 과제를 공유하면 새로운 솔루션의 고객 환경과 아이디어가 직원 업무 문화의 일부가 됩니다. |
 | 회사 본사 위치 | 스웨덴 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | IsvHosted |
-| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? |  |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -123,7 +123,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -162,18 +162,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | 위임 | 와이드 아이디어 관리 센터에서 로그인한 사용자를 대신하여 모든 팀에서 채널을 만들 수 있도록 허용합니다.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| Directory.Read.All | 위임 | 와이드 아이디어 관리 센터에서 사용자, 그룹 및 앱과 같은&#8217;조직의 데이터를 읽을 수 있도록 허용 | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| Group.Read.All | 위임 | Wide Ideas Admin Center에서 그룹을 나열하고 로그인한 사용자를 대신하여 해당 속성 및 모든 그룹 구성원을 읽을 수 있도록 허용 | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| TeamsAppInstallation.ReadWriteForTeam | 위임 | 와이드 아이디어 관리 센터에서 로그인한 사용자가 액세스할 수 있는 팀의 Teams 앱을 읽고 설치, 업그레이드 및 제거하도록 허용합니다.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| TeamsTab.Create | 위임 |  와이드 아이디어 관리 센터에서 로그인한 사용자를 대신하여 Microsoft Teams 팀에서 탭을 만들 수 있도록 허용합니다. | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
->| User.Read | 위임 | 사용자는 Wide Ideas Admin Center에 로그인할 수 있으며, 앱에서 로그인한 사용자의 프로필을 읽을 수 있습니다.  | [0d56e89d-8356-457f-89a2-618386a39eb8](https://docs.microsoft.com/microsoft-365-app-certification/azure/0d56e89d-8356-457f-89a2-618386a39eb8) |
+>| Channel.Create | 위임 | 와이드 아이디어 관리 센터에서 로그인한 사용자를 대신하여 모든 팀에서 채널을 만들 수 있도록 허용합니다.  | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| Directory.Read.All | 위임 | Wide Ideas Admin Center에서 사용자, 그룹 및 앱과 같은&#8217;조직의 데이터를 읽을 수 있도록 허용 | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| Group.Read.All | 위임 | Wide Ideas Admin Center에서 그룹을 나열하고 로그인한 사용자를 대신하여 해당 속성 및 모든 그룹 구성원을 읽을 수 있도록 허용 | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| TeamsAppInstallation.ReadWriteForTeam | 위임 | 와이드 아이디어 관리 센터에서 로그인한 사용자가 액세스할 수 있는 팀의 앱을 Teams, 설치, 업그레이드 및 제거하도록 허용합니다.  | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| TeamsTab.Create | 위임 |  와이드 아이디어 관리 센터에서 로그인한 사용자를 대신하여 Microsoft Teams 팀에서 탭을 만들 수 있도록 허용합니다. | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
+>| User.Read | 위임 | 사용자는 Wide Ideas Admin Center에 로그인할 수 있으며, 앱에서 로그인한 사용자의 프로필을 읽을 수 있습니다.  | [0d56e89d-8356-457f-89a2-618386a39eb8](../azure/0d56e89d-8356-457f-89a2-618386a39eb8.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -2,18 +2,19 @@
 title: Application Information for OfficeTogether by OfficeTogether, Inc.
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: OfficeTogether에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+description: OfficeTogether, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f291b6d1586c5b119fb01eafc9a18ce867f63646
-ms.sourcegitcommit: e43a258f089034069a6101a3290dc315725762fc
+ms.openlocfilehash: f2a68a5e4438a078f5ceab8fe9389b3b834a7608
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/16/2022
-ms.locfileid: "62832539"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552037"
 ---
 # <a name="officetogether"></a>OfficeTogether
 
@@ -40,7 +41,7 @@ OfficeTogether, Inc.에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://www.officetogether.com/terms-of-use/](https://www.officetogether.com/terms-of-use/) |
 | 앱의 핵심 기능 | OfficeTogether는 예약 및 사무실 예약 플랫폼입니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://help.officetogether.com](https://help.officetogether.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Aws |
 
@@ -61,7 +62,7 @@ OfficeTogether, Inc.에서 Microsoft에 제공한 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 사용자 전자 메일, Teams ID, 테넌트 ID |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 30일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
@@ -125,7 +126,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -164,24 +165,24 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
 | 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 둘 다 | 이 권한을 사용하여 직원의 일정(예: 사무실 내 일 동기화 또는 회의실 관리)을 관리합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Group.ReadWrite.All | application | 사무실에 들어오고 있는 모든 사용자를 위해 사용자가 사무실에 대해 채팅하고 대화할 수 있는 일별 팀을 만들 수 있습니다. 이 사용 권한은 관리에 필요합니다.  | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Presence.Read | 위임 | 직원의 OfficeTogether 상태를 현재 상태와 동기화하는 Teams. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Team.ReadBasic.All | application | 이 사용 권한을 사용하여 만든 일일 팀(예: 보관)을 관리합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| Teams. 만들기 | application | 사무실에 들어오고 있는 모든 사용자를 위해 사용자가 사무실에 대해 채팅하고 대화할 수 있는 일별 팀을 만들 수 있습니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| TeamsAppInstallation.ReadWriteSelfForUser.All | application | 당사의 앱은 개인 앱입니다. 한 회사의 단일 사용자에게 설치되면 동일한 회사의 등록된 모든 OfficeTogether 사용자에게 자동으로 설치됩니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| User.Read | 위임 | 팀 전자 메일에 SSO를 입력합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| User.ReadWrite.All | application | TeamsAppInstallation.ReadWriteSelfForUser.All을 참조합니다. 모든 관련 사용자에 대해 OfficeTogether를 설치하기 위해 디렉터리를 검색하고 사용자를 일치합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| 전자 메일 | 위임 | 팀 전자 메일에 SSO를 입력합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| offline_access | 위임 | 팀 전자 메일에 SSO를 입력합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| openid | 위임 | 팀 전자 메일에 SSO를 입력합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
->| 프로필 | 위임 | 팀 전자 메일에 SSO를 입력합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](https://docs.microsoft.com/microsoft-365-app-certification/azure/17bd2add-67cb-4ffe-b69b-10b130558e89) |
+>| Calendars.ReadWrite | 둘 다 | 이 권한을 사용하여 직원의 일정(예: 사무실 내 일 동기화 또는 회의실 관리)을 관리합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Group.ReadWrite.All | application | 사무실에 들어오고 있는 모든 사용자를 위해 사용자가 사무실에 대해 채팅하고 대화할 수 있는 일별 팀을 만들 수 있습니다. 이 사용 권한은 관리에 필요합니다.  | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Presence.Read | 위임 | 직원의 OfficeTogether 상태를 현재 상태와 동기화하는 Teams. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Team.ReadBasic.All | application | 이 사용 권한을 사용하여 만든 일일 팀(예: 보관)을 관리합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| Teams. 만들기 | application | 사무실에 들어오고 있는 모든 사용자를 위해 사용자가 사무실에 대해 채팅하고 대화할 수 있는 일별 팀을 만들 수 있습니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| TeamsAppInstallation.ReadWriteSelfForUser.All | application | 당사의 앱은 개인 앱입니다. 한 회사의 단일 사용자에게 설치되면 동일한 회사의 등록된 모든 OfficeTogether 사용자에게 자동으로 설치됩니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| User.Read | 위임 | 팀 전자 메일에 SSO를 입력합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| User.ReadWrite.All | application | TeamsAppInstallation.ReadWriteSelfForUser.All을 참조합니다. 모든 관련 사용자에 대해 OfficeTogether를 설치하기 위해 디렉터리를 검색하고 사용자를 일치합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| 전자 메일 | 위임 | 팀 전자 메일에 SSO를 입력합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| offline_access | 위임 | 팀 전자 메일에 SSO를 입력합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| openid | 위임 | 팀 전자 메일에 SSO를 입력합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
+>| 프로필 | 위임 | 팀 전자 메일에 SSO를 입력합니다. | [17bd2add-67cb-4ffe-b69b-10b130558e89](../azure/17bd2add-67cb-4ffe-b69b-10b130558e89.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

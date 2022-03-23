@@ -1,19 +1,20 @@
 ---
-title: 제곱을 커넥트 게시판에 대한 응용 프로그램 정보
+title: 제곱을 커넥트 보드 보드에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/15/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Board 커넥트, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
+description: CSA STAR 레지스트리의 Board 커넥트, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 91d88db95de0991f7ccb65f9e19e276fce27158c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 5327ac45a97b2a0cade740eecbcbc38971ec3243
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62264133"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550607"
 ---
 # <a name="board-connect"></a>Board Connect
 
@@ -38,10 +39,11 @@ Microsoft에 제곱하여 제공되는 정보:
 | 파트너 회사 이름 | Engage Squared |
 | 회사의 웹 사이트 | [https://engagesq.com](https://engagesq.com) |
 | 앱 사용 약관 | [https://boardconnect.app/terms](https://boardconnect.app/terms) |
-| 앱의 핵심 기능 | 보드 커넥트 조직이 모임을 보다 효율적으로 운영하는 데 도움이 됩니다. Microsoft Microsoft Teams 연결된 앱 앱을 사용하면 조직에서 모임을 만들고, 안건, 설문 조사, 문서와 같은 정보를 관리할 수 있습니다. 또한 응용 프로그램은 Outlook 및 office 365 그룹과 통합되어 새 일정 이벤트를 만들고 보드 보드에서 이벤트를 관리하고 관리합니다. |
+| 앱의 핵심 기능 | 보드 커넥트 조직이 모임을 보다 효율적으로 운영하는 데 도움이 됩니다. Microsoft Microsoft Teams 연결된 앱 앱을 사용하면 조직에서 모임을 만들고, 안건, 설문 조사, 문서와 같은 정보를 관리할 수 있습니다. 또한 응용 프로그램은 Outlook 및 office 365 그룹과 통합되어 새 일정 이벤트를 만들고 보드에서 이벤트를 관리하고 관리합니다. |
 | 회사 본사 위치 | 오스트레일리아 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://boardconnect.app](https://boardconnect.app) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Microsoft에 제곱하여 제공되는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 즉시 삭제 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,18 +155,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 위임 | 앱이 앱을 통해 제출된 보드 모임 참석 응답을 반영하도록 사용자 일정을 업데이트할 수 있도록 허용합니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| Group.ReadWrite.All | 위임 | 앱에서 그룹 일정 이벤트를 만들고 업데이트하고 삭제할 수 있도록 허용합니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| Sites.Manage.All | 위임 | 앱에서 목록 및 라이브러리를 만들 수 있도록 허용하기 위해 목록 항목을 관리하고 팀 사이트 모음에서 문서를 관리합니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| User.Read | 위임 | 사용자가 앱에 로그인하고 앱이 현재 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| User.ReadBasic.All | 위임 | 앱에서 로그인한 사용자를 대신하여 다른 사용자의 기본 프로필 속성 집합을 읽을 수 있도록 허용하려면 이 속성을 앱에 표시합니다. 여기에는 표시 이름, 이름 및 성, 전자 메일 주소 및 사진이 포함됩니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
->| offline_access | 위임 | 앱이 새로 고침 토큰을 얻을 수 있도록 설정하려면 현재 액세스 토큰이 만료될 때 새 액세스 토큰을 다운로드하는 데 사용할 수 있습니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](https://docs.microsoft.com/microsoft-365-app-certification/azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94) |
+>| Calendars.ReadWrite | 위임 | 앱이 앱을 통해 제출된 보드 모임 참석 응답을 반영하도록 사용자 일정을 업데이트할 수 있도록 허용합니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| Group.ReadWrite.All | 위임 | 앱에서 그룹 일정 이벤트를 만들고 업데이트하고 삭제할 수 있도록 허용합니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| Sites.Manage.All | 위임 | 앱에서 목록 및 라이브러리를 만들 수 있도록 허용하기 위해 목록 항목을 관리하고 팀 사이트 모음에서 문서를 관리합니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| User.Read | 위임 | 사용자가 앱에 로그인하고 앱이 현재 로그인한 사용자의 프로필을 읽을 수 있도록 허용합니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| User.ReadBasic.All | 위임 | 앱에서 로그인한 사용자를 대신하여 다른 사용자의 기본 프로필 속성 집합을 읽을 수 있도록 허용하려면 이 속성을 앱에 표시합니다. 여기에는 표시 이름, 이름 및 성, 전자 메일 주소 및 사진이 포함됩니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
+>| offline_access | 위임 | 앱이 새로 고침 토큰을 얻을 수 있도록 설정하려면 현재 액세스 토큰이 만료될 때 새 액세스 토큰을 다운로드하는 데 사용할 수 있습니다. | [4a6873f6-8360-4023-bd6f-2923d1eb2e94](../azure/4a6873f6-8360-4023-bd6f-2923d1eb2e94.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

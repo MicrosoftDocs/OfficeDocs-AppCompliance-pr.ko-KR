@@ -2,18 +2,19 @@
 title: Luware AG의 응용 프로그램 Microsoft Teams Luware Nimbus에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 Microsoft Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 Luware Nimbus에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: CSA STAR 레지스트리의 Microsoft Teams, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 Luware Nimbus에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1d64355be961a730caf60af7fd12bcb0326ade34
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: f5fbd82c09e9560a600191a9d5001f148b93f685
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62252439"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550406"
 ---
 # <a name="luware-nimbus-for-microsoft-teams"></a>Luware Nimbus for Microsoft Teams
 
@@ -38,7 +39,7 @@ Luware AG에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://luware.com/en/agreements/saas/](https://luware.com/en/agreements/saas/) |
 | 앱의 핵심 기능 | Nimbus는 통화 큐, 현재 상태 기반 라우팅, 보고 기능 및 스위치보드를 Teams |
 | 회사 본사 위치 | 스위스 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://luware.com/en/solution/advanced-routing-for-microso...](https://luware.com/en/solution/advanced-routing-for-microsoft-teams/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -123,7 +124,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -162,25 +163,25 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 지원되는 정책 유형 나열 | 클라이언트 앱, 사용자 및 그룹 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | 위임 | Attendant Console: 로그인한 사용자의 일정 읽기 약속이 있는 일정 표시 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Calendars.Read.Shared | 위임 | Attendant Console: 공유 일정을 읽고 약속이 있는 일정을 표시 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Contacts.Read | 위임 | Attendant Console: 로그인한 Exchange 연락처에서 검색 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Contacts.Read.Shared | 위임 | Attendant Console: 공유 연락처에서 Exchange 검색 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| GroupMember.Read.All | application | 팀 구성원, 보안 그룹 읽기 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Presence.Read.All | 위임 | Attendant Console에서 연락처 검색에 현재 상태 표시 페이지 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| User.Read | 위임 | UserInformation(로그인한 사용자에서) | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| User.Read.All | 둘 다 | Nimbus 앱 - CallerInformation을 다운로드합니다. 연락처 센터에 대한 내부 통화에서는 에이전트에 해당 정보를 표시하는 데 사용할 수 있는 사용자에 대한 역방향 전화를 합니다. 위임된 사용 권한이 있는 Attendant Console에서 전체 내부 디렉터리에서 전송 대상을 검색합니다. | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| User.ReadBasic.All | 위임 | 제한된 사용자 검색 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](https://docs.microsoft.com/microsoft-365-app-certification/azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e) |
->| Calls.AccessMedia.All | application | 대부분의 앱/봇(연락처 센터 큐당 하나): 고객이 실제로 IVR에서 자신의 위치를 선택할 수 있는 DTMF 톤에 가입합니다. | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
->| Calls.Initiate.All | application | 대부분의 앱/봇(연락처 센터 큐당 하나): 에이전트에게 전화를 걸기  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
->| Calls.InitiateGroupCall.All | application | 대부분의 앱/봇(연락처 센터 큐당 하나): 에이전트에게 전화를 걸기  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
->| Calls.JoinGroupCall.All | application | 대부분의 앱/봇(연락처 센터 큐당 하나): 에스컬레이터 통화에 참가하여 공지 사항을 재생합니다. | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](https://docs.microsoft.com/microsoft-365-app-certification/azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc) |
+>| Calendars.Read | 위임 | Attendant Console: 로그인한 사용자의 일정 읽기 약속이 있는 일정 표시 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Calendars.Read.Shared | 위임 | Attendant Console: 공유 일정을 읽고 약속이 있는 일정을 표시 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Contacts.Read | 위임 | Attendant Console: 로그인한 Exchange 연락처에서 검색 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Contacts.Read.Shared | 위임 | Attendant Console: 공유 연락처에서 Exchange 검색 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| GroupMember.Read.All | application | 팀 구성원, 보안 그룹 읽기 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Presence.Read.All | 위임 | Attendant Console에서 연락처 검색에 현재 상태 표시 페이지 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| User.Read | 위임 | UserInformation(로그인한 사용자에서) | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| User.Read.All | 둘 다 | Nimbus 앱 - CallerInformation을 다운로드합니다. 연락처 센터에 대한 내부 통화에서는 에이전트에 해당 정보를 표시하는 데 사용할 수 있는 사용자에 대한 역방향 전화를 합니다. 위임된 사용 권한이 있는 Attendant Console에서 전체 내부 디렉터리에서 전송 대상을 검색합니다. | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| User.ReadBasic.All | 위임 | 제한된 사용자 검색 | [23694b6c-5a4a-45ce-9c6a-37c5f1880d4e](../azure/23694b6c-5a4a-45ce-9c6a-37c5f1880d4e.md) |
+>| Calls.AccessMedia.All | application | 대부분의 앱/봇(연락처 센터 큐당 하나): 고객이 실제로 IVR에서 자신의 위치를 선택할 수 있는 DTMF 톤에 가입합니다. | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
+>| Calls.Initiate.All | application | 대부분의 앱/봇(연락처 센터 큐당 하나): 에이전트에게 전화를 걸기  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
+>| Calls.InitiateGroupCall.All | application | 대부분의 앱/봇(연락처 센터 큐당 하나): 에이전트에게 전화를 걸기  | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
+>| Calls.JoinGroupCall.All | application | 대부분의 앱/봇(연락처 센터 큐당 하나): 에스컬레이터 통화에 참가하여 공지 사항을 재생합니다. | [7e1fc6b3-90a7-4a98-a766-5627193e95bc](../azure/7e1fc6b3-90a7-4a98-a766-5627193e95bc.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -1,19 +1,20 @@
 ---
-title: Talkdesk의 Application Information for Talkdesk Microsoft Teams Connector by Talkdesk, Inc.
+title: Talkdesk Microsoft Teams Connector by Talkdesk, Inc.에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/11/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Talkdesk Microsoft Teams Connector에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 8f64011c4e6d1e5a7cfa385a89925bcac27ca6b8
-ms.sourcegitcommit: 49991df115de43a1e5e5579ebef4ebc71df29fae
+ms.openlocfilehash: dd59c9e9902f0c3dbd975efc711cc4c63dfa2f5f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62795820"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550396"
 ---
 # <a name="talkdesk-microsoft-teams-connector"></a>Talkdesk Microsoft Teams Connector
 
@@ -59,11 +60,11 @@ Talkdesk, Inc.에서 Microsoft에 제공하는 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 사용자 프로필 데이터 - 이름, 성, 전체 이름, 전자 메일 주소, 전화 번호 |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 유지되지 않음 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니오 |
+| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
 | Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -82,7 +83,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? | 예 |
 | 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? | 예 |
 | 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? | 예 |
-| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 아니오 |
+| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 아니요 |
 | 앱 및 이를 지원하는 구조에서 분기별 취약점 검색을 수행하나요? | 아니요 |
 | 외부 네트워크 경계에 방화벽이 설치되어 있습니까? | 예 |
 | 변경 요청을 프로덕션에 배포하기 전에 검토하고 승인하는 데 사용되는 변경 관리 프로세스가 설정 있습니까? | 예 |
@@ -93,7 +94,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? | 예 |
 | 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? | 예 |
 | 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | 예|
-| 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? | 아니오 |
+| 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? | 아니요 |
 | 공식적인 정보 보안 위험 관리 프로세스를 설정하고 있습니까? | 예 |
 | 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? |  |
 | 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요?| |
@@ -117,13 +118,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 가장 최근 SOC3 인증 날짜 |  2021-02-22 |
 | 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 해당 없음 |
 | 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
-| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니오 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 예 |
 
@@ -158,17 +159,17 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 예 |
 | 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? | 아니요 |
 | 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니오 |
-| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니오 |
-| 앱에서 코드에 자격 증명을 저장하나요? | 아니오 |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
+| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
+| 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| User.Read.All | 위임 | 사용자의 프로필 Teams MS를 수집하는 데 필요합니다. | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](https://docs.microsoft.com/microsoft-365-app-certification/azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8) |
->| offline_access | 위임 | 액세스 권한을 부여한 사용자가 로그인되지 않은 경우에도 앱에서 데이터를 볼 수 있습니다. | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](https://docs.microsoft.com/microsoft-365-app-certification/azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8) |
+>| User.Read.All | 위임 | 사용자의 프로필 Teams MS를 수집하는 데 필요합니다. | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
+>| offline_access | 위임 | 액세스 권한을 부여한 사용자가 로그인되지 않은 경우에도 앱에서 데이터를 볼 수 있습니다. | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](../azure/10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

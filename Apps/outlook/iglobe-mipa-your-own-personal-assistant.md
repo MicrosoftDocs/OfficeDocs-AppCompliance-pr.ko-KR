@@ -2,18 +2,19 @@
 title: MIPA에 대한 응용 프로그램 정보 - iGlobe의 사용자만의 개인 도우미
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: MIPA에 사용할 수 있는 모든 보안 및 규정 준수 정보 - CSA STAR 레지스트리의 사용자 개인 도우미, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d51eba652373176667c02c6c6e7d50249a877eb8
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: cc6661dee951770309315f3ff28f56b4c7bc8028
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63080302"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550817"
 ---
 # <a name="mipa---your-own-personal-assistant"></a>MIPA - 사용자만의 개인 도우미
 
@@ -38,8 +39,9 @@ iGlobe에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://mipa.iglobe.dk/EULA](https://mipa.iglobe.dk/EULA) |
 | 앱의 핵심 기능 | MIPA - 내 지능형 개인 도우미 - MIPA는 일상적인 활동과 작업을 구성하고 관리하는 간단한 시각적 방법을 제공합니다. MIPA는 MIPA 및 Outlook Teams. iGlobe CRM MIPA를 사용하는 조직의 경우 iGlobe CRM과도 통합됩니다. MIPA 앱 서비스 권한 수준은 Teams 및 iGlobe CRM Outlook MIPA에 대해 설정됩니다.  |
 | 회사 본사 위치 | 덴마크 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://mipa.iglobe.dk/Support](https://mipa.iglobe.dk/Support) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 즉시 삭제 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -165,24 +160,24 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Contacts.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Mail.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| MailboxSettings.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| Tasks.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.ReadBasic.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| User.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| 전자 메일 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| offline_access | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| openid | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
->| 프로필 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](https://docs.microsoft.com/microsoft-365-app-certification/azure/e854ea05-68ab-4204-babe-db4a784fb4d8) |
+>| Calendars.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Contacts.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Mail.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| MailboxSettings.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| Tasks.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.ReadBasic.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| User.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| 전자 메일 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| offline_access | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| openid | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
+>| 프로필 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | [e854ea05-68ab-4204-babe-db4a784fb4d8](../azure/e854ea05-68ab-4204-babe-db4a784fb4d8.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

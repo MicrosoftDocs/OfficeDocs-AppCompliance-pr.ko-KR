@@ -2,18 +2,19 @@
 title: 칸바 도구에 대한 응용 프로그램 정보(Lab Labs)
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Kanban 도구, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7f2e2c3677a81a6d838fe46ca5c52178294a9b33
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: da12e6a803deb9fd8c0ba31f44da77a28397c18e
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253454"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551437"
 ---
 # <a name="kanban-tool"></a>Kanban Tool
 
@@ -40,8 +41,9 @@ Lab Labs에서 Microsoft에 제공하는 정보:
 | 앱 사용 약관 | [https://kanbantool.com/policy/terms-of-service](https://kanbantool.com/policy/terms-of-service) |
 | 앱의 핵심 기능 | 간판 보드에서 작업 시간을 시각화하고 시간을 추적합니다. |
 | 회사 본사 위치 | 폴란드 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://kanbantool.com](https://kanbantool.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS, SelfHosted, GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ Lab Labs에서 Microsoft에 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 한 달 내에 삭제되었습니다. |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,18 +155,18 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| 전자 메일 | 위임 | 통신, ID 일치 및 알림 배달을 위한 사용자의 전자 메일 주소입니다. | [4e820d60-9e62-403c-accd-857b987cc13c](https://docs.microsoft.com/microsoft-365-app-certification/azure/4e820d60-9e62-403c-accd-857b987cc13c) |
->| Team.ReadBasic.All | 위임 | 사용자가 직접 구성원으로 있는 팀의 식별자 및 이름입니다. 사용자를 Kanban 도구에서 올바른 그룹에 자동으로 할당하는 데 사용됩니다. | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31) |
->| User.Read | 위임 | 로그인한 사용자의 기본 회사 정보입니다. 단일 계정 기능을 제공하기 위해 새 계정에 대한 계정 세부 정보를 채우고 조직에 속한 사용자를 인식하는 Sign-On 사용됩니다. | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31) |
->| offline_access | 위임 | 사용자의 로그인 시 앱 액세스 권한을 부여한 데이터의 'Microsoft 로그인' 기능 및 동기화를 허용합니다. | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31) |
->| openid | 위임 | 사용자가 'Microsoft로 로그인' 단추를 통해 직장 또는 학교 계정으로 앱에 로그인할 수 있도록 하는 ID 토큰을  열 수 있습니다. | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31) |
->| 프로필 | 위임 | Kanban 도구에서 자동 입력할 사용자 이름 및 Kanban 도구의 변경 내용과 Microsoft Teams. | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](https://docs.microsoft.com/microsoft-365-app-certification/azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31) |
+>| 전자 메일 | 위임 | 통신, ID 일치 및 알림 배달을 위한 사용자의 전자 메일 주소입니다. | [4e820d60-9e62-403c-accd-857b987cc13c](../azure/4e820d60-9e62-403c-accd-857b987cc13c.md) |
+>| Team.ReadBasic.All | 위임 | 사용자가 직접 구성원으로 있는 팀의 식별자 및 이름입니다. 사용자를 Kanban 도구에서 올바른 그룹에 자동으로 할당하는 데 사용됩니다. | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](../azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md) |
+>| User.Read | 위임 | 로그인한 사용자의 기본 회사 정보입니다. 단일 계정 기능을 제공하기 위해 새 계정에 대한 계정 세부 정보를 채우고 조직에 속한 사용자를 인식하는 Sign-On 사용됩니다. | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](../azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md) |
+>| offline_access | 위임 | 사용자의 로그인 시 앱 액세스 권한을 부여한 데이터의 'Microsoft 로그인' 기능 및 동기화를 허용합니다. | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](../azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md) |
+>| openid | 위임 | 사용자가 'Microsoft로 로그인' 단추를 통해 직장 또는 학교 계정으로 앱에 로그인할 수 있도록 하는 ID 토큰을  열 수 있습니다. | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](../azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md) |
+>| 프로필 | 위임 | Kanban 도구에서 자동 입력할 사용자 이름 및 Kanban 도구의 변경 내용과 Microsoft Teams. | [a8ead1a3-85e1-42a3-9ed0-9afb97482b31](../azure/a8ead1a3-85e1-42a3-9ed0-9afb97482b31.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

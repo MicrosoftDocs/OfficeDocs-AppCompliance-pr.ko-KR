@@ -2,18 +2,19 @@
 title: DM Digital SRL의 Timeneye에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 09/01/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Timeneye, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: Timeneye, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 788c1d1118c68e5e60cb6bf20ec2817d2d85bf84
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: 91630e4d80cabfb43a0d474c3ec3bef523b73b7b
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62259640"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550226"
 ---
 # <a name="timeneye"></a>Timeneye
 
@@ -42,6 +43,7 @@ DM Digital SRL에서 Microsoft에 제공하는 정보:
 | 회사 본사 위치 | 이탈리아 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ DM Digital SRL에서 Microsoft에 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 2주년 내에 삭제되었습니다. |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,23 +155,23 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read | 위임 | 이벤트 시작/종료 DateTime, 이벤트 제목, 이벤트 ID, 이벤트 웹 URI 일정 이벤트를 기반으로 제안을 생성합니다. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| Calendars.Read.Shared | 위임 | 이벤트 시작/종료 DateTime, 이벤트 제목, 이벤트 ID, 이벤트 웹 URI 이 정보를 사용하여 일정 이벤트에 따라 제안을 생성합니다. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| Directory.Read.All | 위임 | 사용자 그룹의 ID입니다. 이 정보를 사용하여 사용자가 구성원으로 있는 그룹을 확인하여 그룹의 플래너를 동기화할 수 있습니다. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| Group.Read.All | 위임 | 그룹 이름, 그룹 ID. 플래너 프로젝트를 동기화하는 동안 이러한 정보를 사용 합니다. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| Tasks.Read | 위임 | 작업 목록 이름, 작업 목록 ID. 플래너 프로젝트를 동기화하는 동안 이 정보를 사용 합니다. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| User.Read | 위임 | email, name. 이 정보를 사용하여 사용자에 로그인/사용자 계정 만들기 | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| User.ReadBasic.All | 위임 | 사용자 이름, 전자 메일. 사용자가 Planner/Microsoft에서 서비스로 다른 사용자를 가져올 수 있도록 이 정보를 사용 합니다. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| 전자 메일 | 위임 | 메일 주소. 이 정보를 사용하여 사용자에 로그인/사용자 계정 만들기 | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| offline_access | 위임 | 사용자가 온라인이 아닌 동안 플래너/일정을 동기화하는 데 필요한 권한입니다. | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| openid | 위임 | id_token. Microsoft SSO를 통해 사용자 로그인 | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
->| 프로필 | 위임 | email, name. 이 정보를 사용하여 사용자에 로그인/사용자 계정 만들기 | [56412014-bafe-474e-95b4-ebfea106a167](https://docs.microsoft.com/microsoft-365-app-certification/azure/56412014-bafe-474e-95b4-ebfea106a167) |
+>| Calendars.Read | 위임 | 이벤트 시작/종료 DateTime, 이벤트 제목, 이벤트 ID, 이벤트 웹 URI 일정 이벤트를 기반으로 제안을 생성합니다. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| Calendars.Read.Shared | 위임 | 이벤트 시작/종료 DateTime, 이벤트 제목, 이벤트 ID, 이벤트 웹 URI 이 정보를 사용하여 일정 이벤트에 따라 제안을 생성합니다. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| Directory.Read.All | 위임 | 사용자 그룹의 ID입니다. 이 정보를 사용하여 사용자가 구성원으로 있는 그룹을 확인하여 그룹의 플래너를 동기화할 수 있습니다. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| Group.Read.All | 위임 | 그룹 이름, 그룹 ID. 플래너 프로젝트를 동기화하는 동안 이러한 정보를 사용 합니다. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| Tasks.Read | 위임 | 작업 목록 이름, 작업 목록 ID. 플래너 프로젝트를 동기화하는 동안 이 정보를 사용 합니다. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| User.Read | 위임 | email, name. 이 정보를 사용하여 사용자에 로그인/사용자 계정 만들기 | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| User.ReadBasic.All | 위임 | 사용자 이름, 전자 메일. 사용자가 Planner/Microsoft에서 서비스로 다른 사용자를 가져올 수 있도록 이 정보를 사용 합니다. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| 전자 메일 | 위임 | 메일 주소. 이 정보를 사용하여 사용자에 로그인/사용자 계정 만들기 | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| offline_access | 위임 | 사용자가 온라인이 아닌 동안 플래너/일정을 동기화하는 데 필요한 권한입니다. | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| openid | 위임 | id_token. Microsoft SSO를 통해 사용자 로그인 | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
+>| 프로필 | 위임 | email, name. 이 정보를 사용하여 사용자에 로그인/사용자 계정 만들기 | [56412014-bafe-474e-95b4-ebfea106a167](../azure/56412014-bafe-474e-95b4-ebfea106a167.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

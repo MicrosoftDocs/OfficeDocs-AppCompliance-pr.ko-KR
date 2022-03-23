@@ -2,18 +2,19 @@
 title: 동료 동료를 위한 응용 프로그램 Insights Inc
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/16/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 동료에 대해 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+description: 동료, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c05c00736ba08bdcb663342ca6a692ead21ac83c
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: d1860bcfddfdc3de17b409014ff6a1a68cdf6286
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62257834"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552887"
 ---
 # <a name="fellow"></a>동료
 
@@ -42,6 +43,7 @@ ms.locfileid: "62257834"
 | 회사 본사 위치 | 캐나다 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,19 +53,12 @@ ms.locfileid: "62257834"
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 동료 Insights Inc에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터에 대해 조직에서 제공하는 컨트롤에 대해 제공합니다.
+이 정보는 동료 Insights Inc에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대해 제공됩니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 한 달 내에 삭제되었습니다. |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
@@ -160,22 +155,22 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.ReadWrite | 둘 다 | 동료는 사용자의 일정과 연결하여 데이터에 대한 메모를 작성하는 기능을 제공합니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Channel.ReadBasic.All | 위임 | 메모를 보낼 수 있는 채널 목록을 표시하기 위해 사용자가 구성원인 채널의 이름을 수집합니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Directory.Read.All | application | 이 데이터는 전체 조직에 대해 관리자 설치가 수행된 경우만 수집됩니다. 디렉터리 데이터를 사용하여 사용자 목록을 동기화하고 계정을 자동으로 프로비전합니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Group.Read.All | application | 이 데이터는 전체 조직에 대해 관리자 설치가 수행된 경우만 수집됩니다. 디렉터리 데이터를 사용하여 사용자 목록을 동기화하고 계정을 자동으로 프로비전합니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| People.Read | 위임 | 사용자의 연락처는 특정 연락처 displayNames 및 전자 메일 주소로 수집됩니다. 동료 내에서 메모에 초대할 사용자 목록을 제공하고 메모를 공유하는 데 사용됩니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| People.Read.All | application | 이 데이터는 전체 조직에 대해 관리자 설치가 수행된 경우만 수집됩니다. 사용자의 연락처는 특정 연락처 displayNames 및 전자 메일 주소로 수집됩니다. 동료 내에서 메모에 초대할 사용자 목록을 제공하고 메모를 공유하는 데 사용됩니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| Team.ReadBasic.All | 위임 | 사용자가 일부인 팀 목록이 수집됩니다. 동료 내에서 사용자가 동료에게서 팀에 메모를 보낼 수 있도록 허용하는 데 사용됩니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| User.Read | 위임 | 기본 사용자 정보가 수집됩니다. 사용자 이름, 전자 메일, 직위. 이 정보는 동료 내에서 사용자 계정 및 회사 계정을 만드는 데 사용됩니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| User.Read.All | application | 이 데이터는 전체 조직에 대해 관리자 설치가 수행된 경우만 수집됩니다. 디렉터리 데이터를 사용하여 사용자 목록을 동기화하고 계정을 자동으로 프로비전합니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
->| offline_access | 위임 | 다른 범위를 통해 수집된 데이터에 대한 액세스를 유지 관리하는 사용자의 새로 고침 토큰입니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](https://docs.microsoft.com/microsoft-365-app-certification/azure/f6671df0-1909-428c-91f7-1c42df04d3e4) |
+>| Calendars.ReadWrite | 둘 다 | 동료는 사용자의 일정과 연결하여 데이터에 대한 메모를 작성하는 기능을 제공합니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Channel.ReadBasic.All | 위임 | 메모를 보낼 수 있는 채널 목록을 표시하기 위해 사용자가 구성원인 채널의 이름을 수집합니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Directory.Read.All | application | 이 데이터는 전체 조직에 대해 관리자 설치가 수행된 경우만 수집됩니다. 디렉터리 데이터를 사용하여 사용자 목록을 동기화하고 계정을 자동으로 프로비전합니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Group.Read.All | application | 이 데이터는 전체 조직에 대해 관리자 설치가 수행된 경우만 수집됩니다. 디렉터리 데이터를 사용하여 사용자 목록을 동기화하고 계정을 자동으로 프로비전합니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| People.Read | 위임 | 사용자의 연락처는 특정 연락처 displayNames 및 전자 메일 주소로 수집됩니다. 동료 내에서 메모에 초대할 사용자 목록을 제공하고 메모를 공유하는 데 사용됩니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| People.Read.All | application | 이 데이터는 전체 조직에 대해 관리자 설치가 수행된 경우만 수집됩니다. 사용자의 연락처는 특정 연락처 displayNames 및 전자 메일 주소로 수집됩니다. 동료 내에서 메모에 초대할 사용자 목록을 제공하고 메모를 공유하는 데 사용됩니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| Team.ReadBasic.All | 위임 | 사용자가 일부인 팀 목록이 수집됩니다. 동료 내에서 사용자가 동료에게서 팀에 메모를 보낼 수 있도록 허용하는 데 사용됩니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| User.Read | 위임 | 기본 사용자 정보가 수집됩니다. 사용자 이름, 전자 메일, 직위. 이 정보는 동료 내에서 사용자 계정 및 회사 계정을 만드는 데 사용됩니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| User.Read.All | application | 이 데이터는 전체 조직에 대해 관리자 설치가 수행된 경우만 수집됩니다. 디렉터리 데이터를 사용하여 사용자 목록을 동기화하고 계정을 자동으로 프로비전합니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
+>| offline_access | 위임 | 다른 범위를 통해 수집된 데이터에 대한 액세스를 유지 관리하는 사용자의 새로 고침 토큰입니다. | [f6671df0-1909-428c-91f7-1c42df04d3e4](../azure/f6671df0-1909-428c-91f7-1c42df04d3e4.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

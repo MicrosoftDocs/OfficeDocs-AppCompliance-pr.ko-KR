@@ -2,18 +2,19 @@
 title: WORKSTREAMPEOPLE BV에서 사용할 수 있는 Anywhere365 Microsoft Teams 콘솔에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/22/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Anywhere365 Attendant Console Microsoft Teams 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: adbb46b7c7b8cb5320a61cd41c58c8318315af82
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: 27d7116b0f3adea4c4174bd25a64cd58f195a2ff
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081301"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550807"
 ---
 # <a name="anywhere365-attendant-console-for-microsoft-teams"></a>Anywhere365 Attendant Console for Microsoft Teams
 
@@ -38,7 +39,7 @@ WORKSTREAMPEOPLE BV에서 Microsoft에 제공하는 정보:
 | 앱 사용 약관 | [https://anywhere365.io/terms-conditions/](https://anywhere365.io/terms-conditions/) |
 | 앱의 핵심 기능 | 시장의 가장 강력하고 사용자에게 친숙한 전화 Microsoft Teams |
 | 회사 본사 위치 | 네덜란드(the) |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://anywhere365.io/attendant-console-for-microsoft-team...](https://anywhere365.io/attendant-console-for-microsoft-teams/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
@@ -59,7 +60,7 @@ WORKSTREAMPEOPLE BV에서 Microsoft에 제공하는 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | TenantId |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 네덜란드(the) |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 90일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
@@ -168,14 +169,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Calendars.Read.Shared | 위임 | 사용자가 액세스할 수 있는 동료의 일정을 표시하려는 경우 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| People.Read | 위임 | 사용자의 동료에게 다가가기 위해 동료의 세부 정보를 표시하고자 합니다. | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| Presence.Read.All | 위임 | 연락처 목록에 모든 사용자의 현재 상태 표시 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| User.Read.All | 위임 | 동료의 모든 정보를 표시할 수 있습니다. | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| 전자 메일 | 위임 | 사용자에게 전자 메일을 보내고 다시 전화 메시지에 사용할 수 있도록 하려는 경우 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| offline_access | 위임 | 데이터를 최신으로 유지할 수 있게 하려는 경우 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| openid | 위임 | 플랫폼에서 사용자를 식별하기 위해 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
->| 프로필 | 위임 | 사용자를 식별하고 환경을 개인 설정하려면 프로필 데이터가 필요합니다. | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](https://docs.microsoft.com/microsoft-365-app-certification/azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465) |
+>| Calendars.Read.Shared | 위임 | 사용자가 액세스할 수 있는 동료의 일정을 표시하려는 경우 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| People.Read | 위임 | 사용자의 동료에게 다가가기 위해 동료의 세부 정보를 표시하고자 합니다. | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| Presence.Read.All | 위임 | 연락처 목록에 모든 사용자의 현재 상태 표시 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| User.Read.All | 위임 | 동료의 모든 정보를 표시할 수 있습니다. | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| 전자 메일 | 위임 | 사용자에게 전자 메일을 보내고 다시 전화 메시지에 사용할 수 있도록 하려는 경우 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| offline_access | 위임 | 데이터를 최신으로 유지할 수 있게 하려는 경우 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| openid | 위임 | 플랫폼에서 사용자를 식별하기 위해 | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
+>| 프로필 | 위임 | 사용자를 식별하고 환경을 개인 설정하려면 프로필 데이터가 필요합니다. | [a7bdb4c6-23d0-4e4a-958a-168b50d67465](../azure/a7bdb4c6-23d0-4e4a-958a-168b50d67465.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

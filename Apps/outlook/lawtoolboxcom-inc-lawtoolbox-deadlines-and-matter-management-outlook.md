@@ -1,28 +1,28 @@
 ---
-title: LawToolBox 마감 &amp; 일 문제 관리에 대한 응용 프로그램 정보 - Outlook LawToolBox.com.
+title: LawToolBox 마감일 및 문제 관리에 대한 응용 프로그램 정보 - Outlook LawToolBox.com.
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/11/2022
+ms.date: 03/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: LawToolBox &amp; 마감일 문제 관리에 사용할 수 있는 모든 보안 및 규정 준수 정보 - Outlook, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
+description: LawToolBox 마감일 및 문제 관리에 사용할 수 있는 모든 보안 및 준수 정보 - Outlook, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c15a934f25c3f7650d2fd7ac927029f8a08e2b56
-ms.sourcegitcommit: 62e60dfc73f78900307418e60318353faf8d9a57
+ms.openlocfilehash: b1bf6d736341aef40ae0087ef005f490a37db23f
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63459191"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63552427"
 ---
-# <a name="lawtoolbox-deadlines-amp-matter-management---outlook"></a>LawToolBox 마감일 &amp; 문제 관리 - Outlook
+# <a name="lawtoolbox-deadlines-and-matter-management---outlook"></a>LawToolBox 마감일 및 문제 관리 - Outlook
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 3월 7일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 3월 15일</p>
 
-* <a href="https://appsource.microsoft.com/product/office/WA104120953" target="_blank">AppSource의 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200003103" target="_blank">AppSource의 보기</a>
 
 ::: zone pivot="general"
 
@@ -32,8 +32,8 @@ Microsoft에 LawToolBox.com 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | LawToolBox 마감일 &amp; 문제 관리 - Outlook |
-| ID | WA104120953 |
+| 앱 이름 | LawToolBox 마감일 및 문제 관리 - Outlook |
+| ID | WA200003103 |
 | Office 365 클라이언트 지원 | Outlook 2013 이상은 Mac, Windows Outlook 2016 이상에서 웹용 Outlook |
 | 파트너 회사 이름 | LawToolBox.com Inc. |
 | 회사의 웹 사이트 | [https://www.lawtoolbox.com](https://www.lawtoolbox.com) |
@@ -61,11 +61,11 @@ Microsoft에 LawToolBox.com 제공한 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | email, UPN, name, groupid, group email, tenantid, user object id |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 90일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니오 |
+| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
 | Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -78,13 +78,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱에서 연간 침투 테스트를 수행하나요? | 아니오 |
+| 앱에서 연간 침투 테스트를 수행하나요? | 아니요 |
 | 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 예 |
 | 환경에서 기존의 맬웨어 방지 보호 또는 응용 프로그램 제어를 사용하나요? | ApplicationControls |
 | 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? | 예 |
 | 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? | 아니요 |
-| 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? | 아니오 |
-| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 아니오 |
+| 패치 정책 SLA에 따라 패치 관리 활동을 수행하나요? | 아니요 |
+| 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 아니요 |
 | 앱 및 이를 지원하는 구조에서 분기별 취약점 검색을 수행하나요? | 예 |
 | 외부 네트워크 경계에 방화벽이 설치되어 있습니까? | 예 |
 | 변경 요청을 프로덕션에 배포하기 전에 검토하고 승인하는 데 사용되는 변경 관리 프로세스가 설정 있습니까? | 예 |
@@ -112,17 +112,17 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 HITRUST CSF(Common Security Framework)인 Health Information Trust Alliance를 준수하나요? | 해당 없음 |
 | 앱이 SOC(서비스 조직 제어)를 준수하나요? | 해당 없음 |
 | 가장 최근 SOC1 인증 날짜 |   |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니오 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 어떤 SOC 2 인증을 획득했나요? | |
 | 가장 최근 SOC2 인증 날짜 | |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니오 |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
 | 가장 최근 SOC3 인증 날짜 | |
 | 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 해당 없음 |
-| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니오 |
-| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니오 |
+| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
-| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니오 |
-| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니오 |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
+| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
 | 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 예 |
@@ -141,9 +141,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 연결 개인 정보 취급 방침이 있나요? | 예 |
 | 개인 정보 취급 방침 URL | https://www.lawtoolbox.com/privacy-policy/ |
 | 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? | 아니요 |
-| 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니오 |
-| 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? | 아니오 |
-| 앱이 미성년자(예: 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? | 아니오 |
+| 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니요 |
+| 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? | 아니요 |
+| 앱이 미성년자(예: 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? | 아니요 |
 | 앱에 요청 시 개인의 개인 데이터를 삭제할 수 있는 기능이 있나요? | 예 |
 | 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한할 수 있는 기능이 있나요? | 예 |
 | 앱이 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 개인에게 제공하나요? | 예 |
@@ -163,30 +163,46 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
 | 지원되는 정책 유형 나열 | 더 큰 제어를 위해 관리자가 앱 권한을 구현할 수 있습니다. |
-| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니오 |
-| 앱에서 코드에 자격 증명을 저장하나요? | 아니오 |
-| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니오 |
+| 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 | 아니요 |
+| 앱에서 코드에 자격 증명을 저장하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.ReadWrite.All | application | 이 사용 권한은 일반 사용자가 250개가 넘는 그룹을 설정할 수 있도록 사용됩니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa) |
->| User.ReadWrite.All | application | 이 권한은 디렉터리에서 사용자 관련 정보를 읽고 LawToolBox 관리 포털에 액세스할 수 있는 최종 사용자가 구성원이 아닌 그룹에 사용자를 추가할 수 있도록 하는 데 사용됩니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa) |
->| Calendars.ReadWrite | 위임 | 이 사용 권한을 사용하면 사용자가 자신의 일정 정보를 검색할 수 있습니다.  최종 사용자에게만 액세스 권한이 있는 사용자는 앱을 사용하여 자신의 일정 정보(해당 일정을 열면 검색할 수 있는 Outlook 수 있습니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Contacts.ReadWrite | 위임 | 이 사용 권한은 사용자가 연락처를 검색하고 연락처를 Microsoft 365 Outlook 관리 시스템에 추가할 수 있도록 &#8211; 자동으로 추가되지 않는 데 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Contacts.ReadWrite.Shared | 위임 | 이 사용 권한은 사용자가 공유 M365 연락처를 검색하고 연락처가 자동으로 추가되지 않는 경우 연락처 관리 시스템에 연락처로 &#8211; 데 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Files.ReadWrite | 위임 | LawToolBox는 모임을 위해 Teams, 그룹 및 OneDrive 파일을 읽고 읽습니다(최종 사용자가 이 사용 권한을 해지하면 LTB가 템플릿에서 폴더 및 파일을 만들고 앱에서 중요한 파일을 나열하지 못하도록 차단) | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Group.ReadWrite.All | 위임 | 이 권한은 Teams API를 읽고, Teams, 일정 이벤트를 만들고, 채널을 만들고, 한 번 클릭으로 외부 파일 공유 기능을 만드는 데 필요합니다.  그룹을 관리하는 데 필요합니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Mail.Read | 위임 | 이 사용 권한은 Outlook 추가 기능에서 PACER 전자 메일을 읽고 해당 내용을 자동으로 열고 전자 메일에서 연락처를 읽는 데 사용됩니다.  최종 사용자가 이 사용 권한을 해지하면 받은 편지함의 전자 메일에서 연락처 시스템에 전자 메일 연락처를 추가할 수 없습니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Mail.Send | 위임 | 이 사용 권한은 사용자로 전자 메일을 보내는 데 사용됩니다. 예를 들어 사용자가 직접 문제 기한 차트를 보낼 수 있습니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| MailboxSettings.ReadWrite | 위임 | 이 사용 권한은 앱을 사용하여 그룹 폴더에 저장되었음을 나타내는 레이블이 있는 전자 메일을 스탬프 지정하는 데 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| Notes.ReadWrite.All | 위임 | 이 사용 권한은 사용자가 사례 메모, 기한 차트 또는 문제 연락처와 같은 선택한 데이터를 문제와 관련된 OneNote 저장할 수 있도록 허용합니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| OnlineMeetings.ReadWrite | 위임 | 이 사용 권한은 모임 만들기 및 관리를 간소화하고 참석자 역할을 사용하여 참석자 제안에 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| People.Read | 위임 | 이 사용 권한은 사용자가 Microsoft AI를 사용하여 공유 M365 연락처를 검색하고 LawToolBox 연락처 관리 시스템에 추가하고, 연락처를 자동으로 추가하지 않는 경우 사용자에게 앱 연락처 관리 시스템에 &#8211; 수 있도록 하는 데 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| User.Read | 위임 | 이 사용 권한은 관리자가 시스템에 정확한 사용자를 추가할 수 있도록 사용자의 기본 정보(예: 이름, 전자 메일, 표준 시간대)를 읽는 데 필요합니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| 전자 메일 | 위임 | 이 사용 권한은 앱에서 최종 사용자가 받은 편지함의 전자 메일에서 전자 메일 연락처 정보를 수집할 수 있도록 전자 메일을 읽을 수 있도록 허용합니다. 또한 이 사용 권한은 앱이 PACER 도킹 번호를 사용하여 기본적으로 관련 사례를 열 수 있도록 PACER 정보가 있는 전자 메일을 읽을 수 있도록 합니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
->| 프로필 | 위임 | SSO 인증에 필요합니다(LawToolBox는 프로필에 쓸 수 있는 권한을 요청하지 않습니다).이 사용 권한은 사용자가 SINGLE SIGN ON AUTHORIZATION을 사용하여 LAWTOOLBOX 앱에 로그인하는 데 필요합니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df) |
+>| Calendars.ReadWrite | 위임 | 이 사용 권한을 사용하면 사용자가 자신의 일정 정보를 검색할 수 있습니다.  최종 사용자에게만 액세스 권한이 있는 사용자는 앱을 사용하여 자신의 일정 정보(해당 일정을 열면 검색할 수 있는 Outlook 수 있습니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Contacts.ReadWrite | 위임 | 이 사용 권한은 사용자가 연락처를 검색하고 연락처를 Microsoft 365 Outlook 관리 시스템에 추가할 수 있도록 &#8211; 자동으로 추가되지 않는 데 사용됩니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Contacts.ReadWrite.Shared | 위임 | 이 사용 권한은 사용자가 공유 M365 연락처를 검색하고 연락처가 자동으로 추가되지 않는 경우 연락처 관리 시스템에 연락처로 &#8211; 데 사용됩니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Files.ReadWrite | 위임 | LawToolBox는 모임을 위해 Teams, 그룹 및 OneDrive 파일을 읽고 읽습니다(최종 사용자가 이 사용 권한을 해지하면 LTB가 템플릿에서 폴더 및 파일을 만들고 앱에서 중요한 파일을 나열하지 못하도록 차단) | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Group.ReadWrite.All | 위임 | 이 권한은 Teams API를 읽고, Teams, 일정 이벤트를 만들고, 채널을 만들고, 한 번 클릭으로 외부 파일 공유 기능을 만드는 데 필요합니다.  그룹을 관리하는 데 필요합니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Group.ReadWrite.All | application | 이 사용 권한은 일반 사용자가 250개가 넘는 그룹을 설정할 수 있도록 사용됩니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Mail.Read | 위임 | 이 사용 권한은 Outlook 추가 기능에서 PACER 전자 메일을 읽고 해당 내용을 자동으로 열고 전자 메일에서 연락처를 읽는 데 사용됩니다.  최종 사용자가 이 사용 권한을 해지하면 받은 편지함의 전자 메일에서 연락처 시스템에 전자 메일 연락처를 추가할 수 없습니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Mail.Send | 위임 | 이 사용 권한은 사용자로 전자 메일을 보내는 데 사용됩니다. 예를 들어 사용자가 직접 문제 기한 차트를 보낼 수 있습니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| MailboxSettings.ReadWrite | 위임 | 이 사용 권한은 앱을 사용하여 그룹 폴더에 저장되었음을 나타내는 레이블이 있는 전자 메일을 스탬프 지정하는 데 사용됩니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Notes.ReadWrite.All | 위임 | 이 사용 권한은 사용자가 사례 메모, 기한 차트 또는 문제 연락처와 같은 선택한 데이터를 문제와 관련된 OneNote 저장할 수 있도록 허용합니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| OnlineMeetings.ReadWrite | 위임 | 이 사용 권한은 모임 만들기 및 관리를 간소화하고 참석자 역할을 사용하여 참석자 제안에 사용됩니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| People.Read | 위임 | 이 사용 권한은 사용자가 Microsoft AI를 사용하여 공유 M365 연락처를 검색하고 LawToolBox 연락처 관리 시스템에 추가하고, 연락처를 자동으로 추가하지 않는 경우 사용자에게 앱 연락처 관리 시스템에 &#8211; 수 있도록 하는 데 사용됩니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| User.Read | 위임 | 이 사용 권한은 관리자가 시스템에 정확한 사용자를 추가할 수 있도록 사용자의 기본 정보(예: 이름, 전자 메일, 표준 시간대)를 읽는 데 필요합니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| User.ReadWrite.All | application | 이 권한은 디렉터리에서 사용자 관련 정보를 읽고 LawToolBox 관리 포털에 액세스할 수 있는 최종 사용자가 구성원이 아닌 그룹에 사용자를 추가할 수 있도록 하는 데 사용됩니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| 전자 메일 | 위임 | 이 사용 권한은 앱에서 최종 사용자가 받은 편지함의 전자 메일에서 전자 메일 연락처 정보를 수집할 수 있도록 전자 메일을 읽을 수 있도록 허용합니다. 또한 이 사용 권한은 앱이 PACER 도킹 번호를 사용하여 기본적으로 관련 사례를 열 수 있도록 PACER 정보가 있는 전자 메일을 읽을 수 있도록 합니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| 프로필 | 위임 | SSO 인증에 필요합니다(LawToolBox는 프로필에 쓸 수 있는 권한을 요청하지 않습니다).이 사용 권한은 사용자가 SINGLE SIGN ON AUTHORIZATION을 사용하여 LAWTOOLBOX 앱에 로그인하는 데 필요합니다. | [2fa142be-31b5-4fda-bd37-591541b501aa](../azure/2fa142be-31b5-4fda-bd37-591541b501aa.md) |
+>| Calendars.ReadWrite | 위임 | 이 사용 권한을 사용하면 사용자가 자신의 일정 정보를 검색할 수 있습니다.  최종 사용자에게만 액세스 권한이 있는 사용자는 앱을 사용하여 자신의 일정 정보(해당 일정을 열면 검색할 수 있는 Outlook 수 있습니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Contacts.ReadWrite | 위임 | 이 사용 권한은 사용자가 연락처를 검색하고 연락처를 Microsoft 365 Outlook 관리 시스템에 추가할 수 있도록 &#8211; 자동으로 추가되지 않는 데 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Contacts.ReadWrite.Shared | 위임 | 이 사용 권한은 사용자가 공유 M365 연락처를 검색하고 연락처가 자동으로 추가되지 않는 경우 연락처 관리 시스템에 연락처로 &#8211; 데 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Files.ReadWrite | 위임 | LawToolBox는 모임을 위해 Teams, 그룹 및 OneDrive 파일을 읽고 읽습니다(최종 사용자가 이 사용 권한을 해지하면 LTB가 템플릿에서 폴더 및 파일을 만들고 앱에서 중요한 파일을 나열하지 못하도록 차단) | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Group.ReadWrite.All | 위임 | 이 권한은 Teams API를 읽고, Teams, 일정 이벤트를 만들고, 채널을 만들고, 한 번 클릭으로 외부 파일 공유 기능을 만드는 데 필요합니다.  그룹을 관리하는 데 필요합니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Group.ReadWrite.All | application | 이 사용 권한은 일반 사용자가 250개가 넘는 그룹을 설정할 수 있도록 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Mail.Read | 위임 | 이 사용 권한은 Outlook 추가 기능에서 PACER 전자 메일을 읽고 해당 내용을 자동으로 열고 전자 메일에서 연락처를 읽는 데 사용됩니다.  최종 사용자가 이 사용 권한을 해지하면 받은 편지함의 전자 메일에서 연락처 시스템에 전자 메일 연락처를 추가할 수 없습니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Mail.Send | 위임 | 이 사용 권한은 사용자로 전자 메일을 보내는 데 사용됩니다. 예를 들어 사용자가 직접 문제 기한 차트를 보낼 수 있습니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| MailboxSettings.ReadWrite | 위임 | 이 사용 권한은 앱을 사용하여 그룹 폴더에 저장되었음을 나타내는 레이블이 있는 전자 메일을 스탬프 지정하는 데 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| Notes.ReadWrite.All | 위임 | 이 사용 권한은 사용자가 사례 메모, 기한 차트 또는 문제 연락처와 같은 선택한 데이터를 문제와 관련된 OneNote 저장할 수 있도록 허용합니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| OnlineMeetings.ReadWrite | 위임 | 이 사용 권한은 모임 만들기 및 관리를 간소화하고 참석자 역할을 사용하여 참석자 제안에 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| People.Read | 위임 | 이 사용 권한은 사용자가 Microsoft AI를 사용하여 공유 M365 연락처를 검색하고 LawToolBox 연락처 관리 시스템에 추가하고, 연락처를 자동으로 추가하지 않는 경우 사용자에게 앱 연락처 관리 시스템에 &#8211; 수 있도록 하는 데 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| User.Read | 위임 | 이 사용 권한은 관리자가 시스템에 정확한 사용자를 추가할 수 있도록 사용자의 기본 정보(예: 이름, 전자 메일, 표준 시간대)를 읽는 데 필요합니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| User.ReadWrite.All | application | 이 권한은 디렉터리에서 사용자 관련 정보를 읽고 LawToolBox 관리 포털에 액세스할 수 있는 최종 사용자가 구성원이 아닌 그룹에 사용자를 추가할 수 있도록 하는 데 사용됩니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 전자 메일 | 위임 | 이 사용 권한은 앱에서 최종 사용자가 받은 편지함의 전자 메일에서 전자 메일 연락처 정보를 수집할 수 있도록 전자 메일을 읽을 수 있도록 허용합니다. 또한 이 사용 권한은 앱이 PACER 도킹 번호를 사용하여 기본적으로 관련 사례를 열 수 있도록 PACER 정보가 있는 전자 메일을 읽을 수 있도록 합니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
+>| 프로필 | 위임 | SSO 인증에 필요합니다(LawToolBox는 프로필에 쓸 수 있는 권한을 요청하지 않습니다).이 사용 권한은 사용자가 SINGLE SIGN ON AUTHORIZATION을 사용하여 LAWTOOLBOX 앱에 로그인하는 데 필요합니다. | [6be25d92-7c0e-4b2f-829e-108766e095df](../azure/6be25d92-7c0e-4b2f-829e-108766e095df.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

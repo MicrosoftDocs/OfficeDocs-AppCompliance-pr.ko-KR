@@ -3,24 +3,24 @@ title: EasyLife 365 AG의 EasyLife 365에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 02/04/2022
+ms.date: 03/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: EasyLife 365에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: cf7a3b8b77e915f42d1a8d3d1573ca23fcf1cf78
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 1bbd4661f847866ed0d9094f641ba7d34fefd8c0
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63548496"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63696510"
 ---
 # <a name="easylife-365"></a>EasyLife 365
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 1월 5일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 3월 21일</p>
 
 * <a href="https://teams.microsoft.com/l/app/93731bac-4d43-480f-9e40-9fc567dfb817" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003697" target="_blank">AppSource의 보기</a>
@@ -42,7 +42,8 @@ EasyLife 365 AG에서 Microsoft에 제공하는 정보:
 | 앱의 핵심 기능 | 거버넌스를 쉽게 만들 수 있습니다. |
 | 회사 본사 위치 | 스위스 |
 | 앱 정보 페이지 | [https://www.easylife365.cloud/governance/features](https://www.easylife365.cloud/governance/features) |
-| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | IsvHosted |
+| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -170,22 +171,42 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Group.Read.All | 위임 | 앱에서 Microsoft 365 그룹을 관리할 수 있습니다. | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
->| User.Read.All | 위임 | 응용 프로그램에서 사용자 정보를 검색하는 데 사용됩니다. 사람 선택에 사용 | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
->| ChannelMember.ReadWrite.All | application | 백end 앱에서 채널 구성원을 읽고 조작하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
->| Directory.ReadWrite.All | 둘 다 | EasyLife 365에 대한 테넌트의 앱 권한이 있는지 확인하는 데 사용됩니다. 백end의 Microsoft 365 그룹에 대한 게스트 액세스를 사용하지 않도록 설정하거나 사용하도록 설정하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
->| Group.ReadWrite.All | application | 그룹 Microsoft 365 프로비전하고, 그룹 소유자를 확인하고, Teams 서비스에서 그룹을 삭제하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
->| Mail.Send | application | 환경의 사서함이 있는 사용자에게 메일 알림을 보낼 수 있습니다. 이 구성은 관리자가 공유 사서함 또는 사용자의 메일을 보내도록 구성됩니다. 일반적으로 관리자는 이 앱의 사용 권한을 앱 ID로 제한합니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
->| MailboxSettings.Read | application | 특정 언어로 알림을 보내기 전에 사용자 사서함의 언어 설정을 읽는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
->| Reports.Read.All | application | 백end에서 Microsoft 365 그룹의 사용 현황을 확인하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
->| Sites.Read.All | application | 테넌트에서 SharePoint 온라인 사이트를 열000개하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
->| User.Read.All | application | 사용자를 검색하고 알림을 보내기 위해 기본 정보를 검색하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
->| User.ReadWrite.All | application | 게스트 계정을 초대하고, 게스트 계정 메타데이터를 수정하고, 백end 응용 프로그램에서 필요한 경우 게스트 계정을 삭제하는 데 사용됩니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
->| ChannelMember.ReadWrite.All | 위임 | 사용자가 팀의 채널 구성원을 조작하는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
->| Group.ReadWrite.All | 위임 | Microsoft 365 그룹에 대한 메타데이터를 조작하는 데 Teams. 환경에서 그룹을 검색하는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| Group.Read.All | 위임 | 그룹 또는 그룹 읽기 Teams | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| Group.ReadWrite.All | 위임 | 그룹 또는 그룹의 메타데이터를 Teams | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| GroupMember.Read.All | 위임 | 그룹의 구성원 읽기 | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| User.Read.All | 위임 | 게스트 계정 메타데이터 검색 허용 | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| User.ReadBasic.All | 위임 | 조직에서 구성원 또는 게스트 계정을 검색할 수 있습니다. | [192ba193-b68c-464c-a920-7eaa93b59a12](../azure/192ba193-b68c-464c-a920-7eaa93b59a12.md) |
+>| Channel.Create | application | 팀 채널 생성 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Channel.ReadBasic.All | application | 기존 팀의 채널 읽기 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Directory.Read.All | application | 현재 그룹 및 게스트 계정 설정 템플릿을 얻습니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Directory.ReadWrite.All | application | 그룹 또는 팀에 대한 게스트 계정 설정 적용 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Group.Create | application | 그룹 생성 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Group.Read.All | 둘 다 | 그룹 정보를 읽고 그룹 별칭을 검색합니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Group.ReadWrite.All | application | 백end에서 그룹 메타데이터 조작 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| GroupMember.Read.All | application | 백end에서 그룹 또는 팀 구성원을 검색합니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| GroupMember.ReadWrite.All | application | 그룹 또는 팀에서 구성원을 추가하거나 제거할 수 있습니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| IdentityRiskyUser.ReadWrite.All | application | 게스트 계정 및 해당 메타데이터를 조작할 수 있습니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Mail.Send | application | 공유 사서함을 사용하여 메일 보내기 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| MailboxSettings.Read | application | 사용자의 기본 설정 언어 설정을 검색합니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Reports.Read.All | application | 그룹 및 그룹의 사용 현황 데이터를 Teams | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Team.ReadBasic.All | application | 기본 팀 정보 검색 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| TeamSettings.ReadWrite.All | application | 팀 보관 및 보관을 Unarchive할 수 있습니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Teams. 만들기 | application | 팀 생성 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| TeamsTab.Read.All | application | 만든 팀에서 탭 검색 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| TeamsTab.ReadWrite.All | application | 만든 팀의 탭을 만들거나 매니버티 탭을 만들 수 있습니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| User.Invite.All | application | 테넌트에 사용자 초대 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| User.Read | 위임 | 사용자 정보 및 조직 정보를 얻습니다. | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| User.Read.All | 둘 다 | 게스트 및 사용자 정보 검색 | [2e8b6192-7ea3-44a7-921e-86e0afd8cd0a](../azure/2e8b6192-7ea3-44a7-921e-86e0afd8cd0a.md) |
+>| Group.Read.All | 위임 | 모든 사용자 그룹 읽기 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| Group.ReadWrite.All | 위임 | 사용자의 그룹 메타데이터를 수정하고 그룹 및 Teams | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| GroupMember.Read.All | 위임 | 그룹 소유자가 그룹 또는 팀 구성원 자격을 읽을 수 있습니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| GroupMember.ReadWrite.All | 위임 | 그룹 소유자가 그룹 또는 팀 구성원을 조작할 수 있습니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| TeamSettings.ReadWrite.All | 위임 | 팀 보관 또는 보관을 비우기 허용 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
 >| TeamsActivity.Send | application | 백end에서 Teams 알림을 보내는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
 >| TeamsAppInstallation.ReadForUser.All | application | 사용자를 통해 알림을 보내기 전에 EasyLife 앱이 설치되어 있는지 Teams. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
->| User.Read.All | 위임 | 사용자 선택에서 조직의 사용자를 검색하는 데 사용됩니다. 게스트 계정을 열000개하는 데 사용됩니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| User.Read | 위임 | 조직 데이터 및 사용자 정보 읽기 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| User.Read.All | 위임 | 디렉터리에서 다른 구성원 또는 게스트 계정을 검색할 수 있습니다. | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
+>| User.ReadBasic.All | 위임 | 사용자의 사진 표시 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
 >| 전자 메일 | 위임 | SSO 인증에서 사용 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
 >| offline_access | 위임 | SSO 인증에서 사용 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |
 >| openid | 위임 | SSO 인증에서 사용 | [716a0b19-6f38-4909-a80a-ffaac7957316](../azure/716a0b19-6f38-4909-a80a-ffaac7957316.md) |

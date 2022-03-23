@@ -2,18 +2,19 @@
 title: Adobe Inc.의 Adobe Acrobat sign for SharePoint 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Adobe Acrobat Sign for SharePoint, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 4839a19d8a616ae4d5e71850c28e6eefaca3028a
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: d7c8f5754741fc8443bfc25443918267333cd0f7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081294"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550797"
 ---
 # <a name="adobe-acrobat-sign-for-sharepoint"></a>Adobe Acrobat Sign for SharePoint
 
@@ -38,8 +39,9 @@ Adobe Inc.에서 Microsoft에 제공한 정보:
 | 앱 사용 약관 | [https://www.adobe.com/legal/licenses-terms.html](https://www.adobe.com/legal/licenses-terms.html) |
 | 앱의 핵심 기능 | Adobe Sign을 추가하면 문서 서명 워크플로가 빠르게 Teams. 이제 Teams Microsoft의 기본 설정 전자 서명 솔루션으로 문서에 서명하고, 법적 구속력이 있는 전자 &#8212; 승인을 위해 문서를 보낼 수 있습니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://helpx.adobe.com/sign/using/microsoft-sharepoint-use...](https://helpx.adobe.com/sign/using/microsoft-sharepoint-user-guide.html) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -54,14 +56,7 @@ Adobe Inc.에서 Microsoft에 제공한 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 한 달 내에 삭제되었습니다. |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -164,7 +159,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Directory.Read.All | 위임 | 사용자에게 응용 프로그램 기능에 대한 특정 사용 권한이 부여된 경우 사용자 역할을 부여하고 유효성을 검사합니다. | [99a3ad8d-8682-4f2a-9c2c-b4b27e99585c](https://docs.microsoft.com/microsoft-365-app-certification/azure/99a3ad8d-8682-4f2a-9c2c-b4b27e99585c) |
+>| Directory.Read.All | 위임 | 사용자에게 응용 프로그램 기능에 대한 특정 사용 권한이 부여된 경우 사용자 역할을 부여하고 유효성을 검사합니다. | [99a3ad8d-8682-4f2a-9c2c-b4b27e99585c](../azure/99a3ad8d-8682-4f2a-9c2c-b4b27e99585c.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 

@@ -2,18 +2,19 @@
 title: 응용 프로그램 monday.com 대한 monday.com
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 10/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 monday.com, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d71ae549b7176801d466bc3eeb7b8136132b3aff
-ms.sourcegitcommit: e61daaadc2921e59735e8952fe81e5a416b55fbf
+ms.openlocfilehash: c27a8e6d0d141fe8e3f7cb1f25068a7bc51dd949
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62253604"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63550046"
 ---
 # <a name="mondaycom"></a>monday.com
 
@@ -38,10 +39,11 @@ Microsoft에 monday.com 정보:
 | 파트너 회사 이름 | monday.com |
 | 회사의 웹 사이트 | [https://monday.com](https://monday.com) |
 | 앱 사용 약관 | [https://monday.com/l/legal/tos/](https://monday.com/l/legal/tos/) |
-| 앱의 핵심 기능 | monday.com 운영 체제는 원격 팀 작업을 지원하여 모든 프로그램, 프로젝트 및 프로세스를 구성, 구성 및 간소화하는 다용도 작업 OS입니다.  또한 monday.com, 보기, 차트, 자동화 및 통합과 같은 구성 요소와 &#8211; 구성을 사용하여 프로세스, 프로젝트 및 일상 작업을 실행할 사용자 지정 워크플로 앱을 만들 수 있습니다. 새 monday.com 보드를 만들거나 기존 보드 내에서 직접 기존 Microsoft Teams 추가하고 하나의 공동 작업&#8217;작업의 작업을 쉽게 시각화할 수 있습니다. |
+| 앱의 핵심 기능 | monday.com 운영 체제는 원격 팀 작업을 지원하여 모든 프로그램, 프로젝트 및 프로세스를 구성, 구성 및 간소화하는 다용도 작업 OS입니다.  또한 monday.com, 보기, &#8211; 자동화 및 통합과 같은 문서 블록을 사용하여 프로세스, 프로젝트 및 일상 작업을 실행할 사용자 지정 워크플로 앱을 만들 수 있습니다. 새 monday.com 보드를 만들거나 기존 사용자에 추가하여 Microsoft Teams 한 공동 작업 영역의 작업을 쉽게&#8217;쉽게 시각화할 수 있습니다. |
 | 회사 본사 위치 | 이스라엘 |
 | 앱 정보 페이지 | |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | AWS, GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -51,19 +53,12 @@ Microsoft에 monday.com 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 monday.com 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 컨트롤에 대한 정보를 제공합니다.
+이 정보는 이 monday.com 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 보존 |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -122,7 +117,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
 | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 아니요 |
 | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 아니요 |
-| 앱이 SOX(Sarbanes-Oxley법)를 준수하나요? | 아니요 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 아니요 |
 | 앱이 NIST 800-171을 준수하나요? |  |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 예 |
 
@@ -160,7 +155,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 기능을 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

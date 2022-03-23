@@ -7,12 +7,12 @@ keywords: microsoft 365 m365 앱 게시자 증명 인증
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: e36bee4289de320d264a8a5e55c7bc20a4ea803b
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: 17aab158f4fc7803966afed9df88adf9688fcc63
+ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60545770"
+ms.lasthandoff: 03/22/2022
+ms.locfileid: "63697070"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 앱 규정 준수 프로그램
 
@@ -38,7 +38,7 @@ Microsoft 365 인증 프로세스에는 **증명** 및 **인증** 의 두 단계
 1.  **인증** 에는 주요 산업 표준 프레임워크에서 파생된 일련의 제어에 대한 앱의 철저한 감사가 포함됩니다. ISV는 인증을 받기 전에 각 제어를 충족한다는 증거를 제공해야 합니다. 목표는 Microsoft 365 인증을 받은 앱이 데이터 보안 및 개인 정보를 보호하기 위해 강력한 보안 및 규정 준수 관행을 갖추고 있다는 앱을 신뢰할 수 있다는 확신을 고객에게 제공하는 것입니다.
 
 
-Microsoft 365 인증은 WebApp 및 다음 Microsoft 제품과 통합되는 모든 앱에 적용됩니다.
+Microsoft 365 인증은 다음 Microsoft 제품과 통합되는 모든 앱에 적용됩니다.
 -   Teams
 -   Word
 -   Excel
@@ -47,8 +47,9 @@ Microsoft 365 인증은 WebApp 및 다음 Microsoft 제품과 통합되는 모�
 - SharePoint
 - Project
 - OneNote
+- **웹앱**(파트너 센터의 상업용 마켓플레이스를 통해 게시된 SaaS 앱은 현재 비공개 미리 보기 상태입니다. 참여에 관심이 있는 경우 이 [양식](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u)을 작성하세요.
 
 ### <a name="get-started"></a>시작하기
-- [게시자 확인을 완료하는 방법](https://docs.microsoft.com/en-us/azure/active-directory/develop/mark-app-as-publisher-verified)
-- [Microsoft 365 인증을 완료하는 방법](https://docs.microsoft.com/en-us/microsoft-365-app-certification/docs/certification)
+- [게시자 확인을 완료하는 방법](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)
+- [Microsoft 365 인증을 완료하는 방법](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification)
 

@@ -2,20 +2,21 @@
 title: OOO RD17의 완벽한 위키에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/26/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 완벽한 위키, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2eab3751f755b6ed2826a7f9b0aa964608811a26
-ms.sourcegitcommit: 78d7dc892da0864cadba4bd03ed83a09e2b8a160
+ms.openlocfilehash: c635cc3f035977baba211e7d6faa77ce461923d7
+ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63081214"
+ms.lasthandoff: 03/17/2022
+ms.locfileid: "63551987"
 ---
-# <a name="perfect-wiki"></a>완벽한 위키
+# <a name="perfect-wiki"></a>Perfect Wiki
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -32,7 +33,7 @@ OOO RD17에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 완벽한 위키 |
+| 앱 이름 | Perfect Wiki |
 | ID | WA200001679 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | OOO RD17 |
@@ -40,8 +41,9 @@ OOO RD17에서 Microsoft에 제공하는 정보:
 | 앱 사용 약관 | [https://docs.google.com/document/d/e/2PACX-1vTMQNAdgN7xy6n9...](https://docs.google.com/document/d/e/2PACX-1vTMQNAdgN7xy6n9tNvhDe8Sb2AF8A9v8jfG3gJ503cXzIq1nr_Zbq5aShN0mU49fvADgKZ8a58Oha-C/pub) |
 | 앱의 핵심 기능 | 기능 리치 위키를 Microsoft Teams |
 | 회사 본사 위치 | 러시아 페더러시(the) |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://perfectwikiforteams.com](https://perfectwikiforteams.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure, GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,14 +58,7 @@ OOO RD17에서 Microsoft에 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? |  |
-| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇입니까? |  |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. |  |
-| 데이터 임대 및 폐기 프로세스를 설정하고 있나요? |  |
-| 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 한 달 내에 삭제되었습니다. |
-| 데이터 액세스 관리 프로세스가 설정되었습니다. |  |
-| 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? |  |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
+| 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -166,9 +161,9 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.ReadBasic.All | 위임 | ChannelId 및 channelName, 앱에 사용자에게 표시하기 위한 정보를 얻게 됩니다. | [b9604964-9c3a-483e-abf2-1b5cba495081](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081) |
->| Team.ReadBasic.All | 위임 | 사용자의 teamId를 얻게 하여 팀 이름을 얻게 됩니다. | [b9604964-9c3a-483e-abf2-1b5cba495081](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081) |
->| User.Read | 위임 | userId- 로그인한 사용자를 이해하는 데 사용됩니다. | [b9604964-9c3a-483e-abf2-1b5cba495081](https://docs.microsoft.com/microsoft-365-app-certification/azure/b9604964-9c3a-483e-abf2-1b5cba495081) |
+>| Channel.ReadBasic.All | 위임 | ChannelId 및 channelName, 앱에 사용자에게 표시하기 위한 정보를 얻게 됩니다. | [b9604964-9c3a-483e-abf2-1b5cba495081](../azure/b9604964-9c3a-483e-abf2-1b5cba495081.md) |
+>| Team.ReadBasic.All | 위임 | 사용자의 teamId를 얻게 하여 팀 이름을 얻게 됩니다. | [b9604964-9c3a-483e-abf2-1b5cba495081](../azure/b9604964-9c3a-483e-abf2-1b5cba495081.md) |
+>| User.Read | 위임 | userId- 로그인한 사용자를 이해하는 데 사용됩니다. | [b9604964-9c3a-483e-abf2-1b5cba495081](../azure/b9604964-9c3a-483e-abf2-1b5cba495081.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 
