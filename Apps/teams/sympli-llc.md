@@ -2,18 +2,19 @@
 title: Sympli, LLC의 Sympli에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 03/18/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Sympli, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: Sympli, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 6cc7ec4b892939c4a1f6ca8c55a3a01c4dc9bc85
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: f983d7b3c48a24e35bd48f175132aa98d535a374
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428705"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752919"
 ---
 # <a name="sympli"></a>Sympli
 
@@ -37,7 +38,7 @@ Sympli, LLC가 Microsoft에 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Sympli, LLC |
 | 파트너 웹 사이트의 URL | [https://sympli.io](https://sympli.io) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://help.sympli.io/en/articles/3931575-using-microsoft-...](https://help.sympli.io/en/articles/3931575-using-microsoft-teams-with-sympli-handoff) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://help.sympli.io/en/articles/3931575-using-microsoft-...](https://help.sympli.io/en/articles/3931575-using-microsoft-teams-with-sympli-handoff) |
 | 개인 정보 취급 방침의 URL | [https://sympli.io/policy](https://sympli.io/policy) |
 | 사용 약관 URL | [https://sympli.io/agreement](https://sympli.io/agreement) |
 
@@ -51,7 +52,7 @@ Sympli, LLC가 Microsoft에 제공하는 정보:
 
 이 정보는 Sympli, LLC에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 가지는 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
@@ -72,7 +73,7 @@ Sympli, LLC가 Microsoft에 제공하는 정보:
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 사용자의 지정 이름은 대화 UX의 강화에 사용됩니다. | 아니요 |  |
+>| 사용자의 지정 이름은 대화 UX의 강화에 사용됩니다. | 아니오 |  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -85,7 +86,7 @@ Sympli, LLC가 Microsoft에 제공하는 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->해당 서비스의 정책(예: , ) 을 사용 https://www.intercom.com/legal/privacy https://legal.hubspot.com/privacy-policy 합니다. https://stripe.com/privacy
+>해당 서비스의 정책(예: , ) https://legal.hubspot.com/privacy-policy을 사용 합니다https://www.intercom.com/legal/privacy.https://stripe.com/privacy
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 

@@ -2,18 +2,19 @@
 title: Zoho Corporation Private Limited의 Zoho 전자 필기장에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 05/29/2020
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Zoho 전자 필기장, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1fe5d35e610c11cf9908aa5bc012db0d1039c975
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: eda8e16d8113aac83535faa9692d3eb3e4b59aee
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60444955"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753248"
 ---
 # <a name="zoho-notebook"></a>Zoho Notebook
 
@@ -50,7 +51,7 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 
 이 정보는 Zoho Corporation Private Limited에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터에 대해 조직이 제어할 수 있는 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
@@ -86,7 +87,7 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요
+>아니오
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

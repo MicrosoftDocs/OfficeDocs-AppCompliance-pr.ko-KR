@@ -2,18 +2,19 @@
 title: 작업보드의 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: CSA STAR 레지스트리의 Workboard, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: CSA STAR 레지스트리의 Workboard, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7b795de57f2acf2b75cc63699d7ae4c14510dadd
-ms.sourcegitcommit: a613e40971c8b48fa2b7a35039b4331a8116763b
+ms.openlocfilehash: afedc6e44e38273b1b48b8bfccf2fe91ec4e17f3
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53527524"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753748"
 ---
 # <a name="workboard"></a>Workboard
 
@@ -36,7 +37,7 @@ Workboard에서 Microsoft에 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Workboard |
 | 파트너 웹 사이트의 URL | [https://www.workboard.com](https://www.workboard.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.workboard.com/microsoft/](https://www.workboard.com/microsoft/) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://www.workboard.com/microsoft/](https://www.workboard.com/microsoft/) |
 | 개인 정보 취급 방침의 URL | [https://www.workboard.com/license/privacy-policy.html](https://www.workboard.com/license/privacy-policy.html) |
 | 사용 약관 URL | [https://www.workboard.com/license/terms_of_use_v1.php](https://www.workboard.com/license/terms_of_use_v1.php) |
 
@@ -50,7 +51,7 @@ Workboard에서 Microsoft에 제공하는 정보:
 
 이 정보는 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 Workboard에서 제공했습니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
@@ -118,17 +119,17 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니오 |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
 | 지원되는 정책 유형 나열 | WorkBoard는 앱 내에 적용된 자체 액세스 정책을 구현했습니다.  사용자의 조직, 팀 및 ID는 액세스 권한을 결정하는 데 사용됩니다. |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 아니요 |
+| 앱에 기밀 클라이언트가 있나요? | 아니오 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱에서 웹 API를 노출하나요? | 예 |
 | 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니오 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

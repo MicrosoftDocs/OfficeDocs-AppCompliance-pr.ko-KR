@@ -2,18 +2,19 @@
 title: LogMeIn Inc.의 GoToConnect에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: GoToConnect에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 7be440517f70ed5375cdf1b41a4394aea325df35
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: c54655da774fa1a7c1d68f61caaed7bdbfbb80cb
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60434647"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752264"
 ---
 # <a name="gotoconnect"></a>GoToConnect
 
@@ -37,7 +38,7 @@ LogMeIn Inc.에서 Microsoft에 제공한 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | LogMeIn Inc. |
 | 파트너 웹 사이트의 URL | [https://logmein.com](https://logmein.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.goto.com/integrations/microsoft-teams/gotoconne...](https://www.goto.com/integrations/microsoft-teams/gotoconnect) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://www.goto.com/integrations/microsoft-teams/gotoconne...](https://www.goto.com/integrations/microsoft-teams/gotoconnect) |
 | 개인 정보 취급 방침의 URL | [https://www.logmeininc.com/legal/privacy](https://www.logmeininc.com/legal/privacy) |
 | 사용 약관 URL | [https://www.logmeininc.com/legal/terms-and-conditions](https://www.logmeininc.com/legal/terms-and-conditions) |
 
@@ -51,7 +52,7 @@ LogMeIn Inc.에서 Microsoft에 제공한 정보:
 
 이 정보는 LogMeIn Inc.에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터에 대해 조직이 제어할 수 있는 컨트롤에 의해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
@@ -87,7 +88,7 @@ LogMeIn Inc.에서 Microsoft에 제공한 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요
+>아니오
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

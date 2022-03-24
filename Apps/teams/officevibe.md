@@ -2,18 +2,19 @@
 title: Officevibe의 Officevibe에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Officevibe에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c347c1de602d889829ac22aaad650871959be6be
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: c96f4bc23b5f1201567276c64de7ff411746c105
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60430790"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753728"
 ---
 # <a name="officevibe"></a>Officevibe
 
@@ -37,7 +38,7 @@ Officevibe에서 Microsoft에 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Officevibe |
 | 파트너 웹 사이트의 URL | [https://officevibe.com](https://officevibe.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://officevibe-portal.zendesk.com/hc/en-us/articles/360...](https://officevibe-portal.zendesk.com/hc/en-us/articles/360048865311-Officevibe-Communications-via-Microsoft-Teams-Coming-soon-) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://officevibe-portal.zendesk.com/hc/en-us/articles/360...](https://officevibe-portal.zendesk.com/hc/en-us/articles/360048865311-Officevibe-Communications-via-Microsoft-Teams-Coming-soon-) |
 | 개인 정보 취급 방침의 URL | [https://officevibe.com/privacy](https://officevibe.com/privacy) |
 | 사용 약관 URL | [https://officevibe.com/terms](https://officevibe.com/terms) |
 
@@ -51,17 +52,17 @@ Officevibe에서 Microsoft에 제공하는 정보:
 
 이 정보는 Officevibe에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 조직에서 수집하는 데이터를 통해 조직이 제공하는 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| Group.Read.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| TeamsAppInstallation.ReadWriteForUser | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| User.Read | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
->| User.Read.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](https://docs.microsoft.com/microsoft-365-app-certification/azure/3e500164-df82-4d1e-9db8-0901e07d374d ) |
+>| Directory.AccessAsUser.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| Group.Read.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| TeamsAppInstallation.ReadWriteForUser | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| User.Read | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| User.Read.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스

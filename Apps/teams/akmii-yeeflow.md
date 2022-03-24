@@ -2,18 +2,19 @@
 title: Akmii의 Yeeflow에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 01/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Yeeflow, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 08292f647bad35e7fd87b0627aea3df21f271c34
-ms.sourcegitcommit: edd55f34c004f0b5c7e4418b92b8ba325b8ab336
+ms.openlocfilehash: 5b80f4cd79d8773af8ff035d054959108db5bdb4
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62318685"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753790"
 ---
 # <a name="yeeflow"></a>Yeeflow
 
@@ -37,7 +38,7 @@ Akmii가 Microsoft에 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Akmii |
 | 파트너 웹 사이트의 URL | [https://www.akmii.com](https://www.akmii.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.yeeflow.com](https://www.yeeflow.com) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://www.yeeflow.com](https://www.yeeflow.com) |
 | 개인 정보 취급 방침의 URL | [https://www.yeeflow.com/privacy](https://www.yeeflow.com/privacy) |
 | 사용 약관 URL | [https://www.yeeflow.com/terms](https://www.yeeflow.com/terms) |
 
@@ -51,7 +52,7 @@ Akmii가 Microsoft에 제공하는 정보:
 
 이 정보는 Akmii에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 사용할 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
@@ -120,7 +121,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/><br/> |
 | 앱에서 웹 API를 노출하나요? | 예 |
 | 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니오 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]

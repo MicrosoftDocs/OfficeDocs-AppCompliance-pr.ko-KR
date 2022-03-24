@@ -2,18 +2,19 @@
 title: Zoho Corporation Private Limited의 Site24x7에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/30/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Site24x7에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: fbc53d0d7efbe32bc2f61b26507713566206232c
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 56af9bdf29f9c23a2c10f665e6f96e7bdf511f4b
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60434387"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752753"
 ---
 # <a name="site24x7"></a>Site24x7
 
@@ -37,7 +38,7 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Zoho Corporation Private Limited |
 | 파트너 웹 사이트의 URL | [https://www.site24x7.com/features.html](https://www.site24x7.com/features.html) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.site24x7.com/help/admin/third-party-integration...](https://www.site24x7.com/help/admin/third-party-integration/microsoft-teams.html) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://www.site24x7.com/help/admin/third-party-integration...](https://www.site24x7.com/help/admin/third-party-integration/microsoft-teams.html) |
 | 개인 정보 취급 방침의 URL | [https://www.site24x7.com/privacypolicy.html](https://www.site24x7.com/privacypolicy.html) |
 | 사용 약관 URL | [https://www.site24x7.com/terms.html](https://www.site24x7.com/terms.html) |
 
@@ -51,7 +52,7 @@ Microsoft에 대한 Zoho Corporation Private Limited에서 제공하는 정보:
 
 이 정보는 Zoho Corporation Private Limited에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터에 대해 조직이 제어할 수 있는 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 

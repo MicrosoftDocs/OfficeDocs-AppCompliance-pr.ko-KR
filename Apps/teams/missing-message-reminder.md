@@ -2,20 +2,21 @@
 title: 응용 프로그램- &#1054;&#1054;&#1054; &#1040;&#1081; 미리 알림에 대한 &#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/07/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 메시지 미리 알림, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: c367d46abd5f0e5ac3f4e3e12d59e28e507a9e60
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+description: CSA STAR 레지스트리의 메시지 미리 알림, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: c95ef8bab0d735eb35c89ed1e910428407d1d5eb
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404660"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753538"
 ---
-# <a name="message-reminder"></a>메시지 미리 알림
+# <a name="message-reminder"></a>Message Reminder
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -28,16 +29,16 @@ ms.locfileid: "58404660"
 
 ### <a name="general-information"></a>일반 정보
 
-Microsoft에 &#1054;&#1054;&#1054; &#1040;&#1081; &#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; 정보:
+Microsoft에 &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 메시지 미리 알림 |
+| 앱 이름 | Message Reminder |
 | ID | WA200001875 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; |
 | 파트너 웹 사이트의 URL | [https://systemz.io](https://systemz.io) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://systemz.io/product/message-reminder](https://systemz.io/product/message-reminder) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://systemz.io/product/message-reminder](https://systemz.io/product/message-reminder) |
 | 개인 정보 취급 방침의 URL | [https://systemz.io/files/MESSAGE-REMINDER-APP-FOR-TEAMS-PRI...](https://systemz.io/files/MESSAGE-REMINDER-APP-FOR-TEAMS-PRIVACY-STATEMENT.pdf) |
 | 사용 약관 URL | [https://systemz.io/files/EULA-Message-Reminder-EN.pdf](https://systemz.io/files/EULA-Message-Reminder-EN.pdf) |
 
@@ -49,9 +50,9 @@ Microsoft에 &#1054;&#1054;&#1054; &#1040;&#1081; &#1057;&#1080;&#1089; &#1051;&
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 &#1054;&#1054;&#1054; &#1040;&#1081; &#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; 수집 및 저장하는 방법과 앱이 수집하는 데이터에 대해 조직이 제어할 수 있는 컨트롤에 대한 정보를 제공합니다.
+이 정보는 &#1054;&#1054;&#1054; &#1040;&#1081; &#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; 수집 및 저장하는 방법과 앱이 수집하는 데이터에 대해 조직에서 제공하는 컨트롤에 대해 제공합니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 

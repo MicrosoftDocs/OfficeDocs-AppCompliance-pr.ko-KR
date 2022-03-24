@@ -2,18 +2,19 @@
 title: ConsenSys AG의 Sobol에 대한 응용&#8217;Sobol
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Sobol에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 54da5a152d84b23d80568f21bf4a283361ea9da5
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 52989c74fb4de620204b7066d5b9f01f0e6f8678
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58405000"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63752970"
 ---
 # <a name="sobol"></a>Sobol
 
@@ -28,7 +29,7 @@ ms.locfileid: "58405000"
 
 ### <a name="general-information"></a>일반 정보
 
-ConsenSys AG에서 Microsoft에&#8217;정보:
+ConsenSys AG에서 제공하는&#8217;S Sobol을 Microsoft에 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
@@ -37,7 +38,7 @@ ConsenSys AG에서 Microsoft에&#8217;정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | ConsenSys AG&#8217;s Sobol |
 | 파트너 웹 사이트의 URL | [https://sobol.io](https://sobol.io) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://sobol.io/features](https://sobol.io/features) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://sobol.io/features](https://sobol.io/features) |
 | 개인 정보 취급 방침의 URL | [https://sobol.io/privacy-policy](https://sobol.io/privacy-policy) |
 | 사용 약관 URL | [https://sobol.io/terms-of-service/](https://sobol.io/terms-of-service/) |
 
@@ -49,9 +50,9 @@ ConsenSys AG에서 Microsoft에&#8217;정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 ConsenSys AG에서&#8217;앱이 조직 데이터를 수집하고 저장하는 방법과 조직에서 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대한 정보를 제공합니다.
+이 정보는 ConsenSys AG가&#8217;조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 제어에 대한 Sobol을 통해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
@@ -111,7 +112,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 ConsenSys AG&#8217;인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대한 Sobol을 통해 제공됩니다.
+이 정보는 ConsenSys AG가&#8217;, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 Sobol에서 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|

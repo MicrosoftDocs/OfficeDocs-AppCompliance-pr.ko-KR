@@ -2,18 +2,19 @@
 title: KBE를 통해 researcHR에 대한 응용 프로그램&#26666;&#24335;&#20250;&#31038;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 08/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: researcHR에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: b57d492945766c8d65417cf2f1d642ea4ecb8aae
-ms.sourcegitcommit: 64333f4e583bacd85f1b47af6e1eaee266658924
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 5def12e783d15c3cbcaf02ec128301dd9f75bd01
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58422735"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753786"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -37,7 +38,7 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | KBE&#26666;&#24335;&#20250;&#31038; |
 | 파트너 웹 사이트의 URL | [https://app.researchr.work/corporate](https://app.researchr.work/corporate) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://app.researchr.work](https://app.researchr.work) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://app.researchr.work](https://app.researchr.work) |
 | 개인 정보 취급 방침의 URL | [https://researchr.work/privacypolicy](https://researchr.work/privacypolicy) |
 | 사용 약관 URL | [https://app.researchr.work/tos](https://app.researchr.work/tos) |
 
@@ -49,21 +50,21 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 KBE에서&#26666;&#24335;&#20250;&#31038; 조직 데이터를 수집 및 저장하는 방법과 앱이 수집하는 데이터에 대해 조직이 제어할 수 있는 컨트롤에 대해 제공합니다.
+이 정보는 KBE에서&#26666;&#24335;&#20250;&#31038; 조직 데이터를 수집하고 저장하는 방법과 앱이 수집하는 데이터에 대해 조직에서 제어할 수 있는 컨트롤에 대해 제공합니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Channel.Create | application | 이 범위를 사용하여 봇이 클라이언트에서 새 채널을 만들 수 Teams 있습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-post | 이러한 데이터는 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Directory.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-list | 이러한 데이터는 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Group.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-list | 이러한 데이터는 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| Team.ReadBasic.All | application | 사용자가 웹 사이트에서 팀 구성원을 볼 수 있도록 이 범위를 사용하여 팀의 구성원을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/group-list-members | 이러한 데이터는 아웃 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.Read.All | application | 사용자가 웹 사이트에서 참가한 팀을 볼 수 있도록 이 범위를 사용하여 사용자의 참가 채널을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | 이러한 데이터는 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| User.ReadBasic.All | 위임 | 이 범위를 사용하여 OAuth 로그인을 사용하도록 설정하고 사용자의 AAD ID, 액세스 토큰 및 새로 고침 토큰을 수집합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/auth-v2-user | 사용자가 OAuth를 사용하여 웹 사이트에 로그인할 수 있도록 사용자의 AAD ID, 액세스 토큰 및 새로 고침 토큰을 데이터베이스에 저장합니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
->| offline_access | 위임 | 사용자 상호 작용 없이도 권한이 부여된 사용자의 액세스 토큰을 새로 고칠 수 있도록 이 범위를 사용하여 새로 고침 토큰을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | 사용자 조작 없이 액세스 토큰을 새로 고칠 수 있도록 데이터베이스에 새로 고침 토큰을 저장합니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](https://docs.microsoft.com/microsoft-365-app-certification/azure/82df726e-0de2-46af-b4f1-0645fd95fc97) |
+>| Channel.Create | application | 이 범위를 사용하여 봇이 Teams 채널을 만들 수 있습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/api/channel-post | 이러한 데이터는 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Directory.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/api/channel-list | 이러한 데이터는 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Group.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/api/channel-list | 이러한 데이터는 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Team.ReadBasic.All | application | 사용자가 웹 사이트에서 팀 구성원을 볼 수 있도록 이 범위를 사용하여 팀의 구성원을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/api/group-list-members | 이러한 데이터는 아웃 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.Read.All | application | 사용자가 웹 사이트에서 참가한 팀을 볼 수 있도록 이 범위를 사용하여 사용자의 참가 채널을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/api/user-list-joinedteams | 이러한 데이터는 데이터베이스에 저장하지 않습니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.ReadBasic.All | 위임 | 이 범위를 사용하여 OAuth 로그인을 사용하도록 설정하고 사용자의 AAD, 액세스 토큰 및 새로 고침 토큰을 수집합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/auth-v2-user | 사용자가 OAuth를 사용하여 웹 사이트에 로그인할 수 있도록 사용자의 AAD ID, 액세스 토큰 및 새로 고침 토큰을 데이터베이스에 저장합니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97]. /azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| offline_access | 위임 | 사용자 상호 작용 없이도 권한이 부여된 사용자의 액세스 토큰을 새로 고칠 수 있도록 이 범위를 사용하여 새로 고침 토큰을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#offline_access | 사용자 조작 없이 액세스 토큰을 새로 고칠 수 있도록 데이터베이스에 새로 고침 토큰을 저장합니다. | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -95,7 +96,7 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니오
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -117,7 +118,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 KBE에서&#26666;&#24335;&#20250;&#31038; 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대해 제공합니다.
+이 정보는 KBE에서&#26666;&#24335;&#20250;&#31038; 인증, 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 기준을 처리하는 방법에 대해 제공합니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|

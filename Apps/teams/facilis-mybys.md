@@ -2,18 +2,19 @@
 title: Facilis의 Mybys에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Mybys에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2e8d8adc26700cf71f5d3fa74c7890dda8176cad
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: 53f9516f71f4fe65c9adf47bb4cb51246626c01e
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60428100"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753286"
 ---
 # <a name="mybys"></a>Mybys
 
@@ -37,7 +38,7 @@ Facilis가 Microsoft에 제공하는 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Facilis |
 | 파트너 웹 사이트의 URL | [https://facilisglobal.com](https://facilisglobal.com) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://facilisglobal.com/products/microsoft-teams](https://facilisglobal.com/products/microsoft-teams) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://facilisglobal.com/products/microsoft-teams](https://facilisglobal.com/products/microsoft-teams) |
 | 개인 정보 취급 방침의 URL | [https://facilisglobal.com/privacy-policy](https://facilisglobal.com/privacy-policy) |
 | 사용 약관 URL | [https://facilisglobal.com/terms-conditions](https://facilisglobal.com/terms-conditions) |
 
@@ -51,7 +52,7 @@ Facilis가 Microsoft에 제공하는 정보:
 
 이 정보는 Facilis에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 Facilis에서 제공했습니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
@@ -70,7 +71,7 @@ Facilis가 Microsoft에 제공하는 정보:
 
 >| **EUII 액세스의 사유는 무엇입니까?**  | **EUII가 데이터베이스에 저장되어 있나요?** | **EUII 저장의 사유는 무엇입니까?** |
 >|:---------------------------------------|:-----------------------------------|:------------------------------------|
->| 사용자의 이름을 검색해야 합니다. | 아니요 |  |
+>| 사용자의 이름을 검색해야 합니다. | 아니오 |  |
 
 
 #### <a name="telemetry-data"></a>원격 분석 데이터
@@ -89,7 +90,7 @@ Facilis가 Microsoft에 제공하는 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니요
+>아니오
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

@@ -2,18 +2,19 @@
 title: 'Kronos의 응용 프로그램 정보: Kronos, Inc.'
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 12/16/2019
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Kronos, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 3a20e3a40ce61d6610b6f36e4c2943da1e9293d2
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 29bf43294bf500a1698a6527cd6b9b83cd4dab41
+ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288125"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63753243"
 ---
 # <a name="kronos"></a>Kronos
 
@@ -37,7 +38,7 @@ Kronos, Inc.에서 Microsoft에 제공한 정보:
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Kronos, Inc. |
 | 파트너 웹 사이트의 URL | [https://www.kronos.com/](https://www.kronos.com/) |
-| 응용 프로그램 Teams 페이지의 URL입니다. | [https://www.kronos.com/contact/en-us/form](https://www.kronos.com/contact/en-us/form) |
+| 응용 Teams 정보 페이지의 URL입니다. | [https://www.kronos.com/contact/en-us/form](https://www.kronos.com/contact/en-us/form) |
 | 개인 정보 취급 방침의 URL | [https://www.kronos.com/privacy-policy](https://www.kronos.com/privacy-policy) |
 | 사용 약관 URL | [https://www.kronos.com/terms-of-use](https://www.kronos.com/terms-of-use) |
 
@@ -51,7 +52,7 @@ Kronos, Inc.에서 Microsoft에 제공한 정보:
 
 이 정보는 Kronos, Inc.에서 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직에서 사용할 컨트롤에 대해 제공합니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
 이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
 
@@ -75,7 +76,7 @@ Kronos, Inc.에서 Microsoft에 제공한 정보:
 
 이 응용 프로그램의 원격 분석 또는 로그에 OII(조직 식별 정보) 또는 EUII(최종 사용자 식별 정보)가 나타나나요? 그렇다면 저장되는 데이터와 보존 및 제거 정책에 대해 설명하세요.
 
->이 정보는 테넌트 관리 시스템에만 저장됩니다Teams
+>이는 테넌트 관리 시스템에만 저장됩니다Teams
 
 #### <a name="organizational-controls-for-data-stored-by-partner"></a>파트너가 저장한 데이터에 대한 조직 제어
 
