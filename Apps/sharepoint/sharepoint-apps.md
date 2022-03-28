@@ -3,17 +3,17 @@ title: Microsoft SharePoint 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/17/2022
+ms.date: 03/23/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft SharePoint 규정 준수 정보
 localization_priority: Normal
-ms.openlocfilehash: 66433eb54bf05965fb4a762a84f64d666d8c423a
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 887651563cf6fdb420768a623ce9618b9c7b8c78
+ms.sourcegitcommit: 7c03de919310456c10f7cc3685f83d40cac504de
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63540074"
+ms.lasthandoff: 03/24/2022
+ms.locfileid: "63778282"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 앱 보안 및 규정 준수
 
@@ -36,6 +36,8 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [번개 도구 번개 도우미](./lightning-tools-conductor.md) | 번개 도구 | **✓** |  |
 | [officeatwork - 사용자용 템플릿 SharePoint](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Power BI 공동 작업](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
+| [SharePoint-sapiens 직원 교육 관리](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
+| [SharePoint-sapiens 이벤트 관리](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
 | [스마트 이벤트 예약](./smarter-business-solutions-gmbh-event-booking.md) | 스마트 비즈니스 솔루션 GmbH | **✓** |  |
 | [공유 제곱 토론 포럼](./lightning-tools-social-squared-discussion-forums.md) | 번개 도구 | **✓** |  |
 | [분류](./accuracy-software-inc-taxonomy.md) | Accuracy Software Inc. | **✓** |  |

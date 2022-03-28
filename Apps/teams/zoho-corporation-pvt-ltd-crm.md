@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Zoho CRM, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas
-ms.openlocfilehash: 1543739d4c304a4527c878d6214c06a1426314b3
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: cf56e9462093336c45902e3c368b4d8498f7a499
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753621"
+ms.locfileid: "63773449"
 ---
 # <a name="zoho-crm"></a>Zoho CRM
 
@@ -54,19 +54,19 @@ Zoho Corporation Pvt Ltd에서 Microsoft에 제공한 정보:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Calendars.ReadWrite | 위임 | 일정 폴더 ID는 Zoho CRM의 연락처를 Microsoft &amp; 와 동기화하기 위해 저장됩니다. 저장되는 event_name, event_location participant_details 정보입니다. | 사용자가 Office365 이벤트를 Zoho CRM과 동기화할 수 있습니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| Contacts.ReadWrite | 위임 | 연락처 폴더 ID는 Zoho CRM의 연락처를 Microsoft &amp; 와 동기화하기 위해 저장됩니다. 연락처 정보(first_name, last_name, 전자 메일 주소가 저장됩니다. | 사용자가 Office365 연락처를 Zoho CRM과 동기화할 수 있습니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| Files.Read | 위임 |  | 사용자가 Office365 파일을 Zoho CRM으로 가져올 수 있도록 허용합니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| Files.Read.All | 위임 |  | 사용자가 Office365 파일을 Zoho CRM으로 가져올 수 있도록 허용합니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| Files.Read.Selected | 위임 | UserPrincipalName은 사용자 식별을 위해 저장됩니다. | 사용자가 Office365 파일을 Zoho CRM으로 가져올 수 있도록 허용합니다. | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| User.ReadBasic.All | 위임 | 사용자 속성(first_name, last_name, 전자 메일 주소) | 모든 사용자의 기본 프로필 읽기 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| 전자 메일 | 위임 | UserPrincipaName은 사용자 입력을 위해 저장됩니다. | 사용자의 전자 메일 주소 보기 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| offline_access | 위임 |  | 액세스 권한이 부여된 데이터에 대한 액세스 권한 유지 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
->| 프로필 | 위임 |  | 사용자의 기본 프로필 보기 | [f6d7187a-b437-4eca-bbc5-c1331609fe07](../azure/f6d7187a-b437-4eca-bbc5-c1331609fe07.md) |
+>| Calendars.ReadWrite | 위임 | 일정 폴더 ID는 Zoho CRM의 연락처를 Microsoft &amp; 와 동기화하기 위해 저장됩니다. 저장되는 event_name, event_location participant_details 정보입니다. | 사용자가 Office365 이벤트를 Zoho CRM과 동기화할 수 있습니다. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Contacts.ReadWrite | 위임 | 연락처 폴더 ID는 Zoho CRM의 연락처를 Microsoft &amp; 와 동기화하기 위해 저장됩니다. 연락처 정보(first_name, last_name, 전자 메일 주소가 저장됩니다. | 사용자가 Office365 연락처를 Zoho CRM과 동기화할 수 있습니다. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read | 위임 |  | 사용자가 Office365 파일을 Zoho CRM으로 가져올 수 있도록 허용합니다. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read.All | 위임 |  | 사용자가 Office365 파일을 Zoho CRM으로 가져올 수 있도록 허용합니다. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| Files.Read.Selected | 위임 | UserPrincipalName은 사용자 식별을 위해 저장됩니다. | 사용자가 Office365 파일을 Zoho CRM으로 가져올 수 있도록 허용합니다. | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| User.ReadBasic.All | 위임 | 사용자 속성(first_name, last_name, 전자 메일 주소) | 모든 사용자의 기본 프로필 읽기 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| 전자 메일 | 위임 | UserPrincipaName은 사용자 입력을 위해 저장됩니다. | 사용자의 전자 메일 주소 보기 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| offline_access | 위임 |  | 액세스 권한이 부여된 데이터에 대한 액세스 권한 유지 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
+>| 프로필 | 위임 |  | 사용자의 기본 프로필 보기 | f6d7187a-b437-4eca-bbc5-c1331609fe07 |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -103,7 +103,7 @@ Zoho Corporation Pvt Ltd에서 Microsoft에 제공한 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/22307" target="_blank">새 탭에서 보기</a>
 

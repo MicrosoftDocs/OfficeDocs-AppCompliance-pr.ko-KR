@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: PandaDoc, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7cfd701c52bfc076fb1352bac439479426bc8475
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 32e31e9939444901b3c5cf44ac512d1958c13cd2
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63549676"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64458251"
 ---
 # <a name="pandadoc"></a>PandaDoc
 
@@ -169,8 +169,8 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 >| Files.Read | 둘 다 | Tab의 sso 사용자(예 : https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Microsoft 365에 대한 액세스 권한이 있는 사용자 토큰을 Graph 파일을 확보하는 데 필요했습니다. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Files.Read.All | 둘 다 | Tab의 sso 사용자(예 : https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Microsoft 365에 대한 액세스 권한이 있는 사용자 토큰을 Graph 파일을 확보하는 데 필요했습니다. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Files.Read.Selected | 둘 다 | Tab의 sso 사용자(예 : https://github.com/OfficeDev/msteams-tabs-sso-sample-nodejs). Microsoft 365에 대한 액세스 권한이 있는 사용자 토큰을 Graph 파일을 확보하는 데 필요했습니다. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
->| Group.Read.All | 둘 다 | 이전에 수신한 각 명령에 대한 채널의 목록 ID를 다운로드하고 각 채널에 대한 파일 드라이브 ID를 얻습니다. 설명서 - https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
->| Group.ReadWrite.All | 둘 다 | 이전에 수신한 각 명령에 대한 채널의 목록 ID를 다운로드하고 각 채널에 대한 파일 드라이브 ID를 얻습니다. 설명서 - https://docs.microsoft.com/en-us/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.Read.All | 둘 다 | 이전에 수신한 각 명령에 대한 채널의 목록 ID를 다운로드하고 각 채널에 대한 파일 드라이브 ID를 얻습니다. 설명서 - https://docs.microsoft.com/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
+>| Group.ReadWrite.All | 둘 다 | 이전에 수신한 각 명령에 대한 채널의 목록 ID를 다운로드하고 각 채널에 대한 파일 드라이브 ID를 얻습니다. 설명서 - https://docs.microsoft.com/graph/api/channel-list?view=graph-rest-1.0&amp;tabs=http | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| Team.ReadBasic.All | 둘 다 | 사용자가 직접 구성원으로 Microsoft Teams ID를 얻습니다. 그런 다음 각 명령 식별자에 대한 채널을 수신합니다. 파일 자격 증명 모음 ID를 얻습니다. 먼저 사용자가 입력한 팀의 목록을 다운로드해야 합니다. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| TeamSettings.Read.All | 둘 다 | 사용자가 직접 구성원으로 Microsoft Teams 팀의 ID를 얻습니다. 그런 다음 각 명령 식별자에 대한 채널을 수신합니다. 파일 자격 증명 모음 ID를 얻습니다. 먼저 사용자가 입력한 팀의 목록을 다운로드해야 합니다. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |
 >| TeamSettings.ReadWrite.All | 둘 다 | 또는 사용자가 직접 구성원인 Microsoft Teams 팀의 ID를 얻습니다. 그런 다음 각 명령 식별자에 대한 채널을 수신합니다. 파일 자격 증명 모음 ID를 얻습니다. 먼저 사용자가 입력한 팀의 목록을 다운로드해야 합니다. | [f2d4eec7-3d3f-46b1-a094-9f7c733d260b](../azure/f2d4eec7-3d3f-46b1-a094-9f7c733d260b.md) |

@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Reach에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c58462500079df7f7b8b2736eec9289443df4a4c
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: 59022602a3102344dd130a1d6782464d9fa836ef
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753739"
+ms.locfileid: "63773659"
 ---
 # <a name="reach"></a>Reach
 
@@ -54,15 +54,15 @@ LiveTiles에서 Microsoft에 제공하는 정보:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| TeamsActivity.Send | application | 없음 | 없음 | [a7c1920d-3ac0-42db-9757-078a2b321fd8 ](../azure/a7c1920d-3ac0-42db-9757-078a2b321fd8.md ) |
->| User.Read | 위임 | User DisplayName, User Email Address, UPN. 사용자가 앱에 로그인하고 로그인한 사용자의 기본 정보(예: 표시 이름)를 받을 수 있도록 허용하는 데 필요합니다. 전자 메일 주소는 전자 메일 알림을 보내는 데 사용됩니다.  | User DisplayName, User Email Address, UPN. 사용자가 앱에 로그인하고 로그인한 사용자의 기본 정보(예: 표시 이름)를 받을 수 있도록 허용하는 데 필요합니다. 전자 메일 주소는 전자 메일 알림을 보내는 데 사용됩니다.  | [d492530a-8cff-481c-90da-9c3c3f1be7da](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md) |
->| User.ReadBasic.All | 위임 | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile 전화 Number, User Business 전화 Number, User Office Location. 사용자가 앱(Phonebook) 내에서 다른 사용자를 검색하고 다른 사용자의 기본 프로필 및 연락처 정보를 볼 수 있도록 하는 데 필요합니다.  | 없음 | [d492530a-8cff-481c-90da-9c3c3f1be7da](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md) |
->| Directory.Read.All | application | 그룹 구성원 자격, 디렉터리의 AD 그룹. 사용자의 그룹 구성원 자격은 Microsoft 365 API에 대한 호출을 최소화하기 위해 Graph 저장됩니다. 사용자가 Active Directory 그룹을 검색할 수 있도록 하는 데 필요합니다. 또한 응용 프로그램에서 백end의 웹 작업에서 사용자의 AD 그룹 구성원 자격을 확인하려면 이 권한이 필요합니다. | 사용자의 그룹 구성원 자격입니다. 사용자의 그룹 구성원 자격은 Microsoft 365 API에 대한 호출을 최소화하기 위해 Graph 저장됩니다. 사용자가 Active Directory 그룹을 검색할 수 있도록 하는 데 필요합니다. 또한 응용 프로그램에서 백end의 웹 작업에서 사용자의 AD 그룹 구성원 자격을 확인하려면 이 권한이 필요합니다.  | [d492530a-8cff-481c-90da-9c3c3f1be7da ](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md ) |
->| User.Read.All | application | 사용자 프로필에서 검색되는 데이터는 앱 내에 지정된 대상 지정 기능 구성에 따라 다릅니다. 앱에서 로그인한 사용자 없이 사용자 프로필을 읽을 수 있도록 허용하는 데 필요합니다. 특정 프로필 속성 값에 따라 정보를 특정 사용자에게 표시하려면 응용 프로그램 내의 정보 대상 지정 기능에 프로필 데이터를 읽어야 합니다.  | 없음 | [d492530a-8cff-481c-90da-9c3c3f1be7da ](../azure/d492530a-8cff-481c-90da-9c3c3f1be7da.md ) |
+>| TeamsActivity.Send | application | 없음 | 없음 | a7c1920d-3ac0-42db-9757-078a2b321fd8 |
+>| User.Read | 위임 | User DisplayName, User Email Address, UPN. 사용자가 앱에 로그인하고 로그인한 사용자의 기본 정보(예: 표시 이름)를 받을 수 있도록 허용하는 데 필요합니다. 전자 메일 주소는 전자 메일 알림을 보내는 데 사용됩니다.  | User DisplayName, User Email Address, UPN. 사용자가 앱에 로그인하고 로그인한 사용자의 기본 정보(예: 표시 이름)를 받을 수 있도록 허용하는 데 필요합니다. 전자 메일 주소는 전자 메일 알림을 보내는 데 사용됩니다.  | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| User.ReadBasic.All | 위임 | User DisplayName, User Email Address, UPN, User Department, User Job Title, User Mobile 전화 Number, User Business 전화 Number, User Office Location. 사용자가 앱(Phonebook) 내에서 다른 사용자를 검색하고 다른 사용자의 기본 프로필 및 연락처 정보를 볼 수 있도록 하는 데 필요합니다.  | 없음 | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| Directory.Read.All | application | 그룹 구성원 자격, 디렉터리의 AD 그룹. 사용자의 그룹 구성원 자격은 Microsoft 365 API에 대한 호출을 최소화하기 위해 Graph 저장됩니다. 사용자가 Active Directory 그룹을 검색할 수 있도록 하는 데 필요합니다. 또한 응용 프로그램에서 백end의 웹 작업에서 사용자의 AD 그룹 구성원 자격을 확인하려면 이 권한이 필요합니다. | 사용자의 그룹 구성원 자격입니다. 사용자의 그룹 구성원 자격은 Microsoft 365 API에 대한 호출을 최소화하기 위해 Graph 저장됩니다. 사용자가 Active Directory 그룹을 검색할 수 있도록 하는 데 필요합니다. 또한 응용 프로그램에서 백end의 웹 작업에서 사용자의 AD 그룹 구성원 자격을 확인하려면 이 권한이 필요합니다.  | d492530a-8cff-481c-90da-9c3c3f1be7da |
+>| User.Read.All | application | 사용자 프로필에서 검색되는 데이터는 앱 내에 지정된 대상 지정 기능 구성에 따라 다릅니다. 앱에서 로그인한 사용자 없이 사용자 프로필을 읽을 수 있도록 허용하는 데 필요합니다. 특정 프로필 속성 값에 따라 정보를 특정 사용자에게 표시하려면 응용 프로그램 내의 정보 대상 지정 기능에 프로필 데이터를 읽어야 합니다.  | 없음 | d492530a-8cff-481c-90da-9c3c3f1be7da |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -96,7 +96,7 @@ LiveTiles에서 Microsoft에 제공하는 정보:
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니오
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -106,7 +106,7 @@ LiveTiles에서 Microsoft에 제공하는 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36551" target="_blank">새 탭에서 보기</a>
 
@@ -123,14 +123,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | **정보** | **응답** |
 |:----------------|:-------------|
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 아니오 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 아니요 |
 | 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 예 |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
 | 지원되는 정책 유형 나열 | 다단계 인증, 사용자 위치 및 IP 범위 제한 |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
-| 앱에 기밀 클라이언트가 있나요? | 아니오 |
+| 앱에 기밀 클라이언트가 있나요? | 아니요 |
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱의 경우 어떻게 사용하지 않도록 해야 하나요? | - 와일드카드 리디렉션 URIS,<br/>- OAuth2 암시적 Flow SPA에 필요하지 않은 경우<br/>- 리소스 소유자 암호 자격 증명(ROPC) 흐름 |
 | 앱에서 웹 API를 노출하나요? | 예 |

@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Officevibe에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: c96f4bc23b5f1201567276c64de7ff411746c105
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: fffda2392deb49081516387a0987d9ff711f327d
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753728"
+ms.locfileid: "63773509"
 ---
 # <a name="officevibe"></a>Officevibe
 
@@ -54,15 +54,15 @@ Officevibe에서 Microsoft에 제공하는 정보:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| Directory.AccessAsUser.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| Group.Read.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| TeamsAppInstallation.ReadWriteForUser | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| User.Read | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
->| User.Read.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | [3e500164-df82-4d1e-9db8-0901e07d374d ](../azure/3e500164-df82-4d1e-9db8-0901e07d374d.md ) |
+>| Directory.AccessAsUser.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| Group.Read.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| TeamsAppInstallation.ReadWriteForUser | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| User.Read | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 3e500164-df82-4d1e-9db8-0901e07d374d |
+>| User.Read.All | 위임 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 전자 메일, 이름, 그림: Officevibe에서 사용자를 만들 수 있습니다. 모든 사용자에 연결된 그룹: 조직에 대한 개요를 제공합니다. 테넌트 ID &amp; 테넌트 이름: Officevibe에서 조직을 설정하려면 | 3e500164-df82-4d1e-9db8-0901e07d374d |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -106,7 +106,7 @@ Officevibe에서 Microsoft에 제공하는 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35160" target="_blank">새 탭에서 보기</a>
 

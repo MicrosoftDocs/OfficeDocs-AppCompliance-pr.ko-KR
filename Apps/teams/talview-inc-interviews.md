@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 Talview 인터뷰, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 19dc757e6bd95c434999f7f2228f8cb757addd28
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
+ms.openlocfilehash: c4465b676ea2b85e8f2d6fcbffaf1f00c2a5d349
+ms.sourcegitcommit: d8a3d237c4bd435183b9ce95c316b4d7ce9d7201
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753154"
+ms.locfileid: "63773549"
 ---
 # <a name="talview-interviews"></a>Talview Interviews
 
@@ -54,14 +54,14 @@ Microsoft에 Talview Inc에서 제공하는 정보:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/ 응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| 전자 메일 | 위임 | 사용자 계정 매핑을 위한 사용자의 전자 메일 주소 보기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| openid | 위임 | 사용자 로그인, 플랫폼에 로그인하려면 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
->| 프로필 | 위임 | 사용자의 기본 프로필 보기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | [8b976ed7-cc69-482a-a020-19bdce1041c4](../azure/8b976ed7-cc69-482a-a020-19bdce1041c4.md) |
+>| User.Read | 위임 | 로그인 및 사용자 프로필 읽기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| 전자 메일 | 위임 | 사용자 계정 매핑을 위한 사용자의 전자 메일 주소 보기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| openid | 위임 | 사용자 로그인, 플랫폼에 로그인하려면 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
+>| 프로필 | 위임 | 사용자의 기본 프로필 보기 | 알림 및 인증에 대한 전자 메일 주소/사용자 이름 | 8b976ed7-cc69-482a-a020-19bdce1041c4 |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -103,7 +103,7 @@ Microsoft에 Talview Inc에서 제공하는 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36431" target="_blank">새 탭에서 보기</a>
 
@@ -121,8 +121,8 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | Microsoft Identify Platform(Azure AD)과 통합하나요?  | 예 |
 | 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요?  | 예 |
-| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니오 |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니오 |
+| 앱에서 인증에 MSAL(Microsoft 인증 라이브러리)을 사용하나요? | 아니요 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 시나리오에 대한 최소 권한 권한을 요청하나요? | 예 |
 | 앱의 정적으로 등록된 사용 권한은 앱이 동적으로 그리고 증분적으로 요청하는 권한을 정확하게 반영하나요? | 예 |
 | 앱에서 다중 테넌시를 지원하나요? | 예 |
@@ -130,7 +130,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 앱에 등록된 리디렉션 URI(통합 리소스 식별자)를 모두 소유하고 있나요? | 예 |
 | 앱에서 웹 API를 노출하나요? | 예 |
 | 사용 권한 모델에서 클라이언트 앱이 적절한 동의를 받은 경우 통화 성공만 허용하나요? | 예 |
-| 앱에서 미리 보기 API를 사용하나요? | 아니오 |
+| 앱에서 미리 보기 API를 사용하나요? | 아니요 |
 | 앱에서 사용되지 않는 API를 사용하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
