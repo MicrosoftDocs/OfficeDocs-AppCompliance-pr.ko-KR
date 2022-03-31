@@ -2,18 +2,19 @@
 title: xLaw에 대한 응용 프로그램 정보 - 지금까지의 지식 관리 시스템
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 04/19/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: xLaw에 사용할 수 있는 모든 보안 및 규정 준수 정보 - CSA STAR 레지스트리의 기술 관리 시스템, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: cce6d174386db07ebf7e062066549cc47c61c845
-ms.sourcegitcommit: 983ed1755036e92d99745770f82f33417b21efec
+ms.openlocfilehash: bac0b2c58acd70749ed6fb66580442b24de771b7
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/18/2021
-ms.locfileid: "60429296"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462101"
 ---
 # <a name="xlaw---knowledge-management-system"></a>xLaw - 지식 관리 시스템
 
@@ -49,9 +50,9 @@ Microsoft에 제공된 정보:
 
 이 정보는 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 지금까지 제공된 정보입니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 
@@ -90,7 +91,7 @@ Microsoft에 제공된 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36910' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/36910' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/36910" target="_blank">새 탭에서 보기</a>
 

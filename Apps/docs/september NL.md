@@ -2,21 +2,22 @@
 title: 사용자 가이드
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: 2020년 9월 뉴스레터
 keywords: 규정 준수 뉴스레터
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 820f118215ddf108cc91ccde84a1f9bc0595f4a5621bf1f8b57aae06c27f97bb
-ms.sourcegitcommit: 717ca5bc90981def8914c4cd1fad992f67be4d5b
+ms.openlocfilehash: 772b407b995eaf3a67502ca419165b82f6cc4536
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54750488"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461751"
 ---
 # <a name="september-2020-microsoft-365-app-compliance-newsletter"></a>2020년 9월 Microsoft 365 앱 준수 뉴스레터
 
 
-![Alt 텍스트 ](../media/Sept_SS1.PNG)
- ![ Alt 텍스트 ](../media/Sept_SS2.PNG)
- ![ Alt 텍스트 ](../media/Sept_SS3.PNG)
- ![ Alt 텍스트](../media/Sept_SS4.PNG)
+![Alt textAlt textAlt![](../media/Sept_SS2.PNG)
+ textAlt](../media/Sept_SS3.PNG)
+![ text](../media/Sept_SS1.PNG)
+![](../media/Sept_SS4.PNG)

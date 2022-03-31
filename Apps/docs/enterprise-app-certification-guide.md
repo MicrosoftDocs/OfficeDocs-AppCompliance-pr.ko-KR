@@ -2,16 +2,17 @@
 title: 인증이란 Microsoft 365 무엇입니까?
 author: orionomalley
 ms.author: oromalle
+manager: tonybal
 description: Microsoft 365 인증 세부 정보
 keywords: 앱 증명 Microsoft 365 인증 365 설문지 앱소스
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 47f479258f2bb944cf30665c4479bb151523a561
-ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
+ms.openlocfilehash: f7c986d98db3d8b21ec0790bd5fe1e8c9892b024
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2022
-ms.locfileid: "63697388"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462221"
 ---
 # <a name="what-is-microsoft-365-certification"></a>인증이란 Microsoft 365 무엇입니까?
 
@@ -58,7 +59,7 @@ Microsoft 365 인증은 다음 Microsoft 제품과 통합되는 모든 앱에 �
 - SharePoint
 - Project
 - OneNote
-- **웹앱** (파트너 센터의 상업적 마켓플레이스를 통해 게시된 SaaS 앱은 현재 비공개 미리 보기에 있습니다. 참여에 관심이 있는 경우 이 양식을 작성 [하세요](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u).
+- **웹앱**(파트너 센터의 상업용 마켓플레이스를 통해 게시된 SaaS 앱은 현재 비공개 미리 보기 상태입니다. 참여에 관심이 있는 경우 이 [양식](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u)을 작성하세요.
 
 ## <a name="program-benefits"></a>프로그램 혜택
 인증 참가 및 Microsoft 365 IT 관리자 및 개발자에게 엄청난 이점을 제공할 수 있습니다.

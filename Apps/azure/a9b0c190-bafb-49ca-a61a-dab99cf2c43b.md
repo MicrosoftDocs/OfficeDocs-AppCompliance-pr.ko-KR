@@ -3,17 +3,17 @@ title: Azure 앱 ID a9b0c190-bafb-49ca-a61a-dab99cf2c43b에 대한 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/25/2022
+ms.date: 03/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: a9b0c190-bafb-49ca-a61a-dab99cf2c43b에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: a31173cbf5e010ee73589a06e93000f0ce74c3e9
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
+ms.openlocfilehash: d7448a9e089ebf350da6e7c14ac455c7d9349abb
+ms.sourcegitcommit: 890a5b31f2a31a7747d88f0f3f203c0551440293
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64458821"
+ms.lasthandoff: 03/29/2022
+ms.locfileid: "64517260"
 ---
 # <a name="azure-app-id-a9b0c190-bafb-49ca-a61a-dab99cf2c43b"></a>Azure 앱 ID: a9b0c190-bafb-49ca-a61a-dab99cf2c43b
 

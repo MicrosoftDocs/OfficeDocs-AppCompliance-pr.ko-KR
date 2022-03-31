@@ -2,18 +2,19 @@
 title: SaaS 앱용 사용자 가이드
 author: LGerrard
 ms.author: legerrar
+manager: tonybal
 description: 앱 준수 Microsoft 365 SaaS용 ISV 사용자 가이드
 keywords: 앱 준수 Microsoft 365 SaaS용 ISV 사용자 가이드
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5f12c95e413ab069b1f8849a09be50251660fbb1
-ms.sourcegitcommit: cab3c02db1b748f3502714d89bd9b65408fd9f54
+ms.openlocfilehash: e59d02bf364d13363ef1b9b5f82917213781af0b
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60545840"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461851"
 ---
-# <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>앱 준수 프로그램에 대한 파트너의 Microsoft 365 가이드 - SaaS
+# <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>앱 준수 프로그램에 대한 Microsoft 365 사용자 가이드 - SaaS
 
 |단계|제목|
 |---|---|
@@ -34,27 +35,27 @@ ms.locfileid: "60545840"
 
 ## <a name="3-publisher-attestation-workflow"></a>3. Publisher 워크플로
 
-**홈페이지:** 파트너가 파트너 센터에 로그인하면 방문 페이지입니다.
+**홈페이지**: 파트너가 파트너 센터에 로그인하면 방문 페이지입니다.
 
   
-**1단계:** 마켓플레이스 대상 선택
+**1단계** : 마켓플레이스 대상 선택
 
 ![파트너 센터의 상업용 마켓플레이스](../media/NewPChomepage.png)
 
   
-**2단계:**'마켓플레이스 제공'을 선택한 후 '상업적 마켓플레이스'로 전환합니다.
+**2단계**: '마켓플레이스 제공'을 선택한 후 '상업용 마켓플레이스'로 전환합니다.
 
 ![상업용 마켓플레이스에서 앱 선택](../media/NewPCOffersOffice.png)
 
 목록에서 앱을 선택하면 다른 탐색 모음에 '앱 준수' 옵션이 표시됩니다.
   
-**3단계:**'앱 준수' 선택
+**3단계**: '앱 준수' 선택
   
 ![상업용 마켓플레이스의 앱 준수](../media/PCappcompliance3.png)
   
-**4단계:** 자가 평가 설문지에서 Publisher 작성합니다.
+**4단계**: 자가 평가 설문지에서 Publisher 작성합니다.
 
-![전체 Publisher Attestation](../media/UserGuidePhotos/5.5.png)
+![전체 Publisher  Attestation](../media/UserGuidePhotos/5.5.png)
   
 **참고 응용 프로그램을 업데이트/다시 제출할 예정인 경우 '제품 선택'에 대한 드롭다운을 클릭하고 앱을 선택하고 '복제'를 클릭합니다.**
 
@@ -64,46 +65,46 @@ ms.locfileid: "60545840"
 
 ![내보내기 기능 가져오기](../media/UserGuidePhotos/06.png)
  
-**5단계:** 완료되면 '제출'을 클릭하면 평가가 '검토 중'이 됩니다.
+**5단계**: 완료되면 '제출'을 클릭하면 평가가 '검토 중'이 됩니다.
  
- ![제출 Publisher 제출 확인 ](../media/UserGuidePhotos/07.png) ![ 제출](../media/UserGuidePhotos/08.png)
+ ![제출 Publisher 제출 확인](../media/UserGuidePhotos/07.png) ![제출](../media/UserGuidePhotos/08.png)
   
 **승인/거부 시나리오:**
   
-대답. Publisher 퇴장 거부
+대답. Publisher 거부
 - 거부의 경우 파트너는 다음을 할 수 있습니다.
      - 실패 보고서 보기
           - 파트너는 전자 메일을 통해 알림을 보내며 파트너 센터에서 오류 보고서를 볼 수 있습니다.
      - 자체 평가 설문지 업데이트 및 다시 제출
         
-![Publisher 거부된 Attestation](../media/UserGuidePhotos/09.png)
+![Publisher 거부](../media/UserGuidePhotos/09.png)
 
-B.  Publisher 의거 승인
+B.  Publisher 승인
 - 파트너는 승인 시 다음을 할 수 있습니다.
-     - 업데이트 및 다시 제출 attestation
+     - 업데이트 및 다시 제출  attestation
      - 완료된 Publisher 보기
      - 인증 Microsoft 365 시작
         
- ![Publisher Attestation Completed](../media/UserGuidePhotos/10.png)       
+ ![Publisher 완료](../media/UserGuidePhotos/10.png)       
   
- ![Microsoft 365 인증 시작](../media/UserGuidePhotos/11.png)
+ ![인증 Microsoft 365 시작](../media/UserGuidePhotos/11.png)
   
 **Post Publisher Attestation Approval: Example of link in AppSource for publisher attested apps.**
   
 ![승인된 연락처 예제](../media/UserGuidePhotos/12.png)
    
-## <a name="4---microsoft-365-certification-workflow"></a>4. Microsoft 365 워크플로
+## <a name="4---microsoft-365-certification-workflow"></a>4. Microsoft 365 인증 워크플로
   
 파트너는 확인란을 선택하고 '제출'을 클릭하여 인증 프로세스를 시작할 수 있습니다.
   
 ![인증 Microsoft 365 시작](../media/UserGuidePhotos/13.png) 
   
-**1단계:** 초기 문서 제출
+**1단계** : 초기 문서 제출
 
 모든 세부 정보를 입력하고 관련 문서를 업로드하고 '제출'을 클릭합니다.
   
-![초기 문서 제출 ](../media/UserGuidePhotos/14.png) 
- ![ 초기 문서 제출](../media/UserGuidePhotos/15.png)
+![Initial Document SubmissionSubmit](../media/UserGuidePhotos/14.png) 
+![ Initial Document Submission](../media/UserGuidePhotos/15.png)
   
 제출을 클릭하면 초기 문서 제출이 검토됩니다.
 
@@ -115,7 +116,7 @@ B.  Publisher 의거 승인
 
 분석가가 초기 문서 제출을 승인하면 파트너는 제어 요구 사항을 제출해야 합니다.
   
-**2단계:** 제어 요구 사항 제출
+**2단계**: 요구 사항 제출 제어
   
 모든 세부 정보를 입력하고 관련 문서를 업로드하고 '제출'을 클릭합니다.
 
@@ -143,7 +144,7 @@ B.  Publisher 의거 승인
 
 ![인증 거부](../media/UserGuidePhotos/25.png)
   
-모든 보안 표준이 충족되고 나면 분석가가 제출을 승인하고 파트너가 인증을 Microsoft 365 합니다.
+모든 보안 표준이 충족되고 나면 분석가가 제출을 승인하고 파트너는 인증을 Microsoft 365 됩니다.
 
 ![Microsoft 365 앱 인증 승인됨](../media/UserGuidePhotos/26.png)
   
@@ -155,7 +156,7 @@ B.  Publisher 의거 승인
   
 **Microsoft 365Publisher 증명 및 인증 갱신 워크플로:**  
 
-Microsoft 365 이제 앱 준수 프로그램은 연간 갱신 프로세스를 제공합니다. 이 프로세스 동안 앱 개발자는 기존 Publisher 증명 설문지 및 인증에 필요한 문서를 Microsoft 365 있습니다. 
+Microsoft 365 앱 준수 프로그램은 이제 연간 갱신 프로세스를 제공합니다. 이 프로세스 동안 앱 개발자는 인증에 필요한 기존 Publisher 증명 설문지 및 문서를 Microsoft 365 수 있습니다. 
  
 **이점:** 
 
@@ -163,33 +164,33 @@ Microsoft 365 이제 앱 준수 프로그램은 연간 갱신 프로세스를 �
 - 인증된 앱을 사용할 때 고객의 신뢰를 높이기 
 - IT 관리자가 업데이트된 인증 정보를 통해 정보를 통해 의사 결정을 내리는 데 도움을 줄 수 있습니다.
 
-새로운 갱신 프로세스는 원활한 [환경을](https://partner.microsoft.com/dashboard/home) 제공하기 위해 파트너 센터에서 사용할 수 있습니다. 갱신 미리 알림은 만료 날짜 90일 전부터 파트너 센터에 표시됩니다. 만료 90일, 60일 및 30일 전에 전자 메일을 통해 주기적인 미리 알림도 전송됩니다. 
+새로운 갱신 프로세스는 원활 [한 환경을 제공하기](https://partner.microsoft.com/dashboard/home) 위해 파트너 센터에서 사용할 수 있습니다. 갱신 미리 알림은 만료 날짜 90일 전부터 파트너 센터에 표시됩니다. 만료 90일, 60일 및 30일 전에 전자 메일을 통해 주기적인 미리 알림도 전송됩니다. 
  
 **1단계: Publisher 갱신:**
   
 앱의 Publisher 답변을 매년 다시 제출해야 합니다. 1년 표시에 가까운 경우 스터스터를 다시 제출할 수 있는 전자 메일 미리 알림이 전송됩니다. 
  
-**1단계:** **갱신을** 선택하여 Publisher 갱신합니다.
+**1단계**: 갱신 **을** 선택하여 Publisher 갱신합니다.
   
 ![갱신 승인됨](../media/UserGuidePhotos/31.png)
   
-**2단계:** 이전 Publisher 정보를 검토하고 필요한 경우 최신 정보로 업데이트합니다. 
+**2단계**: 이전 Publisher 정보를 검토하고 필요한 경우 최신 정보로 업데이트합니다. 
   
-준비가 Publisher 갱신에 대한 제출을 제출합니다. M365 앱 준수 분석가가 검토합니다.
+갱신을 Publisher 제출합니다. M365 앱 준수 분석가가 검토합니다.
 
 ![은(를) 으로 갱신](../media/UserGuidePhotos/29.png)
   
-**Publisher 인증 갱신 승인됨:**
+**Publisher 갱신 승인됨:**
   
 ![갱신 제출](../media/UserGuidePhotos/30.png)
   
-**Publisher 만료된 의거:**
+**Publisher 만료된 인증서:**
   
 Microsoft docs에서 앱의 Publisher 페이지를 유지 관리하기 위해 만료 날짜 전에 앱의 정보를 갱신해야 합니다. 또한 시기 적절한 갱신을 통해 다양한 스토어의 앱에 대한 계속해서 배지 및 아이콘을 사용할 수 있습니다. 
  
 ![갱신 승인됨](../media/UserGuidePhotos/31.png)
 
-**참고:** 만료되면 Publisher 갱신 프로세스를 언제든지 '갱신'을 클릭하여 시작할 수 있습니다.
+**참고**: 만료되면 Publisher 갱신 프로세스를 언제든지 '갱신'을 클릭하여 시작할 수 있습니다.
  
 **2단계: Microsoft 365 갱신**
   

@@ -1,21 +1,22 @@
 ---
-title: CocoFax에 대한 응용 프로그램 정보 - 팩스 전송을 통해 쉽게 보호할 &amp; 수 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
+title: CocoFax에 대한 응용 프로그램 정보 - &amp; 팩스 전송을 통해 쉽게 보호할 수 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496;
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CocoFax에 사용할 수 있는 모든 보안 및 규정 준수 정보 - CSA STAR 레지스트리의 팩스 보내기 쉬운 보안, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 &amp; 보안/규정 준수 정보.
-zone_pivot_groups: app-info-data-identity
-ms.openlocfilehash: 8b44af37fc4fcfcb9452b3af6fdd666b0565d9d4
-ms.sourcegitcommit: 78e63c8004c49fa95d80618b9fee424f1084e43d
+description: CocoFax에 사용할 수 있는 모든 보안 및 규정 준수 정보 - &amp; CSA STAR 레지스트리의 팩스 보내기 쉬운 보안, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보.
+zone_pivot_groups: app-info-data-mcas-identity
+ms.openlocfilehash: 621b61963a89ca4d2bfd2eeca0b39366cb261c1d
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58404970"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64461361"
 ---
-# <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax - 쉽게 안전한 팩스 &amp; 보내기
+# <a name="cocofax---sending-fax-made-easy-amp-secure"></a>CocoFax - 쉽게 안전한 팩스 보내기 &amp;
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -27,11 +28,11 @@ ms.locfileid: "58404970"
 
 ### <a name="general-information"></a>일반 정보
 
-Microsoft에 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 제공한 정보:
+Microsoft에 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | CocoFax - 쉽게 안전한 팩스 &amp; 보내기 |
+| 앱 이름 | CocoFax - 쉽게 안전한 팩스 보내기 &amp; |
 | ID | WA200002263 |
 | Office 365 클라이언트 지원 | Word 2016 Mac, 웹용 Word Word 2013 이상에서 Windows |
 | 파트너 회사 이름 | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; |
@@ -47,11 +48,11 @@ Microsoft에 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#2
 
 ### <a name="how-the-app-handles-data"></a>앱이 데이터를 처리하는 방법
 
-이 정보는 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대한 정보를 제공합니다.
+이 정보는 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 컨트롤에 대한 정보를 제공합니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 
@@ -80,7 +81,7 @@ Microsoft에 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#2
 
 사람이 이 앱에서 수집하거나 저장하는 OII(조직 식별 정보) 데이터를 검토하거나 분석하는 데 관여하나요?
 
->아니오
+>아니요
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -90,7 +91,7 @@ Microsoft에 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#2
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/" target="_blank">새 탭에서 보기</a>
 
@@ -102,7 +103,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 ### <a name="identity-information"></a>ID 정보
 
-이 정보는 &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; , 권한 부여, 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대한 정보를 제공합니다.
+이 정보는 이 앱이 인증, &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; , 응용 프로그램 등록 모범 사례 및 기타 ID 조건을 처리하는 방법에 대한 정보를 통해 제공됩니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|

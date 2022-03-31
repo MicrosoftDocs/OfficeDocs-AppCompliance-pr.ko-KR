@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: Powell Teams, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 7245730e77597a9d22c387f3001990786ea1f827
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 7fffe34f51520ebec1cc5dce2761ce59269b0e35
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63550076"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64462931"
 ---
 # <a name="powell-teams"></a>Powell Teams
 
@@ -39,7 +39,7 @@ Powell Software에서 Microsoft에 제공하는 정보:
 | 파트너 회사 이름 | Powell Software |
 | 회사의 웹 사이트 | [https://www.powell-software.com](https://www.powell-software.com) |
 | 앱 사용 약관 | [https://powell-software.com/en/powell-teams-terms-of-use/](https://powell-software.com/en/powell-teams-terms-of-use/) |
-| 앱의 핵심 기능 | Powell Teams 앱은 모든 회사 직원을 위한 스마트 대시보드를 제공하며, &amp; 모든 팀에 태그를 쉽게 구성하고, 가장 중요한 승격된 회사 팀을 검색하고, 마지막으로 역할 기반 팀 서식 파일을 미리 정의하여 시간을 절약할 수 있도록 합니다. Api를 사용하여 Powell Teams 데이터베이스에서 데이터 집합을 검색하고 작업할 수도 있습니다(https://docapiteams.powell-software.com) 마지막으로 논리 앱 및 앱에 대한 Power Automate 사용할 수 있습니다.https://docs.microsoft.com/en-us/connectors/powellteams) |
+| 앱의 핵심 기능 | Powell Teams 앱은 모든 회사 직원을 위한 스마트 대시보드를 제공하며, &amp; 모든 팀에 태그를 쉽게 구성하고, 가장 중요한 승격된 회사 팀을 검색하고, 마지막으로 역할 기반 팀 서식 파일을 미리 정의하여 시간을 절약할 수 있도록 합니다. Api를 사용하여 Powell Teams 데이터베이스에서 데이터 집합을 검색하고 작업할 수도 있습니다(https://docapiteams.powell-software.com) 마지막으로 논리 앱 및 앱에 대한 Power Automate 사용할 수 있습니다.https://docs.microsoft.com/connectors/powellteams) |
 | 회사 본사 위치 | 프랑스 |
 | 앱 정보 페이지 | [https://helpteams.powell-software.com](https://helpteams.powell-software.com) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? |  |

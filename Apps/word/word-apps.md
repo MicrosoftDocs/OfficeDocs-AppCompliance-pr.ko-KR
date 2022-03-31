@@ -3,17 +3,17 @@ title: Microsoft Word 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/17/2022
+ms.date: 03/25/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 앱에 대해 사용 가능한 모든 보안 Microsoft Word 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 66b3fef8af99c3cf6a7f18a61574b7e3bd5c5ba8
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: b6f94b73e5089d8ab479e6647e8cdd982ebcf304
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63547106"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64460809"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word 앱 보안 및 규정 준수
 
@@ -24,7 +24,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Word 및 Word용 Adobe Acrobat PowerPoint](./adobe-inc-acrobat-sign-for-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [AuditBoard 추가 기능](./auditboard-inc-add-in.md) | Auditboard, Inc. | **✓** |  |
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
-| [CocoFax - 쉽게 안전한 팩스 보내기 &amp;](./cocofax-sending-fax-made-easy-and-secure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
+| [CocoFax - 쉽게 안전한 팩스 보내기 &amp;](./cocofax-sending-fax-made-easysecure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
 | [Excel 문서 자동화](./analysisplace-excel-to-word-document-automation.md) | AnalysisPlace | **✓** |  |
 | [Fabasoft 클라우드 Office 추가 기능](./fabasoft-austria-gmbh-cloud-office-add-in.md) | Fabasoft Austria GmbH | **✓** |  |
@@ -41,7 +41,8 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [officeatwork - Office](./officeatwork-officeatworkuploader-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - officeatwork - Office](./officeatwork-officeatworkverifier-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - officeatwork - Office](./officeatwork-officeatworkwizard-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [RetMig &amp; Kommaforslag](./grammarsoft-aps-retmig-and-kommaforslag.md) | GrammarSoft ApS | **✓** |  |
+| [RetMig &amp; Kommaforslag](./grammarsoft-aps-retmigkommaforslag.md) | GrammarSoft ApS | **✓** |  |
+| [RocketDocs LaunchPad](./rocketdocs-launchpad.md) | RocketDocs | **✓** |  |
 | [Papers용 SmartCite](./digital-science-smartcite-for-papers.md) | 디지털 과학 | **✓** |  |
 | [Word용 Stilus](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
 | [TaxKit Docs](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |
