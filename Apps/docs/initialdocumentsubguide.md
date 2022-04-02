@@ -2,18 +2,19 @@
 ms.author: oromalle
 title: Microsoft 365 인증 - 초기 문서 제출 가이드
 author: orionomalley
+manager: tonybal
 description: Microsoft 365 제출 가이드 세부 보기
 keywords: 앱 인증 팀 Microsoft 365 준수 m365 초기 문서 제출
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 0f879ce6b02fb469b0210500e4706d468ccb4011
-ms.sourcegitcommit: 3e72bc447a90cd8b0313dab55f6a9374be8ae358
+ms.openlocfilehash: 66afcbd482ee1269ce21e2af6fdeea5026b294ee
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 12/01/2021
-ms.locfileid: "61261680"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463281"
 ---
-# <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 문서 작성 - 초기 문서 제출 가이드
+# <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 작성 - 초기 문서 제출 가이드
 
 초기 문서 제출은 인증의 사전 평가 단계의 일부입니다. 제공된 정보는 인증 분석가에게 평가 범위 내 컨트롤 및 시스템 구성 요소를 식별하는 데 필요한 배경 정보를 제공합니다. 이 문서는 초기 문서 전송에 대해 예상되는 예제로만 사용할 수 있습니다. 제공하는 설명서는 솔루션의 설계, 구현 및 관리 방식에 따라 달라집니다.
 
@@ -36,7 +37,7 @@ ms.locfileid: "61261680"
 
 **참고:** IaaS/PaaS에는 ISV 제어에 있는 하드웨어가 없습니다.  이 경우 모든 바이루어 리소스의 목록 또는 스크린샷을 제공하세요.
 
-**예:**
+**예제:**
 
 |자산 이름|    자산 유형| 설명|    제조업체|   모델|
 |-|-|-|-|-|
@@ -50,7 +51,7 @@ ms.locfileid: "61261680"
 
 범위 내 환경에서 사용되는 모든 소프트웨어를 포함하여 버전과 함께 모든 소프트웨어 자산의 최신 인벤토리입니다.
 
-**예제:**
+**예:**
 
 |소프트웨어|  게시자|  버전|     용도|
 |-|-|-|-|
@@ -99,7 +100,7 @@ API 이름 끝점 주소 Contoso Customer API    https://customerapi.contoso.com
 
 내부적으로 개발된 외부 리소스 끝점을 포함하여 앱에서 사용하는 모든 API 끝점의 전체 목록입니다. 환경 범위를 이해하기 위해 환경 내의 API 끝점 위치를 제공합니다.
 
-**예제:**
+**예:**
 
 |API 이름|  끝점 주소|
 |-|-|
@@ -117,7 +118,7 @@ API 이름 끝점 주소 Contoso Customer API    https://customerapi.contoso.com
 
 ## <a name="data-flow-diagram"></a>데이터 Flow 다이어그램
 
-Flow 설명하는 다이어그램을 참조합니다.
+Flow 다이어그램을 참조합니다.
 -   데이터 흐름은 앱/추가 기능(고객 데이터 포함)과/에서 전송됩니다.
 -   지원 인프라 내의 데이터 흐름(해당되는 경우)
 -   저장되는 데이터 위치 및 데이터, 외부 제3자에 데이터를 전달하는 방법(타사에 대한 세부 정보 포함) 및 개방형/공용 네트워크 및 미사용 데이터를 통해 전송되는 데이터를 보호하는 방법을 강조하는 다이어그램입니다.

@@ -2,18 +2,19 @@
 title: Esri, 지도 ArcGIS 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
+manager: tonybal
 ms.date: 07/21/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: CSA STAR 레지스트리의 ArcGIS 지도, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
+description: CSA STAR 레지스트리의 ArcGIS 지도, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: bdae05936c2a2647c6b4e4f12c17cf060daad289
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9696ad3964cc45583a04981bb4580320d5aefa59
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288602"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463611"
 ---
 # <a name="arcgis-maps"></a>ArcGIS Maps
 
@@ -49,9 +50,9 @@ Esri, Inc.에서 Microsoft에 제공한 정보:
 
 이 정보는 Esri, Inc.에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터에 대해 조직에서 제공하는 컨트롤에 대해 제공합니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 

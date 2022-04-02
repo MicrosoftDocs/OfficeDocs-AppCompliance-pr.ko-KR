@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: researcHR에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: d9190b5c268a2ff73f204e3c81015532b1b3e4df
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: ec1149c58d7c7b5c77243af43b529fa6434e5520
+ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63543426"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64463601"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -161,13 +161,13 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **사리**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | application | 이 범위를 사용하여 봇이 Teams 채널을 만들 수 있습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Directory.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Group.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Team.ReadBasic.All | application | 사용자가 웹 사이트에서 팀 구성원을 볼 수 있도록 이 범위를 사용하여 팀의 구성원을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.Read.All | application | 사용자가 웹 사이트에서 참가한 팀을 볼 수 있도록 이 범위를 사용하여 사용자의 참가 채널을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.ReadBasic.All | 위임 | 이 범위를 사용하여 OAuth 로그인을 사용하도록 설정하고 사용자의 AAD, 액세스 토큰 및 새로 고침 토큰을 수집합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| offline_access | 위임 | 사용자 상호 작용 없이도 권한이 부여된 사용자의 액세스 토큰을 새로 고칠 수 있도록 이 범위를 사용하여 새로 고침 토큰을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Channel.Create | application | 이 범위를 사용하여 봇이 Teams 채널을 만들 수 있습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Directory.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Group.Read.All | application | 이 범위를 사용하여 채널 ID 및 이름을 사용하여 웹 사이트에 이러한 데이터를 표시합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Team.ReadBasic.All | application | 사용자가 웹 사이트에서 팀 구성원을 볼 수 있도록 이 범위를 사용하여 팀의 구성원을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.Read.All | application | 사용자가 웹 사이트에서 참가한 팀을 볼 수 있도록 이 범위를 사용하여 사용자의 참가 채널을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.ReadBasic.All | 위임 | 이 범위를 사용하여 OAuth 로그인을 사용하도록 설정하고 사용자의 AAD, 액세스 토큰 및 새로 고침 토큰을 수집합니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| offline_access | 위임 | 사용자 상호 작용 없이도 권한이 부여된 사용자의 액세스 토큰을 새로 고칠 수 있도록 이 범위를 사용하여 새로 고침 토큰을 얻습니다. 다음을 참조할 수 있습니다. https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 
 >이 응용 프로그램에는 추가 API가 없습니다.
 
