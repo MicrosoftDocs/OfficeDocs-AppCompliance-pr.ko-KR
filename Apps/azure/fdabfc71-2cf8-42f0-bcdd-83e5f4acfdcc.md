@@ -3,17 +3,17 @@ title: Azure 앱 ID fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc에 대한 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/30/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: b8c90da199d45106f44b9e2a8b76810d233a38de
-ms.sourcegitcommit: 0b61e3c35f05a7f7926b2ccd6049be4fc2a149c9
+ms.openlocfilehash: 0027824d3971c6e2211e83331d8505ebf365f5ec
+ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/30/2022
-ms.locfileid: "64549631"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "64597047"
 ---
 # <a name="azure-app-id-fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc"></a>Azure 앱 ID: fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc
 
