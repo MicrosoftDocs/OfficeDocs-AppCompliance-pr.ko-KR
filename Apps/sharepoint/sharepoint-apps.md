@@ -3,17 +3,11 @@ title: Microsoft SharePoint 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/23/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft SharePoint 규정 준수 정보
 localization_priority: Normal
-ms.openlocfilehash: 887651563cf6fdb420768a623ce9618b9c7b8c78
-ms.sourcegitcommit: 7c03de919310456c10f7cc3685f83d40cac504de
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2022
-ms.locfileid: "63778282"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint 앱 보안 및 규정 준수
 
@@ -21,7 +15,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
-| [Adobe Acrobat Sign for SharePoint](./adobe-inc-acrobat-sign-for-sharepoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Adobe Acrobat Sign for Microsoft Office SharePoint Online](./adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ArcGIS for SharePoint](./esri-inc-arcgis-for-sharepoint.md) | Esri, Inc. | **✓** |  |
 | [Bid Management System](./beyond-technologies-bid-management-system.md) | Beyond Technologies | **✓** |  |
 | [Bizagi 웹파트](./bizagi-team-webparts.md) | Bizagi Team | **✓** |  |
@@ -38,6 +32,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Power BI 공동 작업](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [SharePoint-sapiens 직원 교육 관리](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
 | [SharePoint-sapiens 이벤트 관리](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
+| [SharePoint-sapiens 최신 사용자 인터페이스](./sharepointsapiens-modern-user-interface.md) | SharePointSapiens | **✓** |  |
 | [스마트 이벤트 예약](./smarter-business-solutions-gmbh-event-booking.md) | 스마트 비즈니스 솔루션 GmbH | **✓** |  |
 | [공유 제곱 토론 포럼](./lightning-tools-social-squared-discussion-forums.md) | 번개 도구 | **✓** |  |
 | [분류](./accuracy-software-inc-taxonomy.md) | Accuracy Software Inc. | **✓** |  |

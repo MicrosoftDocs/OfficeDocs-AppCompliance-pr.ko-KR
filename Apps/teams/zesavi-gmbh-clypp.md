@@ -3,24 +3,18 @@ title: Zesavi GmbH의 Clypp에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 01/03/2022
+ms.date: 03/31/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Clypp에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
+description: 'Clypp에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e51dcf98573c2dc259438e8ec8926cc14e55a2eb
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63551847"
 ---
 # <a name="clypp"></a>Clypp
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 11월 17일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 3월 30일</p>
 
 * <a href="https://teams.microsoft.com/l/app/34ed2c1e-bccf-463d-8fbc-0403e72e89fc" target="_blank">저장소의 Teams 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003621" target="_blank">AppSource의 보기</a>
@@ -37,11 +31,11 @@ Zesavi GmbH에서 Microsoft에 제공하는 정보:
 | ID | WA200003621 |
 | Office 365 클라이언트 지원 | Microsoft Teams |
 | 파트너 회사 이름 | Zesavi GmbH |
-| 회사의 웹 사이트 | [https://zesavi.com](https://zesavi.com) |
-| 앱 사용 약관 | [https://zesavi.com/en/impressum/](https://zesavi.com/en/impressum/) |
-| 앱의 핵심 기능 | Zesavi를 사용하면 회사의 모든 사용자가 &amp; 인터넷 브라우저에서 짧은 비디오 설명서를 직접 만들고 편집할 수 있습니다. |
+| 회사의 웹 사이트 | [https://getclypp.com](https://getclypp.com) |
+| 앱 사용 약관 | [https://getclypp.com/en/terms-of-use/](https://getclypp.com/en/terms-of-use/) |
+| 앱의 핵심 기능 | Clypp를 사용하면 회사의 모든 사용자가 &amp; 인터넷 브라우저에서 짧은 비디오 설명서를 직접 만들고 편집할 수 있습니다. |
 | 회사 본사 위치 | 독일 |
-| 앱 정보 페이지 | |
+| 앱 정보 페이지 | [https://getclypp.com/en/](https://getclypp.com/en/) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | 이아스 |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | 기타 |
 
@@ -138,7 +132,7 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? | 예 |
 | 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 연결 개인 정보 취급 방침이 있나요? | 예 |
-| 개인 정보 취급 방침 URL | https://zesavi.com/en/datenschutz/ |
+| 개인 정보 취급 방침 URL | https://getclypp.com/en/privacy-policy/ |
 | 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? | 아니요 |
 | 앱이 개인 정보 취급 방침(즉, 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니요 |
 | 특정 범주의 중요한 데이터(예: 인종 또는 민족, 정치적 의견, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용된 데이터 범주를 처리하나요? | 아니요 |

@@ -7,14 +7,8 @@ ms.date: 11/12/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Fireflies AI, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
+description: 'Fireflies AI, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: adb01db25dd012daa05e231121cc98cd2d97bc2e
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63541746"
 ---
 # <a name="fireflies-ai"></a>Fireflies AI
 
@@ -39,9 +33,11 @@ Microsoft에 Fireflies.ai 정보:
 | 파트너 회사 이름 | Fireflies.ai |
 | 회사의 웹 사이트 | [https://fireflies.ai](https://fireflies.ai) |
 | 앱 사용 약관 | [https://fireflies.ai/terms-of-service.pdf](https://fireflies.ai/terms-of-service.pdf) |
-| 앱의 핵심 기능 | Fireflies는 모임을 기록하고 기록하며 모임에서 메모를 작성하는 모임 도우미입니다.
-
- | | 회사 본사 위치 | 미국 | | 앱 정보 페이지 | [https://app.fireflies.ai/integrations/collaboration/microso...](https://app.fireflies.ai/integrations/collaboration/microsoft-teams) | | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas | | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | GCP |
+| 앱의 핵심 기능 | Fireflies는 모임을 기록하고 기록하며 모임에서 메모를 작성하는 모임 도우미입니다. |
+| 회사 본사 위치 | 미국 of America |
+| 앱 정보 페이지 | [https://app.fireflies.ai/integrations/collaboration/microso...](https://app.fireflies.ai/integrations/collaboration/microsoft-teams) |
+| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | GCP |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -60,7 +56,7 @@ Microsoft에 Fireflies.ai 정보:
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 사용자 프로필 데이터, 사용자 일정 Metdata |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 of America |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 30일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |

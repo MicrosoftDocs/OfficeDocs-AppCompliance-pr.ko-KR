@@ -7,14 +7,8 @@ ms.date: 05/05/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Trello용 Planyway Calendar, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
+description: 'Trello용 Planyway Calendar, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보'
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5936b0c382642d1e614803928111e14a38ab1a5e
-ms.sourcegitcommit: 9199fd569c5e7c5dd338abd87428c94798a22352
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 03/23/2022
-ms.locfileid: "63753774"
 ---
 # <a name="planyway-calendar-for-trello"></a>Trello용 Planyway Calendar
 
@@ -76,8 +70,8 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱에서 연간 침투 테스트를 수행하나요? | 아니오 |
-| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 아니오 |
+| 앱에서 연간 침투 테스트를 수행하나요? | 아니요 |
+| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 아니요 |
 | 환경에서 기존의 맬웨어 방지 보호 또는 응용 프로그램 제어를 사용하나요? |  |
 | 보안 취약점을 식별하고 위험 순위를 정한 프로세스가 있습니까? |  |
 | 패치 적용을 위한 SLA(서비스 수준 계약)를 관리하는 정책이 있나요? |  |
@@ -108,8 +102,24 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 |:----------------|:-------------|
 | 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 해당 없음 |
 | 앱이 HITRUST CSF(Common Security Framework)인 Health Information Trust Alliance를 준수하나요? | 해당 없음 |
-| 앱이 SOC(서비스 조직 제어)를 준수하나요? | {
-  &quot;&quot;CMP08_complianceSOC_1: &quot;Na&quot; } | | 가장 최근 SOC1 인증 날짜 |   | | 앱이 SOC(서비스 조직 제어)를 준수하나요? | No | | 어떤 SOC 2 인증을 획득했나요? | | | 가장 최근 SOC2 인증 날짜 | | | 앱이 SOC(서비스 조직 제어)를 준수하나요? | No | | 가장 최근 SOC3 인증 날짜 | | | 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | No | | 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | No | | 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | { &quot;CMP16_complianceISO_27018&quot;: &quot;Na&quot; } | | 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | No | | 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | No | | 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | No | | 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | N/A | | 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | N/A | | 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | N/A | | 앱이 NIST 800-171을 준수하나요? |  | | 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | No |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | Na |
+| 가장 최근 SOC1 인증 날짜 |   |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
+| 어떤 SOC 2 인증을 획득했나요? | |
+| 가장 최근 SOC2 인증 날짜 | |
+| 앱이 SOC(서비스 조직 제어)를 준수하나요? | 아니요 |
+| 가장 최근 SOC3 인증 날짜 | |
+| 앱 및 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27001) 인증을 받나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | Na |
+| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
+| 앱이 FedRAMP(Federal Risk and Authorization Management Program)를 준수하나요? | 아니요 |
+| 앱이 FERPA(가족 교육권 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
+| 앱이 COPPA(온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
+| 앱이 NIST 800-171을 준수하나요? |  |
+| 앱이 CSA Star(Cloud Security Alliance) 인증을 받은가요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -138,14 +148,14 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| Single Sign-On, API 액세스 등을 위해 응용 프로그램이 Microsoft Id 플랫폼(Azure AD)과 통합하나요? | 아니오 |
-| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 아니오 |
+| Single Sign-On, API 액세스 등을 위해 응용 프로그램이 Microsoft Id 플랫폼(Azure AD)과 통합하나요? | 아니요 |
+| 통합 검사 목록에 설명된 적용 가능한 모든 모범 사례를 Microsoft ID 플랫폼 준수하나요? | 아니요 |
 | 앱에서 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft Identity Web을 인증에 사용하나요? |  |
 | 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니오 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(연속 액세스 평가)를 지원하지 않는지 확인 |  |
 | 앱에서 코드에 자격 증명을 저장하나요? |  |
-| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니오 |
+| 앱 및 추가 Microsoft 365 Microsoft 앱 외부에서 추가 Microsoft API를 사용할 Graph. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 >이 응용 프로그램은 Microsoft 응용 프로그램을 Graph.
 
