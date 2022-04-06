@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: MIPA - 내 지능형 개인 도우미, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 684cd61aec216db5bc60bb92abd2d93963c2138a
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 6c7d3349b9fc747d5a8093aff1042894fbd67cf1
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288493"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64627910"
 ---
 # <a name="mipa---my-intelligent-personal-assistant"></a>MIPA - 내 지능형 개인 도우미
 
@@ -48,34 +48,34 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 이 정보는 iGlobe에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Calendars.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| Contacts.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| Directory.AccessAsUser.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 읽기, 업데이트, Panner 작업 만들기, 최근 및 공유 파일을 읽습니다. 사용자의 동의를 확인하고 API를 사용할 수 있는 액세스 권한을 습니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Read, Update, Create Panner Tasks, Read the users recent and Shared files, To get SharePoint list, libraries and files. 파일을 목록에 SharePoint 저장합니다. iGlobe CRM에 Office 365 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| Directory.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 읽기, 업데이트, Panner 작업 만들기, 최근 및 공유 파일 읽기, 목록, 라이브러리 SharePoint 파일을 읽습니다. 파일을 목록에 SharePoint 저장합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| Files.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 읽기, 업데이트, Panner 작업 만들기, 최근 및 공유 파일 읽기, 목록, 라이브러리 SharePoint 파일을 읽습니다. 파일을 목록에 SharePoint 저장합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| Group.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 읽기, 업데이트, Panner 작업 만들기, 최근 및 공유 파일 읽기, 목록, 라이브러리 SharePoint 파일을 읽습니다. 파일을 목록에 SharePoint 저장합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 읽기, 업데이트, Panner 작업 만들기, 최근 및 공유 파일 읽기, 목록, 라이브러리 SharePoint 파일을 읽습니다. 파일을 목록에 SharePoint 저장합니다. iGlobe CRM에 Office 365 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| Mail.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 읽기 및 업데이트 플래그가 지정 된 메일 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| MailboxSettings.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 플래그가 지정 된 메일, 읽기 및 업데이트 Outlook To Do 전체 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| Tasks.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 작업 수행, 읽기, 업데이트, Panner 작업 만들기 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.ReadBasic.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 작업 수행, 읽기, 업데이트, Panner 작업 만들기 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| User.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | Calender 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| Tasks.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| User.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 열기, 읽기, 업데이트, Panner 작업 만들기 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| User.ReadBasic.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 열기, 읽기, 업데이트, Panner 작업 만들기 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| User.ReadWrite | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 업데이트 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| 전자 메일 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 앱에서 사용자의 기본 전자 메일 주소(SSO의 경우)를 읽을 수 있도록 허용합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| offline_access | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 현재 앱을 사용하지 않는 경우에도 앱에서 액세스 권한을 부여한 데이터를 보고 업데이트할 수 있습니다. 이렇게 해서 앱에 SSO에 대한 추가 사용 권한()은 부여되지 않습니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 >| openid | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 자신의 직장 또는 학교 계정으로 앱에 로그인할 수 있도록 허용하고 앱에서 SSO의 기본 사용자 프로필 정보()를 볼 수 있도록 합니다. | e854ea05-68ab-4204-babe-db4a784fb4d8 |
->| 프로필 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 작업 수행, 읽기, 업데이트, Panner 작업 만들기 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
+>| 프로필 | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 계산기 전체 읽기 및 업데이트, 읽기 및 업데이트 Outlook 열기, 읽기, 업데이트, Panner 작업 만들기 | e854ea05-68ab-4204-babe-db4a784fb4d8 |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
-기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
+기본 제공 앱 및 추가 Microsoft 365 Microsoft API를 사용하여 OII(조직 식별 가능 Graph)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
@@ -109,7 +109,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->모든 데이터는 고객의 자체 테넌트에 있습니다. 응용 프로그램 데이터가 저장되지 않습니다. 최신 추가 기능을 샌드박스 브라우저에서 실행하고 &#8220;실행되지&#8221;. 사용자 데이터를 사용하여 사용자 데이터와 상호 작용합니다Microsoft 서비스. 추가 기능에서 사용자가 작업하는 데이터에만 액세스할 수 있습니다.
+>모든 데이터는 고객의 자체 테넌트에 있습니다. 응용 프로그램 데이터가 저장되지 않습니다. 최신 추가 기능을 샌드박스 브라우저에서 실행하고 &#8220;실행되지&#8221;. 이 매니지타는 사용자 데이터를 사용하여 사용자 데이터와 상호 작용할 Microsoft 서비스. 추가 기능에서 사용자가 작업하는 데이터에만 액세스할 수 있습니다.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -125,7 +125,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35699" target="_blank">새 탭에서 보기</a>
 

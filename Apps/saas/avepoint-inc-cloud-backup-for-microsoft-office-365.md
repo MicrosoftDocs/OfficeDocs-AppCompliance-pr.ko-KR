@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 클라우드 백업, 데이터 Microsoft Office 365 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: a053ad5e60924f5d45fb8b99f91fe87b6dfe844e
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: dca13bf8ef2d0ab2147e7457ab617196edae7fd6
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63546566"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64623210"
 ---
 # <a name="cloud-backup-for-microsoft-office-365"></a>클라우드용 클라우드 Microsoft Office 365
 
@@ -36,8 +36,11 @@ AvePoint Inc.에서 Microsoft에 제공한 정보:
 | 파트너 회사 이름 | AvePoint Inc. |
 | 회사의 웹 사이트 | [https://www.avepoint.com](https://www.avepoint.com) |
 | 앱 사용 약관 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
-| 앱의 핵심 기능 | AvePoint 클라우드 백업은 비즈니스용&#8217;가장 완벽한 클라우드-클라우드 백업 솔루션으로, Microsoft 365. With
-AvePoint의 무제한, 자동화된 백업 및 보안 저장소&#8217;Azure 저장소 또는 자체 클라우드에서 복구할 정도 및 언제 결정하기만 하면 됩니다. 필요한 경우 세부적인 항목 수준 복원을 통해 업무상 중요한 전자 메일, 파일, 대화, 녹음/ 프로젝트, 작업, 그룹, Teams, Planner 및 사이트에 액세스할 수 있습니다. | | 회사 본사 위치 | 미국 | | 앱 정보 페이지 | [https://www.avepoint.com/products/cloud/backup/microsoft-of...](https://www.avepoint.com/products/cloud/backup/microsoft-office-365-backup) | | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas | | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
+| 앱의 핵심 기능 | AvePoint 클라우드 백업은 비즈니스용&#8217;가장 완벽한 클라우드-클라우드 백업 솔루션으로, Microsoft 365. AvePoint&#8217;Azure 저장소 또는 자체 클라우드의 무제한, 자동화된 백업 및 보안 저장소를 사용하면 복구할 정도와 복구할 때를 결정할 수 있습니다. 필요한 경우 세부적인 항목 수준 복원을 통해 업무상 중요한 전자 메일, 파일, 대화, 녹음/ 프로젝트, 작업, 그룹, Teams, Planner 및 사이트에 액세스할 수 있습니다. |
+| 회사 본사 위치 | 미국 of America |
+| 앱 정보 페이지 | [https://www.avepoint.com/products/cloud/backup/microsoft-of...](https://www.avepoint.com/products/cloud/backup/microsoft-office-365-backup) |
+| 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
+| 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -56,7 +59,7 @@ AvePoint의 무제한, 자동화된 백업 및 보안 저장소&#8217;Azure 저�
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | SharePoint/ODFB 사이트/Microsoft 365/Team ID, 이름, url; |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 of America |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 30일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
