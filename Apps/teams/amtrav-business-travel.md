@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: AmTrav Business Travel에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 784a5b98fc56414a8921387d37a56c534348640d
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: c73e4dfa325fd6b4146a8e70cf2b0be3e6ad1227
+ms.sourcegitcommit: 2c06ca843da2f9359a834b1479d2b9b7eee1f68d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63545136"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "64645908"
 ---
 # <a name="amtrav-business-travel"></a>AmTrav Business Travel
 
@@ -40,7 +40,7 @@ AmTrav에서 Microsoft에 제공한 정보:
 | 회사의 웹 사이트 | [https://www.Amtrav.com](https://www.Amtrav.com) |
 | 앱 사용 약관 | [https://www.amtrav.com/user-agreement](https://www.amtrav.com/user-agreement) |
 | 앱의 핵심 기능 | 클라이언트를 여행 어드바이저에 연결하는 채팅 응용 프로그램입니다. |
-| 회사 본사 위치 | 미국 |
+| 회사 본사 위치 | 미국 of America |
 | 앱 정보 페이지 | [https://www.amtrav.com/our-story](https://www.amtrav.com/our-story) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | IsvHosted |
 
@@ -85,11 +85,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 직원 계정을 프로비저닝, 수정 및 지우기 위한 프로세스를 설정하고 있나요? | 예 |
 | 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? | 예 |
 | 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? | 예 |
-| 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | 예|
+| 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | 예 |
 | 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? | 예 |
 | 공식적인 정보 보안 위험 관리 프로세스를 설정하고 있습니까? | 예 |
-| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? |  |
-| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요?| |
+| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? | 예 |
+| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요? | 예 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

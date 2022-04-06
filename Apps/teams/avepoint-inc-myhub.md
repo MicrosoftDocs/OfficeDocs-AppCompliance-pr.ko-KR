@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: MyHub에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0620429641e4e7b9669d48ec07af70eafe3accd3
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 483147bf1dbde67aa105e245012cdc3938227e01
+ms.sourcegitcommit: 2c06ca843da2f9359a834b1479d2b9b7eee1f68d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63546826"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "64645893"
 ---
 # <a name="myhub"></a>MyHub
 
@@ -40,7 +40,7 @@ AvePoint, inc.에서 Microsoft에 제공한 정보:
 | 회사의 웹 사이트 | [https://www.avepoint.com](https://www.avepoint.com) |
 | 앱 사용 약관 | [https://www.avepoint.com/company/terms-of-use](https://www.avepoint.com/company/terms-of-use) |
 | 앱의 핵심 기능 | 기존 작업 영역 관리 작업 영역의 새 요청을 위한 원스톱 쇼핑인 MyHub &amp; 를 Office 365 충족합니다. MyHub는 IT 팀에 부담을 주지 않고 사용하기 쉬운 프로비저닝, 재인증, &amp; 수명 주기 서비스를 제공합니다. 사용자는 작업을 수행 &amp; &amp; 하면 보안 작업 영역의 규모를 확장하고 자동화할 수 있어 작업 목록을 보다 쉽게 완료할 수 있습니다. MyHub&#65533;&amp; 지속 가능한 보안 프레임워크는 AvePoint&#65533;클라우드 거버넌스를 통해 지원됩니다. |
-| 회사 본사 위치 | 미국 |
+| 회사 본사 위치 | 미국 of America |
 | 앱 정보 페이지 | [https://www.avepoint.com/products/cloud/myhub](https://www.avepoint.com/products/cloud/myhub) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Azure |
@@ -60,12 +60,11 @@ AvePoint, inc.에서 Microsoft에 제공한 정보:
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 아니요 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | 사이트 모음/O365 그룹/Teams 메타데이터, 사용자 ID, 전자 메일, 이름 |
-| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 |
+| Microsoft 고객 데이터를 원본으로 사용하여 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치입니다. | 미국 of America |
 | 데이터 임대 및 폐기 프로세스를 설정하고 있나요? | 예 |
 | 계정 종료 후 데이터가 보존되는 기간은 얼마나 하나요? | 60일 미만 |
 | 데이터 액세스 관리 프로세스가 설정되었습니다. | 예 |
 | 고객 데이터 또는 고객 콘텐츠를 타사 또는 하위 프로세서로 전송하나요? | 아니요 |
-| Microsoft 고객 데이터를 공유하는 타사 서비스와 데이터 공유 계약이 체결된 경우 |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -93,11 +92,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 직원 계정을 프로비저닝, 수정 및 지우기 위한 프로세스를 설정하고 있나요? | 예 |
 | 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? | 예 |
 | 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? | 예 |
-| 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | 예|
+| 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | 예 |
 | 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? | 예 |
 | 공식적인 정보 보안 위험 관리 프로세스를 설정하고 있습니까? | 예 |
-| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? |  |
-| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요?| |
+| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? | 예 |
+| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요? | 예 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 

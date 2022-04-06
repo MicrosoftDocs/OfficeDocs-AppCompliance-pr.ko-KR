@@ -3,11 +3,17 @@ title: Azure 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 03/30/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 보안 및 규정 준수 정보의 모든 Azure 앱 정보입니다.
 localization_priority: Normal
+ms.openlocfilehash: bde06f0432926a2fa08aea71630fadc9221b1424
+ms.sourcegitcommit: 0b61e3c35f05a7f7926b2ccd6049be4fc2a149c9
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 03/30/2022
+ms.locfileid: "64554271"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>Azure 앱 보안 및 규정 준수
 

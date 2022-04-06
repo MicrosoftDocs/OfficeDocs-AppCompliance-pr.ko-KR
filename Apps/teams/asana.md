@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: CSA STAR 레지스트리의 아사나에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 0efa564d96cce27cd315969fea46d4ce34427cc3
-ms.sourcegitcommit: 58c50d1704196178455927329748485b40dd7880
+ms.openlocfilehash: 0630fc7ab1755cc41d8ac3615519f71c6bcf3dfb
+ms.sourcegitcommit: 2c06ca843da2f9359a834b1479d2b9b7eee1f68d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2022
-ms.locfileid: "63545506"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "64645909"
 ---
 # <a name="asana"></a>Asana
 
@@ -40,7 +40,7 @@ ms.locfileid: "63545506"
 | 회사의 웹 사이트 | [https://asana.com](https://asana.com) |
 | 앱 사용 약관 | [https://asana.com/terms#terms-of-service](https://asana.com/terms#terms-of-service) |
 | 앱의 핵심 기능 | 모임을 포함하여 아사나의 작업 항목으로 Teams 대화를 번역하여 계속 작업 진행 |
-| 회사 본사 위치 | 미국 |
+| 회사 본사 위치 | 미국 of America |
 | 앱 정보 페이지 | [https://asana.com/apps/microsoft](https://asana.com/apps/microsoft) |
 | 앱을 실행하기 위해 사용되는 호스팅 환경 또는 서비스 모델은 무엇입니까? | Paas |
 | 앱에서 어떤 호스팅 클라우드 공급자를 사용하나요? | Aws |
@@ -86,11 +86,11 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 직원 계정을 프로비저닝, 수정 및 지우기 위한 프로세스를 설정하고 있나요? | 예 |
 | 앱을 지원하는 네트워크 경계에 배포된 IDPS(침입 감지 및 방지) 소프트웨어가 있습니까? | 예 |
 | 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? | 예 |
-| 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | 예|
+| 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | 예 |
 | 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? | 예 |
 | 공식적인 정보 보안 위험 관리 프로세스를 설정하고 있습니까? | 예 |
-| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? |  |
-| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요?| |
+| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? | 예 |
+| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요? | 예 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
