@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: CSA STAR 레지스트리의 우선 순위 매트릭스, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 83e82e68a5159a645e39c520f2620d9593b2b7d3
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: c40d5d346b7786a01afee112147f9e3653b7559c
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284909"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64626950"
 ---
 # <a name="priority-matrix"></a>Priority Matrix
 
@@ -47,9 +47,9 @@ Appfluence Inc에서 Microsoft에 제공한 정보:
 
 이 정보는 Appfluence Inc에서 이 앱이 조직 데이터를 수집 및 저장하는 방법과 앱이 수집하는 데이터를 통해 조직이 하게 될 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
@@ -61,7 +61,7 @@ Appfluence Inc에서 Microsoft에 제공한 정보:
 >| openid | 위임 | 사용자의 로그인 모드를 나타내기 위해 SSO 연결을 저장합니다. | Single Sign-On을 통해 사용자를 로그인하기 위해 | affadfb6-f17b-428f-97f9-9aae3b6175bc |
 >| Calendars.Read | 위임 | 소수의 일정 이벤트가 시스템에 저장된 작업으로 설정됩니다. | 1:1 보기에 표시될 수 있도록 일정 이벤트를 읽습니다. 또한 새 계정을 초기화합니다. | d76f016f-52c7-41b5-835b-900361d7040c |
 >| Mail.Read | 위임 | 시스템에서 만든 작업을 원본 메시지에 대한 링크와 함께 저장합니다. | 이 Outlook 추가 기능에서 전자 메일을 작업으로 전환하고 공유 작업을 1:1 보기로 표시하는 데 사용됩니다. | d76f016f-52c7-41b5-835b-900361d7040c |
->| Tasks.Read | 위임 | 일부 Outlook/Planner 작업은 새 사용자를 지원하기 위해 시스템에 복제됩니다. | 새 사용자 계정을 해당 사용자 계정으로 부트스트스트 Graph 작업을 수행합니다. | d76f016f-52c7-41b5-835b-900361d7040c |
+>| Tasks.Read | 위임 | 일부 Outlook/Planner 작업은 새 사용자를 지원하기 위해 시스템에 복제됩니다. | 새 사용자 계정을 해당 사용자 계정과 함께 부트스트스트 Graph 작업을 수행합니다. | d76f016f-52c7-41b5-835b-900361d7040c |
 
 
 #### <a name="non-microsoft-services-used"></a>비영구 Microsoft 서비스
@@ -98,7 +98,7 @@ Appfluence Inc에서 Microsoft에 제공한 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35667" target="_blank">새 탭에서 보기</a>
 

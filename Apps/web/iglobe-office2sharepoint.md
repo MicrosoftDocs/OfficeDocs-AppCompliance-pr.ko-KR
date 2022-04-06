@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: Office2SharePoint에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 16447d18ee971bd9f9fcb46916fa7db5fedf68cd
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 9be661602c6f4d586c615ff06b2642f892e0c085
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288490"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64627060"
 ---
 # <a name="office2sharepoint"></a>Office2SharePoint
 
@@ -48,9 +48,9 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 이 정보는 iGlobe에서 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직에서 제공하는 컨트롤에 대해 제공됩니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
@@ -61,12 +61,12 @@ iGlobe에서 Microsoft에 제공한 정보:
 >| Group.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 선택한 메일/s에 액세스하고 첨부 파일을 얻습니다. 메일 또는 그룹 SharePoint 메일에 추가합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
 >| Sites.Manage.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 응용 프로그램에서 로그인한 사용자를 대신하여 모든 사이트 모음의 문서 라이브러리 및 목록을 만들거나 삭제할 수 있도록 합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
 >| Sites.Read.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 사이트를 SharePoint. 선택한 메일에서 파일을 다운로드하고 첨부 파일을 저장합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| Sites.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 목록, SharePoint 및 파일을 다운로드합니다. 파일을 목록에 SharePoint 저장합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
->| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 사이트, SharePoint, 그룹 OneDrive 사이트를 검색할 수 있도록 합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| Sites.ReadWrite.All | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 목록 SharePoint 라이브러리 및 파일을 다운로드합니다. 파일을 목록에 SharePoint 저장합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
+>| User.Read | 위임 | 응용 프로그램 데이터베이스에 데이터가 저장되지 않습니다. | 사용자가 사이트, SharePoint 사이트 및 OneDrive 사이트를 만들 수 있도록 합니다. | 5971c986-9d39-409c-a6f8-1385b1f690ef |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
-기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
+기본 제공 앱 및 추가 Microsoft 365 Microsoft API를 사용하여 OII(조직 식별 가능 Graph)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
@@ -96,7 +96,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 조직의 관리자가 파트너 시스템에서 정보를 제어하는 방법에 대해 설명하는 방법 삭제, 보존, 감사, 보관, 최종 사용자 정책 등
 
->모든 응용 프로그램 데이터는 고객의 자체 테넌트에 있으며 테넌트 관리자가 조직의 다른 모든 서비스로 Office 365. 추가 기능에는 응용 프로그램 데이터가 저장되지 않습니다. 최신 추가 기능을 샌드박스 브라우저에서 실행하고 &#8220;실행되지&#8221;. 추가 기능에서 사용자가 작업하는 데이터에만 액세스할 수 있습니다. 사용자 데이터를 사용하여 사용자 데이터와 상호 작용합니다Microsoft 서비스.
+>모든 응용 프로그램 데이터는 고객의 자체 테넌트에 있으며 테넌트 관리자가 조직의 다른 모든 서비스로 Office 365. 추가 기능에는 응용 프로그램 데이터가 저장되지 않습니다. 최신 추가 기능을 샌드박스 브라우저에서 실행하고 &#8220;실행되지&#8221;. 추가 기능에서 사용자가 작업하는 데이터에만 액세스할 수 있습니다. 이 매니지타는 사용자 데이터를 사용하여 사용자 데이터와 상호 작용할 Microsoft 서비스.
 
 #### <a name="human-review-of-organizational-information"></a>조직 정보의 인적 검토
 
@@ -112,7 +112,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35747" target="_blank">새 탭에서 보기</a>
 

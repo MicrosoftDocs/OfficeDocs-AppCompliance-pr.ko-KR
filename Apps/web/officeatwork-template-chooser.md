@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: attested
 description: 템플릿 선택기, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 48f491b41cec663c07f11645f02cb495f248d765
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 0aa23f2ad511f1136524ef757ffabffa35de6e29
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59288485"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64627498"
 ---
 # <a name="template-chooser"></a>Template Chooser
 
@@ -48,16 +48,16 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 이 정보는 이 앱이 조직 데이터를 수집 및 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 방법에 대한 정보를 Officeatwork에서 제공합니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
 >| Files.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | 즐겨찾기: 사용자가 데이터를 읽고 쓸 수 OneDrive. OneDrive: 사용자가 데이터를 읽고 쓸 수 OneDrive. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
 >| Group.ReadWrite.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 그룹에 데이터를 읽고 쓸 수 있습니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| GroupMember.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 읽을 수 있는 SharePoint 권한입니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
->| Sites.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint 온라인: 온라인에서 데이터를 SharePoint. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| GroupMember.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint Online: 온라인에서 데이터를 읽을 SharePoint 권한입니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
+>| Sites.Read.All | 위임 | 데이터가 저장되지 않습니다. | SharePoint Online: 온라인에서 데이터를 SharePoint. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
 >| User.Read | 위임 | 데이터가 저장되지 않습니다. | Sing-In: officeatwork 앱에서 사용자의 기본 속성을 읽을 수 있도록 합니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
 >| User.Read.All | 위임 | 데이터가 저장되지 않습니다. | Teams: 사용자가 속한 그룹을 찾아야 합니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
 >| offline_access | 위임 | 데이터가 저장되지 않습니다. | Sing-In: 새로 고침 토큰을 통해 자동 로그인을 사용하도록 설정하려면 사용자가 officeatwork 앱을 실행하기 전마다 수동으로 로그인해야 합니다. 이 범위는 SSO를 사용할 수 없는 호스트 응용 프로그램에만 필요합니다. | dae2eacf-3eb5-4440-baff-984fbd5cae68 |
@@ -66,7 +66,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
-기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
+기본 제공 앱 및 추가 Microsoft 365 Microsoft API를 사용하여 OII(조직 식별 가능 Graph)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
@@ -106,7 +106,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35385" target="_blank">새 탭에서 보기</a>
 

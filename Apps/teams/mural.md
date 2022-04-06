@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: certified
 description: MURAL, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: df6a5ae8a4b098679e9fc43cedfe8605a8c0d99e
-ms.sourcegitcommit: 021c258a4aad74b2525c08b60926fbbcd421f0c0
+ms.openlocfilehash: 46369b01c7570f46997e8a9cb43e30c9d882e0bf
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "64602297"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64627280"
 ---
 # <a name="mural"></a>MURAL
 
@@ -57,7 +57,7 @@ MURAL에서 Microsoft에 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기반 인프라가 Microsoft 고객 또는 장치와 관련된 데이터를 처리하나요? | 예 |
-| 앱에서 처리되는 데이터는 무엇입니까? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| 앱에서 처리되는 데이터는 무엇입니까? | MURAL에는 로그인 목적으로 이름, 성 및 전자 메일 주소만 필요합니다. 처리/저장할 데이터의 종류는 고객에 따라 다를 수 있습니다. |
 | 앱에서 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기반 인프라에 Microsoft 고객 데이터가 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇입니까? | MURAL에는 로그인 목적으로 사용자의 이름, 성 및 전자 메일만 필요하며, 저장되는 나머지 정보는 고객이 자신의 벽에 저장하는 정보에 따라 달라지기만 합니다. |
@@ -97,8 +97,8 @@ Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterpr
 | 잠재적인 보안 이벤트를 감지하기 위해 수동 또는 자동화된 도구에서 정기적으로 모든 로그를 검토하나요? | 예|
 | 보안 이벤트가 감지되면 직원에게 경고가 자동으로 발송되어 Triage가 발생하나요? | 예 |
 | 공식적인 정보 보안 위험 관리 프로세스를 설정하고 있습니까? | 예 |
-| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? |  |
-| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요?| |
+| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정하고 있습니까? | 예 |
+| 감지 후 72시간 이내에 해당 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고하나요?| 예 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
