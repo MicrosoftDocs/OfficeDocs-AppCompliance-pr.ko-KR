@@ -1,23 +1,23 @@
 ---
-title: Azure 앱 보안 및 규정 준수 - 모든 앱
+title: ID 보안 및 규정 준수 Azure 앱 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/01/2022
+ms.date: 04/05/2022
 ms.topic: article
 ms.service: attestation
-description: 모든 보안 및 규정 준수 정보의 모든 Azure 앱 정보입니다.
+description: 모든 Azure 앱 ID에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: f0a736c37fbb0143f1d9c2bd2bb031d8fe2f3c9c
-ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
+ms.openlocfilehash: feec2b607f1fb82dc923de45ac8324fb7f006af3
+ms.sourcegitcommit: 4e8ef8e62b64b63eb9a9aa8971bf0c6ba14c2d03
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2022
-ms.locfileid: "64627990"
+ms.lasthandoff: 04/06/2022
+ms.locfileid: "64681499"
 ---
-# <a name="azure-app-ids-security-and-compliance"></a>Azure 앱 보안 및 규정 준수
+# <a name="azure-app-ids-security-and-compliance"></a>ID 보안 및 규정 준수 Azure 앱
 
-Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용하는 Azure 앱 및 추가 기능 관련 결정을 내리는 데 필요한 정보를 제공합니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
+Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사용하는 Azure 앱 ID 및 추가 기능에 대한 결정을 신속하게 처리하고 의사 결정을 알리는 데 필요한 정보를 제공합니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
 
 | **Azure 앱 ID** | **게시자 증명** | **인증** |
 |:--------|:------------|:-------------:|
@@ -193,7 +193,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [93544582-de9c-42a0-baa5-df3d25e9bd48](./93544582-de9c-42a0-baa5-df3d25e9bd48.md) | **✓** |  |
 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](./9430520a-241f-4a00-b041-56aa8bbc9cc9.md) | **✓** |  |
 | [950aa4fb-0583-4b13-9b5f-bbc92b9cc376](./950aa4fb-0583-4b13-9b5f-bbc92b9cc376.md) | **✓** |  |
-| [959a79dd-69d0-4d05-b9a8-b9f02e28c049](./959a79dd-69d0-4d05-b9a8-b9f02e28c049.md) | **✓** |  |
+| [959a79ddd-69d0-4d05-b9a8-b9f02e28c049](./959a79dd-69d0-4d05-b9a8-b9f02e28c049.md) | **✓** |  |
 | [95a2eca4-fb4b-4488-8ba8-6bacf3812c76](./95a2eca4-fb4b-4488-8ba8-6bacf3812c76.md) | **✓** |  |
 | [95fb5da0-6ced-4247-9d62-294f8fcb75df](./95fb5da0-6ced-4247-9d62-294f8fcb75df.md) | **✓** |  |
 | [984562b3-6a46-4a7f-a19b-681442b0cdc0](./984562b3-6a46-4a7f-a19b-681442b0cdc0.md) | **✓** |  |

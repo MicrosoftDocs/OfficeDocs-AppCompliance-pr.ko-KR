@@ -1,27 +1,27 @@
 ---
-title: Azure 앱 ID 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
+title: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba에 대한 Azure 앱 ID 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/01/2022
+ms.date: 04/05/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba에 대해 사용 가능한 모든 보안 및 규정 준수 정보
-ms.openlocfilehash: 9bdceefa31ceaf00c1ac4a6c2fb201bc02ee4cd0
-ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
+description: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
+ms.openlocfilehash: c7d409723ef0b02c6ecb618afa6de21dc8e75a91
+ms.sourcegitcommit: 4e8ef8e62b64b63eb9a9aa8971bf0c6ba14c2d03
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2022
-ms.locfileid: "64626320"
+ms.lasthandoff: 04/06/2022
+ms.locfileid: "64679488"
 ---
 # <a name="azure-app-id-6f5cab29-c1ad-4048-bf96-fdbe54dba6ba"></a>Azure 앱 ID: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
 
 
 ### <a name="apps-associated-with-this-id"></a>이 ID와 연결된 앱:
-| **앱 이름** | **인증** | **AppSource의 보기** |
+| **앱 이름** | **인증** | **AppSource에서 보기** |
 |--------------|---------------|-----------------------|
 | [Meetgeek](../forward/WA200003720.md) |  | [https://appsource.microsoft.com/product/office/WA200003720](https://appsource.microsoft.com/product/office/WA200003720) |
 
 ### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 앱 준수 상태
-- Publisher 상태: 완료
+- Publisher Attestaton 상태: 완료됨
