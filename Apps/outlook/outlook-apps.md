@@ -3,17 +3,17 @@ title: Microsoft Outlook 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/25/2022
+ms.date: 03/30/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Outlook 앱에 대한 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 73409f3fbc0472c0dcee68029ca34561b13c312a
-ms.sourcegitcommit: b7ef94cf5fb12f6730a8688834ceee4f8fe8e0da
+ms.openlocfilehash: 36dc5495db220201abaaa790abab76414b288daa
+ms.sourcegitcommit: 0b61e3c35f05a7f7926b2ccd6049be4fc2a149c9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64462981"
+ms.lasthandoff: 03/30/2022
+ms.locfileid: "64555381"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook 앱 보안 및 규정 준수
 

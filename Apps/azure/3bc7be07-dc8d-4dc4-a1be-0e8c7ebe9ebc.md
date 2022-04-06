@@ -1,27 +1,27 @@
 ---
-title: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc에 대한 ID 정보 Azure 앱
+title: Azure 앱 ID 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc에 대한 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/02/2022
+ms.date: 04/01/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: bcc1880c7f0e71c4d0551e0eefa189c839610df3
-ms.sourcegitcommit: 1ec89e36ca96efb9704a11b904ab84f4030b3578
+ms.openlocfilehash: 082e35910a5fd01c91e419e3adf8559d713e1280
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "64653857"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64626710"
 ---
 # <a name="azure-app-id-3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc"></a>Azure 앱 ID: 3bc7be07-dc8d-4dc4-a1be-0e8c7ebe9ebc
 
 
 ### <a name="apps-associated-with-this-id"></a>이 ID와 연결된 앱:
-| **앱 이름** | **인증** | **AppSource에서 보기** |
+| **앱 이름** | **인증** | **AppSource의 보기** |
 |--------------|---------------|-----------------------|
 | [Autopilot 워크플로](../forward/WA200003745.md) |  | [https://appsource.microsoft.com/product/office/WA200003745](https://appsource.microsoft.com/product/office/WA200003745) |
 
 ### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 앱 준수 상태
-- Publisher Attestaton 상태: 완료됨
+- Publisher 상태: 완료
