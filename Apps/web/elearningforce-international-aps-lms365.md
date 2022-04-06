@@ -8,12 +8,12 @@ ms.service: attestation
 certification_type: certified
 description: LMS365에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, CSA STAR 레지스트리의 Microsoft Cloud App Security 앱 카탈로그 정보 및 보안/규정 준수 정보
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 2fa9fb2637b40b439bc6450514e194e222415ec0
-ms.sourcegitcommit: d85595f6518d8d05f0aee75380f51659908b6bcb
+ms.openlocfilehash: 7cb2fc4ab5acf706edc367c3455385f00480ff9b
+ms.sourcegitcommit: ddedb98532d7cef5cff47b137aa0ad87494b163d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59284901"
+ms.lasthandoff: 04/02/2022
+ms.locfileid: "64623200"
 ---
 # <a name="lms365"></a>LMS365
 
@@ -47,9 +47,9 @@ ELEARNINGFORCE International Aps에서 Microsoft에 제공하는 정보:
 
 이 정보는 이 앱이 조직 데이터를 수집하고 저장하는 방법 및 앱이 수집하는 데이터를 통해 조직이 제어할 수 있는 제어에 대한 ELEARNINGFORCE International Aps에서 제공했습니다.
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용한 데이터 Graph
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft 365를 사용하여 데이터 Graph
 
-이 앱에 [Graph Microsoft 사용자 권한을](https://docs.microsoft.com/graph/permissions-reference) 나열합니다.
+이 앱에 [Graph Microsoft 사용자 권한을](/graph/permissions-reference) 나열합니다.
 
 >| **사용 권한**  | **사용 권한 유형(위임/응용 프로그램)** | **데이터가 수집하나요? 수집의 사당성** | **데이터가 저장되어 있나요? 저장 사정이 있나요?** | **Azure AD 앱 ID** |
 >|:----------------|:--------------------|:---------------------------------------------------|:--------------------------|:--------------------------|
@@ -59,12 +59,12 @@ ELEARNINGFORCE International Aps에서 Microsoft에 제공하는 정보:
 >| User.Invite.All | 위임 | 없음 | 앱이 현재 로그인한 사용자 대신 외부 사용자를 초대할 수 있도록 허용 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| User.Read | 위임 | 없음 | 로그인하고 사용자 프로필을 읽습니다. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 >| User.Read.All | 위임 | 없음 | 앱에서 현재 로그인한 사용자의 전체 프로필을 읽을 수 있도록 허용합니다. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| User.Read.All | application | 앱에서 전체 사용자 프로필을 읽을 수 있도록 허용합니다. 계층&#8217;작성하기 위해 관리자에게&#8217; 읽기 위해 필요한 정보를 제공합니다. | 다음 개인 데이터는 응용 프로그램 내의 학습자 관리 관리자 대시보드 기능에 사용되는 각 고객의 전용 데이터베이스에 &amp; 저장됩니다. 계정 이름, 사용자 표시 이름, 전자 메일 주소, 부서, 직위, Office, 국가, 구/시, 관리자 ID/전자 메일 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
->| 프로필 | 위임 | 없음 | 사용자의 기본 프로필을 시청하세요. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| User.Read.All | application | 앱에서 전체 사용자 프로필을 읽을 수 있도록 허용합니다. 계층&#8217;작성하기 위해 관리자에게&#8217; 읽기 위해 필요한 정보를 제공합니다. | 다음 개인 데이터는 응용 프로그램 내의 학습 &amp; 자 관리 관리자 대시보드 기능에 사용되는 각 고객의 전용 데이터베이스에 저장됩니다. 계정 이름, 사용자 표시 이름, 전자 메일 주소, 부서, 직위, Office, 국가, 구/시, 관리자 ID/전자 메일 | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
+>| 프로필 | 위임 | 없음 | 사용자의 기본 프로필을  시청하세요. | a1a0b277-0efb-4f00-9661-6d1a3df3cddc |
 
 #### <a name="data-access-using-other-microsoft-apis"></a>다른 Microsoft API를 사용한 데이터 액세스
 
-기본 제공 앱 및 추가 Microsoft 365 Microsoft Graph 기타 Microsoft API를 사용하여 OII(조직 식별 가능 정보)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
+기본 제공 앱 및 추가 Microsoft 365 Microsoft API를 사용하여 OII(조직 식별 가능 Graph)를 수집하거나 처리합니다. 이 앱에서 사용하는 Microsoft API를 Graph Microsoft API를 나열합니다.
 
 >| **API** |  **OII가 수집하나요?** |  **수집되는 OII는 무엇입니까?** | **OII 수집의 사당성** | **OII가 저장되어 있나요?** | **OII 저장의 사당성** |
 >|:-------------------|:-------------------|:--------------------------|:--------------------------|:---------------------------------------------------|:--------------------------|
@@ -104,7 +104,7 @@ ELEARNINGFORCE International Aps에서 Microsoft에 제공하는 정보:
 
 Microsoft Cloud App Security [카탈로그의](https://www.microsoft.com/enterprise-mobility-security/cloud-app-security) 정보가 아래에 표시됩니다.
 
-<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35695' frameborder='no' style='width: 100%;'></iframe>
+<iframe height='1020' title='Microsoft Cloud App Security 정보' src='https://appmcasinfoprod.azurewebsites.net/#/dashboard/35695' frameborder='no'></iframe>
 
 <a href="https://appmcasinfoprod.azurewebsites.net/#/dashboard/35695" target="_blank">새 탭에서 보기</a>
 
