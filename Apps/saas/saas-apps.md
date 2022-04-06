@@ -3,11 +3,17 @@ title: SaaS 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/31/2022
+ms.date: 03/29/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
+ms.openlocfilehash: 29a4ec64e77d1b8a2d8f24cb5a7322e03de7bc97
+ms.sourcegitcommit: 64860967a2baa3b08445ad7e186e46ce529efb13
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 03/29/2022
+ms.locfileid: "64528167"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
@@ -17,7 +23,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 |:--------|:------------|:----------------------:|:-------------:|
 | [관리 센터](./officeatwork-admin-center.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Anywhere365 Attendant Console for Microsoft Teams](./workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
-| [Anywhere365 Teams](./workstreampeople-bv-anywhere365-contact-center-for-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [Buzzeasy Contact Center for Teams](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt. | **✓** |  |
 | [CallCabinet Atmos 준수 기록 및 분석](./callcabinet-corporation-atmos-compliance-recording-and-analytics.md) | CallCabinet Corporation | **✓** |  |
 | [CC4Teams](./cc4all-cc4teams.md) | CC4ALL | **✓** |  |
