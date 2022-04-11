@@ -7,12 +7,12 @@ description: Microsoft 365 인증 제출 가이드 세부 정보
 keywords: 앱 인증 팀 Microsoft 365 보안 규정 준수 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 753b40f63b293fea83705ae8124f5f22cbebe394
-ms.sourcegitcommit: 9cc3fe8502a6f21f3f6abb4dd23b99b116c51b8e
+ms.openlocfilehash: 5081e187615400b038795215ad0d5dcc934e1a87
+ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/08/2022
-ms.locfileid: "64720982"
+ms.lasthandoff: 04/10/2022
+ms.locfileid: "64751827"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 인증 제출 가이드
 
@@ -90,6 +90,7 @@ Microsoft 365 인증 사양에 대한 업데이트는 약 6~12개월마다 예�
 
 ### <a name="infrastructure-as-a-service-iaas-platform-as-a-service-paas-and-software-as-a-service-saas"></a>IaaS(Infrastructure as a Service), PaaS(Platform as a Service) 및 SaaS(Software as a Service) 
 IaaS 및/또는 PaaS를 사용하여 검토 중인 애플리케이션의 인프라 또는 추가 기능 코드 배달을 지원하는 경우 클라우드 플랫폼 공급자는 인증 프로세스 전반에 걸쳐 평가되는 일부 보안 제어를 담당합니다. 따라서 인증 분석가는 PCI DSS AOC(Attestation of Compliance), ISO27001 또는 SOC 2 Type II 보고서와 같은 외부 규정 준수 보고서를 통해 클라우드 플랫폼 공급자의 보안 모범 사례에 대한 독립적인 외부 확인을 제공해야 합니다. 
+
 
 부록 F는 다음 배포 유형 및 앱/추가 기능이 M365 데이터를 반출하는지 여부에 따라 적용할 수 있는 보안 컨트롤에 대한 세부 정보를 제공합니다. 
 * ISV 호스트 
@@ -249,6 +250,7 @@ GraphAPI 권한 유효성 검사는 앱/추가 기능이 지나치게 허용 권
 침투 테스트 보고서를 검토하여 아래 컨트롤에 설명된 다음과 같은  **오류 조건을** 충족하는 취약성이 없는지 확인합니다.
  
 **침투 테스트 요구 사항**
+
 
 |**조건 유형**|**침투 테스트 컨트롤**|
 | -------------------------|-----------------------------|
