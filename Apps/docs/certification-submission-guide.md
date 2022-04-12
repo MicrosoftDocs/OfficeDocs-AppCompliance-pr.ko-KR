@@ -3,16 +3,16 @@ ms.author: oromalle
 title: Microsoft 365 인증 제출 가이드
 author: orionomalley
 manager: tonybal
-description: Microsoft 365 인증 제출 가이드 세부 정보
+description: Microsoft 365 인증은 데이터 및 개인 정보 보호가 적절하게 보호되고 있음을 엔터프라이즈 조직에 보증하고 신뢰합니다.
 keywords: 앱 인증 팀 Microsoft 365 보안 규정 준수 m365
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: 5081e187615400b038795215ad0d5dcc934e1a87
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: fd6082a482cdf5e4dc268f140b7f2a8de4d8880f
+ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64751827"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64784527"
 ---
 # <a name="microsoft-365-certification-submission-guide"></a>Microsoft 365 인증 제출 가이드
 
@@ -55,7 +55,7 @@ Microsoft 365 인증 프로그램에 참여함으로써 귀하는 이러한 추�
 >* Office 추가 기능(Word, Excel, PowerPoint, Outlook, Project, OneNote)
 >* Webapps
 
-## <a name="prerequisites"></a>필수 구성 요소
+## <a name="prerequisites"></a>전제 조건
 
 ### <a name="publisher-attestation"></a>게시자 증명
 
@@ -89,8 +89,7 @@ Microsoft 365 인증 사양에 대한 업데이트는 약 6~12개월마다 예�
 > 범위 내 환경에는 DMZ가 있어야 하며 앱/추가 기능의 지원 환경은 내부 비즈니스 시스템 및 회사 환경에서 분할되어야 하므로 평가 활동의 범위를 범위 내 시스템으로만 제한해야 합니다. 인증 분석가는 사용 중인 세분화 기술의 유효성을 검사하기 위해 테스트를 포함해야 하는 침투 테스트 보고서를 검토하는 작업과 함께 평가 중에 세분화 기술의 유효성을 검사합니다.
 
 ### <a name="infrastructure-as-a-service-iaas-platform-as-a-service-paas-and-software-as-a-service-saas"></a>IaaS(Infrastructure as a Service), PaaS(Platform as a Service) 및 SaaS(Software as a Service) 
-IaaS 및/또는 PaaS를 사용하여 검토 중인 애플리케이션의 인프라 또는 추가 기능 코드 배달을 지원하는 경우 클라우드 플랫폼 공급자는 인증 프로세스 전반에 걸쳐 평가되는 일부 보안 제어를 담당합니다. 따라서 인증 분석가는 PCI DSS AOC(Attestation of Compliance), ISO27001 또는 SOC 2 Type II 보고서와 같은 외부 규정 준수 보고서를 통해 클라우드 플랫폼 공급자의 보안 모범 사례에 대한 독립적인 외부 확인을 제공해야 합니다. 
-
+IaaS 및/또는 PaaS를 사용하여 검토 중인 애플리케이션의 인프라 또는 추가 기능 코드 배달을 지원하는 경우 클라우드 플랫폼 공급자는 인증 프로세스 전반에 걸쳐 평가되는 일부 보안 제어를 담당합니다. 따라서 인증 분석가는 [PCI DSS] AOC(Attestation of Compliance), ISO27001 또는 [SOC 2] Type II 보고서와 같은 외부 규정 준수 보고서를 통해 클라우드 플랫폼 공급자의 보안 모범 사례에 대한 독립적인 외부 확인을 제공해야 합니다. 
 
 부록 F는 다음 배포 유형 및 앱/추가 기능이 M365 데이터를 반출하는지 여부에 따라 적용할 수 있는 보안 컨트롤에 대한 세부 정보를 제공합니다. 
 * ISV 호스트 
@@ -830,10 +829,10 @@ PCI DSS 감사는 인시던트 대응 정책 및 프로세스의 일부 요소�
 
 ### <a name="evidence-collection---deltas-for-soc-2"></a>증거 수집 - SOC 2에 대한 델타
 
-SOC 2 규정 준수를 이미 달성한 경우 SOC 2에서 완전히 적용되지 않는 다음 델타(간격)는 이 Microsoft 365 인증의 일부로 검토해야 합니다.
+SOC 2 규정 준수를 이미 달성한 경우 SOC 2에서 완전히 적용되지 않는 다음 델타(간격)를 이 Microsoft 365 인증의 일부로 검토해야 합니다.
 
 > [!NOTE]
-> Microsoft 365 인증 평가의 일환으로 인증 분석가는 매핑된 SOC 2 컨트롤이 SOC 2 평가의 일부로 포함되지 않은지 여부를 확인하고 추가 보증을 제공하기 위해 포함된 것으로 확인된 컨트롤을 샘플링하기로 결정할 수도 있습니다. SOC 2 평가에서 누락된 모든 요구 사항은 Microsoft 365 인증 평가 활동의 일부로 포함되어야 합니다.
+> Microsoft 365 인증 평가의 일환으로 인증 분석가는 매핑된 SOC 2 컨트롤이 SOC 2 평가의 일부로 포함되지 않은지 여부를 결정하고 추가 보증을 제공하기 위해 포함된 것으로 확인된 샘플 컨트롤을 결정할 수도 있습니다. SOC 2 평가에서 누락된 모든 요구 사항은 Microsoft 365 인증 평가 활동의 일부로 포함되어야 합니다.
 
 **맬웨어 보호 - 애플리케이션 제어**
 
@@ -863,7 +862,7 @@ SOC 2 감사는 방화벽 액세스 제어 목록에 대한 변경 제어를 구
 
 * 방화벽 규칙 검토는 적어도 6개월마다 수행됨을 보여 줍니다.
 
-애플리케이션이 노출될 수 있는 수많은 웹 애플리케이션 위협 및 취약성으로부터 보호하기 위해 WAF(Web Application Firewall) 또는 이와 유사한 항목이 배포된 경우 추가 크레딧이 제공됩니다. WAF 또는 이와 유사한 항목이 있는 경우 다음을 수행해야 합니다.
+애플리케이션이 노출될 수 있는 수많은 웹 애플리케이션 위협 및 취약성으로부터 보호하기 위해 WAF(웹 애플리케이션 방화벽) 또는 이와 유사한 항목을 배포하는 경우 추가 크레딧이 제공됩니다. WAF 또는 이와 유사한 항목이 있는 경우 다음을 수행해야 합니다.
 
 * WAF가 활성 방어 모드로 구성되었거나 경고를 사용하여 더 많이 모니터링하는 것을 보여 줍니다.
 
@@ -885,7 +884,7 @@ SOC 2 감사는 방화벽 액세스 제어 목록에 대한 변경 제어를 구
 
 &emsp; 사이트 간 스크립팅 공격을&#x2713;.
 
-&emsp;&#x2713; SQL 삽입 공격.
+&emsp; SQL 삽입 공격&#x2713;.
 
 &emsp; 세션 고정 공격을&#x2713;.
 
@@ -999,7 +998,7 @@ SOC2 감사는 인시던트 대응 정책 및 프로세스의 일부 요소를 �
 
 ### <a name="hosting-deployment-types"></a>호스팅 배포 유형
 
-Microsoft는 애플리케이션을 배포하고 다양한 호스팅 환경 내에 앱/추가 기능 코드를 저장합니다. Microsoft 365 인증 내의 일부 보안 제어에 대한 전반적인 책임은 사용 중인 호스팅 환경에 따라 달라집니다. 부록 F는 일반적인 배포 유형을 살펴보고 평가 프로세스의 일부로 평가되는 보안 컨트롤에 매핑합니다. 다음과 같은 호스팅 배포 유형이 식별되었습니다.
+Microsoft는 애플리케이션을 배포하고 다양한 호스팅 환경 내에 앱/추가 기능 코드를 저장합니다. Microsoft 365 인증 내에서 일부 보안 제어의 전반적인 책임은 사용 중인 호스팅 환경에 따라 달라집니다. 부록 F는 일반적인 배포 유형을 살펴보고 평가 프로세스의 일부로 평가되는 보안 컨트롤에 매핑합니다. 다음과 같은 호스팅 배포 유형이 식별되었습니다.
 
 |호스팅 유형  |설명  |
 |-----|------|

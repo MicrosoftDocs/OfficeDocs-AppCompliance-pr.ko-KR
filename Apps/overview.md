@@ -2,17 +2,18 @@
 title: Microsoft 365 앱 규정 준수 프로그램
 author: LGerrard
 ms.author: Legerrar
+manager: tonybal
 description: 프로그램 소개 및 개요
 keywords: microsoft 365 m365 앱 게시자 증명 인증
 ms.topic: overview
 ms.service: attestation
 localization_priority: Priority
-ms.openlocfilehash: 17aab158f4fc7803966afed9df88adf9688fcc63
-ms.sourcegitcommit: af065aeee2812a85ead9e0de968fc474204a6e8a
+ms.openlocfilehash: fec13172c98d6ec63b3ba4160eb04c9b345acb8d
+ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/22/2022
-ms.locfileid: "63697070"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64784357"
 ---
 # <a name="microsoft-365-app-compliance-program"></a>Microsoft 365 앱 규정 준수 프로그램
 
@@ -24,7 +25,7 @@ Microsoft의 사명: Microsoft 고객이 조직을 실행하는 응용 프로그
 
 ## <a name="publisher-verification"></a>게시자 확인
 
-[게시자 확인](https://docs.microsoft.com/azure/active-directory/develop/publisher-verification-overview)은 관리자 및 사용자가 Microsoft ID 플랫폼과 통합하는 앱 개발자의 신뢰성을 파악하는 데 도움이 됩니다. 앱이 게시자 확인됨으로 표시되는 경우 게시자가 확인 프로세스가 완료된 Microsoft 파트너 네트워크 계정을 사용하여 해당 ID를 확인했고 응용 프로그램 등록을 통해 이 MPN 계정과 연결되었음을 의미합니다.
+[게시자 확인](/azure/active-directory/develop/publisher-verification-overview)은 관리자 및 사용자가 Microsoft ID 플랫폼과 통합하는 앱 개발자의 신뢰성을 파악하는 데 도움이 됩니다. 앱이 게시자 확인됨으로 표시되는 경우 게시자가 확인 프로세스가 완료된 Microsoft 파트너 네트워크 계정을 사용하여 해당 ID를 확인했고 응용 프로그램 등록을 통해 이 MPN 계정과 연결되었음을 의미합니다.
 게시자 확인은 다음 조건을 충족하는 앱에 적용됩니다.  
 - OAuth 2.0 및 OpenID Connect를 사용하여 사용자가 로그인하도록 하고 Microsoft Graph 등의 서비스 측면 API를 사용하여 데이터에 대한 액세스를 요청합니다. 
 - Azure AD에 다중 테넌트로 등록되었습니다.  
@@ -50,6 +51,6 @@ Microsoft 365 인증은 다음 Microsoft 제품과 통합되는 모든 앱에 �
 - **웹앱**(파트너 센터의 상업용 마켓플레이스를 통해 게시된 SaaS 앱은 현재 비공개 미리 보기 상태입니다. 참여에 관심이 있는 경우 이 [양식](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR3Om82jEdWlAkFiVJRhmM_xUQkY0SjVVOVVLR0RUN0RYNlRWMDRTSjVQRy4u)을 작성하세요.
 
 ### <a name="get-started"></a>시작하기
-- [게시자 확인을 완료하는 방법](https://docs.microsoft.com/azure/active-directory/develop/mark-app-as-publisher-verified)
-- [Microsoft 365 인증을 완료하는 방법](https://docs.microsoft.com/microsoft-365-app-certification/docs/certification)
+- [게시자 확인을 완료하는 방법](/azure/active-directory/develop/mark-app-as-publisher-verified)
+- [Microsoft 365 인증을 완료하는 방법](/microsoft-365-app-certification/docs/certification)
 

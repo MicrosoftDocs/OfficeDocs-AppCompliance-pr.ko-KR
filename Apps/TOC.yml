@@ -5,14 +5,14 @@
       items:
         - name: 개요
           href: overview.md
-        - name: Publisher 확인이란?
+        - name: 게시자 확인이란?
           href: /azure/active-directory/develop/publisher-verification-overview
         - name: Microsoft 365 인증이란?
           href: docs/enterprise-app-certification-guide.md
     - name: 개발자용
       expanded: true
       items:
-        - name: Publisher 확인 완료
+        - name: 게시자 확인 완료
           href: /azure/active-directory/develop/mark-app-as-publisher-verified
         - name: Microsoft 365 인증 완료
           href: docs/certification.md
@@ -29,23 +29,23 @@
           href: excel/analysisplace-excel-to-word-document-automation.md
         - name: 포버리 ()
           href: excel/forbury-property.md
-        - name: 'Microsoft Word, Excel 및 PowerPoint 대한 Foxit PDF 편집기'
+        - name: 'Microsoft Word, Excel 및 PowerPoint용 Foxit PDF 편집기'
           href: excel/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
         - name: 노출 서명
           href: excel/impression-signatures.md
-        - name: Jira Cloud for Excel
+        - name: Excel용 Jira Cloud
           href: excel/atlassiancom-jira-cloud-for-excel.md
-        - name: Excel 대한 MeaningCloud Text Analytics
+        - name: Excel용 MeaningCloud Text Analytics
           href: excel/meaningcloud-text-analytics-for-excel.md
         - name: Office2SharePoint for Office
           href: excel/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork | Office 콘텐츠 선택기
+        - name: officeatwork | Office용 콘텐츠 선택기
           href: excel/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork | Office 대한 이미지 선택기
+        - name: officeatwork | Office용 이미지 선택기
           href: excel/officeatwork-officeatworkimage-chooser-for-office.md
-        - name: officeatwork | Office 대한 템플릿 선택기
+        - name: officeatwork | Office용 서식 파일 선택기
           href: excel/officeatwork-officeatworktemplate-chooser-for-office.md
-        - name: Report Builder
+        - name: 보고서 작성기
           href: excel/adobe-inc-report-builder.md
         - name: RocketDocs 실행 패드
           href: excel/rocketdocs-launchpad.md
@@ -55,19 +55,19 @@
           href: excel/supermetrics.md
         - name: XBRL 파일 데이터
           href: excel/xbrl-us-filed-data.md
-        - name: Excel 대한 ZEMA
+        - name: Excel용 ZEMA
           href: excel/ze-powergroup-zema-for-excel.md
     - name: Microsoft OneNote 앱
       href: onenote/onenote-apps.md
       items:
-        - name: officeatwork | Office 콘텐츠 선택기
+        - name: officeatwork | Office용 콘텐츠 선택기
           href: onenote/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork | Office 대한 이미지 선택기
+        - name: officeatwork | Office용 이미지 선택기
           href: onenote/officeatwork-officeatworkimage-chooser-for-office.md
-    - name: Microsoft Outlook 앱
+    - name: Microsoft Outlook Apps
       href: outlook/outlook-apps.md
       items:
-        - name: adobe Sign Add-In for Outlook
+        - name: Outlook용 Adobe Sign Add-In
           href: outlook/adobe-inc-sign-add-in-for-outlook.md
         - name: 이타적 비디오
           href: outlook/altru-videos.md
@@ -75,15 +75,15 @@
           href: outlook/approved-contact-calendars.md
         - name: CI-Signature
           href: outlook/ci-solution-gmbh-signature.md
-        - name: codeTwo for Outlook
+        - name: Outlook용 CodeTwo
           href: outlook/codetwo-for-outlook.md
         - name: Commuty
           href: outlook/commuty.md
         - name: Evernote
           href: outlook/evernote.md
-        - name: Outlook 대한 노출 서명
+        - name: Outlook의 노출 서명
           href: outlook/impression-signatures-for-outlook.md
-        - name: Outlook 대한 iPlanner Office 365 Planner 추가 기능
+        - name: Outlook용 iPlanner Office 365 Planner 추가 기능
           href: outlook/iglobe-iplanner-office-365-planner-add-in-for-outlook.md
         - name: iPlanner Pro Office 365
           href: outlook/iglobe-iplanner-pro-office-365.md
@@ -99,17 +99,17 @@
           href: outlook/iglobe-mipa-your-own-personal-assistant.md
         - name: ngDesk
           href: outlook/all-blue-solutions-ngdesk.md
-        - name: Office2SharePoint for Outlook
+        - name: Outlook용 Office2SharePoint
           href: outlook/iglobe-office2sharepoint-for-outlook.md
-        - name: officeatwork | Outlook 콘텐츠 선택기
+        - name: officeatwork | Outlook용 콘텐츠 선택기
           href: outlook/officeatwork-officeatworkcontent-chooser-for-outlook.md
-        - name: officeatwork | Outlook 메일 서명
+        - name: officeatwork | Outlook용 메일 서명
           href: outlook/officeatwork-officeatworkmail-signature-for-outlook.md
-        - name: onePlaceMail for Outlook
+        - name: Outlook용 OnePlaceMail
           href: outlook/oneplace-solutions-oneplacemail-for-outlook.md
-        - name: Outlook 대한 아웃리치 판매 참여
+        - name: Outlook에 대한 아웃리치 판매 참여
           href: outlook/outreach-sales-engagement-for-outlook.md
-        - name: pexip One for Outlook
+        - name: Outlook용 Pexip One
           href: outlook/pexipas-pexip-one-for-outlook.md
         - name: 우선 순위 매트릭스 - 전자 메일을 작업으로 전환
           href: outlook/appfluence-inc-priority-matrix-turn-emails-into-tasks.md
@@ -117,28 +117,28 @@
           href: outlook/quantum-workplace.md
         - name: Salesforce
           href: outlook/salesforcecom-salesforce.md
-        - name: Outlook 위한 전략-AI
+        - name: Outlook용 Strategy-AI
           href: outlook/chinchilla-software-limited-strategy-ai-for-outlook.md
         - name: XQ 보안 전자 메일
           href: outlook/xq-message-secure-email.md
     - name: Microsoft PowerPoint 앱
       href: powerpoint/powerpoint-apps.md
       items:
-        - name: adobe Acrobat sign for Microsoft Word and PowerPoint
+        - name: Microsoft Word 및 PowerPoint용 Adobe Acrobat Sign
           href: powerpoint/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
         - name: Excel-Word 문서 자동화
           href: powerpoint/analysisplace-excel-to-word-document-automation.md
-        - name: 'Microsoft Word, Excel 및 PowerPoint 대한 Foxit PDF 편집기'
+        - name: 'Microsoft Word, Excel 및 PowerPoint용 Foxit PDF 편집기'
           href: powerpoint/foxit-software-inc-pdf-editor-for-microsoft-word-excel-and-powerpoint.md
         - name: Office2SharePoint for Office
           href: powerpoint/iglobe-office2sharepoint-for-office.md
-        - name: officeatwork | Office 콘텐츠 선택기
+        - name: officeatwork | Office용 콘텐츠 선택기
           href: powerpoint/officeatwork-officeatworkcontent-chooser-for-office.md
-        - name: officeatwork | Office 대한 이미지 선택기
+        - name: officeatwork | Office용 이미지 선택기
           href: powerpoint/officeatwork-officeatworkimage-chooser-for-office.md
-        - name: officeatwork | Office 대한 슬라이드 선택기
+        - name: officeatwork | Office용 슬라이드 선택기
           href: powerpoint/officeatwork-officeatworkslide-chooser-for-office.md
-        - name: officeatwork | Office 대한 템플릿 선택기
+        - name: officeatwork | Office용 서식 파일 선택기
           href: powerpoint/officeatwork-officeatworktemplate-chooser-for-office.md
         - name: Showmaster
           href: powerpoint/cherryware-showmaster.md
@@ -146,17 +146,17 @@
           href: powerpoint/cherryware-showmaster-helper-plugin.md
         - name: SlideHub
           href: powerpoint/nomorehours-slidehub.md
-    - name: Microsoft Project 앱
+    - name: Microsoft Project Apps
       href: project/project-apps.md
       items:
-        - name: officeatwork | Office 대한 템플릿 선택기
+        - name: officeatwork | Office용 서식 파일 선택기
           href: project/officeatwork-officeatworktemplate-chooser-for-office.md
     - name: Microsoft SharePoint 앱
       href: sharepoint/sharepoint-apps.md
       items:
-        - name: Adobe Acrobat Sign for Microsoft Office SharePoint Online
+        - name: Microsoft SharePoint Online용 Adobe Acrobat Sign
           href: sharepoint/adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md
-        - name: SharePoint Online용 Agile 작업 위원회
+        - name: SharePoint Online용 Agile 작업 보드
           href: sharepoint/agile-is-task-board-for-sharepoint-online.md
         - name: ArcGIS for SharePoint
           href: sharepoint/esri-inc-arcgis-for-sharepoint.md
@@ -168,13 +168,13 @@
           href: sharepoint/cloudwell-calendar-overlay.md
         - name: SharePoint용 FormMachines 커넥터
           href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
-        - name: helloSign for SharePoint
+        - name: SharePoint용 HelloSign
           href: sharepoint/dropbox-inc-hellosign-for-sharepoint.md
-        - name: Ichicraft Boards - 디지털 작업 공간
+        - name: Ichicraft 보드 - 디지털 작업 공간
           href: sharepoint/ichicraft-bv-boards-your-digital-workplace.md
         - name: iGlobe CRM 추가 기능
           href: sharepoint/iglobe-crm-add-ons.md
-        - name: iGlobe CRM Office 365 for Microsoft Office 365
+        - name: Microsoft Office 365용 iGlobe CRM Office 365
           href: sharepoint/iglobe-crm-office-365-for-microsoft.md
         - name: Konnect eMail Parser
           href: sharepoint/konnect-email-parser.md
@@ -182,7 +182,7 @@
           href: sharepoint/lifeworks-inc-viva-connections.md
         - name: 번개 도구 번개 도체
           href: sharepoint/lightning-tools-conductor.md
-        - name: officeatwork | SharePoint 대한 템플릿 선택기
+        - name: officeatwork | SharePoint용 템플릿 선택기
           href: sharepoint/officeatwork-officeatworktemplate-chooser-for-sharepoint.md
         - name: Power BI 공동 작업
           href: sharepoint/ataira-power-bi-collaboration.md
@@ -685,6 +685,8 @@
           href: teams/survivef5-gmbh-kudozza.md
         - name: Kunjani
           href: teams/faceboard-pty-ltd-kunjani.md
+        - name: Laduma
+          href: teams/laduma-ltd.md
         - name: LawToolBox
           href: teams/lawtoolboxcominc-lawtoolbox.md
         - name: LawVu APAC
@@ -1198,7 +1200,7 @@
     - name: Microsoft Word 앱
       href: word/word-apps.md
       items:
-        - name: adobe Acrobat sign for Microsoft Word and PowerPoint
+        - name: Microsoft Word 및 PowerPoint용 Adobe Acrobat Sign
           href: word/adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md
         - name: AuditBoard 추가 기능
           href: word/auditboard-inc-add-in.md
@@ -1464,6 +1466,8 @@
           href: azure/2f05d0f8-3f87-4a59-952d-33c69c24a6d9.md
         - name: 2fa142be-31b5-4fda-bd37-591541b501aa
           href: azure/2fa142be-31b5-4fda-bd37-591541b501aa.md
+        - name: 30c7a49f-89f6-45ba-9938-ed627d102c54
+          href: azure/30c7a49f-89f6-45ba-9938-ed627d102c54.md
         - name: 32eae2b8-2111-431f-9263-e8e1120d0a97
           href: azure/32eae2b8-2111-431f-9263-e8e1120d0a97.md
         - name: 33ccef75-8248-44e8-88d3-24526ca9c2d3
@@ -1642,6 +1646,8 @@
           href: azure/74a31d8c-1ee9-4fb8-bc22-640ba5f457f4.md
         - name: 74ef25ab-3685-446c-aa43-4e9cc251ed62
           href: azure/74ef25ab-3685-446c-aa43-4e9cc251ed62.md
+        - name: 77578a4c-117a-4cd4-b36d-3ea09ca2eded
+          href: azure/77578a4c-117a-4cd4-b36d-3ea09ca2eded.md
         - name: 77b31e8c-65d0-484d-a72f-9404ec9dfcfa
           href: azure/77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md
         - name: 797368c8-e08a-40c8-8967-687093a723c9
@@ -1706,6 +1712,8 @@
           href: azure/984562b3-6a46-4a7f-a19b-681442b0cdc0.md
         - name: 98b70422-b0b2-41bf-8673-60d85f5d38c7
           href: azure/98b70422-b0b2-41bf-8673-60d85f5d38c7.md
+        - name: 9944c8e1-fc22-4546-8023-9459b75c472a
+          href: azure/9944c8e1-fc22-4546-8023-9459b75c472a.md
         - name: 99455ec0-6207-4889-9c8c-96216a274a6b
           href: azure/99455ec0-6207-4889-9c8c-96216a274a6b.md
         - name: 99a0a9b1-5d28-45df-9f99-792aa32795f4
@@ -1826,6 +1834,8 @@
           href: azure/c12a3d54-d294-4a51-8cd3-4a48b6c7e6f2.md
         - name: c1abaf93-e823-4e9a-a810-34a47e77ef71
           href: azure/c1abaf93-e823-4e9a-a810-34a47e77ef71.md
+        - name: c2395027-53de-4f00-b658-246d82ed7e6f
+          href: azure/c2395027-53de-4f00-b658-246d82ed7e6f.md
         - name: c2e66b59-725d-4c56-8a0e-ee2587031d9f
           href: azure/c2e66b59-725d-4c56-8a0e-ee2587031d9f.md
         - name: c36d31a2-8de1-4eb5-9e7d-01da45244c04
@@ -1966,5 +1976,7 @@
           href: azure/fc8f7563-e8ea-4b6d-9622-82775a21a35a.md
         - name: fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc
           href: azure/fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc.md
+        - name: ff50870f-b19b-489c-9766-4bcee4e843eb
+          href: azure/ff50870f-b19b-489c-9766-4bcee4e843eb.md
         - name: ff5f406c-2ded-423f-b6ba-2950a2532b69
           href: azure/ff5f406c-2ded-423f-b6ba-2950a2532b69.md
