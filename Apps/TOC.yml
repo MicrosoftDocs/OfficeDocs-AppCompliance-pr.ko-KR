@@ -291,7 +291,7 @@
           href: teams/avaamo-it-assistant.md
         - name: Axelleron
           href: teams/axelleron.md
-        - name: 축
+        - name: Axis
           href: teams/axis-workshops-ltd.md
         - name: Beagle
           href: teams/decision-point-beagle.md
@@ -1091,7 +1091,7 @@
           href: teams/thoughtwire-corp-ews.md
         - name: ti8m places
           href: teams/tim-ag-ti8m-places.md
-        - name: 발권
+        - name: Ticketing
           href: teams/kitameraki-limited-ticketing.md
         - name: Tikit
           href: teams/cireson-tikit.md
@@ -1315,6 +1315,8 @@
           href: saas/officeatwork-mail-signature.md
         - name: MIPA - 내 지능형 개인 비서
           href: saas/iglobe-mipa-my-intelligent-personal-assistant.md
+        - name: MURAL
+          href: saas/mural.md
         - name: MyHub for Teams
           href: saas/avepoint-inc-myhub-for-teams.md
         - name: Microsoft Teams 대한 Netskope
