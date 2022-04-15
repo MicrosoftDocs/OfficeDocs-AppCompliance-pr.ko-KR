@@ -1,5 +1,5 @@
 ---
-title: ngDesk 애플리케이션 정보
+title: 모든 파란색 솔루션별 ngDesk에 대한 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: ngDesk, 해당 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 5cdc902c7df2522160bd51d866b004201acf264b
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: 075e38b0b3b5029beca42970bf7965e4eeeb4e91
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784237"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64875525"
 ---
-# <a name="ngdesk-application-information"></a>ngDesk 애플리케이션 정보
+# <a name="ngdesk"></a>ngDesk
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -85,11 +85,9 @@ ms.locfileid: "64784237"
 | 직원 계정을 프로비전, 수정 및 삭제하기 위한 프로세스가 설정되었나요? |  |
 | 앱을 지원하는 네트워크 경계 경계에 IDPS(침입 감지 및 방지) 소프트웨어가 배포되어 있나요? |  |
 | 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? |  |
-| 잠재적인 보안 이벤트를 검색하기 위해 인간 또는 자동화된 도구에서 모든 로그를 정기적으로 검토합니까? | |
 | 보안 이벤트가 감지되면 심사를 위해 직원에게 경고가 자동으로 전송되나요? |  |
 | 공식적인 정보 보안 위험 관리 프로세스가 설정되었나요? |  |
 | 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정했나요? |  |
-| 검색 후 72시간 이내에 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고합니까?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -102,12 +100,8 @@ ms.locfileid: "64784237"
 | 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 해당 없음 |
 | 앱이 HITRUST CSF(Health Information Trust Alliance, Common Security Framework)를 준수하나요? | 해당 없음 |
 | 앱이 SOC(Service Organization Controls) 1을 준수하나요? | 해당 없음 |
-| 가장 최근 SOC1 인증 날짜 |   |
 | 앱이 서비스 조직 컨트롤(SOC 2)을 준수하나요? | 아니요 |
-| 어떤 SOC 2 인증을 달성했나요? | |
-| 가장 최근 SOC2 인증 날짜 | |
 | 앱이 서비스 조직 컨트롤(SOC 3)을 준수하나요? | 아니요 |
-| 가장 최근 SOC3 인증 날짜 | |
 | 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행합니까? | 아니요 |
 | 앱 국제 표준화 기구(ISO 27001)가 인증되었나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니요 |
@@ -129,15 +123,6 @@ ms.locfileid: "64784237"
 | **정보** | **응답** |
 |:----------------|:-------------|
 | GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? |  |
-| 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 개인 정보 보호 알림이 있나요? |  |
-| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? |  |
-| 앱이 개인 정보 보호 알림(예: 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? |  |
-| 중요한 데이터(예: 인종 또는 민족 기원, 정치적 견해, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용되는 데이터 범주의 특수 범주를 처리합니까? |  |
-| 앱이 미성년자(즉, 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? |  |
-| 앱에 요청 시 개인의 개인 데이터를 삭제하는 기능이 있나요? |  |
-| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한하는 기능이 있나요? |  |
-| 앱은 개인에게 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 제공하나요? |  |
-| 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)를 수행합니까? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
