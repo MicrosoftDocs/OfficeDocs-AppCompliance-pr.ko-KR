@@ -3,17 +3,17 @@ title: SaaS 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/13/2022
+ms.date: 04/14/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 16c6e754cbf7575de16f7644d9a8ef19f05906ca
-ms.sourcegitcommit: e0ff50c6828c1ea7789f8c507dc62b66d15768d8
+ms.openlocfilehash: 5602abf50fcc801dd4489b30fa1738fa1691b3d7
+ms.sourcegitcommit: aa6c1546afd356990d681ee68ce976cb7faebd02
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 04/14/2022
-ms.locfileid: "64842088"
+ms.locfileid: "64859054"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
@@ -60,6 +60,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [슬라이드 선택기](./officeatwork-slide-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [storm Cloud Contact Center Teams 통합](./content-guru-storm-cloud-contact-center-teams-integration.md) | 콘텐츠 전문가 | **✓** |  |
 | [Talkdesk Microsoft Teams 커넥터](./talkdesk-inc-microsoft-teams-connector.md) | Talkdesk, Inc. | **✓** |  |
+| [TeamOrgChart](./teamimprovercom-ltd-teamorgchart.md) | TeamImprover.Com Ltd | **✓** |  |
 | [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [템플릿 선택기 브라우저](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Teams 비디오용 Theta Lake 기록 &amp; 규정 준수](./theta-lake-recordingcompliance-for-teams-video.md) | 세타 호수 | **✓** |  |
