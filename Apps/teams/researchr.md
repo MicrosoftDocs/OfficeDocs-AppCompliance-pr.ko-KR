@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: researcHR, 해당 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1ef8e528aaab8471ee521e1e7e7a22ca409c5af2
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: 11d6640b20388c99facf61d5d1a35bd36eadb415
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784167"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64879648"
 ---
 # <a name="researchr"></a>researcHR
 
@@ -86,11 +86,9 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 제공하는 정보:
 | 직원 계정을 프로비전, 수정 및 삭제하기 위한 프로세스가 설정되었나요? |  |
 | 앱을 지원하는 네트워크 경계 경계에 IDPS(침입 감지 및 방지) 소프트웨어가 배포되어 있나요? |  |
 | 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? |  |
-| 잠재적인 보안 이벤트를 검색하기 위해 인간 또는 자동화된 도구에서 모든 로그를 정기적으로 검토합니까? | |
 | 보안 이벤트가 감지되면 심사를 위해 직원에게 경고가 자동으로 전송되나요? |  |
 | 공식적인 정보 보안 위험 관리 프로세스가 설정되었나요? |  |
 | 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정했나요? |  |
-| 검색 후 72시간 이내에 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고합니까?| |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -103,12 +101,8 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 제공하는 정보:
 | 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 해당 없음 |
 | 앱이 HITRUST CSF(Health Information Trust Alliance, Common Security Framework)를 준수하나요? | 해당 없음 |
 | 앱이 SOC(Service Organization Controls) 1을 준수하나요? | 해당 없음 |
-| 가장 최근 SOC1 인증 날짜 |   |
 | 앱이 서비스 조직 컨트롤(SOC 2)을 준수하나요? | 아니요 |
-| 어떤 SOC 2 인증을 달성했나요? | |
-| 가장 최근 SOC2 인증 날짜 | |
 | 앱이 서비스 조직 컨트롤(SOC 3)을 준수하나요? | 아니요 |
-| 가장 최근 SOC3 인증 날짜 | |
 | 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행합니까? | 해당 없음 |
 | 앱 국제 표준화 기구(ISO 27001)가 인증되었나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 해당 없음 |
@@ -130,15 +124,6 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? |  |
-| 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 개인 정보 보호 알림이 있나요? |  |
-| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? |  |
-| 앱이 개인 정보 보호 알림(예: 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? |  |
-| 중요한 데이터(예: 인종 또는 민족 기원, 정치적 견해, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용되는 데이터 범주의 특수 범주를 처리합니까? |  |
-| 앱이 미성년자(즉, 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? |  |
-| 앱에 요청 시 개인의 개인 데이터를 삭제하는 기능이 있나요? |  |
-| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한하는 기능이 있나요? |  |
-| 앱은 개인에게 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 제공하나요? |  |
-| 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)를 수행합니까? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -161,13 +146,13 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 제공하는 정보:
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **Azure AD 앱 ID** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| Channel.Create | 응용 프로그램 | 이 범위를 사용하여 봇이 Teams 클라이언트에 새 채널을 만들 수 있습니다. 참조: [https://docs.microsoft.com/graph/api/channel-post](/graph/api/channel-post) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Directory.Read.All | 응용 프로그램 | 이 범위를 사용하여 웹 사이트에 이러한 데이터를 표시하는 채널 ID 및 이름을 가져옵니다. 참조: [https://docs.microsoft.com/graph/api/channel-list](/graph/api/channel-list) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Group.Read.All | 응용 프로그램 | 이 범위를 사용하여 웹 사이트에 이러한 데이터를 표시하는 채널 ID 및 이름을 가져옵니다. 참조: [https://docs.microsoft.com/graph/api/channel-list](/graph/api/channel-list) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| Team.ReadBasic.All | 응용 프로그램 | 이 범위를 사용하여 사용자가 웹 사이트에서 팀 구성원을 볼 수 있도록 팀 구성원을 가져옵니다. 참조: [https://docs.microsoft.com/graph/api/group-list-members](/graph/api/group-list-members) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.Read.All | 응용 프로그램 | 이 범위를 사용하여 사용자가 웹 사이트에서 참가한 팀을 볼 수 있도록 사용자의 가입 채널을 가져옵니다. 참조: [https://docs.microsoft.com/graph/api/user-list-joinedteams](/graph/api/user-list-joinedteams) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| User.ReadBasic.All | 위임 | 이 범위를 사용하여 OAuth 로그인을 사용하도록 설정하고 사용자의 AAD ID, 액세스 토큰 및 새로 고침 토큰을 수집합니다. 참조: [https://docs.microsoft.com/graph/auth-v2-user](/graph/auth-v2-user) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
->| offline_access | 위임 | 이 범위를 사용하여 사용자 상호 작용 없이 인증된 사용자의 액세스 토큰을 새로 고칠 수 있도록 새로 고침 토큰을 가져옵니다. 참조: [https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent#offline_access](/azure/active-directory/develop/v2-permissions-and-consent#offline_access) | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Channel.Create | 응용 프로그램 | 이 범위를 사용하여 봇이 Teams 클라이언트에 새 채널을 만들 수 있습니다. 참조: https://docs.microsoft.com/en-us/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Directory.Read.All | 응용 프로그램 | 이 범위를 사용하여 웹 사이트에 이러한 데이터를 표시하는 채널 ID 및 이름을 가져옵니다. 참조: https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Group.Read.All | 응용 프로그램 | 이 범위를 사용하여 웹 사이트에 이러한 데이터를 표시하는 채널 ID 및 이름을 가져옵니다. 참조: https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| Team.ReadBasic.All | 응용 프로그램 | 이 범위를 사용하여 사용자가 웹 사이트에서 팀 구성원을 볼 수 있도록 팀 구성원을 가져옵니다. 참조: https://docs.microsoft.com/en-us/graph/api/group-list-members | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.Read.All | 응용 프로그램 | 이 범위를 사용하여 사용자가 웹 사이트에서 참가한 팀을 볼 수 있도록 사용자의 가입 채널을 가져옵니다. 참조: https://docs.microsoft.com/en-us/graph/api/user-list-joinedteams | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| User.ReadBasic.All | 위임 | 이 범위를 사용하여 OAuth 로그인을 사용하도록 설정하고 사용자의 AAD ID, 액세스 토큰 및 새로 고침 토큰을 수집합니다. 참조: https://docs.microsoft.com/en-us/graph/auth-v2-user | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
+>| offline_access | 위임 | 이 범위를 사용하여 사용자 상호 작용 없이 인증된 사용자의 액세스 토큰을 새로 고칠 수 있도록 새로 고침 토큰을 가져옵니다. 참조: https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-permissions-and-consent#offline_access | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 
 >이 애플리케이션에는 추가 API가 없습니다.
 

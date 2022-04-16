@@ -1,23 +1,23 @@
 ---
-title: ID 보안 및 규정 준수 Azure 앱 - 모든 앱
+title: Azure 앱 ID 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/14/2022
+ms.date: 04/15/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Azure 앱 ID에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 3fd267b4e5727a68302dcfc2e4603ac2a5910891
-ms.sourcegitcommit: aa6c1546afd356990d681ee68ce976cb7faebd02
+ms.openlocfilehash: e937176358a0f90beb59afbca3a9bb7fa818a914
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2022
-ms.locfileid: "64856844"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64880105"
 ---
-# <a name="azure-app-ids-security-and-compliance"></a>ID 보안 및 규정 준수 Azure 앱
+# <a name="azure-app-ids-security-and-compliance"></a>Azure 앱 ID 보안 및 규정 준수
 
-Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사용하는 Azure 앱 ID 및 추가 기능에 대한 결정을 신속하게 처리하고 의사 결정을 알리는 데 필요한 정보를 제공합니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
+Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사용하는 Azure 앱 ID 및 추가 기능에 대한 결정을 신속하게 처리하고 알리는 데 필요한 정보를 제공합니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
 
 | **Azure 앱 ID** | **게시자 증명** | **인증** |
 |:--------|:------------|:-------------:|
@@ -242,6 +242,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [afd2c390-8b78-40fa-913b-7fc5911e884a](./afd2c390-8b78-40fa-913b-7fc5911e884a.md) | **✓** |  |
 | [affadfb6-f17b-428f-97f9-9aae3b6175bc](./affadfb6-f17b-428f-97f9-9aae3b6175bc.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [b0656c15-44aa-4aab-8956-bb97e3016535](./b0656c15-44aa-4aab-8956-bb97e3016535.md) | **✓** |  |
+| [b12699ab-e60a-46b1-8c9e-231d489947aa](./b12699ab-e60a-46b1-8c9e-231d489947aa.md) | **✓** |  |
 | [b13c40ee-e073-459e-96b5-3f3cca046a37](./b13c40ee-e073-459e-96b5-3f3cca046a37.md) | **✓** |  |
 | [b1d1c038-a1f3-4802-be93-0f4a66589e73](./b1d1c038-a1f3-4802-be93-0f4a66589e73.md) | **✓** |  |
 | [b2380441-bb33-439e-bf4a-8cd277dcebc8](./b2380441-bb33-439e-bf4a-8cd277dcebc8.md) | **✓** |  |

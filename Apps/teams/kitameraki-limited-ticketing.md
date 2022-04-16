@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Ticketing, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 42777d2bb9cf639419a28e9ec52c189f8bd27e27
-ms.sourcegitcommit: 60344676a860c837b8a727c43d6cec430044c3f4
+ms.openlocfilehash: b0bf7f4fb8685d48b7048ca8a91880f19697f3cb
+ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/11/2022
-ms.locfileid: "64769102"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64879695"
 ---
-# <a name="ticketing"></a>발권
+# <a name="ticketing"></a>Ticketing
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -33,7 +33,7 @@ Kitameraki에서 제공하는 정보는 Microsoft로 제한됩니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | 발권 |
+| 앱 이름 | Ticketing |
 | ID | WA200003945 |
 | 지원되는 Office 365 클라이언트 | Microsoft Teams |
 | 파트너 회사 이름 | kitameraki limited |
@@ -132,15 +132,6 @@ Kitameraki에서 제공하는 정보는 Microsoft로 제한됩니다.
 | **정보** | **응답** |
 |:----------------|:-------------|
 | GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? | 아니요 |
-| 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 개인 정보 보호 알림이 있나요? | 아니요 |
-| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? | 아니요 |
-| 앱이 개인 정보 보호 알림(예: 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니요 |
-| 중요한 데이터(예: 인종 또는 민족 기원, 정치적 견해, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용되는 데이터 범주의 특수 범주를 처리합니까? | 아니요 |
-| 앱이 미성년자(즉, 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? | 아니요 |
-| 앱에 요청 시 개인의 개인 데이터를 삭제하는 기능이 있나요? |  |
-| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한하는 기능이 있나요? |  |
-| 앱은 개인에게 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 제공하나요? |  |
-| 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)를 수행합니까? |  |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
