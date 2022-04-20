@@ -1,19 +1,19 @@
 ---
-title: a554bdf0-866f-4ee2-b95b-3afbfc70d5bc에 대한 Azure 앱 ID 정보
+title: Azure 앱 id information for a554bdf0-866f-4ee2-b95b-3afbfc70d5bc
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/15/2022
+ms.date: 04/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: a554bdf0-866f-4ee2-b95b-3afbfc70d5bc에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: b3102b8b7449865dd6a9b060912c4a5ed9d414dd
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 8fca8825eda9e9d6930f3cbf212467f8bc20c01d
+ms.sourcegitcommit: 57d7b0335ec02b7f20a47ec888b4ca39d75bab67
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880835"
+ms.lasthandoff: 04/18/2022
+ms.locfileid: "64909016"
 ---
 # <a name="azure-app-id-a554bdf0-866f-4ee2-b95b-3afbfc70d5bc"></a>Azure 앱 ID: a554bdf0-866f-4ee2-b95b-3afbfc70d5bc
 

@@ -1,23 +1,23 @@
 ---
-title: Azure 앱 ID 보안 및 규정 준수 - 모든 앱
+title: ID 보안 및 규정 준수 Azure 앱 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/15/2022
+ms.date: 04/18/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Azure 앱 ID에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: e937176358a0f90beb59afbca3a9bb7fa818a914
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 352c9ba470a7523c23c2e87c014fb480807e6dd6
+ms.sourcegitcommit: 57d7b0335ec02b7f20a47ec888b4ca39d75bab67
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880105"
+ms.lasthandoff: 04/18/2022
+ms.locfileid: "64910076"
 ---
-# <a name="azure-app-ids-security-and-compliance"></a>Azure 앱 ID 보안 및 규정 준수
+# <a name="azure-app-ids-security-and-compliance"></a>ID 보안 및 규정 준수 Azure 앱
 
-Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사용하는 Azure 앱 ID 및 추가 기능에 대한 결정을 신속하게 처리하고 알리는 데 필요한 정보를 제공합니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
+Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사용하는 Azure 앱 ID 및 추가 기능에 대한 결정을 신속하게 처리하고 의사 결정을 알리는 데 필요한 정보를 제공합니다. 이 보안, 데이터 처리 및 규정 준수 정보는 조직이 이러한 앱을 사용할 경우 위험을 평가하고 관리하는 데 도움이 됩니다.
 
 | **Azure 앱 ID** | **게시자 증명** | **인증** |
 |:--------|:------------|:-------------:|
@@ -45,6 +45,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [0f22abfb-b687-489d-9fd6-ad1bc95d6d68](./0f22abfb-b687-489d-9fd6-ad1bc95d6d68.md) | **✓** |  |
 | [0f5eabc0-89bf-4cc6-80d1-10094b5919d2](./0f5eabc0-89bf-4cc6-80d1-10094b5919d2.md) | **✓** |  |
 | [1064f7e4-a9e2-467d-8d42-f45cc59f145d](./1064f7e4-a9e2-467d-8d42-f45cc59f145d.md) | **✓** |  |
+| [108faf40-9d61-4b6f-bd6f-3b71fcce9a5d](./108faf40-9d61-4b6f-bd6f-3b71fcce9a5d.md) | **✓** |  |
 | [10d8604b-e6ea-4c59-8414-aca1bf1ffda8](./10d8604b-e6ea-4c59-8414-aca1bf1ffda8.md) | **✓** |  |
 | [12397cb1-c0e5-42ae-a5be-ca4084aeadd8](./12397cb1-c0e5-42ae-a5be-ca4084aeadd8.md) | **✓** |  |
 | [127e5be9-da2c-4335-a284-da367379428a](./127e5be9-da2c-4335-a284-da367379428a.md) | **✓** |  |
@@ -86,6 +87,8 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [3407e97c-3eed-4eca-add5-2549ed881269](./3407e97c-3eed-4eca-add5-2549ed881269.md) | **✓** |  |
 | [34ed2c1e-bccf-463d-8fbc-0403e72e89fc](./34ed2c1e-bccf-463d-8fbc-0403e72e89fc.md) | **✓** |  |
 | [3557d5c0-bcab-410b-8a03-f7045aa48de0](./3557d5c0-bcab-410b-8a03-f7045aa48de0.md) | **✓** |  |
+| [35e7f5d2-9978-464f-8710-c7a05d5b9fdf](./35e7f5d2-9978-464f-8710-c7a05d5b9fdf.md) | **✓** |  |
+| [3662a4ca-d108-4f34-9e08-914f33363235](./3662a4ca-d108-4f34-9e08-914f33363235.md) | **✓** |  |
 | [3741153e-2490-463c-aff7-5283fb1bd1b4](./3741153e-2490-463c-aff7-5283fb1bd1b4.md) | **✓** |  |
 | [38b3f4fa-4229-4d51-9937-6e4515650c8c](./38b3f4fa-4229-4d51-9937-6e4515650c8c.md) | **✓** |  |
 | [39073da9-c47c-4da8-b57a-3786461db8f4](./39073da9-c47c-4da8-b57a-3786461db8f4.md) | **✓** |  |
@@ -196,6 +199,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [8cf0fbc9-28f7-4bfb-94db-237b049fcbf7](./8cf0fbc9-28f7-4bfb-94db-237b049fcbf7.md) | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [8f79a561-d2f1-4a1e-8092-c2039043a40e](./8f79a561-d2f1-4a1e-8092-c2039043a40e.md) | **✓** |  |
 | [93544582-de9c-42a0-baa5-df3d25e9bd48](./93544582-de9c-42a0-baa5-df3d25e9bd48.md) | **✓** |  |
+| [93b14320-d9b5-4876-b621-172af4d36985](./93b14320-d9b5-4876-b621-172af4d36985.md) | **✓** |  |
 | [9430520a-241f-4a00-b041-56aa8bbc9cc9](./9430520a-241f-4a00-b041-56aa8bbc9cc9.md) | **✓** |  |
 | [950aa4fb-0583-4b13-9b5f-bbc92b9cc376](./950aa4fb-0583-4b13-9b5f-bbc92b9cc376.md) | **✓** |  |
 | [959a79ddd-69d0-4d05-b9a8-b9f02e28c049](./959a79dd-69d0-4d05-b9a8-b9f02e28c049.md) | **✓** |  |
