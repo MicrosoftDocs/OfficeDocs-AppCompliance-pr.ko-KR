@@ -3,17 +3,17 @@ title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/21/2022
+ms.date: 04/25/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: b5259da912f013d18afb3dc71fa5768d21d1d079
-ms.sourcegitcommit: 6a86cfad0d14b309aa1e990c124ed1c0cc85fbeb
+ms.openlocfilehash: 7ca8477fe6d1321f4a93579956e6fd5ab782d049
+ms.sourcegitcommit: 7c4eed407267c4c313909d4f27f46bebf443cb23
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65029115"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65071090"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -53,6 +53,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Asa](./two-app-studio-pte-ltd-asa.md) | Two App Studio Pte Ltd. | **✓** |  |
 | [Asana](./asana.md) | Asana | **✓** |  |
 | [ASC Recording Insights](./asc-technologies-ag-recording-insights.md) | ASC Technologies AG | **✓** |  |
+| [Vizir에게 질문하기](./vizirco-ask-vizir.md) | Vizir.co | **✓** |  |
 | [어셈블리](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
 | [Aster](./aster.md) | Aster | **✓** |  |
 | [AtBot](./h3-solutions-inc-atbot.md) | H3 Solutions, Inc. | **✓** |  |
