@@ -3,24 +3,24 @@ title: DewMaker Design, Inc.의 방화벽 도우미에 대한 애플리케이션
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 02/08/2022
+ms.date: 04/27/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Firewall Assistant, 해당 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: f18501bfe0fee3333b1c56f6549be533f6464272
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 872f21f28d354de0f206c6f654b619fd57a98c84
+ms.sourcegitcommit: b0c1d8160b4e9a27f23a9d723f7e76d38ab12d9e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64878295"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65122677"
 ---
 # <a name="firewall-assistant"></a>Firewall Assistant
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 2월 7일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 4월 26일</p>
 
 * <a href="https://teams.microsoft.com/l/app/40b745ad-16a8-4eda-bf1c-5b48b0dc947d" target="_blank">Teams 스토어에서 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003363" target="_blank">AppSource에서 보기</a>
@@ -38,7 +38,7 @@ DewMaker Design, Inc.에서 Microsoft에 제공한 정보:
 | 지원되는 Office 365 클라이언트 | Microsoft Teams |
 | 파트너 회사 이름 | DewMaker Design, Inc. |
 | 회사 웹 사이트 | [https://dewmaker.com](https://dewmaker.com) |
-| 앱의 사용 약관 | [https://teamwell.services/terms.html](https://teamwell.services/terms.html) |
+| 앱의 사용 약관 | [https://firewallassistant.com/terms](https://firewallassistant.com/terms) |
 | 앱의 핵심 기능 | Microsoft Teams 사용하여 Azure SQL Server 방화벽 규칙의 셀프 서비스 관리 |
 | 회사 본사 위치 | 미국 |
 | 앱 정보 페이지 | [https://firewallassistant.com](https://firewallassistant.com) |
@@ -146,7 +146,6 @@ DewMaker Design, Inc.에서 Microsoft에 제공한 정보:
 | 애플리케이션이 Single Sign-On, API 액세스 등을 위해 Azure AD(Microsoft Identity Platform)와 통합됩니까? | 예 |
 | Microsoft ID 플랫폼 통합 검사 목록에 설명된 모든 적용 가능한 모범 사례를 검토하고 준수했나요? | 아니요 |
 | 앱에서 인증을 위해 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft ID 웹을 사용하나요? | 예 |
-| 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(지속적인 액세스 평가)를 지원하나요? | 아니요 |
 | 앱이 코드에 자격 증명을 저장하나요? | 아니요 |
