@@ -3,17 +3,17 @@ title: SaaS 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/20/2022
+ms.date: 04/29/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: a5710377c29684140336abe5dc351f8161008c08
-ms.sourcegitcommit: 9dbbec778006471c0193a7fd39e2f81e7d441275
+ms.openlocfilehash: ddd2212052e7e4998442bc41fee6935503d27382
+ms.sourcegitcommit: 4e4e1e4f91f4fab06f3585388784a0da1a963453
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65014308"
+ms.lasthandoff: 05/02/2022
+ms.locfileid: "65168528"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
@@ -22,7 +22,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
 | [관리 센터](./officeatwork-admin-center.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Adobe Acrobat Sign for Microsoft 365](./adobe-acrobat-sign-for-microsoft-365.md) | Adobe | **✓** |  |
+| [Adobe Acrobat Sign for Microsoft 365](./adobe-acrobat-sign-for-microsoft-365.md) | Adobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Microsoft Teams용 Anywhere365 전화 교환 콘솔](./workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [Anywhere365 contact Center for Teams](./workstreampeople-bv-anywhere365-contact-center-for-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [Teams 위한 Buzzeasy Contact Center](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt. | **✓** |  |

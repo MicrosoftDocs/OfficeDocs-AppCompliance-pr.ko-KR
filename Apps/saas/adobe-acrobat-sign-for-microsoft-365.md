@@ -3,24 +3,23 @@ title: Adobe에서 Microsoft 365 대한 Adobe Acrobat 로그에 대한 애플리
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/20/2022
+ms.date: 02/23/2022
 ms.topic: article
 ms.service: attestation
-certification_type: attested
+certification_type: certified
 description: Adobe Acrobat Sign for Microsoft 365 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9b87349c5829954b6c2f421590406110d32d85fe
-ms.sourcegitcommit: 9dbbec778006471c0193a7fd39e2f81e7d441275
+ms.openlocfilehash: 96500b3df087be8333684b6c7f793a551ccc4a2e
+ms.sourcegitcommit: 4e4e1e4f91f4fab06f3585388784a0da1a963453
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65014318"
+ms.lasthandoff: 05/02/2022
+ms.locfileid: "65168512"
 ---
 # <a name="adobe-acrobat-sign-for-microsoft-365"></a>Adobe Acrobat Sign for Microsoft 365
 
-<p></p>
-<img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 4월 11일</p>
+<p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 4월 29일</p>
 
 * <a href="https://appsource.microsoft.com/product/web-apps/adobe.adobe_sign_msft_saas_offer" target="_blank">AppSource에서 보기</a>
 
@@ -164,7 +163,7 @@ Adobe에서 Microsoft에 제공한 정보:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph 사용하여 데이터 액세스
 
->|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **Azure AD 앱 ID** |
+>|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **앱 ID Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Mail.ReadWrite | 위임 | 첨부된 문서, 보낸 사람 및 받는 사람 전자 메일, 전자 메일에서 Adobe 서명으로 서명을 위해 보내는 메시지 콘텐츠를 채웁니다. Adobe Sign에서 해당 필드를 다시 입력하는 데 걸리는 시간을 절약하기 위한 것입니다. 규약에 서명하면 사용자가 받는 사람에게 트랜잭션이 완료되었다는 것을 알리는 전자 메일을 보낼 수 있도록 새 전자 메일을 자동으로 작성합니다. Adobe Sign은 첨부 파일을 임시 파일로 저장하며 만료 시간은 24시간입니다. | [ea36b867-ca67-45fd-a61b-d2be86273167](../azure/ea36b867-ca67-45fd-a61b-d2be86273167.md) |
 >| People.Read | 위임 | 서명&quot;용 보내기 환경에서 &quot;전자 메일 주소를 자동 채우기 위해 일부 초기 문자를 입력하면 사용자가 전체 전자 메일을 입력할 필요가 없습니다. Adobe Sign은 받는 사람 전자 메일 및 displayName만 계약에 저장합니다. | [ea36b867-ca67-45fd-a61b-d2be86273167](../azure/ea36b867-ca67-45fd-a61b-d2be86273167.md) |
