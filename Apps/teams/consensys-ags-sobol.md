@@ -1,5 +1,5 @@
 ---
-title: ConsenSys AG&#8217;Sobol의 Sobol에 대한 애플리케이션 정보
+title: Sobol 개요
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Sobol에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c82d7a712e2515bba55eaf902f9961f4469ad278
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: d2ab71f8efd3b88e84cda802a2d84d4fc465696d
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64878329"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228562"
 ---
-# <a name="sobol"></a>Sobol
+# <a name="sobol-overview"></a>Sobol 개요
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />

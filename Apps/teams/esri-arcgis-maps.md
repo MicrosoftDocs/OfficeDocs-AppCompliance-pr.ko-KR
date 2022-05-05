@@ -1,5 +1,5 @@
 ---
-title: Esri의 ArcGIS 지도 애플리케이션 정보
+title: ArcGis 지도 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: ArcGIS 지도 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 513945c9f9a93e056e47f4cfc0e5bdc00ebce213
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 5b4cef7b39b6f3ac79f1a48a5c4c9ce8a61b2d3b
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880975"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228010"
 ---
-# <a name="arcgis-maps"></a>ArcGIS Maps
+# <a name="arcgis-maps-application-information"></a>ArcGIS 지도 애플리케이션 정보
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -138,7 +138,7 @@ Esri에서 Microsoft에 제공한 정보:
 | 앱에서 인증을 위해 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft ID 웹을 사용하나요? | false |
 | 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 예 |
-| 지원되는 정책 유형 나열 | ArcGIS Online은 RBAC(역할 기반 액세스 제어) 모델을 사용합니다. 솔루션의 모든 사용자에게 액세스 권한이 부여된 역할이 있어야 합니다. |
+| 지원되는 정책 유형 나열 | ArcGIS Online은 RBAC(역할 기반 Access Control) 모델을 사용합니다. 솔루션의 모든 사용자에게 액세스 권한이 부여된 역할이 있어야 합니다. |
 | 앱에서 CAE(지속적인 액세스 평가)를 지원하나요? |  |
 | 앱이 코드에 자격 증명을 저장하나요? |  |
 | Microsoft 365 앱 및 추가 기능은 Microsoft Graph 외부에서 추가 Microsoft API를 사용할 수 있습니다. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
