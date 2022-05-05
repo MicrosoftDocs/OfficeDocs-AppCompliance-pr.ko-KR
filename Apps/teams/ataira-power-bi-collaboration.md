@@ -1,5 +1,5 @@
 ---
-title: Ataira의 Power BI 협업을 위한 애플리케이션 정보
+title: Power BI 공동 작업 개요
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: Power BI 협업, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: c593ce71905214c35ebea5ab42ed5bb87638ecdb
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 344ee48ac3bfc3db8516088fe050acb4dc994eb5
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881405"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65221057"
 ---
-# <a name="power-bi-collaboration"></a>Power BI 공동 작업
+# <a name="power-bi-collaboration-overview"></a>Power BI 공동 작업 개요
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -146,7 +146,7 @@ Ataira에서 Microsoft에 제공하는 정보:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph 사용하여 데이터 액세스
 
->|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **Azure AD 앱 ID** |
+>|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **앱 ID Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| User.Read | 위임 | ChannelMessage.Send Team.ReadBasic.All User.Read에 대한 권한도 있습니다. 사용자가 알림에 대한 Teams 그룹 및 채널을 선택할 수 있도록 하는 데 사용됩니다. | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](../azure/00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) |
 

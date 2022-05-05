@@ -1,5 +1,5 @@
 ---
-title: Officeatwork | 대한 Word 응용 프로그램 정보 officeatwork별 Office 이미지 선택기
+title: officeatwork별 Office 이미지 선택기용 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: certified
 description: officeatwork | 사용할 수 있는 모든 보안 및 규정 준수 정보 Office 대한 이미지 선택기, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 057c8ffd2de8993a8dafc6e2df61525c86528bf2
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: 324478f763dd08190d728afe7a7005ca26d72b5f
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784397"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65221039"
 ---
-# <a name="word--officeatwork--image-chooser-for-office"></a>Word | officeatwork | Office 대한 이미지 선택기
+# <a name="application-information-for-officeatwork--image-chooser-for-office"></a>officeatwork | 대한 애플리케이션 정보 Office 대한 이미지 선택기
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>개발자가 마지막으로 업데이트한 날짜: 2022년 1월 24일</p>
@@ -31,13 +31,13 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | officeatwork \| Image Chooser for Office |
+| 앱 이름 | officeatwork - Office 대한 이미지 선택기 |
 | ID | WA200002683 |
 | 지원되는 Office 365 클라이언트 | Mac에서 iPad, Excel 2016 이상, Windows, 웹용 Excel, Word on iPad, Word 2016 이상 Mac, 웹용 Word, Word 2013 서비스 팩 1 이상에서 Excel 2013 서비스 팩 1 이상에서 Excel Windows mac, 웹용 PowerPoint, PowerPoint 2013 서비스 팩 1 이상에서 iPad, PowerPoint 2016 이상 PowerPoint Windows 웹용 OneNote |
 | 파트너 회사 이름 | officeatwork |
 | 회사 웹 사이트 | [https://www.officeatwork.com](https://www.officeatwork.com) |
 | 앱의 사용 약관 | [https://links.officeatwork.com/officeatwork-licenseterms](https://links.officeatwork.com/officeatwork-licenseterms) |
-| 앱의 핵심 기능 | 이미지 뱅크 for M365 \| Word, Excel, PowerPoint 및 기타 앱에서 중앙에서 공유된 이미지 액세스 |
+| 앱의 핵심 기능 | M365용 Image Bank - Word, Excel, PowerPoint 및 기타 앱에서 중앙에서 공유된 이미지에 액세스 |
 | 회사 본사 위치 | 스위스 |
 | 앱 정보 페이지 | [https://links.officeatwork.com/officeatwork-apps](https://links.officeatwork.com/officeatwork-apps) |
 | 앱을 실행하는 데 사용되는 호스팅 환경 또는 서비스 모델은 무엇인가요? | Paas |
@@ -56,7 +56,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기본 인프라가 Microsoft 고객 또는 해당 디바이스와 관련된 데이터를 처리하나요? | 예 |
-| 앱에서 처리되는 데이터는 무엇인가요? | Microsoft.Ingestion.Attestation.DocsPublishingCommon.AppInfos.DataProcess |
+| 앱에서 처리되는 데이터는 무엇인가요? | 수집됨: Microsoft 테넌트 ID, 사용자 Azure AD 개체 ID; 데이터 처리는 부여된 권한에 따라 달라지고 클라이언트 쪽에서 발생합니다. 사용 권한 및 로그인 흐름에 필요한 데이터만 officeatwork 제어 임시, 서버리스 및 신뢰할 수 있는 PaaS Azure 서비스에서 처리됩니다. |
 | 앱이 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기본 인프라가 Microsoft 고객 데이터를 저장하나요? | 아니요 |
 
@@ -86,11 +86,11 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 | 직원 계정을 프로비전, 수정 및 삭제하기 위한 프로세스가 설정되었나요? | 예 |
 | 앱을 지원하는 네트워크 경계 경계에 IDPS(침입 감지 및 방지) 소프트웨어가 배포되어 있나요? | 해당 없음 |
 | 앱을 지원하는 모든 시스템 구성 요소에 이벤트 로깅이 설정되어 있나요? | 예 |
-| 잠재적인 보안 이벤트를 검색하기 위해 인간 또는 자동화된 도구에서 모든 로그를 정기적으로 검토합니까? | 예|
+| 잠재적인 보안 이벤트를 검색하기 위해 인간 또는 자동화된 도구에서 모든 로그를 정기적으로 검토합니까? | 예 |
 | 보안 이벤트가 감지되면 심사를 위해 직원에게 경고가 자동으로 전송되나요? | 예 |
 | 공식적인 정보 보안 위험 관리 프로세스가 설정되었나요? | 예 |
-| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정했나요? |  |
-| 검색 후 72시간 이내에 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고합니까?| |
+| 공식적인 보안 인시던트 대응 프로세스를 문서화하고 설정했나요? | 예 |
+| 검색 후 72시간 이내에 위반의 영향을 받는 감독 기관 및 개인에게 앱 또는 서비스 데이터 위반을 보고합니까? | 예 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -103,12 +103,8 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 | 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 해당 없음 |
 | 앱이 HITRUST CSF(Health Information Trust Alliance, Common Security Framework)를 준수하나요? | 해당 없음 |
 | 앱이 SOC(Service Organization Controls) 1을 준수하나요? | 해당 없음 |
-| 가장 최근 SOC1 인증 날짜 |   |
 | 앱이 서비스 조직 컨트롤(SOC 2)을 준수하나요? | 아니요 |
-| 어떤 SOC 2 인증을 달성했나요? | |
-| 가장 최근 SOC2 인증 날짜 | |
 | 앱이 서비스 조직 컨트롤(SOC 3)을 준수하나요? | 아니요 |
-| 가장 최근 SOC3 인증 날짜 | |
 | 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행합니까? | 해당 없음 |
 | 앱 국제 표준화 기구(ISO 27001)가 인증되었나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 해당 없음 |
@@ -161,7 +157,7 @@ Officeatwork에서 Microsoft에 제공하는 정보:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph 사용하여 데이터 액세스
 
->|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **Azure AD 앱 ID** |
+>|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **앱 ID Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Files.ReadWrite.All | 위임 | 즐겨찾기 및 OneDrive 기능 사용 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](../azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3.md) |
 >| Group.ReadWrite.All | 위임 | Teams 기능 사용 | [e8bea835-c6b0-45aa-9c39-889d3c77d5a3](../azure/e8bea835-c6b0-45aa-9c39-889d3c77d5a3.md) |

@@ -3,17 +3,17 @@ title: Microsoft Outlook 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/26/2022
+ms.date: 05/04/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Outlook 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 1f6970220f01e78baaa2a9ebfcde3c233c373d2e
-ms.sourcegitcommit: 7c4eed407267c4c313909d4f27f46bebf443cb23
+ms.openlocfilehash: b15ff360a647450e51e701740eef566523442232
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65071580"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65228162"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps 보안 및 규정 준수
 
@@ -27,6 +27,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [CI 서명](./ci-solution-gmbh-signature.md) | ci solution GmbH | **✓** |  |
 | [codeTwo for Outlook](./codetwo-for-outlook.md) | CodeTwo | **✓** |  |
 | [Commuty](./commuty.md) | Commuty | **✓** |  |
+| [전자 메일 반응기](./flow-simulation-ltd-email-reactor.md) | Flow Simulation Ltd. | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Outlook 대한 노출 서명](./impression-signatures-for-outlook.md) | 노출 서명 | **✓** |  |
 | [Outlook 대한 iPlanner Office 365 Planner 추가 기능](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |

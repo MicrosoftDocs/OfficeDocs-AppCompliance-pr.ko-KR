@@ -3,17 +3,17 @@ title: Microsoft Word 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 04/18/2022
+ms.date: 05/04/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Word 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: cc90ee987ac5f56bca95812b2fb12cb20dd93c0b
-ms.sourcegitcommit: 57d7b0335ec02b7f20a47ec888b4ca39d75bab67
+ms.openlocfilehash: 1c7906cdcd4b92b9adfda6de01bb04a0d46bed30
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/18/2022
-ms.locfileid: "64910226"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65221099"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word 앱 보안 및 규정 준수
 
@@ -23,6 +23,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 |:--------|:------------|:----------------------:|:-------------:|
 | [adobe Acrobat sign for Microsoft Word and PowerPoint](./adobe-inc-acrobat-sign-for-microsoft-word-and-powerpoint.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [AuditBoard 추가 기능](./auditboard-inc-add-in.md) | Auditboard, Inc. | **✓** |  |
+| [BriefCatch](./briefcatch-llc.md) | BriefCatch LLC | **✓** |  |
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
 | [코코팩스 - 팩스 보내기 쉽게 &amp; 안전](./cocofax-sending-fax-made-easysecure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |

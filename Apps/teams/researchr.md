@@ -1,5 +1,5 @@
 ---
-title: KBE&#26666;&#24335;&#20250;&#31038; 의해 researcHR에 대한 애플리케이션 정보
+title: researcHR에 대한 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: researcHR, 해당 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 11d6640b20388c99facf61d5d1a35bd36eadb415
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 44fc42a889181c0337bf6d39c00665fa1b97bd15
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64879648"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226527"
 ---
-# <a name="researchr"></a>researcHR
+# <a name="application-information-for-researchr"></a>researcHR에 대한 애플리케이션 정보
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
@@ -144,7 +144,7 @@ KBE에서 Microsoft에&#26666;&#24335;&#20250;&#31038; 제공하는 정보:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph 사용하여 데이터 액세스
 
->|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **Azure AD 앱 ID** |
+>|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **앱 ID Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Channel.Create | 응용 프로그램 | 이 범위를 사용하여 봇이 Teams 클라이언트에 새 채널을 만들 수 있습니다. 참조: https://docs.microsoft.com/en-us/graph/api/channel-post | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
 >| Directory.Read.All | 응용 프로그램 | 이 범위를 사용하여 웹 사이트에 이러한 데이터를 표시하는 채널 ID 및 이름을 가져옵니다. 참조: https://docs.microsoft.com/en-us/graph/api/channel-list | [82df726e-0de2-46af-b4f1-0645fd95fc97](../azure/82df726e-0de2-46af-b4f1-0645fd95fc97.md) |
