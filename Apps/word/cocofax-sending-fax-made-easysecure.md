@@ -1,5 +1,5 @@
 ---
-title: CocoFax에 대한 응용 프로그램 정보 - &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; 통해 쉽게 &amp; 안전하게 팩스 보내기
+title: CocoFax에 대한 응용 프로그램 정보 - 팩스 보내기가 용이한 &amp; 보안
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: attested
 description: CocoFax에 사용 가능한 모든 보안 및 규정 준수 정보 - 팩스 보내기 쉽게 &amp; 보안, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 267eff5fbfae3a42f5b214c3cad648d5dc1f947d
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 65403be58e39772911f0bb97dfaa1101d00c0877
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877595"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226072"
 ---
-# <a name="cocofax---sending-fax-made-easy-amp-secure"></a>코코팩스 - 팩스 보내기 쉽게 &amp; 안전
+# <a name="application-information-for-cocofax"></a>CocoFax에 대한 애플리케이션 정보
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />

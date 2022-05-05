@@ -1,5 +1,5 @@
 ---
-title: iGlobe의 Office2SharePoint에 대한 응용 프로그램 정보
+title: Office2Sharepoint 개요
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,14 +9,14 @@ ms.service: attestation
 certification_type: certified
 description: Office2SharePoint에 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 30f643b4886b8db9f899e5c8d081ae7481abcd83
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 075e1403ad778cf337ac8b18cce2ec62d5c0b946
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64880325"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65227312"
 ---
-# <a name="office2sharepoint"></a>Office2SharePoint
+# <a name="office2sharepoint-overview"></a>Office2SharePoint 개요
 
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>개발자가 마지막으로 업데이트한 날짜: 2021년 8월 16일</p>
@@ -146,7 +146,7 @@ iGlobe에서 Microsoft에 제공한 정보:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph 사용하여 데이터 액세스
 
->|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **Azure AD 앱 ID** |
+>|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **앱 ID Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Directory.AccessAsUser.All | 위임 | 애플리케이션 데이터베이스에 데이터가 저장되지 않습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |
 >| Directory.Read.All | 위임 | 애플리케이션 데이터베이스에 데이터가 저장되지 않습니다. | [5971c986-9d39-409c-a6f8-1385b1f690ef](../azure/5971c986-9d39-409c-a6f8-1385b1f690ef.md) |

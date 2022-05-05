@@ -1,5 +1,5 @@
 ---
-title: Adobe Acrobat Sign for Microsoft Word 및 Adobe Inc.의 PowerPoint 애플리케이션 정보
+title: Microsoft Word 및 PowerPoint 대한 Adobe Acrobat 로그에 대한 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -9,15 +9,14 @@ ms.service: attestation
 certification_type: certified
 description: Adobe Acrobat Sign for Microsoft Word 및 PowerPoint 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: bcb36c352c4471916541b9316849754b08038108
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 3ff675211ffe7ae2430d1869e7c346c8b3edd3bf
+ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64879135"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65226102"
 ---
-# <a name="adobe-acrobat-sign-for-microsoft-word-and-powerpoint"></a>adobe Acrobat sign for Microsoft Word and PowerPoint
-
+# <a name="application-information-for-adobe-acrobat-sign"></a>Adobe Acrobat Sign에 대한 애플리케이션 정보
 <p></p><a href="https://aka.ms/appcertification" alt="This Microsoft 365 Certified app has been reviewed by Microsoft against industry standards and controls for security, compliance, and data handling practices. Where applicable, Microsoft has verified the developer's claims of compliance with reasonable and effective practices." target="_blank"><img alt="Click here for more information on the Microsoft Certified app program." src="../media/certified.png" width="650" /></a>
 <p>개발자가 마지막으로 업데이트한 날짜: 2021년 10월 28일</p>
 
@@ -161,7 +160,7 @@ Adobe Inc.에서 Microsoft에 제공한 정보:
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph 사용하여 데이터 액세스
 
->|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **Azure AD 앱 ID** |
+>|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **앱 ID Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Mail.ReadWrite | 위임 | 첨부된 문서, 보낸 사람 및 받는 사람 전자 메일, 전자 메일에서 Adobe 서명으로 서명을 위해 보내는 메시지 콘텐츠를 채웁니다. Adobe Sign에서 해당 필드를 다시 입력하는 데 걸리는 시간을 절약하기 위한 것입니다. 규약에 서명하면 사용자가 받는 사람에게 트랜잭션이 완료되었다는 것을 알리는 전자 메일을 보낼 수 있도록 새 전자 메일을 자동으로 작성합니다. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
 >| People.Read | 위임 | 서명&quot;용 보내기 환경에서 &quot;전자 메일 주소를 자동 채우기 위해 일부 초기 문자를 입력하면 사용자가 전체 전자 메일을 입력할 필요가 없습니다. | [a9b0c190-bafb-49ca-a61a-dab99cf2c43b](../azure/a9b0c190-bafb-49ca-a61a-dab99cf2c43b.md) |
