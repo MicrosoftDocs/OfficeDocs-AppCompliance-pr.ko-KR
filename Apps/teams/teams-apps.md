@@ -3,17 +3,17 @@ title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/04/2022
+ms.date: 05/05/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: b934ebf2e648da6f5557ccc88ec3ce82624dd253
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 07def1a41c86aa63094a1a61f2a2b79d288eba95
+ms.sourcegitcommit: 12046b21d8dcc88ec5d6c91e6440e1988e3fd35c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/05/2022
-ms.locfileid: "65227202"
+ms.locfileid: "65239798"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -413,7 +413,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  |
 | [SmileBack](./smileback.md) | SmileBack | **✓** |  |
 | [Sobol](./consensys-ags-sobol.md) | ConsenSys AG&#8217;s Sobol | **✓** |  |
-| [Sociabble](./sociabble.md) | Sociabble | **✓** |  |
 | [소셜 지지](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
 | [Solo](./teladoc-inc-solo.md) | Teladoc, Inc. | **✓** |  |
 | [Spatial Standup](./high-fidelity-inc-spatial-standup.md) | High Fidelity Inc | **✓** |  |
