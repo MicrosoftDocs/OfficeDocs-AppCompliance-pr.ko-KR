@@ -3,24 +3,24 @@ title: Pandos Intelligence Inc.의 Pandos 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/05/2022
+ms.date: 05/10/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Pandos에 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 62c12bd8fe350ffee99159f1cb31df9d2d9aebf4
-ms.sourcegitcommit: 2f4d962dc1778849751d2e1db212ff702c247627
+ms.openlocfilehash: c2737bd36f43610770a938a136563f6c14068748
+ms.sourcegitcommit: 0c3ca169e16a6825888669d1e8ea14f66db725bf
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/06/2022
-ms.locfileid: "65266255"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65305624"
 ---
 # <a name="pandos"></a>Pandos
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 5월 5일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 5월 10일</p>
 
 * <a href="https://teams.microsoft.com/l/app/0e777926-2ab4-4e40-9fe5-80dc68e5044f" target="_blank">Teams 스토어에서 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003534" target="_blank">AppSource에서 보기</a>
@@ -36,7 +36,7 @@ Pandos Intelligence Inc.가 Microsoft에 제공한 정보:
 | 앱 이름 | Pandos |
 | ID | WA200003534 |
 | 지원되는 Office 365 클라이언트 | Microsoft Teams |
-| 파트너 회사 이름 | Pandos Intelligence Inc. |
+| 파트너 회사 이름 | Pandos Intelligence Inc |
 | 회사 웹 사이트 | [https://pandos.io](https://pandos.io) |
 | 앱의 사용 약관 | [https://app.pandos.io/terms-of-use](https://app.pandos.io/terms-of-use) |
 | 앱의 핵심 기능 | Pandos는 팀 및 인력 관리자, 프로젝트 리더, 트레이너 및 교육 강사를 위한 원스톱 상점 학습 및 개발 플랫폼입니다. 기준에 따라 팀 구성(가용성, 성격, 기술 또는 사용자 지정 기준 포함), 팀 작업 관리 및 동료 평가와 같은 기본 기능을 지원합니다. 플랫폼은 동료가 확인한 멤버의 소프트 기술에 대한 프로필을 자동으로 생성합니다.  |
@@ -125,7 +125,17 @@ Pandos Intelligence Inc.가 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? | 아니요 |
+| GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? | 예 |
+| 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 개인 정보 보호 알림이 있나요? | 예 |
+| 개인 정보 취급 방침 URL | https://pandos.io/gdpr/ |
+| 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? | 아니요 |
+| 앱이 개인 정보 보호 알림(예: 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니요 |
+| 중요한 데이터(예: 인종 또는 민족 기원, 정치적 견해, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용되는 데이터 범주의 특수 범주를 처리합니까? | 아니요 |
+| 앱이 미성년자(즉, 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? | 아니요 |
+| 앱에 요청 시 개인의 개인 데이터를 삭제하는 기능이 있나요? | 예 |
+| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한하는 기능이 있나요? | 예 |
+| 앱은 개인에게 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 제공하나요? | 예 |
+| 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)를 수행합니까? | 예 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
