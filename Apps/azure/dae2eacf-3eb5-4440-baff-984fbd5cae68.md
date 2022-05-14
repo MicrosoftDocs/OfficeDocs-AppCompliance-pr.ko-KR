@@ -3,17 +3,17 @@ title: dae2eacf-3eb5-4440-baff-984fbd5cae68에 대한 Azure 앱 ID 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/12/2022
+ms.date: 05/13/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: dae2eacf-3eb5-4440-baff-984fbd5cae68에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: 12408e76dfebef08f7ddfbf93b502a101a177300
-ms.sourcegitcommit: 4d256127e7de5b02c6b9d4f05e823c6845d5bbf7
+ms.openlocfilehash: f1a3d730c38be8d2fe65d7677d8e788df410836b
+ms.sourcegitcommit: 28e4529834823fb61620dc9ac5b33eeddaca67a1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/12/2022
-ms.locfileid: "65382568"
+ms.lasthandoff: 05/14/2022
+ms.locfileid: "65412384"
 ---
 # <a name="azure-app-id-dae2eacf-3eb5-4440-baff-984fbd5cae68"></a>Azure 앱 ID: dae2eacf-3eb5-4440-baff-984fbd5cae68
 
