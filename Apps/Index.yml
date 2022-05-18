@@ -10,12 +10,12 @@ metadata:
   ms.author: legerrar
   ms.service: attestation
   ms.topic: landing-page
-  ms.openlocfilehash: a0c5e8a7dfe7e401de6bd86a915107d49c0ba80a
-  ms.sourcegitcommit: b0c1d8160b4e9a27f23a9d723f7e76d38ab12d9e
+  ms.openlocfilehash: 9a4cc628e44af9df81aadcdee374163225ce9177
+  ms.sourcegitcommit: 9fc27c6c7e9683291d85818c07e7be8291c75532
   ms.translationtype: MT
   ms.contentlocale: ko-KR
-  ms.lasthandoff: 04/29/2022
-  ms.locfileid: "65125333"
+  ms.lasthandoff: 05/18/2022
+  ms.locfileid: "65449282"
 landingContent:
 - title: 정보
   linkLists:
@@ -39,12 +39,18 @@ landingContent:
       url: ~/docs/certification-submission-guide.md
     - text: Microsoft 365 인증 샘플 증거 가이드
       url: ~/docs/certification-sample-evidence-guide.md
+    - text: 앱 준수 자동화 도구 개요
+      url: ~/docs/acat-overview.md
+    - text: 앱 준수 자동화 도구 활용
+      url: ~/docs/automate-certification-with-acat.md
   - linkListType: quickstart
     links:
-    - text: Office 스토어 사용자 가이드
+    - text: Office Microsoft Store 사용자 가이드
       url: ~/docs/UserGuide.md
     - text: 상업용 Marketplace(SaaS 앱) 사용자 가이드
       url: ~/docs/SaaSUserGuide.md
+    - text: 인증 제출 복제 사용자 가이드
+      url: ~/docs/certificationsubmissioncloning.md
 - title: 앱 검토
   linkLists:
   - linkListType: concept
