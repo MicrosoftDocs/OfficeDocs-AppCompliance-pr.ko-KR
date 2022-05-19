@@ -86,6 +86,8 @@ items:
         href: outlook/codetwo-for-outlook.md
       - name: Commuty
         href: outlook/commuty.md
+      - name: docuSign for Outlook
+        href: outlook/docusign-inc-for-outlook.md
       - name: 디나모
         href: outlook/dynamo-software.md
       - name: 전자 메일 반응기
@@ -1269,6 +1271,8 @@ items:
         href: word/krevealllc-crosscheck.md
       - name: 문서 초안 작성기
         href: word/green-meadow-aps-document-drafter.md
+      - name: Word용 DocuSign
+        href: word/docusign-inc-for-word.md
       - name: Excel-Word 문서 자동화
         href: word/analysisplace-excel-to-word-document-automation.md
       - name: Fabasoft Cloud Office 추가 기능
