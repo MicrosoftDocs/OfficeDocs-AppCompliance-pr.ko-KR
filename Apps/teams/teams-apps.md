@@ -3,17 +3,17 @@ title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/13/2022
+ms.date: 05/19/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: 8c6a89142076fd475457c1be92ce6fbe94f4422e
-ms.sourcegitcommit: 7eb24e5432be5d305fa7140c46d6d52c234fb621
+ms.openlocfilehash: e5d2a66a0965a870d356a980e27baa26155fb51b
+ms.sourcegitcommit: b363fcc87dc5720eaddbe567a857270732ef9e1c
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2022
-ms.locfileid: "65420251"
+ms.lasthandoff: 05/19/2022
+ms.locfileid: "65546591"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -67,6 +67,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Avaamo IT Assistant](./avaamo-it-assistant.md) | Avaamo | **✓** |  |
 | [Axelleron](./axelleron.md) | Axelleron | **✓** |  |
 | [Axis](./axis-workshops-ltd.md) | Axis Workshops Ltd | **✓** |  |
+| [B12](./apprentx-b12.md) | Apprentx | **✓** |  |
 | [Beagle](./decision-point-beagle.md) | 의사 결정 지점 | **✓** |  |
 | [Bedriftsnett](./unifon-as-bedriftsnett.md) | Unifon AS | **✓** |  |
 | [Beekast](./beekast.md) | Beekast | **✓** |  |
@@ -78,6 +79,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Bizfone](./mobikom-bizfone.md) | MobiKOM | **✓** |  |
 | [BlackBerry AtHoc](./blackberry-athoc.md) | BlackBerry | **✓** |  |
 | [Board Connect](./engage-squared-board-connect.md) | Engage Squared | **✓** |  |
+| [Bonusly](./bonusly.md) | Bonusly | **✓** |  |
 | [Booking Room Pro](./witivio-booking-room-pro.md) | Witivio | **✓** |  |
 | [BrainBot](./biggerbrains-brainbot.md) | Biggerbrains | **✓** |  |
 | [BRAVO Workhub](./coeus-solutions-gmbh-bravo-workhub.md) | Coeus Solutions GmbH | **✓** |  |
@@ -115,7 +117,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [CoffeePals](./coffeepals-technologies-inc.md) | CoffeePals Technologies Inc. | **✓** |  |
 | [Collaboard](./ibv-solutions-collaboard.md) | IBV Solutions | **✓** |  |
 | [컬렉션 팟](./gifted-to-you-limited-collection-pot.md) | 선물 받은 사용자 제한 | **✓** |  |
-| [Commander](./nimbella-commander.md) | Nimbella | **✓** |  |
 | [회사 탐색기](./konica-minolta-it-solutions-company-navigator.md) | Konica Minolta IT Solutions | **✓** |  |
 | [규격](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [Conferences i/o](./conferences-io.md) | Conferences i/o | **✓** |  |
@@ -143,10 +144,12 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Desk365](./kani-technologies-inc-desk365.md) | Kani Technologies Inc | **✓** |  |
 | [DeskBooking](./desknow-gmbh-deskbooking.md) | DeskNow GmbH | **✓** |  |
 | [DeskManager](./desknow-gmbh-deskmanager.md) | DeskNow GmbH | **✓** |  |
+| [Digiplein](./educatieve-uitgeversgroep-bv-digiplein.md) | Educatieve Uitgeversgroep B.V. | **✓** |  |
 | [DigitalOps Toolbox](./medalsoft-digitalops-toolbox.md) | Medalsoft | **✓** |  |
 | [Diligent Boards](./diligent-boards.md) | Diligent | **✓** |  |
 | [Distribution Lists Pro](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
+| [DoctorOnline](./nlsql-doctoronline.md) | NLSQL | **✓** |  |
 | [문서 초안 작성기](./green-meadow-aps-document-drafter.md) | Green Meadow ApS | **✓** |  |
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
 | [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
@@ -164,6 +167,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [elmah.io](./elmahio.md) | elmah.io | **✓** |  |
 | [Eloops](./eloops.md) | Eloops | **✓** |  |
 | [Email TeamMate](./harmonie-email-teammate.md) | harmon.ie | **✓** |  |
+| [email-texting](./voice-elements-corporation-email-texting.md) | Voice Elements Corporation | **✓** |  |
 | [DSMN8의 직원 옹호](./dsmn8-employee-advocacy-by.md) | DSMN8 | **✓** |  |
 | [직원 추천](./recruitday-inc-employee-referrals.md) | Recruitday Inc. | **✓** |  |
 | [직원 교육 관리](./sharepointsapiens-employee-training-management.md) | SharePoint-Sapiens | **✓** |  |
@@ -332,7 +336,9 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [OfficeSuite](./windstream-officesuite.md) | Windstream | **✓** |  |
 | [OfficeTogether](./officetogether-inc.md) | OfficeTogether, Inc. | **✓** |  |
 | [Officevibe](./officevibe.md) | Officevibe | **✓** |  |
+| [Offishall 계획](./offishall-planning.md) | Offishall | **✓** |  |
 | [OLIVE VLE](./olivegroup-olive-vle.md) | OliveGroup | **✓** |  |
+| [온보딩 시작](./apr-management-solutions-lda-onboarding-start.md) | APR - 관리 솔루션 Lda. | **✓** |  |
 | [Onluyen](./edmicro-onluyen.md) | Edmicro | **✓** |  |
 | [Onsight Connect](./librestream-onsight-connect.md) | Librestream | **✓** |  |
 | [Optmyzr](./optmyzr.md) | Optmyzr | **✓** |  |
@@ -405,6 +411,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [SightCall](./sightcall.md) | SightCall | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
 | [Simple In/Out](./simply-made-apps-inc-simple-inout.md) | Simply Made Apps, Inc. | **✓** |  |
+| [Sine](./sineco-sine.md) | Sine.co | **✓** |  |
 | [Skedda](./skedda-pty-ltd.md) | Skedda Pty Ltd | **✓** |  |
 | [SkilledHuman](./saltflat-limited-skilledhuman.md) | SaltFlat Limited | **✓** |  |
 | [Skillsoft Percipio](./skillsoft-percipio.md) | Skillsoft | **✓** |  |
@@ -420,7 +427,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Sociabble](./sociabble.md) | Sociabble | **✓** |  |
 | [소셜 지지](./oktopost-social-advocacy.md) | Oktopost | **✓** |  |
 | [Solo](./teladoc-inc-solo.md) | Teladoc, Inc. | **✓** |  |
-| [Spatial Standup](./high-fidelity-inc-spatial-standup.md) | High Fidelity Inc | **✓** |  |
 | [SQQ](./superquickquestion-sqq.md) | SuperQuickQuestion | **✓** |  |
 | [StaffCircle](./staffcircle.md) | StaffCircle | **✓** |  |
 | [Standup Alice](./bao-le-duc-standup-alice.md) | Bao Le Duc | **✓** |  |
@@ -480,6 +486,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |
 | [timeghost - 시간 추적](./timeghostio-timeghost-time-tracking.md) | timeghost.io | **✓** |  |
 | [Timeneye](./dm-digital-srl-timeneye.md) | DM Digital SRL | **✓** |  |
+| [Tonkean](./tonkean.md) | Tonkean | **✓** |  |
 | [Totara](./totara-learning.md) | Totara Learning | **✓** |  |
 | [touchSMS](./edgility-touchsms.md) | Edgility | **✓** |  |
 | [교육 도우미](./the-bot-platform-training-assistant.md) | The Bot Platform | **✓** |  |
