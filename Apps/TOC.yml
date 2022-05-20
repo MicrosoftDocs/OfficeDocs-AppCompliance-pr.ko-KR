@@ -26,6 +26,8 @@ items:
   - name: Microsoft Excel 앱
     href: excel/excel-apps.md
     items:
+      - name: AuditBoard 추가 기능
+        href: excel/auditboard-inc-add-in.md
       - name: B2B 파트너를 위한 Canon EMEA 서비스 비용 계산기
         href: excel/canon-emea-service-cost-calculator-for-b2b-partners.md
       - name: NetSuite용 CloudExtend Analytics
@@ -74,8 +76,6 @@ items:
     items:
       - name: Adobe Acrobat Sign for Microsoft Outlook
         href: outlook/adobe-inc-acrobat-sign-for-microsoft-outlook.md
-      - name: 이타적 비디오
-        href: outlook/altru-videos.md
       - name: 승인된 연락처 일정
         href: outlook/approved-contact-calendars.md
       - name: 내 메일 승격
@@ -290,8 +290,6 @@ items:
         href: teams/aster.md
       - name: AtBot
         href: teams/h3-solutions-inc-atbot.md
-      - name: AttendanceBot
-        href: teams/anaek-attendancebot.md
       - name: 도우미
         href: teams/workstreampeople-bv-attendant.md
       - name: Attender
@@ -370,8 +368,6 @@ items:
         href: teams/yattee-inc-canary.md
       - name: Casedoc Virtual Hearing
         href: teams/casedoc-virtual-hearing.md
-      - name: CatchEm
-        href: teams/chimu-software-catchem.md
       - name: Centrical
         href: teams/biz-effective-centrical.md
       - name: check.it
@@ -498,8 +494,6 @@ items:
         href: teams/expert-systems-ivrasia-coltd-ecbooking.md
       - name: Edgility
         href: teams/edgility.md
-      - name: EdMill
-        href: teams/my-serious-game-edmill.md
       - name: Edpuzzle
         href: teams/edpuzzle.md
       - name: Efecte Service Management
@@ -626,8 +620,6 @@ items:
         href: teams/guidespark-communicate-cloud.md
       - name: GuineaPig
         href: teams/guineapig-health-technologies-ab.md
-      - name: Guru
-        href: teams/guru-technologies.md
       - name: Health Hero
         href: teams/health-hero.md
       - name: Heedify
@@ -696,7 +688,7 @@ items:
         href: teams/semos-cloud-soultions-jobpts.md
       - name: Joye
         href: teams/joye-pte-ltd.md
-      - name: Kakeai
+      - name: 카케이어 주
         href: teams/kakeai.md
       - name: Kanban Tool
         href: teams/shore-labs-kanban-tool.md
@@ -756,8 +748,8 @@ items:
         href: teams/lucid-software-lucidspark-whiteboard.md
       - name: LumApps
         href: teams/lumapps.md
-      - name: Lumio by SMART
-        href: teams/smart-technologies-ulc-lumio-by.md
+      - name: Lumio
+        href: teams/smart-technologies-ulc-lumio.md
       - name: Map Pro
         href: teams/witivio-map-pro.md
       - name: Marvel
@@ -848,8 +840,6 @@ items:
         href: teams/windstream-officesuite.md
       - name: OfficeTogether
         href: teams/officetogether-inc.md
-      - name: Officevibe
-        href: teams/officevibe.md
       - name: Offishall 계획
         href: teams/offishall-planning.md
       - name: OLIVE VLE
@@ -1020,6 +1010,8 @@ items:
         href: teams/smartdraw-software-llc.md
       - name: Smartnotation
         href: teams/smartnotation-bv.md
+      - name: SmartPods
+        href: teams/discourse-analytics-smartpods.md
       - name: SmartWork
         href: teams/smartwork-of-intumit.md
       - name: SmileBack
@@ -1110,8 +1102,6 @@ items:
         href: teams/effency-teamgether.md
       - name: Teamhood
         href: teams/eylean-teamhood.md
-      - name: TeamMate by ChitChattr
-        href: teams/chitchattr-teammate-by.md
       - name: TeamMood
         href: teams/power-up-conseil-teammood.md
       - name: Teams Manager
@@ -1321,8 +1311,6 @@ items:
         href: word/taxyio-gmbh-taxkit-docs.md
       - name: TerMef
         href: word/mondeca-termef.md
-      - name: xLaw - 지식 관리 시스템
-        href: word/evertn-xlaw-knowledge-management-system.md
   - name: SaaS 앱
     href: saas/saas-apps.md
     items:
