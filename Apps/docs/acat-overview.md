@@ -7,18 +7,21 @@ description: Microsoft 365용 앱 준수 자동화 도구 개요
 keywords: 앱 인증 자동화 Microsoft 365
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: bd570496ce11bf72270cb18542846140122efb8b
-ms.sourcegitcommit: 3931a0f41e8a6637cd1ce0a7c5273dabf592e475
+ms.openlocfilehash: 5e3fbc062c1887a205a7b99a85a292ad9a64f8d0
+ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/17/2022
-ms.locfileid: "65441994"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65608808"
 ---
 # <a name="app-compliance-automation-tool-for-microsoft-365"></a>Microsoft 365 대한 앱 준수 자동화 도구
 이 문서에서는 ACAT(App Compliance Automation Tool for Microsoft 365)가 무엇인지, 규정 준수를 간소화하고 Microsoft 365 인증을 얻는 방법을 알아봅니다.
 
 > [!IMPORTANT]
 > ACAT는 현재 비공개 미리 보기로 제공됩니다. 프라이빗 미리 보기 프로그램에 참여하려면 [여기에서](https://aka.ms/acat/private/signup) 등록하세요.
+
+> [!NOTE]
+> ACAT 프라이빗 미리 보기에 피드백을 제공하려는 경우 이 [양식](https://aka.ms/acat/feedback)에서 시작할 수 있습니다. ACAT 제품 팀은 메시지를 받으면 가능한 한 빨리 후속 조치를 취합니다. 
 
 ## <a name="what-is-app-compliance-automation-tool-for-microsoft-365"></a>Microsoft 365 대한 앱 준수 자동화 도구란?
 ACAT(App Compliance Automation Tool for Microsoft 365)는 Azure Portal의 서비스로, Microsoft 365 고객 데이터를 사용하고 파트너 센터를 통해 게시되는 모든 앱의 규정 준수 과정을 간소화하는 데 도움이 됩니다. Microsoft 365 앱 준수 자동화 도구는 더 쉽고 편리하게 Microsoft 365 인증을 완료하는 데 도움이 되는 애플리케이션 중심 규정 준수 자동화 도구입니다. 프라이빗 미리 보기에서 ACAT는 Azure에서 실행되는 앱에서 사용할 수 있습니다.

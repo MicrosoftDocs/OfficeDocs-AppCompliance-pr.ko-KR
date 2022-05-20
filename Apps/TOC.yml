@@ -612,8 +612,6 @@ items:
         href: teams/golinks.md
       - name: Good4work
         href: teams/good4work.md
-      - name: GoToConnect
-        href: teams/logmein-inc-gotoconnect.md
       - name: GRATICA
         href: teams/okwave-inc-gratica.md
       - name: Group Address Book - NextSet
@@ -698,7 +696,7 @@ items:
         href: teams/semos-cloud-soultions-jobpts.md
       - name: Joye
         href: teams/joye-pte-ltd.md
-      - name: 카케이어 주
+      - name: Kakeai
         href: teams/kakeai.md
       - name: Kanban Tool
         href: teams/shore-labs-kanban-tool.md

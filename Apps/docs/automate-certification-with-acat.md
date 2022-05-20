@@ -8,12 +8,12 @@ ms.service: certification
 ms.topic: how-to
 ms.date: 04/13/2022
 ms.custom: template-how-to
-ms.openlocfilehash: c81ccf3626d6039333f52a487e98233364f7174e
-ms.sourcegitcommit: 785d1c5d829e44e0ad696b85c92be81f549b989e
+ms.openlocfilehash: 6a18e64f3b75f6d197c9867830d0a061ce298584
+ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/17/2022
-ms.locfileid: "65433499"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65608798"
 ---
 # <a name="automate-microsoft-365-certification-with-app-compliance-automation-tool-for-microsoft-365"></a>Microsoft 365 App Compliance Automation Tool을 사용하여 Microsoft 365 인증 자동화
 
@@ -22,14 +22,17 @@ ACAT(Microsoft 365 앱 준수 자동화 도구)는 Microsoft 365 앱 준수 프�
 > [!IMPORTANT]
 > ACAT는 현재 비공개 미리 보기로 제공됩니다. 프라이빗 미리 보기 프로그램에 참여하려면 [여기에서](https://aka.ms/acat/private/signup) 등록하세요.
 
+> [!NOTE]
+> ACAT 프라이빗 미리 보기에 피드백을 제공하려는 경우 이 [양식](https://aka.ms/acat/feedback)에서 시작할 수 있습니다. ACAT 제품 팀은 메시지를 받으면 가능한 한 빨리 후속 조치를 취합니다. 
+
 ## <a name="create-your-first-compliance-report-to-onboard-acat"></a>ACAT를 온보딩하는 첫 번째 준수 보고서 만들기
 
 ACAT를 사용하면 애플리케이션의 규정 준수 또는 애플리케이션의 특정 환경(예: 프로덕션, 스테이징 등)에 집중할 수 있습니다. 이를 통해 애플리케이션의 클라우드 인프라 또는 애플리케이션의 특정 환경에 따라 규정 준수 경계를 정의할 수 있는 **규정 준수 보고서를** 만들 수 있습니다.
 
 > [!IMPORTANT]
-> ACAT는 프라이빗 미리 보기에 있으므로 직접 검색할 *https://portal.azure.com* 수 없습니다. ACAT를 시작하려면 아래 옵션을 사용하세요.
+> ACAT는 프라이빗 미리 보기에 있으므로 Azure Portal 직접 검색할 수 없습니다. [ACAT 프라이빗 미리 보기 프로그램에](https://aka.ms/acat/private/signup) 등록하고 지원 팀에서 액세스 권한을 얻습니다.
 
-- ***Azure Portal Microsoft 365 앱 준수 자동화 도구를*** 검색하고 시작하거나 [ACAT의 딥 링크를](https://portal.azure.com/#blade/Microsoft_Azure_AppComplianceAutomation/AcatMenuBlade/overview) 사용하여 직접 시작합니다.[](https://portal.azure.com/?microsoft_azure_appcomplianceautomation_assettypeoptions=%7B%22AppComplianceAutomation%22:%7B%22options%22:%22%22%7D%7D&microsoft_azure_marketplace_ItemHideKey=Microsoft_Azure_AppComplianceAutomationHidden)
+- Azure Portal ***Microsoft 365 대한 앱 준수 자동화 도구를*** 검색하고 시작합니다.
 - 왼쪽에서 ***보고서*** 로 이동합니다.
 
 :::image type="complex" source="../media/ACAT/getstarted-create-report-inline.png" lightbox="../media/ACAT/getstarted-create-report.png" alt-text="준수 보고서 만들기":::
