@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 Azure 앱 ID에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: ed17483d8bca1bda1f9906dc261cacd9d8794bf8
-ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
+ms.openlocfilehash: d57f98da74bd8bda85bc9951f63dfcb67cda9922
+ms.sourcegitcommit: da6b5ad8f0871ce17fe826f242344dec09a04b1c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65614172"
+ms.lasthandoff: 05/21/2022
+ms.locfileid: "65628257"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>ID 보안 및 규정 준수 Azure 앱
 
@@ -87,6 +87,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [2f05d0f8-3f87-4a59-952d-33c69c24a6d9](./2f05d0f8-3f87-4a59-952d-33c69c24a6d9.md) | **✓** |  |
 | [2fa142be-31b5-4fda-bd37-591541b501aa](./2fa142be-31b5-4fda-bd37-591541b501aa.md) | **✓** |  |
 | [30c7a49f-89f6-45ba-9938-ed627d102c54](./30c7a49f-89f6-45ba-9938-ed627d102c54.md) | **✓** |  |
+| [312728bc-5d02-49a5-9230-1f09884f6d04](./312728bc-5d02-49a5-9230-1f09884f6d04.md) | **✓** |  |
 | [32eae2b8-2111-431f-9263-e8e1120d0a97](./32eae2b8-2111-431f-9263-e8e1120d0a97.md) | **✓** |  |
 | [33ccef75-8248-44e8-88d3-24526ca9c2d3](./33ccef75-8248-44e8-88d3-24526ca9c2d3.md) | **✓** |  |
 | [3407e97c-3eed-4eca-add5-2549ed881269](./3407e97c-3eed-4eca-add5-2549ed881269.md) | **✓** |  |
@@ -296,6 +297,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](./c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) | **✓** |  |
 | [c71a6f53-cf0c-426d-a826-cedae8b073f7](./c71a6f53-cf0c-426d-a826-cedae8b073f7.md) | **✓** |  |
 | [c859de61-8a6b-42e6-ba88-f639df33bc72](./c859de61-8a6b-42e6-ba88-f639df33bc72.md) | **✓** |  |
+| [c884866a-50e4-4b61-a96c-1d22432f7139](./c884866a-50e4-4b61-a96c-1d22432f7139.md) | **✓** |  |
 | [c9b3645e-2695-46c5-970d-e06f5c74bcfa](./c9b3645e-2695-46c5-970d-e06f5c74bcfa.md) | **✓** |  |
 | [cb657bc2-9910-4b9c-82a0-6f4f3a47006b](./cb657bc2-9910-4b9c-82a0-6f4f3a47006b.md) | **✓** |  |
 | [cbc8bfef-8dd2-4714-ab18-18e15566b63e](./cbc8bfef-8dd2-4714-ab18-18e15566b63e.md) | **✓** |  |
