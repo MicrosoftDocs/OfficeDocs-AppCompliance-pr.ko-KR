@@ -7,12 +7,12 @@ description: Microsoft 365 앱 준수 프로그램 SaaS에 대한 ISV 사용자 
 keywords: Microsoft 365 앱 준수 프로그램 SaaS에 대한 ISV 사용자 가이드
 ms.topic: conceptual
 ms.service: attestation
-ms.openlocfilehash: abb26a45c9dc0d0d91ebd26c06b29644b41b2dfd
-ms.sourcegitcommit: ffdee67a99a6f03cc93fe4d99f00e484b9a8a0e5
+ms.openlocfilehash: af6561ffb4670269fc4e219f58d069ce3fa20ce9
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/10/2022
-ms.locfileid: "64752867"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65618292"
 ---
 # <a name="partners-user-guide-for-microsoft-365-app-compliance-program---saas"></a>Microsoft 365 앱 준수 프로그램에 대한 파트너의 사용자 가이드 - SaaS
 
@@ -24,6 +24,9 @@ ms.locfileid: "64752867"
 ## <a name="1-overview"></a>1. 개요 
 
 이 문서는 파트너 센터 포털을 통해 SaaS 앱에 대한 Publisher 증명 및 인증을 받는 것을 목표로 하는 Microsoft 365 앱 준수 프로그램에 등록된 파트너에 대한 단계별 사용자 가이드 역할을 합니다.
+
+>[!IMPORTANT]
+>이 가이드는 Microsoft 365 앱 준수 팀에서 승인하고 허용 목록에 추가한 SaaS 앱에만 적용됩니다. 앱이 허용 목록에 없는 경우 파트너 센터 내에서 진행할 수 없습니다. SaaS 허용 목록을 받으려면 appcert@microsoft.com 문의하세요.
 
 ## <a name="2-acronyms--definitions"></a>2. 약어 & 정의
 |두문자어 | 정의 |
@@ -160,7 +163,7 @@ Microsoft 365 앱 준수 프로그램은 이제 연간 갱신 프로세스를 �
  
 **혜택:** 
 
-- AppSource, Office Store, Teams Store 및 다양한 관리 포털에서 인증 배지를 유지 관리하여 다른 사용자와 앱을 구분합니다. 
+- AppSource, Office Microsoft Store, Teams Microsoft Store 및 다양한 관리 포털에서 인증 배지를 유지 관리하여 다른 사용자와 앱을 구분합니다. 
 - 인증된 앱을 사용하는 고객 신뢰도를 높입니다. 
 - IT 관리자가 업데이트된 인증 정보를 사용하여 정보에 입각한 결정을 내릴 수 있도록 지원합니다.
 
@@ -223,7 +226,7 @@ Microsoft 문서에서 앱의 Publisher 증명 페이지를 유지하려면 만�
 
 **인증 만료:**
 
-Microsoft 문서에서 앱의 인증 페이지를 유지하려면 만료 날짜 전에 앱의 정보를 갱신해야 합니다. 또한 적시에 갱신하면 AppSource 및 Team Store에서 앱에 대한 계속해서 잘못된 작업 및 아이콘이 보장됩니다.
+Microsoft 문서에서 앱의 인증 페이지를 유지하려면 만료 날짜 전에 앱의 정보를 갱신해야 합니다. 또한 시기 적절한 갱신을 통해 AppSource 및 Team Microsoft Store 앱에 대한 계속해서 잘못된 작업과 아이콘을 확인할 수 있습니다.
 
 ![인증 갱신 승인](../media/UserGuidePhotos/36.png)
   

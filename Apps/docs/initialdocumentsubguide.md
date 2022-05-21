@@ -7,19 +7,19 @@ description: 초기 문서 제출은 인증의 사전 평가 단계의 일부입
 keywords: 앱 인증 팀 Microsoft 365 보안 규정 준수 m365 초기 문서 제출
 ms.topic: conceptual
 ms.service: certification
-ms.openlocfilehash: 23c3cf7a64025bb7269adb35175e8d87bc64224e
-ms.sourcegitcommit: ec1d4f7013722fe672830e3664b0fb8b0f33bd37
+ms.openlocfilehash: 8cb7ac4711b7399ae24b76794c251e3cae845e94
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64784507"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65618582"
 ---
 # <a name="microsoft-365-ceritification---initial-document-submission-guide"></a>Microsoft 365 인증 - 초기 문서 제출 가이드
 
 초기 문서 제출은 인증의 사전 평가 단계의 일부입니다. 제공된 정보는 인증 분석가에게 평가 범위에 포함되는 제어 및 시스템 구성 요소를 식별하는 데 필요한 배경을 제공합니다. 이 문서는 초기 문서 제출에 대해 예상되는 사항의 예로만 사용됩니다. 제공하는 설명서는 솔루션을 설계, 구현 및 관리하는 방법에 따라 달라집니다.
 
 ## <a name="what-is-the-hosting-environment-or-service-model-used-to-run-your-app"></a>앱을 실행하는 데 사용되는 호스팅 환경 또는 서비스 모델은 무엇인가요?
-- IaaS(Infrastructure as a Service)는 클라우드 서비스 공급자가 인프라 구성 요소를 호스트하지만 ISV는 Virtual Machines/운영 체제, 데이터 저장소 및 네트워킹 구성 요소와 같은 구성 요소를 개별적으로 배포하고 관리하는 클라우드 서비스 모델입니다. 예를 들어 Azure Virtual Machine 및 Azure Disk Storage 있습니다.
+- IaaS(Infrastructure as a Service)는 클라우드 서비스 공급자가 인프라 구성 요소를 호스트하지만 ISV는 가상 머신/운영 체제, 데이터 저장소 및 네트워킹 구성 요소와 같은 구성 요소를 개별적으로 배포하고 관리하는 클라우드 서비스 모델입니다. 예를 들어 Azure Virtual Machine 및 Azure Disk Storage 있습니다.
 - PaaS(Platform as a Service)는 클라우드 서비스 공급자가 인프라 구성 요소를 관리하는 클라우드 서비스 모델입니다. ISV는 자체 애플리케이션 및 서비스 배포만 담당합니다. 이 예제는 Azure 앱 Services, Azure Functions 및 Azure CDN.
 - 이 컨텍스트에서 호스팅되는 ISV는 클라우드 서비스 공급자가 사용되지 않음을 의미합니다. ISV는 자체 서버, 디스크, 네트워킹을 온-프레미스에서 독립적으로 물리적으로 관리합니다.
 - 이 컨텍스트의 하이브리드는 위의 모델 중 하나 이상이 사용됨을 의미합니다. 예를 들어 일부 ISV는 IaaS 서비스 및 PaaS 서비스를 혼합하여 앱을 지원하도록 선택하거나 일부 온-프레미스 ISV 호스트 구성 요소가 있고 다른 ISV는 클라우드 서비스 공급자에게 아웃소싱할 수 있습니다. 더 많은 서비스 모델 중 하나를 사용하는 경우 하이브리드를 선택합니다.
@@ -125,5 +125,7 @@ API 이름 엔드포인트 주소 Contoso 고객 API https://customerapi.contoso
 
 ![Data Flow 다이어그램](../media/Dataflowdiagram.png)
 
+## <a name="external-certifications-soc2-pci-dss-iso27001---optional"></a>외부 인증(SOC2, PCI DSS, ISO27001) - 선택 사항
 
+SOC2, PCI DSS 또는 ISO27001 인증을 이미 획득했으며 인증되는 애플리케이션의 전체 범위와 지원 환경을 포함하는 것보다 지난 12개월 이내에 보고서가 발행된 경우 초기 문서 제출 중에 제출할 수 있습니다. 이를 활용하여 컨트롤의 하위 집합을 충족하고 평가를 신속하게 처리하려고 합니다. 그러나 Microsoft 365 인증을 획득하는 데는 필요하지 않습니다. 
 

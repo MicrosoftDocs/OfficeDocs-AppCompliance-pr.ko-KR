@@ -3,17 +3,17 @@ title: Microsoft Word 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/18/2022
+ms.date: 05/20/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Word 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 6fbf61c48d0348327107911d493592eeb2e849e3
-ms.sourcegitcommit: d79cdda99f8faebe842da59e3a1ee27da5a91c25
+ms.openlocfilehash: 28a1f34f21b783fec68f1ffaab516f8abd432a3e
+ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "65474762"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65618981"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word 앱 보안 및 규정 준수
 
@@ -52,4 +52,3 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Word용 스타일러스](./meaningcloud-stilus-for-word.md) | MeaningCloud | **✓** |  |
 | [TaxKit 문서](./taxyio-gmbh-taxkit-docs.md) | Taxy.io GmbH | **✓** |  |
 | [TerMef](./mondeca-termef.md) | 몬데카 주 | **✓** |  |
-| [xLaw - 지식 관리 시스템](./evertn-xlaw-knowledge-management-system.md) | evertn | **✓** |  |
