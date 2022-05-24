@@ -9,12 +9,12 @@ ms.service: attestation
 certification_type: attested
 description: AuditBoard 추가 기능, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 71829162839f255a9481d7f64333d091ad65b5e1
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 0c69f4cfa2a4d443070ac3eb4f9b9ce1a4869e98
+ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877605"
+ms.lasthandoff: 05/23/2022
+ms.locfileid: "65641917"
 ---
 # <a name="auditboard-add-in"></a>AuditBoard 추가 기능
 
@@ -34,7 +34,7 @@ Auditboard, Inc.에서 Microsoft에 제공하는 정보:
 |:----------------|:-------------|
 | 앱 이름 | AuditBoard 추가 기능 |
 | ID | WA200003350 |
-| 지원되는 Office 365 클라이언트 | mac, 웹용 Word, Word 2013 이상에서 Word 2016 이상 Windows |
+| 지원되는 Office 365 클라이언트 | Excel 2016 이상 Mac, Excel 2013 이상 Windows, 웹용 Excel, Word 2016 이상 Mac, 웹용 Word, Word 2013 이상에서 Windows |
 | 파트너 회사 이름 | Auditboard, Inc. |
 | 회사 웹 사이트 | [https://www.auditboard.com](https://www.auditboard.com) |
 | 앱의 사용 약관 | [https://appsource.microsoft.com](https://appsource.microsoft.com) |
@@ -136,7 +136,6 @@ Auditboard, Inc.에서 Microsoft에 제공하는 정보:
 | 애플리케이션이 Single Sign-On, API 액세스 등을 위해 Azure AD(Microsoft Identity Platform)와 통합됩니까? | 아니요 |
 | Microsoft ID 플랫폼 통합 검사 목록에 설명된 모든 적용 가능한 모범 사례를 검토하고 준수했나요? | 아니요 |
 | 앱에서 인증을 위해 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft ID 웹을 사용하나요? |  |
-| 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(지속적인 액세스 평가)를 지원하나요? |  |
 | 앱이 코드에 자격 증명을 저장하나요? |  |

@@ -3,17 +3,17 @@ title: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba에 대한 Azure 앱 ID 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/20/2022
+ms.date: 05/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: f4fa94adb18f6ed290ef36b29d2861875f281614
-ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
+ms.openlocfilehash: f74f4878622bfb704e8c5792d5c537d38ab4883c
+ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65618028"
+ms.lasthandoff: 05/23/2022
+ms.locfileid: "65638867"
 ---
 # <a name="azure-app-id-6f5cab29-c1ad-4048-bf96-fdbe54dba6ba"></a>Azure 앱 ID: 6f5cab29-c1ad-4048-bf96-fdbe54dba6ba
 
