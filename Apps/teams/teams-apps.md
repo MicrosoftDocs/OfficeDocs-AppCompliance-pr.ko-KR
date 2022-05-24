@@ -3,17 +3,17 @@ title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/20/2022
+ms.date: 05/21/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: 0ed41ac60058a87de4e493d3063aff39359103b1
-ms.sourcegitcommit: a615b7893956a0737e30e477d2870fd99e514ea5
+ms.openlocfilehash: 54d8e9c17b8ad0439eff0e99e53cef0599a976b2
+ms.sourcegitcommit: 92295c3ae2ea6543be22c92e741da0e494ada2b1
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65617395"
+ms.lasthandoff: 05/23/2022
+ms.locfileid: "65642787"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -379,7 +379,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Quitch](./quitch.md) | Quitch | **✓** |  |
 | [Rafiky](./global-congress-srl-rafiky.md) | GLOBAL CONGRESS SRL | **✓** |  |
 | [Rattle](./rattle.md) | Rattle | **✓** |  |
-| [Reach](./livetiles-reach.md) | LiveTiles | **✓** |  |
 | [모임 탐색기 읽기](./read-ai-inc-meeting-navigator.md) | Read AI, Inc. | **✓** |  |
 | [실시간 번역기](./fairuse-real-time-translator.md) | 공정한 사용 | **✓** |  |
 | [RecognitionNow DM](./bi-worldwide-recognitionnow-dm.md) | BI WORLDWIDE | **✓** |  |
