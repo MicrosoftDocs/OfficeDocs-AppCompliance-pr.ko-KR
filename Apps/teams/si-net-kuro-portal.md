@@ -1,49 +1,49 @@
 ---
-title: TINYpulse의 TINYpulse에 대한 애플리케이션 정보
+title: Si-Net별 KURO 포털에 대한 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/25/2022
+ms.date: 05/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: TINYpulse, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
+description: KURO Portal에 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 1bf60852826c1e186ccd0590ebca1a76ddcb97e9
+ms.openlocfilehash: 76bac84d40bcc0b9a3e73b2dd691b6020c353cc5
 ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/26/2022
-ms.locfileid: "65692053"
+ms.locfileid: "65692409"
 ---
-# <a name="tinypulse"></a>TINYpulse
+# <a name="kuro-portal"></a>KURO 포털
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 5월 25일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 5월 3일</p>
 
-* <a href="https://teams.microsoft.com/l/app/1950b3dc-66fc-4c5f-bbbe-e411ad91a49f" target="_blank">Teams 스토어에서 보기</a>
-* <a href="https://appsource.microsoft.com/product/office/WA104381729" target="_blank">AppSource에서 보기</a>
+* <a href="https://teams.microsoft.com/l/app/c4af7af6-4fa4-4777-bab7-713cda6d0f74" target="_blank">Teams 스토어에서 보기</a>
+* <a href="https://appsource.microsoft.com/product/office/WA200004019" target="_blank">AppSource에서 보기</a>
 
 ::: zone pivot="general"
 
 ### <a name="general-information"></a>일반 정보
 
-TINYpulse에서 Microsoft에 제공한 정보:
+Microsoft에 Si-Net 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | TINYpulse |
-| ID | WA104381729 |
+| 앱 이름 | KURO 포털 |
+| ID | WA200004019 |
 | 지원되는 Office 365 클라이언트 | Microsoft Teams |
-| 파트너 회사 이름 | TINYpulse |
-| 회사 웹 사이트 | [https://www.tinypulse.com](https://www.tinypulse.com) |
-| 앱의 사용 약관 | [https://www.tinypulse.com/terms-and-conditions](https://www.tinypulse.com/terms-and-conditions) |
-| 앱의 핵심 기능 | 문화권, 인식 및 사각지대를 방지하기 위한 최고 등급 앱. |
-| 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | [https://www.tinypulse.com/engage](https://www.tinypulse.com/engage) |
+| 파트너 회사 이름 | Si-Net |
+| 회사 웹 사이트 | [https://www.si-net.it](https://www.si-net.it) |
+| 앱의 사용 약관 | [https://www.si-net.it/termini-di-utilizzo-kuro/](https://www.si-net.it/termini-di-utilizzo-kuro/) |
+| 앱의 핵심 기능 | Teams 대한 KURO 포털 응용 프로그램은 사람들이 한 눈에 필요한 모든 고객 정보를 가질 수있는 가벼운 CRM이 될 것을 약속드립니다, 자신의 전화 운영자와 팀에서 직접 전화 번호부로 사용, 연락처의 사람들에게 직접 이메일을 보내, 직접 채팅과 Kuro 포털 게스트 고객과 회의를 만들,  쉽고 빠른 방법으로 고객 정보를 검색하고 선택한 고객&#8217;문서 컬렉션 및 공유 문서 관리에 직접 액세스  |
+| 회사 본사 위치 | 이탈리아 |
+| 앱 정보 페이지 | |
 | 앱을 실행하는 데 사용되는 호스팅 환경 또는 서비스 모델은 무엇인가요? | Paas |
-| 앱에서 사용하는 호스팅 클라우드 공급자는 무엇인가요? | 기타 |
+| 앱에서 사용하는 호스팅 클라우드 공급자는 무엇인가요? | Azure |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -53,20 +53,14 @@ TINYpulse에서 Microsoft에 제공한 정보:
 
 ### <a name="how-the-app-handles-data"></a>앱에서 데이터를 처리하는 방법
 
-이 정보는 TINYpulse에서 이 앱이 조직 데이터를 수집하고 저장하는 방법과 앱이 수집하는 데이터에 대해 조직에서 가질 컨트롤에 대해 제공되었습니다.
+이 정보는 이 앱이 조직 데이터를 수집하고 저장하는 방법과 앱이 수집하는 데이터에 대해 조직에서 제어하는 방법에 대한 Si-Net 제공되었습니다.
 
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기본 인프라가 Microsoft 고객 또는 해당 디바이스와 관련된 데이터를 처리하나요? | 예 |
-| 앱에서 처리되는 데이터는 무엇인가요? | conversation_id, conversation_type, tenant_id, service_url, 메일, userPrincialName, 사용자 ID, 사용자 개체 ID(AADObjectId) |
+| 앱에서 처리되는 데이터는 무엇인가요? | 고객 테넌트 및 디바이스 |
 | 앱이 TLS 1.1 이상을 지원하나요? | 예 |
-| 앱 또는 기본 인프라가 Microsoft 고객 데이터를 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇인가요? | conversation_id, conversation_type, tenant_id, service_url, 메일, userPrincialName, 사용자 ID, 사용자 개체 ID(AADObjectId) |
-| 기본 침입이 Microsoft 고객 데이터를 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치는 어디인가요? | 미국 |
-| 설정된 데이터 임대 및 폐기 프로세스가 있나요? | 예 |
-| 계정이 종료된 후 데이터가 보존되는 기간은 얼마인가요? | 90일 미만 |
-| 설정된 데이터 액세스 관리 프로세스가 있나요? | 예 |
-| 고객 데이터 또는 고객 콘텐츠를 제3자 또는 하위 프로세서로 전송하나요? | 아니요 |
+| 앱 또는 기본 인프라가 Microsoft 고객 데이터를 저장하나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -78,9 +72,9 @@ TINYpulse에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱에서 연간 침투 테스트를 수행합니까? | 예 |
-| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 예 |
-| 사용자 환경에서 기존의 맬웨어 방지 보호 또는 애플리케이션 제어를 사용하나요? | ApplicationControls |
+| 앱에서 연간 침투 테스트를 수행합니까? | 아니요 |
+| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 아니요 |
+| 사용자 환경에서 기존의 맬웨어 방지 보호 또는 애플리케이션 제어를 사용하나요? | TraditionalAntiMalware, ApplicationControls |
 | 보안 취약성을 들여쓰고 위험 순위를 지정하는 프로세스가 설정되었나요? | 예 |
 | 패치를 적용하기 위한 SLA(서비스 수준 계약)를 제어하는 정책이 있나요? | 예 |
 | 패치 정책 SLA에 따라 패치 관리 작업을 수행합니까? | 예 |
@@ -108,21 +102,21 @@ TINYpulse에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 예 |
-| 앱이 HITRUST CSF(Health Information Trust Alliance, Common Security Framework)를 준수하나요? | 예 |
+| 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 아니요 |
+| 앱이 HITRUST CSF(Health Information Trust Alliance, Common Security Framework)를 준수하나요? | 아니요 |
 | 앱이 SOC(Service Organization Controls) 1을 준수하나요? | 아니요 |
 | 앱이 서비스 조직 컨트롤(SOC 2)을 준수하나요? | 아니요 |
 | 앱이 서비스 조직 컨트롤(SOC 3)을 준수하나요? | 아니요 |
-| 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행합니까? | 해당 없음 |
-| 앱 국제 표준화 기구(ISO 27001)가 인증되었나요? | 예 |
+| 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행합니까? | 아니요 |
+| 앱 국제 표준화 기구(ISO 27001)가 인증되었나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
 | 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
 | 앱 FedRAMP(Federal Risk and Authorization Management Program)가 규정을 준수합니까? | 아니요 |
-| 앱이 FERPA(가족 교육 권리 및 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 COPPA(아동 온라인 개인 정보 보호법)를 준수하나요? | 해당 없음 |
-| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 해당 없음 |
-| 앱이 NIST 800-171을 준수하나요? | 해당 없음 |
+| 앱이 FERPA(가족 교육 권리 및 개인 정보 보호법)를 준수하나요? | 아니요 |
+| 앱이 COPPA(아동 온라인 개인 정보 보호법)를 준수하나요? | 아니요 |
+| 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 아니요 |
+| 앱이 NIST 800-171을 준수하나요? | 아니요 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받았나요? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -135,15 +129,15 @@ TINYpulse에서 Microsoft에 제공한 정보:
 |:----------------|:-------------|
 | GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? | 예 |
 | 앱에 고객 데이터를 수집, 사용, 공유 및 저장하는 방법을 설명하는 외부 개인 정보 보호 알림이 있나요? | 예 |
-| 개인 정보 취급 방침 URL | https://www.tinypulse.com/privacy-policy |
+| 개인 정보 취급 방침 URL | https://www.si-net.it/termini-di-utilizzo-kuro/ |
 | 앱이 법적 영향이나 유사한 영향을 미칠 수 있는 프로파일링을 포함하여 자동화된 의사 결정을 수행하나요? | 아니요 |
 | 앱이 개인 정보 보호 알림(예: 마케팅, 분석)에 설명되지 않은 보조 목적으로 고객 데이터를 처리하나요? | 아니요 |
 | 중요한 데이터(예: 인종 또는 민족 기원, 정치적 견해, 종교적 또는 철학적 신념, 유전적 또는 생체 인식 데이터, 건강 데이터) 또는 위반 알림 법률이 적용되는 데이터 범주의 특수 범주를 처리합니까? | 아니요 |
 | 앱이 미성년자(즉, 16세 미만의 개인)로부터 데이터를 수집하거나 처리하나요? | 아니요 |
-| 앱에 요청 시 개인의 개인 데이터를 삭제하는 기능이 있나요? | 예 |
-| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한하는 기능이 있나요? | 예 |
-| 앱은 개인에게 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 제공하나요? | 예 |
-| 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)를 수행합니까? | 예 |
+| 앱에 요청 시 개인의 개인 데이터를 삭제하는 기능이 있나요? | 아니요 |
+| 앱에 요청 시 개인의 개인 데이터 처리를 제한하거나 제한하는 기능이 있나요? | 아니요 |
+| 앱은 개인에게 개인 데이터를 수정하거나 업데이트할 수 있는 기능을 제공하나요? | 아니요 |
+| 앱의 개인 데이터 처리와 관련된 위험을 식별하기 위해 정기적인 데이터 보안 및 개인 정보 검토(예: 데이터 보호 영향 평가 또는 개인 정보 보호 위험 평가)를 수행합니까? | 아니요 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -154,7 +148,7 @@ TINYpulse에서 Microsoft에 제공한 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 애플리케이션이 Single Sign-On, API 액세스 등을 위해 Azure AD(Microsoft Identity Platform)와 통합됩니까? | 예 |
-| Microsoft ID 플랫폼 통합 검사 목록에 설명된 모든 적용 가능한 모범 사례를 검토하고 준수했나요? | 예 |
+| Microsoft ID 플랫폼 통합 검사 목록에 설명된 모든 적용 가능한 모범 사례를 검토하고 준수했나요? | 아니요 |
 | 앱에서 인증을 위해 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft ID 웹을 사용하나요? | 예 |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(지속적인 액세스 평가)를 지원하나요? | 아니요 |
