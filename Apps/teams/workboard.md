@@ -7,14 +7,14 @@ ms.date: 06/04/2021
 ms.topic: article
 ms.service: attestation
 certification_type: certified
-description: Workboard에 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
+description: Workboard에 사용 가능한 모든 보안 및 규정 준수 정보 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보를 검토합니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: b20a6e58680109d719fca48cf8f2152c9239026a
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: ccf27f1fa0c6db96446fc0fa7afc686fe2a49e20
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65222459"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65688103"
 ---
 # <a name="application-information-for-workboard"></a>Workboard에 대한 애플리케이션 정보
 
@@ -57,7 +57,7 @@ Workboard에서 Microsoft에 제공하는 정보:
 
 >| **사용 권한**  | **권한 유형(위임됨/애플리케이션)** | **데이터가 수집되었나요? 수집에 대한 정당성?** | **데이터가 저장되어 있나요? 저장에 대한 근거?** | **앱 ID Azure AD** |
 >|:----------------|:------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------|:--------------------|
->| User.Read | 위임 | 전자 메일 주소 및 사용자의 ID입니다.  사용자를 WorkBoard의 사용자 ID에 매핑하는 데 사용됩니다. | WorkBoard는 사용자의 ID만 데이터베이스에 저장합니다. | [User.Read](/microsoft-365-app-certification/azure/User.Read) |
+>| User.Read | 위임 | 전자 메일 주소 및 사용자의 ID입니다.  사용자를 WorkBoard의 사용자 ID에 매핑하는 데 사용됩니다. | WorkBoard는 사용자의 ID만 데이터베이스에 저장합니다. | [User.Read](/graph/permissions-reference#user-permissions) |
 
 
 #### <a name="non-microsoft-services-used"></a>사용되지 않는 Microsoft 서비스

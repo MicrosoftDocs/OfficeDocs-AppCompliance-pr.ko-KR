@@ -1,19 +1,20 @@
 ---
 title: SalesTim에 대한 애플리케이션 정보
 ms.author: elmalova
+manager: tonybal
 author: elenamalova
 ms.date: 06/24/2021
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: SalesTim에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
+description: SalesTim의 사용 가능한 모든 보안 및 규정 준수 정보 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보를 검토합니다.
 zone_pivot_groups: app-info-data-mcas-identity
-ms.openlocfilehash: 9fce7871fc306b19170cddb2d1524ef7a82a01f4
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 9bf1f4057ad73ba33a8ae3ba0ff02c74851cdecf
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65222439"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65688123"
 ---
 # <a name="application-information-for-salestim-by-salestim"></a>SalesTim by SalesTim에 대한 애플리케이션 정보
 
@@ -34,7 +35,7 @@ SalesTim에서 Microsoft에 제공한 정보:
 | 앱 이름 | SalesTim |
 | ID | salestim.salestim |
 | 파트너 회사 이름 | SalesTim |
-| 파트너 웹 사이트의 URL | [https://salestim.com](https://salestim.com) |
+| 파트너 웹 사이트의 URL | [https://nbold.co/](https://nbold.co/) |
 | 개인 정보 취급 방침의 URL | [https://www.salestim.com/legal/privacy/](https://www.salestim.com/legal/privacy/) |
 | 사용 약관 URL | [https://www.salestim.com/legal/tos/](https://www.salestim.com/legal/tos/) |
 

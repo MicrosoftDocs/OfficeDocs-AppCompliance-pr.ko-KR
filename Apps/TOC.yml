@@ -78,6 +78,8 @@ items:
         href: outlook/adobe-inc-acrobat-sign-for-microsoft-outlook.md
       - name: 승인된 연락처 일정
         href: outlook/approved-contact-calendars.md
+      - name: Outlook 대한 Appspace
+        href: outlook/appspace-inc-for-outlook.md
       - name: 내 메일 승격
         href: outlook/boost-my-mail.md
       - name: CI-Signature
@@ -181,6 +183,8 @@ items:
         href: sharepoint/bizagi-team-webparts.md
       - name: 일정 오버레이
         href: sharepoint/cloudwell-calendar-overlay.md
+      - name: SharePoint Online용 DocuSign
+        href: sharepoint/docusign-inc-for-sharepoint-online.md
       - name: SharePoint용 FormMachines 커넥터
         href: sharepoint/enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md
       - name: helloSign for SharePoint
@@ -714,6 +718,8 @@ items:
         href: teams/survivef5-gmbh-kudozza.md
       - name: Kunjani
         href: teams/faceboard-pty-ltd-kunjani.md
+      - name: KURO 포털
+        href: teams/si-net-kuro-portal.md
       - name: Laduma
         href: teams/laduma-ltd.md
       - name: LawToolBox
@@ -868,6 +874,8 @@ items:
         href: teams/panopto.md
       - name: ParkHere Corporate
         href: teams/parkhere-gmbh-corporate.md
+      - name: Pavestep
+        href: teams/pavestep.md
       - name: PayaFy
         href: teams/nimblesoft-inc-payafy.md
       - name: Perdoo
@@ -887,7 +895,7 @@ items:
       - name: Plumm
         href: teams/plumm-health-ltd.md
       - name: POPP 클라우드 VoIP 커넥터
-        href: teams/popp-communications-cloud-voip-connector.md
+        href: teams/poppcom-inc-popp-cloud-voip-connector.md
       - name: PostBeyond
         href: teams/postbeyond.md
       - name: Powell Teams
@@ -998,8 +1006,6 @@ items:
         href: teams/skillsoft-percipio.md
       - name: Skoach
         href: teams/cultify-lda-skoach.md
-      - name: SkyPoint Cloud
-        href: teams/skypoint-cloud-inc.md
       - name: Smarp
         href: teams/smarp.md
       - name: Smart Connect for Jira
@@ -1040,6 +1046,8 @@ items:
         href: teams/stealthmail-software-ltd.md
       - name: Stipop 스티커
         href: teams/stipop-stickers.md
+      - name: 간소화
+        href: teams/finative-streamline.md
       - name: Streem
         href: teams/streem.md
       - name: Structural
@@ -1138,6 +1146,8 @@ items:
         href: teams/timeghostio-timeghost-time-tracking.md
       - name: Timeneye
         href: teams/dm-digital-srl-timeneye.md
+      - name: TINYpulse
+        href: teams/tinypulse.md
       - name: Tonkean
         href: teams/tonkean.md
       - name: Totara

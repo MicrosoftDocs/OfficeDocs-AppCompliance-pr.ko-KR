@@ -3,17 +3,17 @@ title: Microsoft SharePoint Apps 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/13/2022
+ms.date: 05/25/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft SharePoint 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 41a841c6ca0476fd46db20aa8d740924d8512778
-ms.sourcegitcommit: 7eb24e5432be5d305fa7140c46d6d52c234fb621
+ms.openlocfilehash: b277edc0ba48acb512169eb9ef7f2cdedb8dbf51
+ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/14/2022
-ms.locfileid: "65420241"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65689653"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint Apps 보안 및 규정 준수
 
@@ -27,6 +27,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [입찰 관리 시스템](./beyond-technologies-bid-management-system.md) | Beyond Technologies | **✓** |  |
 | [Bizagi Webparts](./bizagi-team-webparts.md) | Bizagi 팀 | **✓** |  |
 | [일정 오버레이](./cloudwell-calendar-overlay.md) | Cloudwell | **✓** |  |
+| [SharePoint Online용 DocuSign](./docusign-inc-for-sharepoint-online.md) | DocuSign, Inc. | **✓** |  |
 | [SharePoint용 FormMachines 커넥터](./enterprise-digital-machines-pty-ltd-formmachines-connector-for-sharepoint.md) | ENTERPRISE DIGITAL MACHINES PTY LTD | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [helloSign for SharePoint](./dropbox-inc-hellosign-for-sharepoint.md) | Dropbox Inc. | **✓** |  |
 | [Ichicraft Boards - 디지털 작업 공간](./ichicraft-bv-boards-your-digital-workplace.md) | ichicraft b.v. | **✓** |  |
@@ -35,6 +36,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Konnect eMail Parser](./konnect-email-parser.md) | Konnect eMail | **✓** |  |
 | [LifeWorks Viva Connections](./lifeworks-inc-viva-connections.md) | Lifeworks Inc | **✓** |  |
 | [번개 도구 번개 도체](./lightning-tools-conductor.md) | 번개 도구 | **✓** |  |
+| [officeatwork - SharePoint 대한 템플릿 선택기](./officeatwork-officeatworktemplate-chooser-for-sharepoint.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Power BI 공동 작업](./ataira-power-bi-collaboration.md) | Ataira | **✓** |  |
 | [SharePoint-sapiens 직원 교육 관리](./sharepointsapiens-employee-training-management.md) | SharePointSapiens | **✓** |  |
 | [SharePoint-sapiens 이벤트 관리](./sharepointsapiens-event-management.md) | SharePointSapiens | **✓** |  |
