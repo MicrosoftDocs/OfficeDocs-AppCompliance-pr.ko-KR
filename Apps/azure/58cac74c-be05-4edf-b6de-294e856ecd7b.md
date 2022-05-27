@@ -1,5 +1,5 @@
 ---
-title: 7cb50e3e-0427-409e-90d2-638eb28217c3에 대한 AZURE 앱 ID 정보
+title: 58cac74c-be05-4edf-b6de-294e856ecd7b에 대한 AZURE 앱 ID 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
@@ -7,21 +7,21 @@ ms.date: 05/26/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: 7cb50e3e-0427-409e-90d2-638eb28217c3에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: 325a181e93246986c4e874a2eb3c69cc973ca055
+description: 58cac74c-be05-4edf-b6de-294e856ecd7b에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
+ms.openlocfilehash: 487570653c5ffdc556f3928fd51a5bf5de40dd26
 ms.sourcegitcommit: f1a2e22d28ef56ce3f3811febbbf8c7054797a98
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 05/26/2022
-ms.locfileid: "65748412"
+ms.locfileid: "65749424"
 ---
-# <a name="azure-app-id-7cb50e3e-0427-409e-90d2-638eb28217c3"></a>Azure 앱 ID: 7cb50e3e-0427-409e-90d2-638eb28217c3
+# <a name="azure-app-id-58cac74c-be05-4edf-b6de-294e856ecd7b"></a>Azure 앱 ID: 58cac74c-be05-4edf-b6de-294e856ecd7b
 
 
 ### <a name="apps-associated-with-this-id"></a>이 ID와 연결된 앱:
 | **앱 이름** | **인증** | **AppSource에서 보기** |
 |--------------|---------------|-----------------------|
-| [Hi5](../forward/WA200001610.md) |  | [https://appsource.microsoft.com/product/office/WA200001610](https://appsource.microsoft.com/product/office/WA200001610) |
+| [TINYpulse](../forward/WA104381729.md) |  | [https://appsource.microsoft.com/product/office/WA104381729](https://appsource.microsoft.com/product/office/WA104381729) |
 
 ### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 앱 준수 상태
 - Publisher Attestaton 상태: 완료됨
