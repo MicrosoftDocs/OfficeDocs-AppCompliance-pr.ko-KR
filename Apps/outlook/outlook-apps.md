@@ -3,17 +3,17 @@ title: Microsoft Outlook 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/25/2022
+ms.date: 05/31/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Outlook 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 7cd0e6f2501b8715757f4d6fbbe214fb42ec18c3
-ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
+ms.openlocfilehash: 9328f65dcdbc22d97a0b71a1e7e4a1c83814140b
+ms.sourcegitcommit: 9cbff2dbc9762426293b9b094a29e3d2bebc760b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65692233"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65818376"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps 보안 및 규정 준수
 
@@ -48,7 +48,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Outlook 대한 아웃리치 판매 참여](./outreach-sales-engagement-for-outlook.md) | 봉사 활동 | **✓** |  |
 | [pexip One for Outlook](./pexipas-pexip-one-for-outlook.md) | PexipAS | **✓** |  |
 | [우선 순위 매트릭스 - 전자 메일을 작업으로 전환](./appfluence-inc-priority-matrix-turn-emails-into-tasks.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [Outlook 위한 전략-AI](./chinchilla-software-limited-strategy-ai-for-outlook.md) | 친칠라 소프트웨어 제한 | **✓** |  |
 | [XQ 보안 전자 메일](./xq-message-secure-email.md) | XQ 메시지 | **✓** |  |

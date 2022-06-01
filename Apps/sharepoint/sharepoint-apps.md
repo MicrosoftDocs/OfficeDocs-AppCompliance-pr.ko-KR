@@ -3,17 +3,17 @@ title: Microsoft SharePoint Apps 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/25/2022
+ms.date: 05/31/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft SharePoint 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: b277edc0ba48acb512169eb9ef7f2cdedb8dbf51
-ms.sourcegitcommit: ef767e1079411056cb3ca86d6b29084e31b0ef1c
+ms.openlocfilehash: 1fe7f65bb84632fb0ec1e07e18d46088f69ef4ed
+ms.sourcegitcommit: 9cbff2dbc9762426293b9b094a29e3d2bebc760b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65689653"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65818386"
 ---
 # <a name="microsoft-sharepoint-apps-security-and-compliance"></a>Microsoft SharePoint Apps 보안 및 규정 준수
 
@@ -21,6 +21,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [4마타 주](./cloudignite-llc-4mata.md) | CLOUDIGNITE LLC | **✓** |  |
 | [Adobe Acrobat Sign for Microsoft Office SharePoint Online](./adobe-inc-acrobat-sign-for-microsoft-sharepoint-online.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [SharePoint Online용 Agile 작업 위원회](./agile-is-task-board-for-sharepoint-online.md) | Agile-IS | **✓** |  |
 | [ArcGIS for SharePoint](./esri-inc-arcgis-for-sharepoint.md) | 주식회사 에스리 | **✓** |  |
