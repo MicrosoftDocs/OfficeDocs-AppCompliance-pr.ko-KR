@@ -8,12 +8,12 @@ ms.service: certification
 ms.topic: how-to
 ms.date: 04/13/2022
 ms.custom: template-how-to
-ms.openlocfilehash: 6a18e64f3b75f6d197c9867830d0a061ce298584
-ms.sourcegitcommit: 0865622c8abffc11115e56d966729e5318d67ab9
+ms.openlocfilehash: b708f68ed5717d08b321f02f3ba09989a77fdf17
+ms.sourcegitcommit: e639149031755df8cd50c03341b6507146cc48b0
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65608798"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65793031"
 ---
 # <a name="automate-microsoft-365-certification-with-app-compliance-automation-tool-for-microsoft-365"></a>Microsoft 365 App Compliance Automation Tool을 사용하여 Microsoft 365 인증 자동화
 
@@ -158,7 +158,7 @@ ACAT를 사용하면 규정 준수 보고서의 런타임 상태를 알아보고
 - 왼쪽의 **액세스 제어(IAM)** 로 이동합니다. 
 - **내 액세스 권한 보기를** 선택하여 사용 권한을 확인합니다.
     - 조직 [에서 Azure 기본 제공 역할을](/azure/role-based-access-control/built-in-roles) 사용하는 경우 역할 할당에는 다음 역할 중 하나 이상이 포함되어야 합니다.
-        - [리소스 정책 기여자](/azure/role-based-access-control/built-in-roles#resource-policy-contributor) 및 [보안 관리자](/azure/role-based-access-control/built-in-roles#security-admin)
+        - [리소스 정책 기여자](/azure/role-based-access-control/built-in-roles#resource-policy-contributor) 및 [보안 관리](/azure/role-based-access-control/built-in-roles#security-admin)
         - 더 높은 권한이 있는 기타 역할 할당(예: [소유자](/azure/role-based-access-control/built-in-roles#owner) 등)
 
 ### <a name="how-to-report-an-acat-issue-or-warning"></a>ACAT 문제 또는 경고를 보고하는 방법 
@@ -169,11 +169,15 @@ ACAT에서 문제가 발생하고 [ACAT 프라이빗 미리 보기 프로그램�
     - [Azure Portal](https://portal.azure.com/?microsoft_azure_appcomplianceautomation_assettypeoptions=%7B%22AppComplianceAutomation%22:%7B%22options%22:%22%22%7D%7D) 위에 있는 **알림** 으로 이동합니다.
     - **활동 로그에서 추가 이벤트** 선택 
     
-    :::image type="complex" source="../media/ACAT/getstarted-troubleshoot-activitylog.png" alt-text="ACAT 알림":::
-        활동 로그로 이동하여 ACAT 알림을 확인합니다.
-    :::image-end:::
     
-    - 활동 로그에서 ACAT 오류 또는 경고를 필터링하도록 **타임스팬** 을 올바르게 변경합니다. 
+    
+    - **디렉터리 작업으로** 전환 
+    - **Timespan** 을 올바르게 변경하고 **테넌트 리소스 공급자** 를 *Microsoft.AppComplianceAutomation* 으로 설정하여 활동 로그에서 ACAT 오류 또는 경고를 필터링합니다. 
+    
+    :::image type="complex" source="../media/ACAT/getstarted-troubleshoot-log-settings.png" alt-text="활동 로그":::
+        활동 로그에서 ACAT 로그를 찾습니다.
+    :::image-end:::
+
     - ACAT 오류 또는 경고를 찾아 세부 정보를 가져와서 세부 정보를 파일로 저장합니다.
     
 - ACAT에서 구독을 올바르게 설정했는지 확인합니다. 
