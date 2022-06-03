@@ -239,7 +239,7 @@ items:
       - name: ADI
         href: teams/akari-solutions-limited-adi.md
       - name: Adobe Acrobat
-        href: teams/adobe-systems-inc-acrobat.md
+        href: teams/adobe-acrobat.md
       - name: Adobe Acrobat Sign
         href: teams/adobe-acrobat-sign.md
       - name: Adobe Creative Cloud Express
@@ -322,6 +322,8 @@ items:
         href: teams/unifon-as-bedriftsnett.md
       - name: Beekast
         href: teams/beekast.md
+      - name: 베리
+        href: teams/berryworksai-berry.md
       - name: Berrycast
         href: teams/technologies-openmind-inc-les-berrycast.md
       - name: BGA Notify
@@ -628,14 +630,14 @@ items:
         href: teams/guidespark-communicate-cloud.md
       - name: GuineaPig
         href: teams/guineapig-health-technologies-ab.md
+      - name: Happyforce
+        href: teams/happyforce-sl.md
       - name: Health Hero
         href: teams/health-hero.md
       - name: Heedify
         href: teams/heedify.md
       - name: HelloTeam
         href: teams/helloteam-inc.md
-      - name: Hero by Happyforce
-        href: teams/happyforce-hero-by.md
       - name: HeyTaco
         href: teams/heytaco-llc.md
       - name: 안녕 디지털 코치
@@ -700,6 +702,8 @@ items:
         href: teams/joye-pte-ltd.md
       - name: 카케이어 주
         href: teams/kakeai.md
+      - name: 카
+        href: teams/kami.md
       - name: Kanban Tool
         href: teams/shore-labs-kanban-tool.md
       - name: Kaptain Charlie
@@ -720,6 +724,8 @@ items:
         href: teams/koan-inc.md
       - name: Kuban 회의실
         href: teams/kuban-meeting-rooms.md
+      - name: 쿠반 방문자
+        href: teams/kuban-visitors.md
       - name: KUDO
         href: teams/kudo-inc.md
       - name: Kudozza
@@ -866,6 +872,8 @@ items:
         href: teams/librestream-onsight-connect.md
       - name: Optmyzr
         href: teams/optmyzr.md
+      - name: Orca
+        href: teams/orca-security-ltd.md
       - name: Org@Work
         href: teams/lundano-org@work.md
       - name: PA PEOPLE
