@@ -3,24 +3,24 @@ title: Cloudwell별 일정 오버레이에 대한 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/10/2022
+ms.date: 06/06/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
-description: Calendar Overlay에 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
+description: 일정 오버레이, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: e98ea9e1131121d82c9b8a41eb336000c464e8c6
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: 98207f2c5b4e21d005e3717784396f02d935ac1c
+ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64877375"
+ms.lasthandoff: 06/07/2022
+ms.locfileid: "65936435"
 ---
 # <a name="calendar-overlay"></a>일정 오버레이
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 3월 10일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 6월 6일</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003806" target="_blank">AppSource에서 보기</a>
 
@@ -57,10 +57,10 @@ Cloudwell에서 Microsoft에 제공하는 정보:
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기본 인프라가 Microsoft 고객 또는 해당 디바이스와 관련된 데이터를 처리하나요? | 예 |
-| 앱에서 처리되는 데이터는 무엇인가요? | 사용자 전자 메일 주소, 사용자 테넌트 ID |
+| 앱에서 처리되는 데이터는 무엇인가요? | 테넌트 ID |
 | 앱이 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기본 인프라가 Microsoft 고객 데이터를 저장하나요? | 예 |
-| 데이터베이스에 저장되는 데이터는 무엇인가요? | 사용자 전자 메일 주소, 사용자 테넌트 ID |
+| 데이터베이스에 저장되는 데이터는 무엇인가요? | 테넌트 ID |
 | 기본 침입이 Microsoft 고객 데이터를 처리하거나 저장하는 경우 이 데이터는 지리적으로 저장되는 위치는 어디인가요? | 미국 |
 | 설정된 데이터 임대 및 폐기 프로세스가 있나요? | 예 |
 | 계정이 종료된 후 데이터가 보존되는 기간은 얼마인가요? | 30일 미만 |
@@ -144,13 +144,12 @@ Cloudwell에서 Microsoft에 제공하는 정보:
 | 애플리케이션이 Single Sign-On, API 액세스 등을 위해 Azure AD(Microsoft Identity Platform)와 통합됩니까? | 예 |
 | Microsoft ID 플랫폼 통합 검사 목록에 설명된 모든 적용 가능한 모범 사례를 검토하고 준수했나요? | 예 |
 | 앱에서 인증을 위해 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft ID 웹을 사용하나요? | 예 |
-| 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(지속적인 액세스 평가)를 지원하나요? | 아니요 |
 | 앱이 코드에 자격 증명을 저장하나요? | 아니요 |
-| Microsoft 365 앱 및 추가 기능은 Microsoft Graph 외부에서 추가 Microsoft API를 사용할 수 있습니다. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
+| Microsoft 365용 앱 및 추가 기능은 Microsoft Graph 외부에서 추가 Microsoft API를 사용할 수 있습니다. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 예 |
 
->이 애플리케이션은 Microsoft Graph 사용하지 않습니다.
+>이 애플리케이션은 Microsoft Graph를 사용하지 않습니다.
 
 >이 애플리케이션에는 추가 API가 없습니다.
 

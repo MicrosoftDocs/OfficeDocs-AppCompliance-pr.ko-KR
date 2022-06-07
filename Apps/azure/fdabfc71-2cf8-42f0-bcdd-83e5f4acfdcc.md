@@ -3,17 +3,17 @@ title: fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc에 대한 Azure 앱 ID 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/02/2022
+ms.date: 06/07/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: 78337a9ec1a54b3830fe0fbca350957c985f6389
-ms.sourcegitcommit: 4ceff6ef6aa0bae1075da646773b852970bb4049
+ms.openlocfilehash: a347ae1801fe74eb4cdc3ecb2cc3dbe5ab595a88
+ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/03/2022
-ms.locfileid: "65864989"
+ms.lasthandoff: 06/07/2022
+ms.locfileid: "65934455"
 ---
 # <a name="azure-app-id-fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc"></a>Azure 앱 ID: fdabfc71-2cf8-42f0-bcdd-83e5f4acfdcc
 
@@ -24,4 +24,4 @@ ms.locfileid: "65864989"
 | [WorkInSync](../forward/WA200002974.md) |  | [https://appsource.microsoft.com/product/office/WA200002974](https://appsource.microsoft.com/product/office/WA200002974) |
 
 ### <a name="microsoft-365-app-compliance-status"></a>Microsoft 365 앱 준수 상태
-- Publisher Attestaton 상태: 완료됨
+- 게시자 Attestaton 상태: 완료됨
