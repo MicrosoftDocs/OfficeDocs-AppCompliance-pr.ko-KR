@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: 214ccdc88047d8e8c011f349d0e325bc76fb051f
-ms.sourcegitcommit: 238dca97a9cdafa78d63e74993ddfe91423fde4d
+ms.openlocfilehash: 5e66c517b36dcb22dc16daf4beb580a70f11c7da
+ms.sourcegitcommit: dbf716786f7a3c0b84fa4563e47510e4bd3a2fd0
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/07/2022
-ms.locfileid: "65937005"
+ms.lasthandoff: 06/08/2022
+ms.locfileid: "65943157"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -191,6 +191,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [파일 관리자](./solutions2share-gmbh-file-manager.md) | Solutions2Share GmbH | **✓** |  |
 | [Financial Times](./financial-times.md) | Financial Times | **✓** |  |
 | [Findit](./ctelo-findit.md) | CTELO | **✓** |  |
+| [Fingertip Decision Matrix](./fingertip-decision-matrix.md) | Fingertip | **✓** |  |
 | [FinTech Studios](./fintech-studios.md) | FinTech Studios | **✓** |  |
 | [Fireflies AI](./firefliesai-fireflies-ai.md) | Fireflies.ai | **✓** |  |
 | [FireHydrant](./firehydrant.md) | FireHydrant | **✓** |  |
