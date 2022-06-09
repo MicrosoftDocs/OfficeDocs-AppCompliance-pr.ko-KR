@@ -3,24 +3,24 @@ title: RockDove Solutions, Inc.에 의한 위기의 경우 응용 프로그램 �
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/07/2022
+ms.date: 06/08/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: In Case of Crisis, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 95c70c26f32bacabd6721e4b60f2417765a8eea0
-ms.sourcegitcommit: dbf716786f7a3c0b84fa4563e47510e4bd3a2fd0
+ms.openlocfilehash: 2a8c81db5aeda003ad0f71971f0b63a5b5cee460
+ms.sourcegitcommit: 6f2b3870f4d541dcbd5bb8312c05bfc2ea351a77
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/08/2022
-ms.locfileid: "65943127"
+ms.lasthandoff: 06/09/2022
+ms.locfileid: "65967658"
 ---
 # <a name="in-case-of-crisis"></a>위기 발생 시
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 6월 6일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 6월 8일</p>
 
 * <a href="https://teams.microsoft.com/l/app/cf430644-447e-4572-8467-3892596d05c7" target="_blank">Teams 스토어에서 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003194" target="_blank">AppSource에서 보기</a>
@@ -158,7 +158,7 @@ RockDove Solutions, Inc.에서 Microsoft에 제공한 정보:
 | 앱에서 인증을 위해 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft ID 웹을 사용하나요? | 예 |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(지속적인 액세스 평가)를 지원하나요? | 예 |
-| 앱이 코드에 자격 증명을 저장하나요? | 예 |
+| 앱이 코드에 자격 증명을 저장하나요? | 아니요 |
 | Microsoft 365용 앱 및 추가 기능은 Microsoft Graph 외부에서 추가 Microsoft API를 사용할 수 있습니다. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
 #### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph를 사용하여 데이터 액세스
