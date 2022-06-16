@@ -3,17 +3,17 @@ title: 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9에 대한 AZURE 앱 ID 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/14/2022
+ms.date: 06/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: 0c19b7ad9bbe42a3f5ae3c33e95ea7c74997f815
-ms.sourcegitcommit: b6dd040770330d4499a0e19998f909be31b67c34
+ms.openlocfilehash: 07205a3f1690dcbc63d8e880b607aba08e9a9254
+ms.sourcegitcommit: 6df79f38ffe390e7339cd6ce5eb32641a9f4c1a9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66074539"
+ms.lasthandoff: 06/15/2022
+ms.locfileid: "66109596"
 ---
 # <a name="azure-app-id-5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9"></a>Azure 앱 ID: 5dcf4bd7-eccd-4f6d-b5f0-a4e04aab4ff9
 
