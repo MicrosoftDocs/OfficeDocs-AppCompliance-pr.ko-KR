@@ -3,24 +3,24 @@ title: 텔라도크, Inc.에 의해 솔로에 대한 응용 프로그램 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 03/03/2022
+ms.date: 06/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Solo에 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 643a6162d201fb7b41e2bb33dc0268670e59bcc5
-ms.sourcegitcommit: 7a7de9f48f6cf5b6acd435412477b6a59127f19a
+ms.openlocfilehash: 5b00791610112ea615e763c0504a88334195a0ae
+ms.sourcegitcommit: fd81f2f5b4f627e3d1cabdff7e2caf40fafbe35c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65228992"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "66118002"
 ---
 # <a name="solo"></a>Solo
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 10월 5일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 6월 15일</p>
 
 * <a href="https://teams.microsoft.com/l/app/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e" target="_blank">Teams 스토어에서 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003826" target="_blank">AppSource에서 보기</a>
@@ -41,7 +41,7 @@ Teladoc, Inc.에서 Microsoft에 제공한 정보:
 | 앱의 사용 약관 | [https://www.teladochealth.com/terms-and-conditions/](https://www.teladochealth.com/terms-and-conditions/) |
 | 앱의 핵심 기능 | 구성 가능한 서비스 및 환자 워크플로를 사용하는 가상 관리 플랫폼입니다. |
 | 회사 본사 위치 | 미국 |
-| 앱 정보 페이지 | [https://intouchhealth.com/virtual-care-platform/solo/](https://intouchhealth.com/virtual-care-platform/solo/) |
+| 앱 정보 페이지 | [https://teladochealth.com/platform/](https://teladochealth.com/platform/) |
 | 앱을 실행하는 데 사용되는 호스팅 환경 또는 서비스 모델은 무엇인가요? | Iaas |
 | 앱에서 사용하는 호스팅 클라우드 공급자는 무엇인가요? | Azure, Aws |
 
@@ -156,7 +156,6 @@ Teladoc, Inc.에서 Microsoft에 제공한 정보:
 | 애플리케이션이 Single Sign-On, API 액세스 등을 위해 Azure AD(Microsoft Identity Platform)와 통합됩니까? | 예 |
 | Microsoft ID 플랫폼 통합 검사 목록에 설명된 모든 적용 가능한 모범 사례를 검토하고 준수했나요? | 예 |
 | 앱에서 인증을 위해 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft ID 웹을 사용하나요? | 예 |
-| 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(지속적인 액세스 평가)를 지원하나요? | 아니요 |
 | 앱이 코드에 자격 증명을 저장하나요? | 아니요 |
@@ -166,15 +165,15 @@ Teladoc, Inc.에서 Microsoft에 제공한 정보:
 
 >|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **앱 ID Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
->| AppCatalog.Read.All | 위임 | 사이드패널 앱의 카탈로그 앱 ID를 가져오고 예약된 텔레헬스 약속에 설치하려면 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| CallRecords.Read.All | 응용 프로그램 | Telehealth 약속과 관련된 통화에 대한 통화 품질을 보장하려면 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| OnlineMeetings.ReadWrite | 위임 | 호스트 sidePanel을 설치하고 사용자 지정 앱에서 환자와 약속을 조인합니다. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| TeamsActivity.Send | 응용 프로그램 | 텔레헬스 약속에 대한 세션 종료 신호입니다. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| User.Read | 위임 | Teams 앱 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| 전자 메일 | 위임 | Teams 앱 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| offline_access | 위임 | Teams 앱 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| openid | 위임 | Teams 앱 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
->| 프로필 | 위임 | oid 및 tid는 Solo 계정과 Teams 계정 간에 매핑하는 데 사용되므로 Teams 의사가 텔레헬스 약속을 볼 수 있습니다. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](/microsoft-365-app-certification/azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e) |
+>| AppCatalog.Read.All | 위임 | 사이드패널 앱의 카탈로그 앱 ID를 가져오고 예약된 텔레헬스 약속에 설치하려면 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| CallRecords.Read.All | 응용 프로그램 | Telehealth 약속과 관련된 통화에 대한 통화 품질을 보장하려면 | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| OnlineMeetings.ReadWrite | 위임 | 호스트 sidePanel을 설치하고 사용자 지정 앱에서 환자와 약속을 조인합니다. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| TeamsActivity.Send | 응용 프로그램 | 텔레헬스 약속에 대한 세션 종료 신호입니다. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| User.Read | 위임 | Teams 앱 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| 전자 메일 | 위임 | Teams 앱 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| offline_access | 위임 | Teams 앱 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| openid | 위임 | Teams 앱 SSO | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
+>| 프로필 | 위임 | oid 및 tid는 Solo 계정과 Teams 계정 간에 매핑하는 데 사용되므로 Teams 의사가 텔레헬스 약속을 볼 수 있습니다. | [c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e](../azure/c626ce8b-6d15-4c07-bfb1-a5fd0bc3c20e.md) |
 
 >이 애플리케이션에는 추가 API가 없습니다.
 

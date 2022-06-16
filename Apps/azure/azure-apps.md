@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 Azure 앱 ID에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 10253c572c543df69497004ec292f197ea89f8a6
-ms.sourcegitcommit: 6df79f38ffe390e7339cd6ce5eb32641a9f4c1a9
+ms.openlocfilehash: 1c97bade03ce9f4b1404bb5465b7a632ec13f289
+ms.sourcegitcommit: fd81f2f5b4f627e3d1cabdff7e2caf40fafbe35c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2022
-ms.locfileid: "66111796"
+ms.lasthandoff: 06/16/2022
+ms.locfileid: "66117982"
 ---
 # <a name="azure-app-ids-security-and-compliance"></a>ID 보안 및 규정 준수 Azure 앱
 
@@ -21,10 +21,12 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 
 | **Azure 앱 ID** | **게시자 증명** | **인증** |
 |:--------|:------------|:-------------:|
+| [003a8a54-9d27-41cd-9c28-aec5875a3497](./003a8a54-9d27-41cd-9c28-aec5875a3497.md) | **✓** |  |
 | [00485db5-81b3-4299-833a-8d6c366d0ac0](./00485db5-81b3-4299-833a-8d6c366d0ac0.md) | **✓** |  |
 | [00738e07-f9a4-4bf5-b6f9-851ec7ea31d5](./00738e07-f9a4-4bf5-b6f9-851ec7ea31d5.md) | **✓** |  |
 | [00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d](./00ee4a74-9dc3-4bd9-9a6d-f18b640fd69d.md) | **✓** |  |
 | [029cfd5a-4413-499d-bda6-a2a0a3f5e70e](./029cfd5a-4413-499d-bda6-a2a0a3f5e70e.md) | **✓** |  |
+| [032857b6-4d91-4617-bb1a-c44626985bd5](./032857b6-4d91-4617-bb1a-c44626985bd5.md) | **✓** |  |
 | [0492ead3-ee26-40df-9757-d95cc693d856](./0492ead3-ee26-40df-9757-d95cc693d856.md) | **✓** |  |
 | [05525b77-8ca6-462f-8902-15788cb405c6](./05525b77-8ca6-462f-8902-15788cb405c6.md) | **✓** |  |
 | [05ffe668-5b27-45ff-a64d-b2ed6c475d7a](./05ffe668-5b27-45ff-a64d-b2ed6c475d7a.md) | **✓** |  |
@@ -191,7 +193,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [75932bb9-5e71-449a-b584-b5cc01c2d118](./75932bb9-5e71-449a-b584-b5cc01c2d118.md) | **✓** |  |
 | [77578a4c-117a-4cd4-b36d-3ea09ca2eded](./77578a4c-117a-4cd4-b36d-3ea09ca2eded.md) | **✓** |  |
 | [77b31e8c-65d0-484d-a72f-9404ec9dfcfa](./77b31e8c-65d0-484d-a72f-9404ec9dfcfa.md) | **✓** |  |
-| [797368c8-e08a-40c8-8967-687093a723c9](./797368c8-e08a-40c8-8967-687093a723c9.md) | **✓** |  |
 | [79d7af39-4f57-4e95-adaf-ec8ff756d0df](./79d7af39-4f57-4e95-adaf-ec8ff756d0df.md) | **✓** |  |
 | [7a483472-4f1b-4c75-bff3-7a48dae227dc](./7a483472-4f1b-4c75-bff3-7a48dae227dc.md) | **✓** |  |
 | [7ad6b1e9-c645-411d-9ff9-bd590d3fb1c6](./7ad6b1e9-c645-411d-9ff9-bd590d3fb1c6.md) | **✓** |  |
