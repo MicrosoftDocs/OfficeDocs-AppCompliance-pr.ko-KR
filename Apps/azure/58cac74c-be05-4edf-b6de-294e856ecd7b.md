@@ -3,17 +3,17 @@ title: 58cac74c-be05-4edf-b6de-294e856ecd7b에 대한 AZURE 앱 ID 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/15/2022
+ms.date: 06/16/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 58cac74c-be05-4edf-b6de-294e856ecd7b에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: 9d722d2a4f6bd4fb54ed206a744e75ab73e03524
-ms.sourcegitcommit: 6df79f38ffe390e7339cd6ce5eb32641a9f4c1a9
+ms.openlocfilehash: 1262a98c96693895fb555c68c05cd0eb051197cb
+ms.sourcegitcommit: bb53eca8ac8750b33a86501b91c332f74e998edc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/15/2022
-ms.locfileid: "66109772"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66136923"
 ---
 # <a name="azure-app-id-58cac74c-be05-4edf-b6de-294e856ecd7b"></a>Azure 앱 ID: 58cac74c-be05-4edf-b6de-294e856ecd7b
 
