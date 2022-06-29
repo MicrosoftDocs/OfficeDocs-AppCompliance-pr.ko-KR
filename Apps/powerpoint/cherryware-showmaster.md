@@ -3,24 +3,24 @@ title: 체리웨어별 Showmaster에 대한 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 01/27/2022
+ms.date: 06/23/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Showmaster에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 9cde99fdf18b018fe2b881c4f60837fa88d8ae66
-ms.sourcegitcommit: 5e2cd59a54fc018a6df761b00c18e3ba592d9dba
+ms.openlocfilehash: f6c6e1d68e4e0ab5a366ccb98f9d05420fcd044c
+ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64881089"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66248721"
 ---
 # <a name="showmaster"></a>Showmaster
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 1월 21일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 6월 23일</p>
 
 * <a href="https://appsource.microsoft.com/product/office/WA200003706" target="_blank">AppSource에서 보기</a>
 
@@ -34,7 +34,7 @@ ms.locfileid: "64881089"
 |:----------------|:-------------|
 | 앱 이름 | Showmaster |
 | ID | WA200003706 |
-| 지원되는 Office 365 클라이언트 | mac, 웹용 PowerPoint, PowerPoint 2016 이상에서 PowerPoint 2016 이상 Windows |
+| 지원되는 Office 365 클라이언트 | Windows에서 Mac, 웹용 PowerPoint, PowerPoint 2016 이상에서 PowerPoint 2016 이상 |
 | 파트너 회사 이름 | 체리웨어 |
 | 회사 웹 사이트 | [https://www.cherryware.com](https://www.cherryware.com) |
 | 앱의 사용 약관 | [https://showmaster.app/terms/](https://showmaster.app/terms/) |
@@ -137,13 +137,12 @@ ms.locfileid: "64881089"
 | 애플리케이션이 Single Sign-On, API 액세스 등을 위해 Azure AD(Microsoft Identity Platform)와 통합됩니까? | 아니요 |
 | Microsoft ID 플랫폼 통합 검사 목록에 설명된 모든 적용 가능한 모범 사례를 검토하고 준수했나요? | 아니요 |
 | 앱에서 인증을 위해 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft ID 웹을 사용하나요? |  |
-| 앱에서 위의 라이브러리 중 하나를 사용하지 않는 경우 어떤 인증 라이브러리 또는 라이브러리를 사용하나요? |  |
 | 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
 | 앱에서 CAE(지속적인 액세스 평가)를 지원하나요? | 아니요 |
 | 앱이 코드에 자격 증명을 저장하나요? | 아니요 |
-| Microsoft 365 앱 및 추가 기능은 Microsoft Graph 외부에서 추가 Microsoft API를 사용할 수 있습니다. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| Microsoft 365용 앱 및 추가 기능은 Microsoft Graph 외부에서 추가 Microsoft API를 사용할 수 있습니다. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
 
->이 애플리케이션은 Microsoft Graph 사용하지 않습니다.
+>이 애플리케이션은 Microsoft Graph를 사용하지 않습니다.
 
 >이 애플리케이션에는 추가 API가 없습니다.
 

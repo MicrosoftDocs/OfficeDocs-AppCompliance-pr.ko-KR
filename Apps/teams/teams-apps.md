@@ -3,17 +3,17 @@ title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/16/2022
+ms.date: 06/27/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: 13e1660cc680d6f954657ca1f34b2a95b6d80652
-ms.sourcegitcommit: bb53eca8ac8750b33a86501b91c332f74e998edc
+ms.openlocfilehash: 884023d5c7791a53d31c8b6f630b6c50eb9d24dd
+ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "66135827"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66249521"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -27,11 +27,13 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
 | [8x8](./8x8-inc.md) | 8x8, Inc | **✓** |  |
 | [absentify](./braincore-solutions-absentify.md) | BrainCore Solutions | **✓** |  |
+| [ACV](./tangible-it-mexico-acv.md) | Tangible IT Mexico | **✓** |  |
 | [Adobe Acrobat](./adobe-acrobat.md) | Adobe | **✓** |  |
 | [Adobe Acrobat Sign](./adobe-acrobat-sign.md) | Adobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Adobe Creative Cloud Express](./adobe-creative-cloud-express.md) | Adobe | **✓** |  |
+| [Adobe Express](./adobe-express.md) | Adobe | **✓** |  |
 | [안건 상사](./appfluence-inc-agenda-boss.md) | Appfluence Inc | **✓** |  |
 | [Agile Task Board](./agile-is-task-board.md) | Agile-IS | **✓** |  |
+| [ahead](./ahead-ag.md) | ahead AG | **✓** |  |
 | [AI 프로듀서](./livearena-technologies-ab-ai-producer.md) | LiveArena Technologies AB | **✓** |  |
 | [Aimful](./aimful.md) | Aimful | **✓** |  |
 | [Akouo 해석](./akouo-technologies-inc-interpretation.md) | Akouo Technologies Inc. | **✓** |  |
@@ -54,8 +56,9 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [ASC Recording Insights](./asc-technologies-ag-recording-insights.md) | ASC Technologies AG | **✓** |  |
 | [Vizir에게 질문하기](./vizirco-ask-vizir.md) | Vizir.co | **✓** |  |
 | [어셈블리](./carrothr-inc-assembly.md) | CarrotHR Inc. | **✓** |  |
-| [Aster](./aster.md) | Aster | **✓** |  |
+| [Aster](./entrup-aster.md) | Entrup | **✓** |  |
 | [AtBot](./h3-solutions-inc-atbot.md) | H3 Solutions, Inc. | **✓** |  |
+| [Atlas](./atlassian-inc-atlas.md) | Atlassian, Inc. | **✓** |  |
 | [도우미](./workstreampeople-bv-attendant.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [Attender](./aros-cloud-aps-attender.md) | Aros Cloud ApS | **✓** |  |
 | [Attensa](./attensa-corporation.md) | Attensa Corporation | **✓** |  |
@@ -76,7 +79,9 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Biz-Oin](./suzuyo-shinwart-corporation-biz-oin.md) | SUZUYO Shinwart Corporation | **✓** |  |
 | [Bizfone](./mobikom-bizfone.md) | MobiKOM | **✓** |  |
 | [BlackBerry AtHoc](./blackberry-athoc.md) | BlackBerry | **✓** |  |
+| [bNear](./bnear.md) | bNear | **✓** |  |
 | [Board Connect](./engage-squared-board-connect.md) | Engage Squared | **✓** |  |
+| [Bonfyre](./bonfyre-inc.md) | Bonfyre, Inc | **✓** |  |
 | [Bonusly](./bonusly.md) | Bonusly | **✓** |  |
 | [Booking Room Pro](./witivio-booking-room-pro.md) | Witivio | **✓** |  |
 | [BRAVO Workhub](./coeus-solutions-gmbh-bravo-workhub.md) | Coeus Solutions GmbH | **✓** |  |
@@ -89,7 +94,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Brochesia](./brochesia.md) | Brochesia | **✓** |  |
 | [게시판 - NextSet](./nextsetinc-bulletin-board-nextset.md) | NextSet,Inc. | **✓** |  |
 | [C.AI Adoption Bot](./contexxtai-cai-adoption-bot.md) | contexxt.ai | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Calendar BOT](./approved-contact-calendar-bot.md) | Approved Contact | **✓** |  |
 | [캘린더 Pro](./witivio-calendar-pro.md) | Witivio | **✓** |  |
 | [카나리아](./yattee-inc-canary.md) | YATTEE Inc. | **✓** |  |
 | [Casedoc Virtual Hearing](./casedoc-virtual-hearing.md) | Casedoc | **✓** |  |
@@ -114,6 +118,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Collaboard](./ibv-solutions-collaboard.md) | IBV Solutions | **✓** |  |
 | [컬렉션 팟](./gifted-to-you-limited-collection-pot.md) | 선물 받은 사용자 제한 | **✓** |  |
 | [회사 탐색기](./konica-minolta-it-solutions-company-navigator.md) | Konica Minolta IT Solutions | **✓** |  |
+| [ComplianceCow](./continube-inc-compliancecow.md) | ContiNube Inc | **✓** |  |
 | [규격](./cauzey-pty-ltd-complish.md) | Cauzey Pty Ltd | **✓** |  |
 | [Conferences i/o](./conferences-io.md) | Conferences i/o | **✓** |  |
 | [Confluence Cloud](./atlassian-confluence-cloud.md) | Atlassian | **✓** |  |
@@ -124,18 +129,25 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [콘텐츠 관리자](./colligo-inc-content-manager.md) | Colligo Inc | **✓** |  |
 | [Contextere AVA](./contextere-ava.md) | Contextere | **✓** |  |
 | [ContractZen](./contractzen.md) | ContractZen | **✓** |  |
+| [COR](./cor-global-ltd.md) | COR Global Ltd. | **✓** |  |
 | [CorporateFitness.app](./noctilucent-bv-corporatefitnessapp.md) | Noctilucent BV | **✓** |  |
 | [CSOD Learn](./cornerstone-ondemand-csod-learn.md) | Cornerstone OnDemand | **✓** |  |
-| [Cuckoo Workout](./cuckoo-networks-oy-workout.md) | Cuckoo Networks Oy | **✓** |  |
+| [Cuckoo](./cuckoo-networks-oy.md) | Cuckoo Networks Oy | **✓** |  |
 | [Cultr Connect](./cultr-connect.md) | Cultr | **✓** |  |
 | [Culture Amp](./culture-amp.md) | Culture Amp | **✓** |  |
 | [Cyberday](./digiturvamalli-cyberday.md) | Digiturvamalli | **✓** |  |
+| [CyDesk](./cytrack-cydesk.md) | CyTrack | **✓** |  |
+| [CyRecord](./cytrack-cyrecord.md) | CyTrack | **✓** |  |
+| [CyReport](./cytrack-cyreport.md) | CyTrack | **✓** |  |
+| [Data Hu](./data-hu.md) | &#21271;&#20140;&#20061;&#40594;&#20449;&#24687;&#25216;&#26415;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [DataFetch](./datafetch-inc.md) | DataFetch, Inc | **✓** |  |
 | [DataMiner](./skyline-communications-dataminer.md) | Skyline Communications | **✓** |  |
 | [Datto 작업 공간](./datto-inc-workplace.md) | Datto, Inc. | **✓** |  |
 | [DBit](./diamondsoft-solutions-llc-dbit.md) | Diamondsoft Solutions, LLC | **✓** |  |
 | [결정](./decisions.md) | 결정 | **✓** |  |
+| [Deeplink Chatbot](./deeplink-sa-chatbot.md) | Deeplink SA | **✓** |  |
 | [Degreed](./degreed.md) | Degreed | **✓** |  |
+| [지연된 전송](./appfluence-inc-delayed-send.md) | Appfluence Inc | **✓** |  |
 | [DELTAoverC](./deltaoverc.md) | DELTAoverC | **✓** |  |
 | [Desk 예약](./tns-consulting-aps-desk-reservations.md) | TNS Consulting ApS | **✓** |  |
 | [Desk365](./kani-technologies-inc-desk365.md) | Kani Technologies Inc | **✓** |  |
@@ -146,14 +158,16 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Diligent Boards](./diligent-boards.md) | Diligent | **✓** |  |
 | [DisasterTech DICE](./disastertech-dice.md) | DisasterTech | **✓** |  |
 | [Distribution Lists Pro](./witivio-distribution-lists-pro.md) | Witivio | **✓** |  |
+| [Ditox](./ditox.md) | Ditox | **✓** |  |
 | [do!book CB](./digital-office-inc-do!book-cb.md) | Digital Office Inc. | **✓** |  |
 | [DoctorOnline](./nlsql-doctoronline.md) | NLSQL | **✓** |  |
 | [문서 초안 작성기](./green-meadow-aps-document-drafter.md) | Green Meadow ApS | **✓** |  |
 | [Docuo](./r2-docuo.md) | R2 Docuo | **✓** |  |
 | [DocuSign eSignature](./docusign-inc-esignature.md) | DocuSign, Inc. | **✓** |  |
+| [Dost - 포괄 언어 봇](./ishield-technologies-inc-dost-inclusive-language-bot.md) | ishield Technologies, Inc. | **✓** |  |
 | [Dubber 통합 통화 녹음/녹화](./dubber-unified-call-recording.md) | Dubber | **✓** |  |
 | [DZ 알림 봇](./dz-notification-bot.md) | &#36948;&#26131;&#26234;&#36896;&#32929;&#20221;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
-| [EasyLife 365](./easylife-365-ag.md) | EasyLife 365 AG | **✓** |  |
+| [EasyLife 365](./easylife-365-ag.md) | EasyLife 365 AG | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [eCademy Lernplattform](./cornelsen-ecademyinside-gmbh-ecademy-lernplattform.md) | Cornelsen eCademy &amp; 내부 GmbH | **✓** |  |
 | [ecBooking](./expert-systems-ivrasia-coltd-ecbooking.md) | Expert Systems IVR(Asia) Co.Ltd. | **✓** |  |
 | [Edgility](./edgility.md) | Edgility | **✓** |  |
@@ -184,6 +198,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Fabasoft Cloud](./fabasoft-austria-gmbh-cloud.md) | Fabasoft Austria GmbH | **✓** |  |
 | [FactSet](./factset-research-systems-inc.md) | FactSet Research Systems Inc. | **✓** |  |
 | [FastOrg](./fastorg.md) | &#38182;&#33909;&#26032;&#38451;&#65288;&#22825;&#27941;&#65289;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
+| [피더](./really-simple-i-stockholm-ab-feeder.md) | Really Simple i Stockholm AB | **✓** |  |
 | [동료](./fellow-insights-inc.md) | Fellow Insights Inc | **✓** |  |
 | [Fifty](./fifty.md) | Fifty | **✓** |  |
 | [File Fabric](./storage-made-easy-file-fabric.md) | Storage Made Easy | **✓** |  |
@@ -200,7 +215,8 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Fond](./fond-technologies-inc.md) | Fond Technologies, Inc. | **✓** |  |
 | [ForceManager CRM](./tritium-software-sl-forcemanager-crm.md) | Tritium Software SL | **✓** |  |
 | [FormMachines](./enterprise-digital-machines-formmachines.md) | Enterprise Digital Machines | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [클라우드용 Foxit PDF 편집기](./foxit-software-incorporated-pdf-editor-for-cloud.md) | Foxit 소프트웨어 통합됨 | **✓** |  |
+| [Foxit PDF 편집기](./foxit-software-incorporated-pdf-editor.md) | Foxit 소프트웨어 통합됨 | **✓** |  |
+| [Funtivity by Hermis](./hermis-inc-funtivity-by.md) | Hermis, Inc. | **✓** |  |
 | [Futureworks](./futureworks-as.md) | Futureworks AS | **✓** |  |
 | [Gameinar](./heuristix-gameinar.md) | Heuristix | **✓** |  |
 | [gauge.it](./cloud-cover-it-gaugeit.md) | 클라우드 커버 IT | **✓** |  |
@@ -214,9 +230,11 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [GoLinks](./golinks.md) | GoLinks | **✓** |  |
 | [Good4work](./good4work.md) | Good4work | **✓** |  |
 | [GRATICA](./okwave-inc-gratica.md) | OKWAVE, Inc. | **✓** |  |
+| [Groopit](./groopit.md) | Groopit | **✓** |  |
 | [Group Address Book - NextSet](./nextsetinc-group-address-book-nextset.md) | NextSet,Inc. | **✓** |  |
 | [GroupLotse](./controlex-gmbh-grouplotse.md) | controlex GmbH | **✓** |  |
 | [Grow360](./grow360.md) | Grow360 | **✓** |  |
+| [Grytics Companion](./1339-sas-grytics-companion.md) | 1339 SAS | **✓** |  |
 | [Gtmhub](./gtmhub.md) | Gtmhub | **✓** |  |
 | [GuideSpark Communicate Cloud](./guidespark-communicate-cloud.md) | GuideSpark | **✓** |  |
 | [GuineaPig](./guineapig-health-technologies-ab.md) | GuineaPig Health Technologies AB | **✓** |  |
@@ -231,6 +249,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Highspot](./highspot.md) | Highspot | **✓** |  |
 | [HitHorizons](./finstat-sro-hithorizons.md) | FinStat s.r.o. | **✓** |  |
 | [Hive](./hive.md) | Hive | **✓** |  |
+| [HubEngage](./hubengage-inc.md) | HubEngage, Inc. | **✓** |  |
 | [HubSite 365](./netforce-365-gmbh-hubsite.md) | NetForce 365 GmbH | **✓** |  |
 | [Hugo](./hugo.md) | Hugo | **✓** |  |
 | [Humantelligence](./humantelligence.md) | Humantelligence | **✓** |  |
@@ -245,7 +264,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [imDocShare](./kl-software-technologies-imdocshare.md) | KL Software Technologies | **✓** |  |
 | [위기 발생 시](./rockdove-solutions-inc-in-case-of-crisis.md) | RockDove Solutions, Inc. | **✓** |  |
 | [InCaseIT](./pilotech-as-incaseit.md) | Pilotech AS | **✓** |  |
-| [Indeqa](./indeqa-bv.md) | Indeqa B.V. | **✓** |  |
 | [Infor Coleman](./infor-us-inc-coleman.md) | INFOR (US), INC. | **✓** |  |
 | [IQ](./nlsql-iq.md) | NLSQL | **✓** |  |
 | [isLucid](./uab-lucid-agreements-islucid.md) | UAB Lucid 계약 | **✓** |  |
@@ -267,6 +285,8 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Klaxoon](./klaxoon.md) | Klaxoon | **✓** |  |
 | [Klett](./ernst-klett-verlag-gmbh.md) | Ernst Klett Verlag GmbH | **✓** |  |
 | [Koan](./koan-inc.md) | Koan, Inc. | **✓** |  |
+| [Koare I-management](./koaretech-sl-koare-i-management.md) | KoareTech S.L. | **✓** |  |
+| [Kuban Desks](./kuban-desks.md) | &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Kuban 회의실](./kuban-meeting-rooms.md) | &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Kuban 방문자](./kuban-visitors.md) | &#19978;&#28023;&#37239;&#20134;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [KUDO](./kudo-inc.md) | KUDO, Inc. | **✓** |  |
@@ -297,8 +317,10 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [MeasureUp](./media-interactiva-solutions-measureup.md) | Media Interactiva Solutions | **✓** |  |
 | [Mediatheque+](./cemeq-inc-mediathequeplus.md) | CEMEQ inc. | **✓** |  |
 | [Meetgeek](./aivision-products-srl-meetgeek.md) | AIVISION 제품 SRL | **✓** |  |
+| [Meety](./operalogica-srl-meety.md) | operaLogica srl | **✓** |  |
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
 | [Message Reminder](./message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
+| [MetaLuck](./wafersystems-metaluck.md) | wafersystems | **✓** |  |
 | [MetaMeeting](./wafer-systems-metameeting.md) | Wafer Systems | **✓** |  |
 | [MetaVisitor](./wafer-systems-metavisitor.md) | Wafer Systems | **✓** |  |
 | [MetaWorkspace](./wafer-systems-metaworkspace.md) | Wafer Systems | **✓** |  |
@@ -310,15 +332,17 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Mindsets](./mindsets-learning.md) | Mindsets Learning | **✓** |  |
 | [MIPA - 개인 비서](./iglobe-mipa-your-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Miro](./miro.md) | Miro | **✓** |  |
+| [moconavi Contacts](./moconavi-contacts.md) | &#26666;&#24335;&#20250;&#31038;&#12524;&#12467;&#12514;&#12483;&#12488; | **✓** |  |
 | [monday.com](./mondaycom.md) | monday.com | **✓** |  |
 | [Moneypenny](./callitech-limited-moneypenny.md) | CALLITECH LIMITED | **✓** |  |
 | [Monitask](./fest-technologies-llc-monitask.md) | FEST Technologies, LLC | **✓** |  |
+| [Motionlab](./motionlab.md) | Motionlab | **✓** |  |
 | [Jira를 사용하여 작업을 앞으로 이동](./move-work-forward-with-jira.md) | 작업을 앞으로 이동 | **✓** |  |
 | [MSPBots](./jexet-technologies-llc-mspbots.md) | Jexet Technologies LLC | **✓** |  |
 | [다중 승인 프로세스 LTAPP](./ltapps-software-coltd-multi-approval-process.md) | LTAPPs SOFTWARE CO.,LTD | **✓** |  |
 | [MURAL](./mural.md) | MURAL | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Myfone](./flexfone-myfone.md) | Flexfone | **✓** |  |
-| [MyHub](./avepoint-inc-myhub.md) | AvePoint, inc. | **✓** |  |
+| [MyHub](./avepoint-inc-myhub.md) | AvePoint, inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Mylo Bot](./my-learning-hub-mylo-bot.md) | 내 Learning 허브 | **✓** |  |
 | [MyWorkDrive](./myworkdrive.md) | MyWorkDrive | **✓** |  |
 | [Nailted](./nailted-app-sl.md) | NAILTED APP S.L. | **✓** |  |
@@ -354,6 +378,8 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [PayaFy](./nimblesoft-inc-payafy.md) | NimbleSoft Inc. | **✓** |  |
 | [Perdoo](./perdoo-gmbh.md) | Perdoo GmbH | **✓** |  |
 | [Perfect Wiki](./ooo-rd17-perfect-wiki.md) | OOO RD17 | **✓** |  |
+| [Perflo](./perflo.md) | Perflo | **✓** |  |
+| [PerformYard](./performyard.md) | PerformYard | **✓** |  |
 | [사진 파일러(filer)](./ichicraft-photo-filer.md) | Ichicraft | **✓** |  |
 | [Pigeonhole Live](./pigeonlab-pte-ltd-pigeonhole-live.md) | PigeonLab Pte Ltd | **✓** |  |
 | [Plandisc](./plandisc.md) | Plandisc | **✓** |  |
@@ -368,6 +394,9 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Presentations AI](./infographfx-technologies-presentations-ai.md) | Infographfx 기술 | **✓** |  |
 | [가격 모니터링](./price-monitor.md) | &#19978;&#28023;&#20134;&#24698;&#20114;&#32852;&#32593;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Priority Matrix Government](./appfluence-inc-priority-matrix-government.md) | Appfluence Inc | **✓** |  |
+| [Priority Matrix HIPAA](./appfluence-inc-priority-matrix-hipaa.md) | Appfluence Inc | **✓** |  |
+| [PrivyNow](./pt-privy-identitas-digital-privynow.md) | PT Privy Identitas Digital | **✓** |  |
 | [Process Street](./process-street.md) | Process Street | **✓** |  |
 | [Proconnect for Sitecore](./subramanian-ramanathan-proconnect-for-sitecore.md) | Subramanian Ramanathan | **✓** |  |
 | [Project Insight](./project-insight.md) | Project Insight | **✓** |  |
@@ -379,6 +408,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [qChange Leader 환경](./qchange-software-solution-inc-leader-experience.md) | qChange Software Solution, Inc. | **✓** |  |
 | [Qooper](./cognata-technologies-llc-qooper.md) | COGNATA TECHNOLOGIES, LLC | **✓** |  |
 | [Quadra Thankz](./quadrasystemsnet-quadra-thankz.md) | Quadrasystems.net | **✓** |  |
+| [Quadra Visitorz](./quadrasystemsnet-quadra-visitorz.md) | Quadrasystems.net | **✓** |  |
 | [정규화된](./qualified.md) | 정규화된 | **✓** |  |
 | [Quire](./potix-corporation-quire.md) | Potix Corporation | **✓** |  |
 | [Quitch](./quitch.md) | Quitch | **✓** |  |
@@ -404,6 +434,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [학기일](./school-day-helsinki-oy.md) | School Day Helsinki Oy | **✓** |  |
 | [SEFOS](./meaplus-ab-sefos.md) | Meaplus AB | **✓** |  |
 | [SelfDrvn](./selfdrvn.md) | SelfDrvn | **✓** |  |
+| [Semplisio 전자 상거래 관리자](./hquadro-semplisio-e-commerce-manager.md) | HQuadro | **✓** |  |
 | [Senso](./senso.md) | Senso | **✓** |  |
 | [ServiceDesk Plus Cloud](./zoho-corporation-private-limited-servicedesk-plus-cloud.md) | Zoho Corporation Private Limited | **✓** |  |
 | [WNI의 공유 스레드](./wni-shared-thread-by.md) | WNI | **✓** |  |
@@ -412,6 +443,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [SightCall](./sightcall.md) | SightCall | **✓** |  |
 | [SIGNL4](./derdack-signl4.md) | Derdack SIGNL4 | **✓** |  |
 | [Simple In/Out](./simply-made-apps-inc-simple-inout.md) | Simply Made Apps, Inc. | **✓** |  |
+| [SimplyDo](./simplydo.md) | SimplyDo | **✓** |  |
 | [Sine](./sineco-sine.md) | Sine.co | **✓** |  |
 | [Skedda](./skedda-pty-ltd.md) | Skedda Pty Ltd | **✓** |  |
 | [SkilledHuman](./saltflat-limited-skilledhuman.md) | SaltFlat Limited | **✓** |  |
@@ -423,6 +455,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [SmartDraw](./smartdraw-software-llc.md) | SmartDraw Software, LLC | **✓** |  |
 | [Smartnotation](./smartnotation-bv.md) | Smartnotation B.V. | **✓** |  |
 | [SmartPods](./discourse-analytics-smartpods.md) | 대화 분석 | **✓** |  |
+| [Smartsheet](./smartsheet.md) | Smartsheet | **✓** |  |
 | [SmartWork](./smartwork-of-intumit.md) | SmartWork of Intumit | **✓** |  |
 | [Sobol](./consensys-ags-sobol.md) | ConsenSys AG&#8217;s Sobol | **✓** |  |
 | [Sociabble](./sociabble.md) | Sociabble | **✓** |  |
@@ -435,6 +468,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Staple](./crowd-cast-ltd-staple.md) | Crowd Cast, Ltd. | **✓** |  |
 | [Starbucks](./starbucks.md) | Starbucks&#174; 커피 회사 | **✓** |  |
 | [Startgrid](./startgrid.md) | Startgrid | **✓** |  |
+| [Status Hero](./status-hero-inc.md) | Status Hero, Inc. | **✓** |  |
 | [Stipop 스티커](./stipop-stickers.md) | Stipop | **✓** |  |
 | [Streamline](./finative-streamline.md) | Finative | **✓** |  |
 | [Streem](./streem.md) | Streem | **✓** |  |
@@ -445,6 +479,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Summize Assistant](./summize-ltd-assistant.md) | Summize (Ltd) | **✓** |  |
 | [SuperBeings](./haptivity-technologies-pvt-ltd-superbeings.md) | Haptivity Technologies Pvt Ltd | **✓** |  |
 | [SuperOffice](./superoffice-infobridge-software.md) | SuperOffice InfoBridge 소프트웨어 | **✓** |  |
+| [SupportRoom](./mysupportroom-ltd-supportroom.md) | MYSUPPORTROOM LTD | **✓** |  |
 | [SurveyMonkey](./surveymonkey.md) | SurveyMonkey | **✓** |  |
 | [SurveyMoodbit](./moodbit-surveymoodbit.md) | Moodbit | **✓** |  |
 | [SurveySparrow](./surveysparrow-inc.md) | SurveySparrow inc. | **✓** |  |
@@ -459,8 +494,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [TAMPLO](./ityss-tamplo.md) | ITYSS | **✓** |  |
 | [TaskCall](./taskcall-cloud-services-sl.md) | TaskCall Cloud Services, S.L. | **✓** |  |
 | [Taskworld](./taskworld.md) | Taskworld | **✓** |  |
-| [Team Central](./atlassian-inc-team-central.md) | Atlassian, Inc. | **✓** |  |
-| [Team Tracker](./team-tracker-ltd.md) | Team Tracker Ltd | **✓** |  |
+| [Team Today](./team-today-ltd.md) | Team Today Ltd | **✓** |  |
 | [Teamble](./teamble.md) | Teamble | **✓** |  |
 | [TeaMe Health Check Bot](./teame-health-check-bot.md) | &#26666;&#24335;&#20250;&#31038;&#12461;&#12515;&#12522;&#12450;&#12487;&#12505;&#12525;&#12483;&#12503;&#12513;&#12531;&#12488;&#12539;&#12450;&#12531;&#12489;&#12539;&#12463;&#12522;&#12456;&#12452;&#12471;&#12519;&#12531; | **✓** |  |
 | [Teameo Class Space](./ls2-innovation-teameo-class-space.md) | LS2 Innovation | **✓** |  |
@@ -469,17 +503,20 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Teams Manager](./solutions2share-gmbh-teams-manager.md) | Solutions2Share GmbH | **✓** |  |
 | [TeamsChamp](./teamschamp.md) | TeamsChamp | **✓** |  |
 | [TeamSticker by Communitio](./communitio-corporation-teamsticker-by.md) | Communitio Corporation | **✓** |  |
+| [TeamSurvey](./builduplabs-teamsurvey.md) | BuildUpLabs | **✓** |  |
 | [Teamwork](./teamwork.md) | Teamwork | **✓** |  |
 | [TELUS Business Connect](./ringcentral-inc-telus-business-connect.md) | RingCentral, Inc. | **✓** |  |
 | [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Tendfor](./tendfor.md) | Tendfor | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Text](./approved-contact-text.md) | Approved Contact | **✓** |  |
 | [The Captivate Hub](./captivate-io-ltd-the-hub.md) | Captivate IO Ltd | **✓** |  |
 | [The Mental Move](./the-mental-move-bv.md) | The Mental Move B.V. | **✓** |  |
+| [Thinky365-ConnectWise](./think-ai-thinky365-connectwise.md) | Think AI | **✓** |  |
+| [Thinky365-Dynamics](./think-ai-thinky365-dynamics.md) | Think AI | **✓** |  |
 | [ThoughtExchange](./thoughtexchange.md) | ThoughtExchange | **✓** |  |
 | [ThoughtWire EWS](./thoughtwire-corp-ews.md) | ThoughtWire Corp. | **✓** |  |
 | [ti8m places](./tim-ag-ti8m-places.md) | ti&amp;m AG | **✓** |  |
 | [Ticketing As A Service](./kitameraki-limited-ticketing-as-a-service.md) | kitameraki limited | **✓** |  |
+| [Tigim Analytics](./hippo-ed-tech-ltd-tigim-analytics.md) | Hippo Ed Tech LTD | **✓** |  |
 | [Tikit](./cireson-tikit.md) | Cireson | **✓** |  |
 | [tiLly](./tilly-group-limited.md) | Tilly Group Limited | **✓** |  |
 | [TimeClock 365](./softsale-timeclock-365.md) | Softsale | **✓** |  |

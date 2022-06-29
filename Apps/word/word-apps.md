@@ -3,17 +3,17 @@ title: Microsoft Word Apps 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/07/2022
+ms.date: 06/27/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Word 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 6049f63161765ee4b557952e2385a212b97bd431
-ms.sourcegitcommit: dbf716786f7a3c0b84fa4563e47510e4bd3a2fd0
+ms.openlocfilehash: 01d38371206814af4b2751386055b6d98085e0e3
+ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/08/2022
-ms.locfileid: "65943146"
+ms.lasthandoff: 06/29/2022
+ms.locfileid: "66249531"
 ---
 # <a name="microsoft-word-apps-security-and-compliance"></a>Microsoft Word Apps 보안 및 규정 준수
 
@@ -25,6 +25,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [AuditBoard 추가 기능](./auditboard-inc-add-in.md) | Auditboard, Inc. | **✓** |  |
 | [BriefCatch](./briefcatch-llc.md) | BriefCatch LLC | **✓** |  |
 | [Citasion](./citasion-llc.md) | Citasion LLC | **✓** |  |
+| [Clausebook](./leasepilot-clausebook.md) | LeasePilot | **✓** |  |
 | [코코팩스 - 팩스 보내기 쉽게 &amp; 안전](./cocofax-sending-fax-made-easysecure.md) | &#28145;&#22323;&#23545;&#20113;&#31185;&#25216;&#26377;&#38480;&#20844;&#21496; | **✓** |  |
 | [CrossCheck](./krevealllc-crosscheck.md) | kRevealLLC | **✓** |  |
 | [문서 초안 작성기](./green-meadow-aps-document-drafter.md) | Green Meadow ApS | **✓** |  |
