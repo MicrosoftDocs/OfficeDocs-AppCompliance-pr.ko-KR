@@ -3,17 +3,17 @@ title: Microsoft PowerPoint 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/23/2022
+ms.date: 07/06/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft PowerPoint 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 9fde0c50255d870852e35601c103824e6a962e5b
-ms.sourcegitcommit: cede428f2a23bd3060f5506f270b40b327b02769
+ms.openlocfilehash: 220a7253afc3c28a0cd74606acbb24149977b146
+ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66545747"
+ms.lasthandoff: 07/06/2022
+ms.locfileid: "66652460"
 ---
 # <a name="microsoft-powerpoint-apps-security-and-compliance"></a>Microsoft PowerPoint Apps 보안 및 규정 준수
 
@@ -29,6 +29,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [officeatwork - Office용 콘텐츠 선택기](./officeatwork-officeatworkcontent-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - Office용 이미지 선택기](./officeatwork-officeatworkimage-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [officeatwork - Office용 슬라이드 선택기](./officeatwork-officeatworkslide-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [officeatwork - Office용 템플릿 선택기](./officeatwork-officeatworktemplate-chooser-for-office.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [officeatwork - Office용 템플릿 선택기 - M365](./officeatwork-officeatworktemplate-chooser-for-office-m365.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Showmaster](./cherryware-showmaster.md) | 체리웨어 | **✓** |  |
 | [Showmaster(도우미 플러그 인)](./cherryware-showmaster-helper-plugin.md) | 체리웨어 | **✓** |  |
