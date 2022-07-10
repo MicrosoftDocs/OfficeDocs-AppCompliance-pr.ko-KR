@@ -306,6 +306,8 @@ items:
         href: teams/h3-solutions-inc-atbot.md
       - name: Atlas
         href: teams/atlassian-inc-atlas.md
+      - name: AttendanceBot
+        href: teams/anaek-attendancebot.md
       - name: 도우미
         href: teams/workstreampeople-bv-attendant.md
       - name: Attender
@@ -384,7 +386,7 @@ items:
         href: teams/yattee-inc-canary.md
       - name: Casedoc Virtual Hearing
         href: teams/casedoc-virtual-hearing.md
-      - name: Cegid HR 환경
+      - name: Cegid HR Experience
         href: teams/cegid-hr-experience.md
       - name: Centrical
         href: teams/biz-effective-centrical.md
@@ -466,7 +468,7 @@ items:
         href: teams/culture-amp.md
       - name: Cyberday
         href: teams/digiturvamalli-cyberday.md
-      - name: CyCX 컨택 센터
+      - name: CyCX  연락처 센터
         href: teams/cytrack-cycxcontact-centre.md
       - name: CyDesk
         href: teams/cytrack-cydesk.md
@@ -638,7 +640,7 @@ items:
         href: teams/tritium-software-sl-forcemanager-crm.md
       - name: FormMachines
         href: teams/enterprise-digital-machines-formmachines.md
-      - name: Forza 보드
+      - name: Forza Board
         href: teams/toolpack-solutions-forza-board.md
       - name: Foxit PDF 편집기
         href: teams/foxit-software-incorporated-pdf-editor.md
@@ -740,7 +742,7 @@ items:
         href: teams/rockdove-solutions-inc-in-case-of-crisis.md
       - name: InCaseIT
         href: teams/pilotech-as-incaseit.md
-      - name: Indeqa 이사회 회의
+      - name: Indeqa Board Meetings
         href: teams/easy2meet-bv-indeqa-board-meetings.md
       - name: Infor Coleman
         href: teams/infor-us-inc-coleman.md
@@ -854,6 +856,8 @@ items:
         href: teams/aivision-products-srl-meetgeek.md
       - name: Meety
         href: teams/operalogica-srl-meety.md
+      - name: 멜트워터
+        href: teams/meltwater.md
       - name: Mentimeter
         href: teams/mentimeter.md
       - name: Message Reminder
@@ -968,7 +972,7 @@ items:
         href: teams/pandos-intelligence-inc.md
       - name: Panopto
         href: teams/panopto.md
-      - name: PAP 봇
+      - name: PAP bot
         href: teams/pap-bot.md
       - name: ParkHere Corporate
         href: teams/parkhere-gmbh-corporate.md
@@ -1000,9 +1004,9 @@ items:
         href: teams/fellowmind-denmark-pling.md
       - name: Plumm
         href: teams/plumm-health-ltd.md
-      - name: 포이마퍼 (동음이의)
+      - name: Poimapper
         href: teams/pajat-solutions-oy-poimapper.md
-      - name: 폴루마나 투어 루트 플래너
+      - name: polumana 여행 경로 플래너
         href: teams/blue-zone-gmbh-polumana-tour-route-planner.md
       - name: POPP 클라우드 VoIP 커넥터
         href: teams/poppcom-inc-popp-cloud-voip-connector.md
@@ -1092,7 +1096,7 @@ items:
         href: teams/schule-am-bildschirm-gmbh-schabi.md
       - name: 학기일
         href: teams/school-day-helsinki-oy.md
-      - name: 스콜미움 (동음이의)
+      - name: Scormium
         href: teams/sense4code-scormium.md
       - name: SEFOS
         href: teams/meaplus-ab-sefos.md
@@ -1212,7 +1216,7 @@ items:
         href: teams/maskott-tactileo.md
       - name: TagMyFav
         href: teams/avishkaram-technologies-pvt-ltd-tagmyfav.md
-      - name: 맞춤형 회담
+      - name: 맞춤형 대화
         href: teams/pogo-studio-tailored-talks.md
       - name: TAMPLO
         href: teams/ityss-tamplo.md
@@ -1224,7 +1228,7 @@ items:
         href: teams/team-today-ltd.md
       - name: Teamble
         href: teams/teamble.md
-      - name: Sitecore용 TeamConnect
+      - name: TeamConnect for Sitecore
         href: teams/subramanian-ramanathan-teamconnect-for-sitecore.md
       - name: TeaMe Health Check Bot
         href: teams/teame-health-check-bot.md
@@ -1242,7 +1246,7 @@ items:
         href: teams/communitio-corporation-teamsticker-by.md
       - name: TeamSurvey
         href: teams/builduplabs-teamsurvey.md
-      - name: Teamwork
+      - name: 팀워크
         href: teams/teamwork.md
       - name: TELUS Business Connect
         href: teams/ringcentral-inc-telus-business-connect.md
@@ -1286,7 +1290,7 @@ items:
         href: teams/dm-digital-srl-timeneye.md
       - name: TINYpulse
         href: teams/tinypulse.md
-      - name: 팀의 할 일 검사 목록
+      - name: 팀의 할 일 체크리스트
         href: teams/herocoders-to-do-checklist-for-team.md
       - name: Tonkean
         href: teams/tonkean.md
