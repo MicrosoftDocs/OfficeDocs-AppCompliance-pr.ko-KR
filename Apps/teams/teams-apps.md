@@ -3,17 +3,17 @@ title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/07/2022
+ms.date: 07/08/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: 57ab09069315b3193da58102005b0d9b5220cf37
-ms.sourcegitcommit: b752351d112ecc2ea7f539d200e6638a6a3034e5
+ms.openlocfilehash: cfa7d528ef4a368955ceff556eb5c6e0528795c8
+ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
 ms.translationtype: HT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/07/2022
-ms.locfileid: "66679683"
+ms.lasthandoff: 07/10/2022
+ms.locfileid: "66702636"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -48,7 +48,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [AmTrav Business Travel](./amtrav-business-travel.md) | AmTrav | **✓** |  |
 | [AnnounceBot](./avista-technology-solutions-announcebot.md) | Avista Technology Solutions | **✓** |  |
 | [Appraisd](./appraisd-ltd.md) | Appraisd Ltd. | **✓** |  |
-| [Appspace](./appspace-inc.md) | Appspace, Inc. | **✓** |  |
+| [Appspace](./appspace-inc.md) | Appspace, Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ArcGIS Maps](./esri-arcgis-maps.md) | Esri | **✓** |  |
 | [안전한가요?](./avista-technology-solutions-are-you-safe.md) | Avista Technology Solutions | **✓** |  |
 | [ARGUSnylar](./argus-data-insights-schweiz-ag-argusnylar.md) | ARGUS DATA INSIGHTS Schweiz AG | **✓** |  |
@@ -61,6 +61,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Aster](./entrup-aster.md) | Entrup | **✓** |  |
 | [AtBot](./h3-solutions-inc-atbot.md) | H3 Solutions, Inc. | **✓** |  |
 | [Atlas](./atlassian-inc-atlas.md) | Atlassian, Inc. | **✓** |  |
+| [AttendanceBot](./anaek-attendancebot.md) | Anaek | **✓** |  |
 | [도우미](./workstreampeople-bv-attendant.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [Attender](./aros-cloud-aps-attender.md) | Aros Cloud ApS | **✓** |  |
 | [Attensa](./attensa-corporation.md) | Attensa Corporation | **✓** |  |
@@ -335,6 +336,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Mediatheque+](./cemeq-inc-mediathequeplus.md) | CEMEQ inc. | **✓** |  |
 | [Meetgeek](./aivision-products-srl-meetgeek.md) | AIVISION 제품 SRL | **✓** |  |
 | [Meety](./operalogica-srl-meety.md) | operaLogica srl | **✓** |  |
+| [Meltwater](./meltwater.md) | Meltwater | **✓** |  |
 | [Mentimeter](./mentimeter.md) | Mentimeter | **✓** |  |
 | [Message Reminder](./message-reminder.md) | &#1054;&#1054;&#1054; &#1040;&#1081;-&#1057;&#1080;&#1089; &#1051;&#1072;&#1073;&#1089; | **✓** |  |
 | [MetaLuck](./wafersystems-metaluck.md) | wafersystems | **✓** |  |
