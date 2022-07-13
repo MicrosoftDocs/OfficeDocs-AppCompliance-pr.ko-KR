@@ -3,17 +3,17 @@ title: cbc1f86a-32a7-4efb-8c6c-cde1964aa9a2에 대한 Azure 앱 ID 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/08/2022
+ms.date: 07/12/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: cbc1f86a-32a7-4efb-8c6c-cde1964aa9a2에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: 79a30e2a117db037dcae479cbb15f7294227d38b
-ms.sourcegitcommit: 7902a8fe5a55d715023f34ea1ab987b4d715a4f7
+ms.openlocfilehash: 68a0b9f11a30aa3617145be1a5f31dfdb093c3ca
+ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/10/2022
-ms.locfileid: "66706363"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66762408"
 ---
 # <a name="azure-app-id-cbc1f86a-32a7-4efb-8c6c-cde1964aa9a2"></a>Azure 앱 ID: cbc1f86a-32a7-4efb-8c6c-cde1964aa9a2
 
