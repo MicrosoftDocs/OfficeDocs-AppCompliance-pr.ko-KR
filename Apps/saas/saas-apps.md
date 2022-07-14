@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 2540acebe47558ff7e325ad58bef3741b7d40508
-ms.sourcegitcommit: 0c7f7f3da27d274928b863a18ff16d4dc775487c
+ms.openlocfilehash: e8bd67ffe994724af91ce39854452cde1cc4b8db
+ms.sourcegitcommit: 72f4a6341a000d08a27b69b25ee9d3fb0bbfea6e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/14/2022
-ms.locfileid: "66786029"
+ms.locfileid: "66792757"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
@@ -38,7 +38,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Microsoft Teams용 더버 통합 통화 녹음/녹화](./dubber-corp-unified-call-recording-for-microsoft-teams.md) | Dubber Corp | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [전자 메일 분석](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
 | [Outlook용 EmailNotes](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | 스탠드(남태평양) PTE 제한 | **✓** |  |
-| [Genesys Cloud CX Teams 통합](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys Cloud Services, Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Genesys Cloud CX Teams 통합](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys Cloud Services, Inc. | **✓** |  |
 | [ice Contact Center](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Microsoft 365용 iGlobe CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [이미지 선택기](./officeatwork-image-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -46,7 +46,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [IXCloud - Teams 규정 준수 기록 &amp; 인텔리전스](./numonix-llc-ixcloud-teams-compliance-recordingintelligence.md) | Numonix LLC | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [LMS365](./elearningforce-international-aps-lms365.md) | ELEARNINGFORCE International Aps | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Microsoft Teams용 Luware 준수 기록](./luware-ag-compliance-recording-for-microsoft-teams.md) | Luware AG | **✓** |  |
-| [Microsoft Teams용 Luware Nimbus](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Microsoft Teams용 Luware Nimbus](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** |  |
 | [메일 서명](./officeatwork-mail-signature.md) | officeatwork | **✓** |  |
 | [MIPA - 내 지능형 개인 비서](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ModuleQ](./moduleq.md) | ModuleQ | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
