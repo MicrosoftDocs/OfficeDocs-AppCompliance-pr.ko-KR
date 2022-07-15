@@ -3,24 +3,24 @@ title: 히마 에드 테크 LTD의 Tigim Analytics에 대한 애플리케이션 
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/16/2022
+ms.date: 07/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Tigim Analytics에 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 81d3b55c0609d1d3f56e6dd55b0e6b5d8194842c
-ms.sourcegitcommit: c06f3d478e1b4f66c02e2855ffac6de2f350208a
+ms.openlocfilehash: 66a78bdd74c3002e176335c62c5a5f8a090847cb
+ms.sourcegitcommit: 9e5c6c3b4885bc6fa0a4af61432c86a232bc7ec9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/29/2022
-ms.locfileid: "66247411"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66818190"
 ---
 # <a name="tigim-analytics"></a>Tigim Analytics
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 5월 25일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 7월 14일</p>
 
 * <a href="https://teams.microsoft.com/l/app/98172521-768f-4271-a872-00bd46bd9460" target="_blank">Teams 스토어에서 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200004242" target="_blank">AppSource에서 보기</a>
@@ -36,13 +36,14 @@ ms.locfileid: "66247411"
 | 앱 이름 | Tigim Analytics |
 | ID | WA200004242 |
 | 지원되는 Office 365 클라이언트 | Microsoft Teams |
-| 파트너 회사 이름 | 하마 에드 테크 LTD |
+| 파트너 회사 이름 | Hippo Ed Tech LTD |
 | 회사 웹 사이트 | [https://www.tigim.co](https://www.tigim.co) |
 | 앱의 사용 약관 | [https://www.tigim.co/terms-of-use](https://www.tigim.co/terms-of-use) |
 | 앱의 핵심 기능 | 커뮤니케이션, 생산성, 비즈니스 관리, 교육 |
 | 회사 본사 위치 | 아일랜드 |
 | 앱 정보 페이지 | |
-| 앱을 실행하는 데 사용되는 호스팅 환경 또는 서비스 모델은 무엇인가요? | IsvHosted |
+| 앱을 실행하는 데 사용되는 호스팅 환경 또는 서비스 모델은 무엇인가요? | Iaas |
+| 앱에서 사용하는 호스팅 클라우드 공급자는 무엇인가요? | 기타 |
 
  [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -57,7 +58,7 @@ ms.locfileid: "66247411"
 | **정보** | **응답** |
 |:----------------|:-------------|
 | 앱 또는 기본 인프라가 Microsoft 고객 또는 해당 디바이스와 관련된 데이터를 처리하나요? | 예 |
-| 앱에서 처리되는 데이터는 무엇인가요? | 사용자 전자 메일, 사용자 프로필, 사용자 일정, 사용자 OnlineMeetings |
+| 앱에서 처리되는 데이터는 무엇인가요? | 사용자 Email, 사용자 프로필, 사용자 일정, 사용자 OnlineMeetings |
 | 앱이 TLS 1.1 이상을 지원하나요? | 예 |
 | 앱 또는 기본 인프라가 Microsoft 고객 데이터를 저장하나요? | 예 |
 | 데이터베이스에 저장되는 데이터는 무엇인가요? | 사용자 데이터, User OnlineMeetings 기록, 사용자 대화 참조 |
