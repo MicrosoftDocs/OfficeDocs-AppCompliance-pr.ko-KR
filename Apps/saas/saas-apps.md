@@ -3,17 +3,17 @@ title: SaaS 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/13/2022
+ms.date: 07/14/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: e8bd67ffe994724af91ce39854452cde1cc4b8db
-ms.sourcegitcommit: 72f4a6341a000d08a27b69b25ee9d3fb0bbfea6e
+ms.openlocfilehash: f47232a73d8e5a33c11daad3abc3084edfb8320a
+ms.sourcegitcommit: ac75dd8bb815bc9e8b1d5b39a2d2dbe46e65f680
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "66792757"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66804249"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
@@ -24,7 +24,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [관리 센터](./officeatwork-admin-center.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Microsoft 365용 Adobe Acrobat Sign](./adobe-acrobat-sign-for-microsoft-365.md) | Adobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Microsoft Teams용 Anywhere365 전화 교환 콘솔](./workstreampeople-bv-anywhere365-attendant-console-for-microsoft-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
-| [Anywhere365 Teams용 연락처 센터](./workstreampeople-bv-anywhere365-contact-center-for-teams.md) | WORKSTREAMPEOPLE BV | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Anywhere365 Teams용 연락처 센터](./workstreampeople-bv-anywhere365-contact-center-for-teams.md) | WORKSTREAMPEOPLE BV | **✓** |  |
 | [Teams용 Buzzeasy Contact Center](./geomant-algotech-zrt-buzzeasy-contact-center-for-teams.md) | Geomant-Algotech Zrt. | **✓** |  |
 | [CallCabinet Atmos 규정 준수 기록 및 분석](./callcabinet-corporation-atmos-compliance-recording-and-analytics.md) | CallCabinet Corporation | **✓** |  |
 | [CC4Teams](./cc4all-cc4teams.md) | CC4ALL | **✓** |  |
@@ -35,15 +35,15 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [콘텐츠 선택기](./officeatwork-content-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [콘텐츠 선택기 브라우저](./officeatwork-content-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Designer](./officeatwork-designer.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Microsoft Teams용 더버 통합 통화 녹음/녹화](./dubber-corp-unified-call-recording-for-microsoft-teams.md) | Dubber Corp | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Microsoft Teams용 더버 통합 통화 녹음/녹화](./dubber-corp-unified-call-recording-for-microsoft-teams.md) | Dubber Corp | **✓** |  |
 | [전자 메일 분석](./emailgistics-corp.md) | Emailgistics Corp. | **✓** |  |
 | [Outlook용 EmailNotes](./standss-south-pacific-pte-limited-emailnotes-for-outlook.md) | 스탠드(남태평양) PTE 제한 | **✓** |  |
 | [Genesys Cloud CX Teams 통합](./genesys-cloud-services-inc-cx-teams-integration.md) | Genesys Cloud Services, Inc. | **✓** |  |
-| [ice Contact Center](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [ice Contact Center](./computertalk-ice-contact-center.md) | ComputerTalk | **✓** |  |
 | [Microsoft 365용 iGlobe CRM Office 365](./iglobe-crm-office-365-for-microsoft.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [이미지 선택기](./officeatwork-image-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [iPlanner Pro for Office 365](./iglobe-iplanner-pro-for-office-365.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [IXCloud - Teams 규정 준수 기록 &amp; 인텔리전스](./numonix-llc-ixcloud-teams-compliance-recordingintelligence.md) | Numonix LLC | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [IXCloud - Teams 규정 준수 기록 &amp; 인텔리전스](./numonix-llc-ixcloud-teams-compliance-recordingintelligence.md) | Numonix LLC | **✓** |  |
 | [LMS365](./elearningforce-international-aps-lms365.md) | ELEARNINGFORCE International Aps | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Microsoft Teams용 Luware 준수 기록](./luware-ag-compliance-recording-for-microsoft-teams.md) | Luware AG | **✓** |  |
 | [Microsoft Teams용 Luware Nimbus](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** |  |
@@ -59,15 +59,15 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [Microsoft Office 365 대한 Policies &amp; Insights](./avepoint-inc-policiesinsights-for-microsoft-office-365.md) | AvePoint Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Priority Matrix](./appfluence-inc-priority-matrix.md) | Appfluence Inc | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Project Migrator](./fluentpro-software-corporation-project-migrator.md) | FluentPro Software Corporation | **✓** |  |
-| [Puzzel Microsoft Teams 통합](./puzzel-as-microsoft-teams-integration.md) | Puzzel AS | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Puzzel Microsoft Teams 통합](./puzzel-as-microsoft-teams-integration.md) | Puzzel AS | **✓** |  |
 | [SalesTim](./salestim.md) | SalesTim | **✓** |  |
 | [슬라이드 선택기](./officeatwork-slide-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Storm Cloud Contact Center Teams 통합](./content-guru-storm-cloud-contact-center-teams-integration.md) | 콘텐츠 전문가 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Talkdesk Microsoft Teams 커넥터](./talkdesk-inc-microsoft-teams-connector.md) | Talkdesk, Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Storm Cloud Contact Center Teams 통합](./content-guru-storm-cloud-contact-center-teams-integration.md) | 콘텐츠 전문가 | **✓** |  |
+| [Talkdesk Microsoft Teams 커넥터](./talkdesk-inc-microsoft-teams-connector.md) | Talkdesk, Inc. | **✓** |  |
 | [TeamOrgChart](./teamimprovercom-ltd-teamorgchart.md) | TeamImprover.Com Ltd | **✓** |  |
 | [Template Chooser](./officeatwork-template-chooser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [템플릿 선택기 브라우저](./officeatwork-template-chooser-browser.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
-| [Teams용 Theta Lake 기록 &amp; 규정 준수 비디오](./theta-lake-recordingcompliance-for-teams-video.md) | 세타 호수 | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
+| [Teams용 Theta Lake 기록 &amp; 규정 준수 비디오](./theta-lake-recordingcompliance-for-teams-video.md) | 세타 호수 | **✓** |  |
 | [업로더](./officeatwork-uploader.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [검증](./officeatwork-verifier.md) | officeatwork | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [광범위한 아이디어 - 혁신 소프트웨어](./wide-ideasidea2innovation-ideas-innovation-software.md) | Wide Ideas/Idea2Innovation | **✓** |  |
