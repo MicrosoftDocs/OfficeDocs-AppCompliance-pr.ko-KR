@@ -3,24 +3,24 @@ title: Replicon별 ZeroTime 봇에 대한 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 05/06/2022
+ms.date: 07/15/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 제로타임 봇에 사용 가능한 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 35065d4157b4a4870f76344189781e9ba3d6599b
-ms.sourcegitcommit: 1d78b47ae32dd7ee29fb848e04ac0c5090d6b41c
+ms.openlocfilehash: 446918fff565bc4d136bcdded4d3e9059cf9bb2c
+ms.sourcegitcommit: 9e5c6c3b4885bc6fa0a4af61432c86a232bc7ec9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66765162"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66815378"
 ---
-# <a name="zerotime-bot"></a>ZeroTime 봇
+# <a name="zerotime-bot"></a>ZeroTime Bot
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2021년 12월 8일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 7월 13일</p>
 
 * <a href="https://teams.microsoft.com/l/app/4db812e1-4d29-44e4-b72e-9654c0c91ce4" target="_blank">Teams 스토어에서 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003717" target="_blank">AppSource에서 보기</a>
@@ -33,13 +33,13 @@ Replicon에서 Microsoft에 제공한 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱 이름 | ZeroTime 봇 |
+| 앱 이름 | ZeroTime Bot |
 | ID | WA200003717 |
 | 지원되는 Office 365 클라이언트 | Microsoft Teams |
 | 파트너 회사 이름 | Replicon |
 | 회사 웹 사이트 | [https://www.replicon.com](https://www.replicon.com) |
 | 앱의 사용 약관 | [https://www.replicon.com/terms-and-conditions/](https://www.replicon.com/terms-and-conditions/) |
-| 앱의 핵심 기능 | 제로 타임 봇을 사용하면 사용자가 봇과 채팅하여 Replicon 작업표를 직접 채울 수 있습니다. |
+| 앱의 핵심 기능 | ZeroTime 봇을 사용하면 사용자가 봇과 채팅하여 Replicon 작업표를 직접 채울 수 있습니다. |
 | 회사 본사 위치 | 캐나다 |
 | 앱 정보 페이지 | |
 | 앱을 실행하는 데 사용되는 호스팅 환경 또는 서비스 모델은 무엇인가요? | Iaas |
