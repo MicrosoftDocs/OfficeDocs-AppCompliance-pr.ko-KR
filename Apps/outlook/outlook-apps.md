@@ -3,17 +3,17 @@ title: Microsoft Outlook Apps 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/06/2022
+ms.date: 07/15/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Outlook 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: e068b2d07c5fb1e006f593e5d4423d78e1c5dd71
-ms.sourcegitcommit: 0a0b39a4c1826c026c0d3c405a20209254ce7891
+ms.openlocfilehash: bbd1db0a9e77da480e6a99ed6dfb0712b3d80182
+ms.sourcegitcommit: 41d719a4473ff77d0955bbdb198e9ca084b02dc2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66654817"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66826094"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps 보안 및 규정 준수
 
@@ -30,7 +30,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Outlook용 DocuSign](./docusign-inc-for-outlook.md) | DocuSign, Inc. | **✓** |  |
 | [디나모](./dynamo-software.md) | Dynamo Software | **✓** |  |
 | [Outlook용 Egnyte](./egnyte-inc-for-outlook.md) | Egnyte, Inc. | **✓** |  |
-| [전자 메일 반응기](./flow-simulation-ltd-email-reactor.md) | Flow Simulation Ltd. | **✓** |  |
+| [Email 반응기](./flow-simulation-ltd-email-reactor.md) | Flow Simulation Ltd. | **✓** |  |
 | [Evernote](./evernote.md) | Evernote | **✓** |  |
 | [Outlook의 노출 서명](./impression-signatures-for-outlook.md) | 노출 서명 | **✓** |  |
 | [Outlook용 iPlanner Office 365 Planner 추가 기능](./iglobe-iplanner-office-365-planner-add-in-for-outlook.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
@@ -51,4 +51,4 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [Quantum Workplace](./quantum-workplace.md) | Quantum Workplace | **✓** |  |
 | [Salesforce](./salesforcecom-salesforce.md) | salesforce.com | **✓** |  |
 | [Outlook용 Strategy-AI](./chinchilla-software-limited-strategy-ai-for-outlook.md) | 친칠라 소프트웨어 제한 | **✓** |  |
-| [XQ 보안 전자 메일](./xq-message-secure-email.md) | XQ 메시지 | **✓** |  |
+| [XQ Secure Email](./xq-message-secure-email.md) | XQ 메시지 | **✓** |  |
