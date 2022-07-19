@@ -3,17 +3,17 @@ title: Microsoft Teams 앱 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/18/2022
+ms.date: 07/19/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: 5fb901e6d5a38f4b67d5fa3063761a8ef1dc6c64
-ms.sourcegitcommit: 21d1c42a8e6d9f94b9c8f279bbe37f649ebd4e10
+ms.openlocfilehash: 36f1310237b28b3c2ccedc15212b64e3e298cbdd
+ms.sourcegitcommit: c98623463f83636439af4fb49219918e87f2086a
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/19/2022
-ms.locfileid: "66845010"
+ms.locfileid: "66877204"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
