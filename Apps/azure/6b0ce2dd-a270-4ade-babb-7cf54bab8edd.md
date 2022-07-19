@@ -3,17 +3,17 @@ title: Azure 앱 ID 정보 6b0ce2dd-a270-4ade-babb-7cf54bab8edd
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/15/2022
+ms.date: 07/18/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 6b0ce2dd-a270-4ade-babb-7cf54bab8edd에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: bd6e15d92a05e224c19328dd67bd6b0a3e024fc1
-ms.sourcegitcommit: 9e5c6c3b4885bc6fa0a4af61432c86a232bc7ec9
+ms.openlocfilehash: 741b7acc8997472e06c47179470539fcbed5a8a2
+ms.sourcegitcommit: 21d1c42a8e6d9f94b9c8f279bbe37f649ebd4e10
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2022
-ms.locfileid: "66813318"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "66851140"
 ---
 # <a name="azure-app-id-6b0ce2dd-a270-4ade-babb-7cf54bab8edd"></a>Azure 앱 ID: 6b0ce2dd-a270-4ade-babb-7cf54bab8edd
 
