@@ -3,17 +3,17 @@ title: Microsoft Outlook Apps 보안 및 규정 준수 - 모든 앱
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/15/2022
+ms.date: 07/20/2022
 ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Outlook 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: bbd1db0a9e77da480e6a99ed6dfb0712b3d80182
-ms.sourcegitcommit: 41d719a4473ff77d0955bbdb198e9ca084b02dc2
+ms.openlocfilehash: 6725f3b4f6b0ebcf60850ee21c966aa9123e53fe
+ms.sourcegitcommit: b072ed662849382b6df1bebf43454e12e5ed544d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/15/2022
-ms.locfileid: "66826094"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "66912880"
 ---
 # <a name="microsoft-outlook-apps-security-and-compliance"></a>Microsoft Outlook Apps 보안 및 규정 준수
 
@@ -21,6 +21,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 
 | **앱** | **파트너** | **게시자 증명** | **인증** |
 |:--------|:------------|:----------------------:|:-------------:|
+| [Outlook의 달성자](./achievers-for-outlook.md) | Achievers | **✓** |  |
 | [Microsoft Outlook용 Adobe Acrobat Sign](./adobe-inc-acrobat-sign-for-microsoft-outlook.md) | Adobe Inc. | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Outlook용 Appspace](./appspace-inc-for-outlook.md) | Appspace, Inc | **✓** |  |
 | [내 메일 승격](./boost-my-mail.md) | 내 메일 승격 | **✓** |  |
