@@ -476,6 +476,8 @@ items:
         href: teams/cytrack-cyrecord.md
       - name: CyReport
         href: teams/cytrack-cyreport.md
+      - name: DailyBot
+        href: teams/dailybot.md
       - name: Data Hu
         href: teams/data-hu.md
       - name: DataFetch
@@ -662,7 +664,7 @@ items:
         href: teams/gfacility.md
       - name: GitHub
         href: teams/microsoft-corporation-github.md
-      - name: 네온블 (색)
+      - name: Glowbl
         href: teams/glowbl.md
       - name: Go1
         href: teams/go1.md
@@ -1170,7 +1172,7 @@ items:
         href: teams/teladoc-inc-solo.md
       - name: SQQ
         href: teams/superquickquestion-sqq.md
-      - name: 스쿼드캐스트
+      - name: Squadcast
         href: teams/squadcast.md
       - name: Squadify
         href: teams/squadify-holdings-pty-ltd.md

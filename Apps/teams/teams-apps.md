@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 Microsoft Teams 앱에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Priority
-ms.openlocfilehash: f86b5b37fd1c146c7517c7a4861f474a5093df1d
-ms.sourcegitcommit: b072ed662849382b6df1bebf43454e12e5ed544d
+ms.openlocfilehash: a6c2abb166dcca5b93055ed8147afca2fbbd776c
+ms.sourcegitcommit: d8794fef6be4d3a9a42bf2904f29a70de76069fc
 ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/20/2022
-ms.locfileid: "66912875"
+ms.locfileid: "66900558"
 ---
 # <a name="microsoft-teams-apps-security-and-compliance"></a>Microsoft Teams 앱 보안 및 규정 준수
 
@@ -27,7 +27,6 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직에서 사�
 | [365Projects](./365apps-365projects.md) | 365Apps | **✓** |  |
 | [Abi](./beroe-abi.md) | Beroe | **✓** |  |
 | [absentify](./braincore-solutions-absentify.md) | BrainCore Solutions | **✓** |  |
-| [Achievers](./achievers.md) | Achievers | **✓** |  |
 | [ACV](./tangible-it-mexico-acv.md) | Tangible IT Mexico | **✓** |  |
 | [Adobe Acrobat](./adobe-acrobat.md) | Adobe | **✓** |  |
 | [Adobe Acrobat Sign](./adobe-acrobat-sign.md) | Adobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
