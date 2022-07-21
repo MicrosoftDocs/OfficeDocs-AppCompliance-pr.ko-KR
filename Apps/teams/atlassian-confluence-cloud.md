@@ -3,24 +3,24 @@ title: Confluence Cloud by Atlassian에 대한 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/13/2022
+ms.date: 07/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: Confluence Cloud, 해당 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보에 사용할 수 있는 모든 보안 및 규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust
-ms.openlocfilehash: 2b1fce0ac0210113dc5dee3ca08b5e52636ea1c3
-ms.sourcegitcommit: b6dd040770330d4499a0e19998f909be31b67c34
+ms.openlocfilehash: 9571b81a027e7b10f1b7621f4f5623720101460e
+ms.sourcegitcommit: d35f3194155f00ecca787b2bc9bea5c69a534b0a
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66076229"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66949571"
 ---
 # <a name="confluence-cloud"></a>Confluence Cloud
 
 <p></p>
 <img alt="Publisher Attestation: The information on this page is based on a self-assessment report provided by the app developer on the security, compliance, and data handling practices followed by this app. Microsoft makes no guarantees regarding the accuracy of the information." src="../media/attested.png" width="650" />
-<p>개발자가 마지막으로 업데이트한 날짜: 2022년 6월 13일</p>
+<p>개발자가 마지막으로 업데이트한 날짜: 2022년 7월 21일</p>
 
 * <a href="https://teams.microsoft.com/l/app/30bb610c-6321-40fe-a047-056e7d0dac96" target="_blank">Teams 스토어에서 보기</a>
 * <a href="https://appsource.microsoft.com/product/office/WA200003113" target="_blank">AppSource에서 보기</a>
@@ -39,7 +39,7 @@ Atlassian에서 Microsoft에 제공하는 정보:
 | 파트너 회사 이름 | Atlassian |
 | 회사 웹 사이트 | [https://www.atlassian.com](https://www.atlassian.com) |
 | 앱의 사용 약관 | [https://www.atlassian.com/licensing/marketplace/termsofuse](https://www.atlassian.com/licensing/marketplace/termsofuse) |
-| 앱의 핵심 기능 | 쉽게 모임 노트를 작성하고, 페이지를 공유하고, confluence Cloud for Teams 최신 상태로 유지합니다.  |
+| 앱의 핵심 기능 | 쉽게 모임 노트를 작성하고 페이지를 공유하며 Confluence Cloud for Teams를 사용하여 최신 상태를 유지합니다.  |
 | 회사 본사 위치 | 오스트레일리아 |
 | 앱 정보 페이지 | |
 | 앱을 실행하는 데 사용되는 호스팅 환경 또는 서비스 모델은 무엇인가요? | Paas |
@@ -66,7 +66,7 @@ Atlassian에서 Microsoft에 제공하는 정보:
 | 설정된 데이터 임대 및 폐기 프로세스가 있나요? | 예 |
 | 계정이 종료된 후 데이터가 보존되는 기간은 얼마인가요? | 유지되지 않음 |
 | 설정된 데이터 액세스 관리 프로세스가 있나요? | 예 |
-| 고객 데이터 또는 고객 콘텐츠를 제3자 또는 하위 프로세서로 전송하나요? | 아니요 |
+| 고객 데이터 또는 고객 콘텐츠를 제3자 또는 하위 프로세서로 전송하나요? | 아니오 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -78,13 +78,13 @@ Atlassian에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱에서 연간 침투 테스트를 수행합니까? | 아니요 |
-| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 아니요 |
+| 앱에서 연간 침투 테스트를 수행합니까? | 아니오 |
+| 앱에 백업 및 복원 전략을 포함하여 문서화된 재해 복구 계획이 있나요? | 아니오 |
 | 사용자 환경에서 기존의 맬웨어 방지 보호 또는 애플리케이션 제어를 사용하나요? | TraditionalAntiMalware, ApplicationControls |
 | 보안 취약성을 들여쓰고 위험 순위를 지정하는 프로세스가 설정되었나요? | 예 |
 | 패치를 적용하기 위한 SLA(서비스 수준 계약)를 제어하는 정책이 있나요? | 예 |
 | 패치 정책 SLA에 따라 패치 관리 작업을 수행합니까? | 예 |
-| 환경의 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 아니요 |
+| 환경의 지원되지 않는 운영 체제 또는 소프트웨어가 있나요? | 아니오 |
 | 앱 및 이를 지원하는 침입에 대해 분기별 취약성 검사를 수행합니까? | 예 |
 | 외부 네트워크 경계에 방화벽이 설치되어 있나요? | 예 |
 | 변경 요청이 프로덕션에 배포되기 전에 변경 요청을 검토하고 승인하는 데 사용되는 설정된 변경 관리 프로세스가 있나요? | 예 |
@@ -108,24 +108,24 @@ Atlassian에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 아니요 |
-| 앱이 HITRUST CSF(Health Information Trust Alliance, Common Security Framework)를 준수하나요? | 아니요 |
-| 앱이 SOC(Service Organization Controls) 1을 준수하나요? | 아니요 |
+| 앱이 HIPAA(Health Insurance Portability and Accounting Act)를 준수하나요? | 아니오 |
+| 앱이 HITRUST CSF(Health Information Trust Alliance, Common Security Framework)를 준수하나요? | 아니오 |
+| 앱이 SOC(Service Organization Controls) 1을 준수하나요? | 아니오 |
 | 앱이 서비스 조직 컨트롤(SOC 2)을 준수하나요? | 예 |
 | 어떤 SOC 2 인증을 달성했나요? | type2 |
 | 가장 최근 SOC2 인증 날짜 | 2020-10-31 |
 | 앱이 서비스 조직 컨트롤(SOC 3)을 준수하나요? | 예 |
 | 가장 최근 SOC3 인증 날짜 | 2020-10-31 |
-| 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행합니까? | 아니요 |
+| 해당 지원 환경에 대해 연간 PCI DSS 평가를 수행합니까? | 아니오 |
 | 앱 국제 표준화 기구(ISO 27001)가 인증되었나요? | 예 |
 | 앱이 국제 표준화 기구(ISO 27018)를 준수하나요? | 예 |
-| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니요 |
-| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니요 |
-| 앱 FedRAMP(Federal Risk and Authorization Management Program)가 규정을 준수합니까? | 아니요 |
-| 앱이 FERPA(가족 교육 권리 및 개인 정보 보호법)를 준수하나요? | 아니요 |
-| 앱이 COPPA(아동 온라인 개인 정보 보호법)를 준수하나요? | 아니요 |
+| 앱이 국제 표준화 기구(ISO 27017)를 준수하나요? | 아니오 |
+| 앱이 국제 표준화 기구(ISO 27002)를 준수하나요? | 아니오 |
+| 앱 FedRAMP(Federal Risk and Authorization Management Program)가 규정을 준수합니까? | 아니오 |
+| 앱이 FERPA(가족 교육 권리 및 개인 정보 보호법)를 준수하나요? | 아니오 |
+| 앱이 COPPA(아동 온라인 개인 정보 보호법)를 준수하나요? | 아니오 |
 | 앱이 SOX(Sarbanes-Oxley Act)를 준수하나요? | 예 |
-| 앱이 NIST 800-171을 준수하나요? | 아니요 |
+| 앱이 NIST 800-171을 준수하나요? | 아니오 |
 | 앱이 CSA Star(Cloud Security Alliance) 인증을 받았나요? | 예 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
@@ -136,7 +136,7 @@ Atlassian에서 Microsoft에 제공하는 정보:
 
 | **정보** | **응답** |
 |:----------------|:-------------|
-| GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? | 아니요 |
+| GDPR 또는 기타 개인 정보 보호 또는 데이터 보호 요구 사항 또는 의무(예: CCPA)가 있습니까? | 아니오 |
 
 [!INCLUDE [Corrections or suggestions contact information](../includes/corrections-or-suggestions.md)]
 
@@ -149,14 +149,14 @@ Atlassian에서 Microsoft에 제공하는 정보:
 | 애플리케이션이 Single Sign-On, API 액세스 등을 위해 Azure AD(Microsoft Identity Platform)와 통합됩니까? | 예 |
 | Microsoft ID 플랫폼 통합 검사 목록에 설명된 모든 적용 가능한 모범 사례를 검토하고 준수했나요? | 예 |
 | 앱에서 인증을 위해 최신 버전의 MSAL(Microsoft 인증 라이브러리) 또는 Microsoft ID 웹을 사용하나요? | 예 |
-| 앱에서 조건부 액세스 정책을 지원하나요? | 아니요 |
-| 앱에서 CAE(지속적인 액세스 평가)를 지원하나요? | 아니요 |
-| 앱이 코드에 자격 증명을 저장하나요? | 아니요 |
-| Microsoft 365 앱 및 추가 기능은 Microsoft Graph 외부에서 추가 Microsoft API를 사용할 수 있습니다. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니요 |
+| 앱에서 조건부 액세스 정책을 지원하나요? | 아니오 |
+| 앱에서 CAE(지속적인 액세스 평가)를 지원하나요? | 아니오 |
+| 앱이 코드에 자격 증명을 저장하나요? | 아니오 |
+| Microsoft 365용 앱 및 추가 기능은 Microsoft Graph 외부에서 추가 Microsoft API를 사용할 수 있습니다. 앱 또는 추가 기능에서 추가 Microsoft API를 사용하나요? | 아니오 |
 
-#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph 사용하여 데이터 액세스
+#### <a name="data-access-using-microsoft-graph"></a>Microsoft Graph를 사용하여 데이터 액세스
 
->|   **Graph 권한**  | **사용 권한 유형** |          **정당화**          | **앱 ID Azure AD** |
+>|   **그래프 사용 권한**  | **사용 권한 유형** |          **정당화**          | **앱 ID Azure AD** |
 >|:------------------------|:--------------------|:------------------------------------|:--------------------|
 >| Calendars.Read | 위임 | - 모임의 채팅 구성원 목록을 읽으므로 모임에 초대된 사람의 목록을 알 수 있습니다. - 사용자가 모임 앱에 조건부로 표시하는 이름 및 전자 메일 주소를&#8217; 읽습니다. 예를 들어 모임 메모를 작성 중인 현재 사용자의 이름을 표시합니다. - 앱은 모임에 앱이 추가된 사용자&#8217;일정 이벤트를 읽어 모임 제목과 같은 모임에 대한 기본 정보를 갖습니다.     | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
 >| Chat.ReadBasic | 위임 | - 모임의 채팅 구성원 목록을 읽으므로 모임에 초대된 사람의 목록을 알 수 있습니다. - 사용자가 모임 앱에 조건부로 표시하는 이름 및 전자 메일 주소를&#8217; 읽습니다. 예를 들어 모임 메모를 작성 중인 현재 사용자의 이름을 표시합니다. - 앱은 모임에 앱이 추가된 사용자&#8217;일정 이벤트를 읽어 모임 제목과 같은 모임에 대한 기본 정보를 갖습니다. | [4aa38041-66a2-41a4-ac97-55bc828a9803](../azure/4aa38041-66a2-41a4-ac97-55bc828a9803.md) |
