@@ -76,6 +76,8 @@ items:
   - name: Microsoft Outlook Apps
     href: outlook/outlook-apps.md
     items:
+      - name: Outlook의 달성자
+        href: outlook/achievers-for-outlook.md
       - name: Microsoft Outlook용 Adobe Acrobat Sign
         href: outlook/adobe-inc-acrobat-sign-for-microsoft-outlook.md
       - name: Outlook용 Appspace
@@ -238,6 +240,8 @@ items:
         href: teams/beroe-abi.md
       - name: absentify
         href: teams/braincore-solutions-absentify.md
+      - name: Achievers
+        href: teams/achievers.md
       - name: ACV
         href: teams/tangible-it-mexico-acv.md
       - name: Adobe Acrobat
