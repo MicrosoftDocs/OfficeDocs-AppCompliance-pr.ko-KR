@@ -3,17 +3,17 @@ title: Azure 앱 ID 정보 777d9a9f-feef-48dd-b62d-562ff21aeda2
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 07/20/2022
+ms.date: 07/21/2022
 ms.topic: article
 ms.service: attestation
 certification_type: attested
 description: 777d9a9f-feef-48dd-b62d-562ff21aeda2에 대해 사용 가능한 모든 보안 및 규정 준수 정보입니다.
-ms.openlocfilehash: dc9e07f39bc2d589ec5b551f783811a2e95b4434
-ms.sourcegitcommit: d8794fef6be4d3a9a42bf2904f29a70de76069fc
+ms.openlocfilehash: d9345f5a2bb91be998fb808da4ab59170ae83a8b
+ms.sourcegitcommit: 0a27f7395a0969da2cebc8345a88aa69e841eff6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/20/2022
-ms.locfileid: "66901948"
+ms.lasthandoff: 07/21/2022
+ms.locfileid: "66924283"
 ---
 # <a name="azure-app-id-777d9a9f-feef-48dd-b62d-562ff21aeda2"></a>Azure 앱 ID: 777d9a9f-feef-48dd-b62d-562ff21aeda2
 

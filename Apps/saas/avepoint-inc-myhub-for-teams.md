@@ -3,18 +3,18 @@ title: AvePoint Inc.에서 Teams용 MyHub에 대한 애플리케이션 정보
 ms.author: elmalova
 author: elenamalova
 manager: tonybal
-ms.date: 06/22/2022
+ms.date: 07/20/2022
 ms.topic: article
 ms.service: attestation
 certification_type: certified
 description: Teams용 MyHub에 사용할 수 있는 모든 보안 및 규정 준수 정보, 데이터 처리 정책, Microsoft Cloud App Security 앱 카탈로그 정보 및 CSA STAR 레지스트리의 보안/규정 준수 정보입니다.
 zone_pivot_groups: app-info-data-security-compliance-privsection-zerotrust-certification
-ms.openlocfilehash: 539fb0347185133f1d81d169c14922bb44f5aea3
-ms.sourcegitcommit: 8f06a03c298fca9d066cc977fcbd2717c310caa4
+ms.openlocfilehash: 2612c1f6580365e9a00e333843c5058d7bb00c01
+ms.sourcegitcommit: 0a27f7395a0969da2cebc8345a88aa69e841eff6
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/21/2022
-ms.locfileid: "66916790"
+ms.locfileid: "66923473"
 ---
 # <a name="myhub-for-teams"></a>Teams용 MyHub
 
