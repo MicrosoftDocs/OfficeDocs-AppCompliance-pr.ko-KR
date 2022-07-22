@@ -8,12 +8,12 @@ ms.topic: article
 ms.service: attestation
 description: 모든 SaaS 앱에 사용 가능한 모든 보안 및 규정 준수 정보입니다.
 localization_priority: Normal
-ms.openlocfilehash: 4068da99fbf2a389479345f645ba4e2cfbc680b1
-ms.sourcegitcommit: 0a27f7395a0969da2cebc8345a88aa69e841eff6
+ms.openlocfilehash: 32374a0e7ed126ca77614aaf55b7614034db8703
+ms.sourcegitcommit: ce10fa06370903c7c2ee18b55b219dc735ac6b58
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/21/2022
-ms.locfileid: "66929473"
+ms.lasthandoff: 07/22/2022
+ms.locfileid: "66960883"
 ---
 # <a name="saas-apps-security-and-compliance"></a>SaaS 앱 보안 및 규정 준수
 
@@ -46,7 +46,7 @@ Microsoft는 Microsoft 365 개발자 파트너와 협력하여 조직이 사용�
 | [IXCloud - Teams 규정 준수 기록 &amp; 인텔리전스](./numonix-llc-ixcloud-teams-compliance-recordingintelligence.md) | Numonix LLC | **✓** |  |
 | [LMS365](./elearningforce-international-aps-lms365.md) | ELEARNINGFORCE International Aps | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [Microsoft Teams용 Luware 준수 기록](./luware-ag-compliance-recording-for-microsoft-teams.md) | Luware AG | **✓** |  |
-| [Microsoft Teams용 Luware Nimbus](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** |  |
+| [Microsoft Teams용 Luware Nimbus](./luware-ag-nimbus-for-microsoft-teams.md) | Luware AG | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [메일 서명](./officeatwork-mail-signature.md) | officeatwork | **✓** |  |
 | [MIPA - 내 지능형 개인 비서](./iglobe-mipa-my-intelligent-personal-assistant.md) | iGlobe | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
 | [ModuleQ](./moduleq.md) | ModuleQ | **✓** | <img alt="Certified application badge" src="../media/certified-badge.png" height="25" width="25" /> |
